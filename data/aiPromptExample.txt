@@ -1,0 +1,46 @@
+General-Purpose Prompt Template
+You can copy and paste this, replacing the bracketed [placeholder] text with your specific request.
+code
+Code
+Please act as a scholar of religious and philosophical texts. Your task is to provide data for the sacred text I specify.
+
+**Text:** [Name of the Sacred Text]
+**Section:** [Chapter, Sura, Canto, or other division], verses [Start Verse] to [End Verse]
+
+**Output Format:**
+Return a valid JSON array where each object in the array represents a single verse. Do not include any explanatory text or markdown formatting before or after the JSON block.
+
+**JSON Object Schema for each verse:**
+- `id`: A unique string identifier (e.g., "bg_1_1" for Bhagavad Gita, Chapter 1, Verse 1).
+- `verse_number`: The numerical identifier of the verse within the chapter.
+- `original`: The verse in its original language and script (e.g., Sanskrit in Devanagari, Arabic in its script, etc.).
+- `transliteration`: A standard, phonetically accurate Roman transliteration of the original text.
+- `translations`: An object containing key-value pairs where the key is the language (e.g., "english") and the value is the translation of the verse in that language.
+
+Please provide an English translation.
+Example: Getting a Verse from the Bhagavad Gita
+Here's how you would use the template to get Chapter 2, Verse 47 of the Bhagavad Gita:
+code
+Code
+Please act as a scholar of religious and philosophical texts. Your task is to provide data for the sacred text I specify.
+
+**Text:** Bhagavad Gita
+**Section:** Chapter 2, verses 47 to 47
+
+**Output Format:**
+Return a valid JSON array where each object in the array represents a single verse. Do not include any explanatory text or markdown formatting before or after the JSON block.
+
+**JSON Object Schema for each verse:**
+- `id`: A unique string identifier (e.g., "bg_2_47").
+- `verse_number`: The numerical identifier of the verse within the chapter.
+- `original`: The verse in Sanskrit using the Devanagari script.
+- `transliteration`: A standard IAST Roman transliteration of the original text.
+- `translations`: An object containing key-value pairs where the key is the language (e.g., "english") and the value is the translation of the verse in that language.
+
+Please provide an English translation.
+Why this prompt works well:
+Role-Playing: Please act as a scholar... sets the context for Gemini to provide accurate, high-quality information.
+Clear Specification: It explicitly names the text, chapter, and verse range.
+Strict Formatting: It demands a valid JSON array and nothing else, making the output predictable and easy for your application to ingest without extra cleaning.
+Schema Definition: Providing the exact JSON Object Schema leaves no room for ambiguity. Gemini will structure its response to match your types.ts interface almost perfectly.
+Extensibility: You can easily ask for more translations by modifying the final line (e.g., Please provide English and Spanish translations.). The translations object is designed to hold multiple languages.

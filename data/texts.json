@@ -4,30 +4,30 @@
     "id": "gita",
     "title": "Bhagavad Gita",
     "author": "Veda Vyasa (as part of the Mahabharata)",
-    "path": "/data/bhagavadGita.json"
+    "path": "bhagavadGita.json"
   },
   {
     "id": "chalisa",
     "title": "Hanuman Chalisa",
     "author": "Tulsidas",
-    "path": "/data/hanumanChalisa.json"
+    "path": "hanumanChalisa.json"
   },
   {
     "id": "lalita",
     "title": "Lalita Sahasranama",
     "author": "Sage Hayagrīva (narrated in Brahmanda Purana)",
-    "path": "/data/lalitaSahasranama.json"
+    "path": "lalitaSahasranama.json"
   },
   {
     "id": "shiva",
     "title": "Shiva Tandava Stotram",
     "author": "Ravana",
-    "path": "/data/shivaTandavaStotram.json"
+    "path": "shivaTandavaStotram.json"
   },
   {
     "id": "vishnu",
     "title": "Vishnu Sahasranama",
     "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
-    "path": "/data/vishnuSahasranama.json"
+    "path": "vishnuSahasranama.json"
   }
 ]

@@ -38,5 +38,4 @@ The JSON object must strictly represent a single chapter with the following stru
 
 **CRITICAL INSTRUCTION:** For the `original`, `transliteration`, and all `translations` fields, the entire text for a verse must be a **single-line JSON string**. Do not use newline characters (`\n`). If the original verse has distinct poetic lines, separate them with a single pipe character surrounded by spaces (` | `).
 By adding this explicit constraint, you ensure the generated JSON is clean and predictable, giving you full control over how and where line breaks are rendered in your application's UI.
-lightbulb_tips
-Suggestions
+

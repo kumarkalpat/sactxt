@@ -1,46 +1,42 @@
-General-Purpose Prompt Template
-You can copy and paste this, replacing the bracketed [placeholder] text with your specific request.
+Revised Prompt 1: To Generate a Complete Book (Single-Line Verses)
+This version adds a crucial instruction to format each part of the verse as a single-line string, using a | character to denote poetic line breaks instead of a newline.
 code
-Code
-Please act as a scholar of religious and philosophical texts. Your task is to provide data for the sacred text I specify.
+Text
+You are an expert in Hindu philosophy and an assistant skilled at generating structured JSON data. Your task is to create a complete JSON object for the "Isha Upanishad".
 
-**Text:** [Name of the Sacred Text]
-**Section:** [Chapter, Sura, Canto, or other division], verses [Start Verse] to [End Verse]
+The JSON object must strictly follow this structure:
+- A root object with `id`, `title`, `author`, `introduction`, and a `chapters` array.
+- The `id` should be a lowercase, kebab-case string (e.g., "isha-upanishad").
+- The `author` is "Unknown (Vedic sages)".
+- The `introduction` should be a concise, 2-3 paragraph summary of the text's core teachings.
+- The `chapters` array will contain a single chapter object.
+- The chapter object must have `chapter_number`, `name`, `summary`, `verses_count`, and a `verses` array.
+- The `verses` array must contain objects for all 18 verses.
+- Each verse object must include:
+  - `id`: A unique string formatted as `isha-1-[verse_number]`.
+  - `verse_number`: The sequential number of the verse.
+  - `original`: The full verse text in Devanagari script.
+  - `transliteration`: An accurate IAST transliteration.
+  - `translations`: An object containing translations for `english` and `hindi`.
 
-**Output Format:**
-Return a valid JSON array where each object in the array represents a single verse. Do not include any explanatory text or markdown formatting before or after the JSON block.
-
-**JSON Object Schema for each verse:**
-- `id`: A unique string identifier (e.g., "bg_1_1" for Bhagavad Gita, Chapter 1, Verse 1).
-- `verse_number`: The numerical identifier of the verse within the chapter.
-- `original`: The verse in its original language and script (e.g., Sanskrit in Devanagari, Arabic in its script, etc.).
-- `transliteration`: A standard, phonetically accurate Roman transliteration of the original text.
-- `translations`: An object containing key-value pairs where the key is the language (e.g., "english") and the value is the translation of the verse in that language.
-
-Please provide an English translation.
-Example: Getting a Verse from the Bhagavad Gita
-Here's how you would use the template to get Chapter 2, Verse 47 of the Bhagavad Gita:
+**CRITICAL INSTRUCTION:** For the `original`, `transliteration`, and all `translations` fields, the entire text for a verse must be a **single-line JSON string**. Do not use newline characters (`\n`). If the original verse has distinct poetic lines, separate them with a single pipe character surrounded by spaces (` | `).
+Revised Prompt 2: To Generate a Single Chapter (Single-Line Verses)
+This variation applies the same single-line constraint to the chapter-specific prompt.
 code
-Code
-Please act as a scholar of religious and philosophical texts. Your task is to provide data for the sacred text I specify.
+Text
+You are an expert in sacred Hindu texts and an assistant skilled at generating structured JSON data. Your task is to create a JSON object for Chapter 2 of the "Katha Upanishad", titled "The Path of the Good vs. the Pleasant".
 
-**Text:** Bhagavad Gita
-**Section:** Chapter 2, verses 47 to 47
+The JSON object must strictly represent a single chapter with the following structure:
+- A root object with `chapter_number`, `name`, `summary`, `verses_count`, and a `verses` array.
+- The `verses` array must contain objects for all verses in Chapter 2.
+- Each verse object must include:
+  - `id`: A unique string formatted as `katha-2-[verse_number]`.
+  - `verse_number`: The sequential number of the verse.
+  - `original`: The full verse text in Devanagari.
+  - `transliteration`: An accurate IAST transliteration.
+  - `translations`: An object containing high-quality translations for `english` and `hindi`.
 
-**Output Format:**
-Return a valid JSON array where each object in the array represents a single verse. Do not include any explanatory text or markdown formatting before or after the JSON block.
-
-**JSON Object Schema for each verse:**
-- `id`: A unique string identifier (e.g., "bg_2_47").
-- `verse_number`: The numerical identifier of the verse within the chapter.
-- `original`: The verse in Sanskrit using the Devanagari script.
-- `transliteration`: A standard IAST Roman transliteration of the original text.
-- `translations`: An object containing key-value pairs where the key is the language (e.g., "english") and the value is the translation of the verse in that language.
-
-Please provide an English translation.
-Why this prompt works well:
-Role-Playing: Please act as a scholar... sets the context for Gemini to provide accurate, high-quality information.
-Clear Specification: It explicitly names the text, chapter, and verse range.
-Strict Formatting: It demands a valid JSON array and nothing else, making the output predictable and easy for your application to ingest without extra cleaning.
-Schema Definition: Providing the exact JSON Object Schema leaves no room for ambiguity. Gemini will structure its response to match your types.ts interface almost perfectly.
-Extensibility: You can easily ask for more translations by modifying the final line (e.g., Please provide English and Spanish translations.). The translations object is designed to hold multiple languages.
+**CRITICAL INSTRUCTION:** For the `original`, `transliteration`, and all `translations` fields, the entire text for a verse must be a **single-line JSON string**. Do not use newline characters (`\n`). If the original verse has distinct poetic lines, separate them with a single pipe character surrounded by spaces (` | `).
+By adding this explicit constraint, you ensure the generated JSON is clean and predictable, giving you full control over how and where line breaks are rendered in your application's UI.
+lightbulb_tips
+Suggestions

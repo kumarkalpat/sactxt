@@ -30,7 +30,6 @@
           }
         }
       ],
-      "audioUrl": "https://www.youtube.com/watch?v=vS00zCKzl4c"
     },
     {
       "chapter_number": 2,
@@ -48,7 +47,6 @@
           }
         }
       ],
-      "audioUrl": null
     },
     {
       "chapter_number": 3,
@@ -75,7 +73,6 @@
           }
         }
       ],
-      "audioUrl": null
     },
     {
       "chapter_number": 4,
@@ -111,7 +108,6 @@
           }
         }
       ],
-      "audioUrl": null
     },
     {
       "chapter_number": 5,
@@ -129,7 +125,6 @@
           }
         }
       ],
-      "audioUrl": null
     },
     {
       "chapter_number": 6,
@@ -147,7 +142,6 @@
           }
         }
       ],
-      "audioUrl": null
     },
     {
       "chapter_number": 7,
@@ -165,7 +159,6 @@
           }
         }
       ],
-      "audioUrl": null
     },
     {
       "chapter_number": 8,
@@ -201,7 +194,6 @@
           }
         }
       ],
-      "audioUrl": null
     }
   ]
 }

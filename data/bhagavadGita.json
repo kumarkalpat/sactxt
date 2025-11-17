@@ -8,7 +8,7 @@
         {
             "chapter_number": 1,
             "name": "Arjuna Viṣāda Yoga",
-            "audioUrl": "http://www.indiadivine.org/content/files/file/241-bhagavad-gita-chapter-1-in-sanskrit-sung-in-classical-melodies-mp3/",
+            "audioUrl": "https://archive.org/download/SrimadBhagavadGita_201712/Srimad%20Bhagavad%20Gita/02%20Arjuna%20Vishada%20Yogam.mp3",
             "summary": "The Yoga of Arjuna's Despair. Arjuna assesses the armies, identifies his kinsmen as enemies, and is overcome by sorrow (viṣāda) and moral conflict, resolving not to fight.",
             "verses_count": 47,
             "verses": [
@@ -64,6 +64,7 @@
         {
             "chapter_number": 2,
             "name": "Sāṅkhya Yoga",
+             "audioUrl": "https://archive.org/download/SrimadBhagavadGita_201712/Srimad%20Bhagavad%20Gita/03%20Sankhya%20Yogam.mp3",       
             "summary": "The Yoga of Knowledge (Sankhya). Kṛṣṇa begins His instruction, focusing on the immortality of the soul (Ātman), the necessity of performing one's duty (Dharma), and the path of selfless action (Karma Yoga).",
             "verses_count": 72,
             "verses": [
@@ -144,6 +145,7 @@
 {
   "chapter_number": 3,
   "name": "Karma Yoga: The Yoga of Action",
+   "audioUrl": "https://archive.org/download/SrimadBhagavadGita_201712/Srimad%20Bhagavad%20Gita/04%20Karma%20Yogam.mp3",    
   "summary": "Krishna explains that action is inevitable for all beings and that the true path lies in performing prescribed duties without attachment to the results, dedicating all actions to the Supreme.",
   "verses_count": 43,
   "verses": [

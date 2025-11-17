@@ -1,1031 +1,1016 @@
-
 {
-    "id": "vishnu",
-    "title": "Vishnu Sahasranama",
-    "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
-    "introduction": "The **Vishnu Sahasranama** is a list of 1,000 names (Sahasranama) of Lord Vishnu, one of the principal deities in Hinduism. It is found in the Anushasana Parva of the epic Mahabharata. The list was revealed to Yudhishthira by the dying Bhishma, who explained that reciting these names is the easiest and highest form of worship in the current age (Kaliyuga).\n\nThe hymn is traditionally structured in two parts:\n1.  **Pūrvabhāga (Preliminaries):** Includes the context (the conversation between Yudhishthira and Bhishma), meditation verses (Dhyāna Ślokas), and a final prayer.\n2.  **Sahasranama (The 1000 Names):** The core section comprising the names themselves.\n3.  **Uttarabhāga (Epilogue/Phalaśruti):** Describes the immense spiritual and material benefits derived from the sincere recitation of the names.\n\nThe names are a profound meditation on the nature of Brahman, describing Vishnu as the source, sustainer, and ultimate goal of all existence.",
-    "chapters": [
-        {
-            "chapter_number": 1,
-            "name": "Sahasranama (The Thousand Names)",
-            "audioUrl": "https://archive.org/download/VishnuSahasranamam_MSS/Vishnu%20Sahasranamam.mp3",             
-            "summary": "The main body of the stotra containing 1000 names (nāmās) of Lord Vishnu, detailing His attributes, qualities, actions, and cosmic roles.",
-            "verses_count": 1000,
-            "verses": [
-
-{
-    "id": "vishnu",
-    "title": "Vishnu Sahasranama",
-    "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
-    "introduction": "The **Vishnu Sahasranama** is a list of 1,000 names (Sahasranama) of Lord Vishnu, one of the principal deities in Hinduism. It is found in the Anushasana Parva of the epic Mahabharata. The list was revealed to Yudhishthira by the dying Bhishma, who explained that reciting these names is the easiest and highest form of worship in the current age (Kaliyuga).\n\nThe hymn is traditionally structured in two parts:\n1.  **Pūrvabhāga (Preliminaries):** Includes the context (the conversation between Yudhishthira and Bhishma), meditation verses (Dhyāna Ślokas), and a final prayer.\n2.  **Sahasranama (The 1000 Names):** The core section comprising the names themselves.\n3.  **Uttarabhāga (Epilogue/Phalaśruti):** Describes the immense spiritual and material benefits derived from the sincere recitation of the names.\n\nThe names are a profound meditation on the nature of Brahman, describing Vishnu as the source, sustainer, and ultimate goal of all existence.",
-    "chapters": [
-        {
-            "chapter_number": 1,
-            "name": "Sahasranama (The Thousand Names)",
-            "audioUrl": "https://archive.org/download/VishnuSahasranamam_MSS/Vishnu%20Sahasranamam.mp3",             
-            "summary": "The main body of the stotra containing 1000 names (nāmās) of Lord Vishnu, detailing His attributes, qualities, actions, and cosmic roles.",
-            "verses_count": 1000,
-            "verses": [
-  {
-    "id": "vishnu-dhyanam-1",
-    "verse_number": 1,
-    "original": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।\nप्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥",
-    "transliteration": "śuklāmbara-dharaṁ viṣṇuṁ śaśivarṇaṁ caturbhujam |\nprasanna-vadanaṁ dhyāyet sarva-vighnopaśāntaye ||",
-    "translations": {
-      "english": "For the removal of all obstacles, I meditate on Vishnu—the all-pervading Lord—who is dressed in white, possesses the color of the moon, has four arms, and an ever-pleasant countenance."
-    }
-  },
-  {
-    "id": "vishnu-dhyanam-2",
-    "verse_number": 2,
-    "original": "यस्य द्विरदवक्त्राद्याः पारिषद्याः परः शतम् ।\nविघ्नं निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥",
-    "transliteration": "yasya dvirada-vaktrādyāḥ pāriṣadyāḥ paraḥ śatam |\nvighnaṁ nighnanti satataṁ viṣvaksenaṁ tamāśraye ||",
-    "translations": {
-      "english": "I seek refuge in Viśvaksena (the commander-in-chief of Vishnu's army), whose attendants, headed by Gajānana (Gaṇeśa), constantly remove all obstacles."
-    }
-  },
-  {
-    "id": "vishnu-purva-peethika-1",
-    "verse_number": 3,
-    "original": "व्यासंवसिष्ठनप्तारंशक्तेःपौत्रमल्मषम् ।\nपराशरात्मजं वन्दे शुकतातं तपोनधिम् ॥",
-    "transliteration": "vyāsaṁ vasiṣṭha-naptāraṁ śakteḥ pautram-akalmaṣam |\nparāśarātmajaṁ vande śuka-tātaṁ tapo-nidhim ||",
-    "translations": {
-      "english": "I bow to Veda Vyasa, the great-grandson of Vasistha, the grandson of Shakti, the faultless son of Parāśara, the father of Śuka, and the treasure of penance."
-    }
-  },
-  {
-    "id": "vishnu-purva-peethika-2",
-    "verse_number": 4,
-    "original": "व्यासयविष्णुरूपायव्यसरूपायविष्णवे ।\nनमोवैब्रह्मनधयेवसिष्ठायनमो नमः ॥",
-    "transliteration": "vyāsāya viṣṇu-rūpāya vyāsa-rūpāya viṣṇave |\nnamo vai brahma-nidhaye vasiṣṭhāya namo namaḥ ||",
-    "translations": {
-      "english": "My salutations to Vyāsa, who is an embodiment of Viṣṇu, and to Viṣṇu, who is in the form of Vyāsa. Salutations to the great treasure of Vedic knowledge, the one who belongs to the lineage of Vasiṣṭha."
-    }
-  },
-   {
-    "id": "vishnu-purva-peethika-3",
-    "verse_number": 5,
-    "original": "अविकारायशुद्धायनित्यायपरमात्मने ।\nसदैकरूपरूपायविष्णवेसर्वजिष्णवे ॥",
-    "transliteration": "avikārāya śuddhāya nityāya paramātmane |\nsadaika-rūpa-rūpāya viṣṇave sarva-jiṣṇave ||",
-    "translations": {
-      "english": "Salutations to Viṣṇu, who is changeless, pure, eternal, the Supreme Self (Paramātman), whose form is always uniform, and who is victorious over all."
-    }
-  },
-  {
-    "id": "vishnu-purva-peethika-4",
-    "verse_number": 6,
-    "original": "यस्यस्मरणमात्रेणजन्मसं सारबन्धनात् ।\nविमुच्यतेनमस्तस्मैविष्णवेप्रभविष्णवे ॥",
-    "transliteration": "yasya smaraṇa-mātreṇa janma-saṁ sāra-bandhanāt |\nvimucyate namas tasmai viṣṇave prabhaviṣṇave ||",
-    "translations": {
-      "english": "Salutations to that all-powerful Viṣṇu, by merely remembering whom one is freed from the bondage of the cycle of births and deaths (Saṁsāra)."
-    }
-  },
-  {
-    "id": "vishnu-purva-peethika-5",
-    "verse_number": 7,
-    "original": "ओंशान्ताकारंभुजगशयनंपद्मनाभंसु रेशम् ।\nविश्वाधारंगगनसदृशंमेघवर्णंशु भाङ्गम् ॥\nलक्ष्मीकान्तंकमलनयनंयोगिभिर्ध्यानगम्यम् ।\nवन्देविष्णुंभवभयहरं सर्वलोकैकनाथम् ॥",
-    "transliteration": "oṁ śāntākāraṁ bhujaga-śayanaṁ padmanābhaṁ sureśam |\nviśvādhāraṁ gagana-sadṛśaṁ megha-varṇaṁ śubhāṅgam ||\nlakṣmī-kāntaṁ kamala-nayanaṁ yogibhir-dhyāna-gamyam |\nvande viṣṇuṁ bhava-bhaya-haraṁ sarva-lokaika-nātham ||",
-    "translations": {
-      "english": "I bow to Viṣṇu, who has a serene form, who sleeps on the serpent (Adishesha), whose navel holds the lotus (Padmanābha), the Lord of the Devas, the support of the universe, who resembles the sky (in omnipresence), whose color is like a cloud, whose limbs are auspicious, the consort of Lakṣmī, whose eyes are like lotuses, who is realized by Yogis through meditation, the remover of the fear of worldly existence (Saṁsāra), and the sole master of all the worlds."
-    }
-  },
-  {
-    "id": "vishnu-stotram-1",
-    "verse_number": 8,
-    "original": "हरिःओम् ।\nविश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।\nभूतकृद् भूतभृद् भावो भूतात्मा भूतभावनः ॥",
-    "transliteration": "hariḥ om |\nviśvaṁ viṣṇur-vaṣaṭkārō bhūta-bhavya-bhavat-prabhuḥ |\nbhūta-kṛd bhūta-bhṛd bhāvō bhūtātmā bhūta-bhāvanaḥ ||",
-    "translations": {
-      "english": "Harih Om. (1) Viśva (The Universe), (2) Viṣṇu (The Pervader), (3) Vaṣaṭkāra (The performer of the Vaṣaṭ sacrificial rite), (4) Bhūta-bhavya-bhavat-prabhu (The Lord of past, present, and future), (5) Bhūtakṛt (The creator of all beings), (6) Bhūtabhṛt (The supporter of all beings), (7) Bhāva (The true existence/essence), (8) Bhūtātmā (The Self of all beings), (9) Bhūtabhāvana (The nourisher of all beings)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-2",
-    "verse_number": 9,
-    "original": "पूतात्मा परमात्मा च मुक्तानां परमा गतिः ।\nअव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥",
-    "transliteration": "pūtātmā paramātmā ca muktānāṁ paramā gatiḥ |\navyayaḥ puruṣaḥ sākṣī kṣetrajñō'kṣara eva ca ||",
-    "translations": {
-      "english": "(10) Pūtātmā (The pure soul), (11) Paramātmā (The Supreme Soul), (12) Muktānāṁ Paramā Gatiḥ (The supreme goal of the liberated ones), (13) Avyaya (The imperishable), (14) Puruṣa (The Supreme Person), (15) Sākṣī (The witness), (16) Kṣetrajña (The knower of the field/body), (17) Akṣara (The indestructible)."
-    }
-  },
+  "id": "vishnu",
+  "title": "Vishnu Sahasranama",
+  "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
+  "introduction": "The **Vishnu Sahasranama** is a list of 1,000 names (Sahasranama) of Lord Vishnu, one of the principal deities in Hinduism. It is found in the Anushasana Parva of the epic Mahabharata. The list was revealed to Yudhishthira by the dying Bhishma, who explained that reciting these names is the easiest and highest form of worship in the current age (Kaliyuga).\n\nThe hymn is traditionally structured in two parts:\n1.  **Pūrvabhāga (Preliminaries):** Includes the context (the conversation between Yudhishthira and Bhishma), meditation verses (Dhyāna Ślokas), and a final prayer.\n2.  **Sahasranama (The 1000 Names):** The core section comprising the names themselves.\n3.  **Uttarabhāga (Epilogue/Phalaśruti):** Describes the immense spiritual and material benefits derived from the sincere recitation of the names.\n\nThe names are a profound meditation on the nature of Brahman, describing Vishnu as the source, sustainer, and ultimate goal of all existence.",
+  "chapters": [
     {
-    "id": "vishnu-stotram-3",
-    "verse_number": 10,
-    "original": "योगो योगविदां नेता प्रधानपुरुषेश्वरः ।\nनारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥",
-    "transliteration": "yōgō yōga-vidāṁ nētā pradhāna-puruṣēśvaraḥ |\nnārasiṁha-vapuḥ śrīmān kēśavaḥ puruṣōttamaḥ ||",
-    "translations": {
-      "english": "(18) Yōga (He who is the union itself), (19) Yōgavidāṁ Nētā (The guide of those who know Yoga), (20) Pradhāna-puruṣēśvaraḥ (The Lord of Pradhāna/Prakriti and Puruṣa/Cosmic Soul), (21) Nārasiṁha-vapuḥ (He whose form is the Man-Lion), (22) Śrīmān (He who possesses the divine glory/Śrī), (23) Kēśavaḥ (He who has beautiful hair, or the controller of Brahmā and Śiva), (24) Puruṣōttamaḥ (The Supreme among all beings)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-4",
-    "verse_number": 11,
-    "original": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः ।\nसम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥",
-    "transliteration": "sarvaḥ śarvaḥ śivaḥ sthāṇur-bhūtādir-nidhir-avyayaḥ |\nsambhavaḥ bhāvanō bhartā prabhavaḥ prabhur-īśvaraḥ ||",
-    "translations": {
-      "english": "(25) Sarvaḥ (He who is everything), (26) Śarvaḥ (The remover of the troubles of the devotees, or the source of happiness), (27) Śivaḥ (The auspicious one), (28) Sthāṇuḥ (The firm, unmoving, and eternal), (29) Bhūtādiḥ (The origin of all elements/beings), (30) Nidhir-avyayaḥ (The inexhaustible treasure), (31) Sambhavaḥ (He who is born out of His own will), (32) Bhāvanaḥ (The impeller/motivator of all), (33) Bhartā (The supporter of all), (34) Prabhavaḥ (The source of origin), (35) Prabhuḥ (The Omnipotent Lord), (36) Īśvaraḥ (The supreme ruler)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-5",
-    "verse_number": 12,
-    "original": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः ।\nअनादिनिधनो धाता विधाता धातुरुत्तमः ॥",
-    "transliteration": "svayambhūḥ śambhur-ādityaḥ puṣkarākṣō mahāsvanaḥ |\nanādi-nidhanō dhātā vidhātā dhātur-uttamaḥ ||",
-    "translations": {
-      "english": "(37) Svayambhūḥ (Self-born, existing by Himself), (38) Śambhuḥ (The bestower of happiness), (39) Ādityaḥ (The son of Aditi, or one who shines brightly), (40) Puṣkarākṣaḥ (The lotus-eyed one), (41) Mahāsvanaḥ (One with a mighty sound/voice—like the sound of the Vedas or the cosmic drum), (42) Anādi-nidhanō (He who has neither beginning nor end), (43) Dhātā (The creator and supporter), (44) Vidhātā (The dispenser of the results of actions), (45) Dhātur-uttamaḥ (The best of all sustainer/elements)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-6",
-    "verse_number": 13,
-    "original": "अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः ।\nविश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥",
-    "transliteration": "aprameyō hṛṣīkēśaḥ padmanābhō'mara-prabhuḥ |\nviśvakarmā manustvaṣṭā sthaviṣṭhaḥ sthavirō dhruvaḥ ||",
-    "translations": {
-      "english": "(46) Aprameyaḥ (He who is immeasurable/beyond proof), (47) Hṛṣīkēśaḥ (The master of the senses), (48) Padmanābhaḥ (The one with the lotus in the navel), (49) Amara-prabhuḥ (The Lord of the Immortals/Devas), (50) Viśvakarmā (The creator of the universe), (51) Manuḥ (The great thinker/Lawgiver), (52) Tvaṣṭā (The shaper of forms), (53) Sthaviṣṭhaḥ (The most gigantic/massive), (54) Sthavirō (The ancient one), (55) Dhruvaḥ (The permanent/unmoving/fixed one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-7",
-    "verse_number": 14,
-    "original": "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः ।\nप्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम् ॥",
-    "transliteration": "agrāhyaḥ śāśvataḥ kṛṣṇō lōhitākṣaḥ pratardanaḥ |\nprabhūtastri-kakubdhāma pavitraṁ maṅgalaṁ param ||",
-    "translations": {
-      "english": "(56) Agrāhyaḥ (He who cannot be grasped by the senses), (57) Śāśvataḥ (The eternal/ever-present), (58) Kṛṣṇaḥ (The dark-hued one, or the one who draws all creation to Himself), (59) Lōhitākṣaḥ (The red-eyed one), (60) Pratardanaḥ (The destroyer of all at the time of dissolution), (61) Prabhūtaḥ (The abundant/exalted one), (62) Tri-kakubdhāma (The support of the three regions/directions), (63) Pavitram (The pure and purifier), (64) Maṅgalaṁ Param (The Supreme auspiciousness)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-8",
-    "verse_number": 15,
-    "original": "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः ।\nहिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥",
-    "transliteration": "īśānaḥ prāṇadaḥ prāṇō jyēṣṭhaḥ śrēṣṭhaḥ prajāpatiḥ |\nhiraṇyagarbhō bhūgarbhō mādhāvō madhusūdanaḥ ||",
-    "translations": {
-      "english": "(65) Īśānaḥ (The ruler of all), (66) Prāṇadaḥ (The giver of life/strength), (67) Prāṇaḥ (The life-breath/vital energy), (68) Jyēṣṭhaḥ (The oldest/senior-most), (69) Śrēṣṭhaḥ (The most excellent), (70) Prajāpatiḥ (The master of all creatures), (71) Hiraṇyagarbhō (The one who is the golden source of the world), (72) Bhūgarbhō (The one who holds the earth within Himself), (73) Mādhāvaḥ (The consort of Mā, i.e., Lakshmi, or the Lord of knowledge), (74) Madhusūdanaḥ (The slayer of the demon Madhu)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-9",
-    "verse_number": 16,
-    "original": "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः ।\nअनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥",
-    "transliteration": "īśvarō vikramī dhanvī mēdhāvī vikramaḥ kramaḥ |\nanuttamō durādharṣaḥ kṛtajñaḥ kṛtir-ātmavān ||",
-    "translations": {
-      "english": "(75) Īśvarō (The controller), (76) Vikramī (The courageous/valiant), (77) Dhanvī (The wielder of the bow), (78) Mēdhāvī (The supremely intelligent), (79) Vikramaḥ (The one with great strides, or the conquering one), (80) Kramaḥ (The cosmic order, or the one who strides), (81) Anuttamō (The unsurpassed), (82) Durādharṣaḥ (The one who cannot be overcome), (83) Kṛtajñaḥ (The knower of all actions, or the grateful one who accepts the devotion of devotees), (84) Kṛtir-ātmavān (The action/creation itself, and the possessor of great wisdom/Self)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-10",
-    "verse_number": 17,
-    "original": "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः ।\nअहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥",
-    "transliteration": "surēśaḥ śaraṇaṁ śarma viśvarētāḥ prajābhavaḥ |\nahaḥ saṁvatsarō vyālaḥ pratyayaḥ sarvadarśanaḥ ||",
-    "translations": {
-      "english": "(85) Surēśaḥ (The Lord of the gods), (86) Śaraṇaṁ (The refuge/protector), (87) Śarma (The ultimate bliss/happiness), (88) Viśvarētāḥ (The seed of the universe), (89) Prajābhavaḥ (The origin of all beings), (90) Ahaḥ (The day, symbolizing illumination), (91) Saṁvatsarō (The year, symbolizing time), (92) Vyālaḥ (The non-slithering serpent, or one who accepts the unacceptables), (93) Pratyayaḥ (The one who is faith/trust), (94) Sarvadarśanaḥ (The all-seeing)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-11",
-    "verse_number": 18,
-    "original": "अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः ।\nवृषाकपिरमेयात्मा सर्वयोगविनिस्सृतः ॥",
-    "transliteration": "ajaḥ sarvēśvaraḥ siddhaḥ siddhiḥ sarvādir-acyutaḥ |\nvṛṣākapir-amēyātmā sarvayōga-vinissṛtaḥ ||",
-    "translations": {
-      "english": "(95) Ajaḥ (The unborn), (96) Sarvēśvaraḥ (The Lord of all), (97) Siddhaḥ (The accomplished/perfect one), (98) Siddhiḥ (The accomplishment/success itself), (99) Sarvādir (The beginning of all), (100) Acyutaḥ (The infallible/steadfast), (101) Vṛṣākapiḥ (The one who is Dharma/righteousness and Varāha/Boar incarnation, or the pure soul), (102) Amēyātmā (The one with an immeasurable Self), (103) Sarvayōga-vinissṛtaḥ (The one who is free from all bondage/attachments)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-12",
-    "verse_number": 19,
-    "original": "वसुर्वसुमनाः सत्यः समात्माऽसम्मितः समः ।\nअमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥",
-    "transliteration": "vasur-vasumanāḥ satyaḥ samātmā'sammitaḥ samaḥ |\namōghaḥ puṇḍarīkākṣō vṛṣakarmā vṛṣākṛtiḥ ||",
-    "translations": {
-      "english": "(104) Vasuḥ (The dwelling place of all, or the treasure), (105) Vasumanāḥ (The one with a pure mind/heart), (106) Satyaḥ (The truth), (107) Samātmā (The one whose Self is equal in all), (108) Asammitaḥ (The immeasurable), (109) Samaḥ (The non-dual/equal in all conditions), (110) Amōghaḥ (The one whose actions are never in vain), (111) Puṇḍarīkākṣō (The one whose eyes are like lotuses), (112) Vṛṣakarmā (The one whose actions are righteous/Dharma), (113) Vṛṣākṛtiḥ (The one whose form is of Dharma)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-13",
-    "verse_number": 20,
-    "original": "रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः ।\nअमृतः शाश्वतस्थाणुर्वरारोहो महातपाः ॥",
-    "transliteration": "rudrō bahuśirā babhrur-viśvayōniḥ śuciśravāḥ |\namṛtaḥ śāśvata-sthāṇur-varārōhō mahātapāḥ ||",
-    "translations": {
-      "english": "(114) Rudrō (The one who makes people weep at the time of dissolution, or the remover of distress), (115) Bahuśirā (The one with many heads), (116) Babhruḥ (The supporter of the worlds), (117) Viśvayōniḥ (The source of the universe), (118) Śuciśravāḥ (The one with pure, auspicious fame), (119) Amṛtaḥ (The immortal/nectar), (120) Śāśvata-sthāṇuḥ (The eternal and unmoving one), (121) Varārōhō (The most excellent refuge), (122) Mahātapāḥ (The one of great penance/austerity)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-14",
-    "verse_number": 21,
-    "original": "सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः ।\nवेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः ॥",
-    "transliteration": "sarvagaḥ sarvavid-bhānur-viṣvaksēnō janārdanaḥ |\nvēdō vēda-vid-avyaṅgō vēdāṅgō vēda-vit kaviḥ ||",
-    "translations": {
-      "english": "(123) Sarvagaḥ (The all-pervading), (124) Sarvavid-bhānuḥ (The all-knowing, luminous one), (125) Viṣvaksēnaḥ (The commander of the army—who overcomes all armies), (126) Janārdanaḥ (The one who grants refuge to people and is worshipped by them, or the tormentor of wicked people), (127) Vēdō (The Veda itself), (128) Vēda-vit (The knower of the Vedas), (129) Avyaṅgō (The one free of any defect/limitation), (130) Vēdāṅgō (The limbs/branches of the Vedas, such as Grammar, etc.), (131) Vēda-vit (The supreme interpreter of the Vedas), (132) Kaviḥ (The wise poet/seer)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-15",
-    "verse_number": 22,
-    "original": "लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः ।\nचतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥",
-    "transliteration": "lōkādhyakṣaḥ surādhyakṣō dharmādhyakṣaḥ kṛtākṛtaḥ |\ncaturātmā caturvyūhaś-caturdaṁṣṭraś-caturbhujaḥ ||",
-    "translations": {
-      "english": "(133) Lōkādhyakṣaḥ (The controller of all worlds), (134) Surādhyakṣō (The controller of the Devas), (135) Dharmādhyakṣaḥ (The controller of Dharma/righteousness), (136) Kṛtākṛtaḥ (The effect which is created, and the cause which is not created), (137) Caturātmā (The four-formed Self—referring to Vasudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha), (138) Caturvyūhaḥ (The one with the four emanations), (139) Caturdaṁṣṭraḥ (The one with four fangs, in His Vārāha/Boar form), (140) Caturbhujaḥ (The four-armed one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-16",
-    "verse_number": 23,
-    "original": "भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः ।\nअनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥",
-    "transliteration": "bhrājiṣṇur-bhōjanaṁ bhōktā sahiṣṇur-jagadādijaḥ |\nanaghō vijayō jētā viśvayōniḥ punarvasuḥ ||",
-    "translations": {
-      "english": "(141) Bhrājiṣṇuḥ (The supremely shining), (142) Bhōjanaṁ (The food/object of experience), (143) Bhōktā (The enjoyer/experiencer), (144) Sahiṣṇuḥ (The patient/forbearing one), (145) Jagadādijaḥ (He who was born before the world), (146) Anaghō (The sinless/pure one), (147) Vijayō (The victorious one), (148) Jētā (The conqueror), (149) Viśvayōniḥ (The cause of the universe), (150) Punarvasuḥ (The one who dwells again and again in the bodies)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-17",
-    "verse_number": 24,
-    "original": "उपेन्द्रो वामनः प्रांशुः अमोघः शुचिरूर्जितः ।\nअतीन्द्रः संग्रहः सर्गो धृतात्मा नियमो यमः ॥",
-    "transliteration": "upēndrō vāmanaḥ prāṁśuḥ amōghaḥ śucir-ūrjitaḥ |\natīndraḥ saṁgrahaḥ sargō dhṛtātmā niyamō yamaḥ ||",
-    "translations": {
-      "english": "(151) Upēndrō (The younger brother of Indra), (152) Vāmanaḥ (The dwarf-formed incarnation), (153) Prāṁśuḥ (The one of tall stature, who grew immensely as Vāmana), (154) Amōghaḥ (The fruitful/unfailing one), (155) Śuciḥ (The clean/pure one), (156) Ūrjitaḥ (The powerful/vigorous one), (157) Atīndraḥ (The one who surpasses Indra), (158) Saṁgrahaḥ (The collector/absorber of the universe at dissolution), (159) Sargō (The creation itself), (160) Dhṛtātmā (The self-controlled one), (161) Niyamō (The restraining law/rule), (162) Yamaḥ (The internal restraint/regulator)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-18",
-    "verse_number": 25,
-    "original": "वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः ।\nअतीन्द्रियो महामायो महोत्साहो महाबलः ॥",
-    "transliteration": "vēdyō vaidyah sadāyōgī vīrahā mādhāvō madhuḥ |\natīndriyō mahāmāyō mahōtsāhō mahābalaḥ ||",
-    "translations": {
-      "english": "(163) Vēdyō (The knowable truth), (164) Vaidyaḥ (The supreme knower/physician), (165) Sadāyōgī (The one who is always in union/meditation), (166) Vīrahā (The destroyer of heroic demons/or sins), (167) Mādhāvō (The Lord of Lakshmi), (168) Madhuḥ (The honey/sweetest one), (169) Atīndriyō (Beyond the reach of the senses), (170) Mahāmāyō (The master of the great cosmic illusion), (171) Mahōtsāhō (The one with great enthusiasm/energy), (172) Mahābalaḥ (The one with great strength)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-19",
-    "verse_number": 26,
-    "original": "महाबुद्धिर्महावीर्यो महाशक्तिर्महाद्युतिः ।\nअनिर्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक् ॥",
-    "transliteration": "mahābuddhir-mahā-vīryō mahāśaktir-mahādyutiḥ |\nanirdeśya-vapuḥ śrīmān-amēyātmā mahādridhṛk ||",
-    "translations": {
-      "english": "(173) Mahābuddhiḥ (The one with great intelligence), (174) Mahāvīryō (The one with great vigor/prowess), (175) Mahāśaktiḥ (The one with great power), (176) Mahādyutiḥ (The one with great splendor/lustre), (177) Anirdeśya-vapuḥ (The one whose form cannot be exactly defined), (178) Śrīmān (The possessor of Śrī/divine glory), (179) Amēyātmā (The one with an immeasurable Self), (180) Mahādridhṛk (The lifter of the great mountain—referencing Govardhana)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-20",
-    "verse_number": 27,
-    "original": "महेश्वासो महीभर्ता श्रीनिवासः सतां गतिः ।\nअनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः ॥",
-    "transliteration": "mahēśvāsō mahībhartā śrīnivāsaḥ satāṁ gatiḥ |\naniruddhaḥ surānandō gōvindō gōvidāṁ patiḥ ||",
-    "translations": {
-      "english": "(181) Mahēśvāsō (The possessor of the great bow), (182) Mahībhartā (The husband/sustainer of the earth), (183) Śrīnivāsaḥ (The abode of Śrī/Lakshmi), (184) Satāṁ Gatiḥ (The refuge/goal of the virtuous), (185) Aniruddhaḥ (The one who cannot be obstructed), (186) Surānandō (The joy of the Devas), (187) Gōvindō (The protector of the cows/earth, or the one knowable through the Vedas), (188) Gōvidāṁ Patiḥ (The Lord of those who know the Vedas)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-21",
-    "verse_number": 28,
-    "original": "मरीचिर्दमनो हंसः सुपर्णो भुजगोत्तमः ।\nहिरण्यनाभः सुतपाः पद्मनाभः प्रजापतिः ॥",
-    "transliteration": "marīcirdamanō haṁsaḥ suparṇō bhujagōttamaḥ |\nhiraṇyanābhaḥ sutapāḥ padmanābhaḥ prajāpatiḥ ||",
-    "translations": {
-      "english": "(189) Marīciḥ (The ray of light/lustre), (190) Damanō (The controller/subduer), (191) Haṁsaḥ (The swan/The purified soul), (192) Suparṇō (The beautiful-winged, referring to Garuḍa, or the pure self), (193) Bhujagōttamaḥ (The best of serpents, referring to Ādishesha on whom Vishnu reclines), (194) Hiraṇyanābhaḥ (The one with a golden navel), (195) Sutapāḥ (The one with excellent penance), (196) Padmanābhaḥ (The lotus-navelled one), (197) Prajāpatiḥ (The Lord of creatures)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-22",
-    "verse_number": 29,
-    "original": "अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः ।\nअजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ॥",
-    "transliteration": "amṛtyuḥ sarvadṛk siṁhaḥ sandhātā sandhimān sthiraḥ |\najō durmarṣaṇaḥ śāstā viśrutātmā surārihā ||",
-    "translations": {
-      "english": "(198) Amṛtyuḥ (The deathless), (199) Sarvadṛk (The all-seeing), (200) Siṁhaḥ (The lion, signifying strength and terror to the wicked), (201) Sandhātā (The regulator/unifier of actions and results), (202) Sandhimān (The one who is always connected to His devotees, or who has beneficial joints), (203) Sthiraḥ (The steady/firm one), (204) Ajō (The unborn), (205) Durmarṣaṇaḥ (The one who cannot be tolerated by demons), (206) Śāstā (The ruler/disciplinarian), (207) Viśrutātmā (The one with a widely known/famous Self), (208) Surārihā (The destroyer of the enemies of the Devas)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-23",
-    "verse_number": 30,
-    "original": "गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः ।\nनिमिषोऽनिमिषः स्रग्वी वाचस्पतिरुदारधीः ॥",
-    "transliteration": "gurur-gurutamō dhāma satyaḥ satya-parākramaḥ |\nnimiṣō'nimiṣaḥ sragvī vācaspatir-udāradhīḥ ||",
-    "translations": {
-      "english": "(209) Guruḥ (The teacher/preceptor), (210) Gurutamō (The greatest preceptor), (211) Dhāma (The light/support/abode), (212) Satyaḥ (The truth), (213) Satyaparākramaḥ (The one whose prowess is truth/unfailing), (214) Nimiṣō (The one who closes His eyes in Yoganidra), (215) Animiṣaḥ (The ever-awake, or the Devas who never wink), (216) Sragvī (The one who wears a garland, referring to the Vaijayanti garland), (217) Vācaspatiḥ (The master of speech/learning, or Lord of Veda), (218) Udāradhīḥ (The one with a noble/magnanimous mind)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-24",
-    "verse_number": 31,
-    "original": "अग्रणीर्ग्रामणीः श्रीमान् न्यायो नेता समीरणः ।\nसहस्रमूर्धा विश्वात्मा सहस्राक्षः सहस्रपात् ॥",
-    "transliteration": "agraṇīr-grāmaṇīḥ śrīmān nyāyō nētā samīraṇaḥ |\nsahasramūrdhā viśvātmā sahasrākṣaḥ sahasrapāt ||",
-    "translations": {
-      "english": "(219) Agraṇīḥ (The leader/foremost), (220) Grāmaṇīḥ (The leader of the flock/community of beings), (221) Śrīmān (The one possessing all prosperity), (222) Nyāyō (Justice/logic itself), (223) Nētā (The guide/leader), (224) Samīraṇaḥ (The impeller of vital airs/or the cosmic air), (225) Sahasramūrdhā (The one with a thousand heads), (226) Viśvātmā (The soul of the universe), (227) Sahasrakṣaḥ (The one with a thousand eyes), (228) Sahasrapāt (The one with a thousand feet)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-25",
-    "verse_number": 32,
-    "original": "आवर्तनो निवृत्तात्मा संवृतः सम्प्रमर्दनः ।\\nअहः संवर्तको वह्निरनिलो धरणीधरः ॥",
-    "transliteration": "āvartanō nivṛttātmā saṁvṛtaḥ sampramardanaḥ |\nahaḥ saṁvartakō vahniranilō dharaṇīdharaḥ ||",
-    "translations": {
-      "english": "(229) Āvartanō (The one who rotates the wheel of Saṁsāra), (230) Nivṛttātmā (The one whose Self is fully withdrawn from the bonds of the world), (231) Saṁvṛtaḥ (The one who is concealed/hidden by Māyā), (232) Sampramardanaḥ (The destroyer of the universe), (233) Ahaḥ Saṁvartakō (The one who causes the revolution of the day), (234) Vahniḥ (The carrier of offerings/the fire), (235) Anilaḥ (The air/wind, or the non-impeller/stable), (236) Dharaṇīdharaḥ (The supporter of the earth)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-26",
-    "verse_number": 33,
-    "original": "सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः ।\nसत्कर्ता सत्कृतः साधुर्जह्नुर्नारायणो नरः ॥",
-    "transliteration": "suprasādaḥ prasannātmā viśvadhṛg-viśvabhug-vibhuḥ |\nsatkārtā satkṛtaḥ sādhū jahnur-nārāyaṇō naraḥ ||",
-    "translations": {
-      "english": "(237) Suprasādaḥ (The supremely gracious one), (238) Prasannātmā (The one with a serene/pleased Self), (239) Viśvadhṛk (The supporter of the universe), (240) Viśvabhuk (The enjoyer/protector of the universe), (241) Vibhuḥ (The all-pervading/powerful), (242) Satkārtā (The one who honors the good), (243) Satkṛtaḥ (The one who is honored by the virtuous), (244) Sādhū (The righteous one), (245) Jahnuḥ (The one who leaves aside everything worldly), (246) Nārāyaṇō (The abode of men, or the one who resides in water), (247) Naraḥ (The leader/man/guide)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-27",
-    "verse_number": 34,
-    "original": "असंख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः ।\nसिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः ॥",
-    "transliteration": "asaṅkhyeyō'prameyātmā viśiṣṭaḥ śiṣṭakṛc-śuciḥ |\nsiddhārthaḥ siddhasaṅkalpaḥ siddhidaḥ siddhisādhanaḥ ||",
-    "translations": {
-      "english": "(248) Asaṅkhyeyaḥ (The one with innumerable names/forms), (249) Aprameyātmā (The one whose Self is immeasurable), (250) Viśiṣṭaḥ (The most distinguished/supreme), (251) Śiṣṭakṛt (The promulgator of discipline/order), (252) Śuciḥ (The pure one), (253) Siddhārthaḥ (The one whose goals are already achieved), (254) Siddhusaṅkalpaḥ (The one whose wishes are immediately fulfilled), (255) Siddhidaḥ (The giver of perfection/accomplishment), (256) Siddhisādhanaḥ (The means to attain perfection)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-28",
-    "verse_number": 35,
-    "original": "वृषाही वृषभो विष्णुर्वृषपर्वा वृषोदरः ।\nवर्धमानो वर्धमानो विविक्तः श्रुतिसागरः ॥",
-    "transliteration": "vṛṣāhī vṛṣabhō viṣṇur-vṛṣaparvā vṛṣōdaraḥ |\nvardhamanō vardhamanō viviktaḥ śruti-sāgaraḥ ||",
-    "translations": {
-      "english": "(257) Vṛṣāhī (The day of Dharma, or the one whose vehicle is Dharma), (258) Vṛṣabhō (The showerer of all desires, the great bull), (259) Viṣṇuḥ (The all-pervading), (260) Vṛṣaparvā (The one whose steps/stages are virtuous), (261) Vṛṣōdaraḥ (The one whose belly showers wealth/or absorbs all creation), (262) Vardhamanō (The one who grows/flourishes in the form of the universe), (263) Vardhamanaḥ (The enhancer of the prosperity of His devotees), (264) Viviktaḥ (The separated/distinct, referring to His transcendence), (265) Śruti-sāgaraḥ (The ocean of the Vedas)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-29",
-    "verse_number": 36,
-    "original": "सुभुजो दुर्धरो वाग्मी महेन्द्रो वसुदो वसुः ।\nनैकरूपो बृहद्रूपः शिपिविष्टः प्रकाशनः ॥",
-    "transliteration": "subhujō durdharō vāgmī mahēndrō vasudō vasuḥ |\nnaikarūpō bṛhadrūpaḥ śipiviṣṭaḥ prakāśanaḥ ||",
-    "translations": {
-      "english": "(266) Subhujō (The one with beautiful arms), (267) Durdharō (The one who is difficult to be sustained or grasped), (268) Vāgmī (The eloquent speaker/master of speech), (269) Mahēndrō (The great Indra, or the Lord of the great), (270) Vasudō (The giver of wealth), (271) Vasuḥ (The wealth itself, or the indweller of all), (272) Naikarūpō (The one of many forms), (273) Bṛhadrūpaḥ (The gigantic/vast formed one), (274) Śipiviṣṭaḥ (The one who is covered by rays, or residing in the sacrificial animal, or residing in the light), (275) Prakāśanaḥ (The luminous/illuminating one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-30",
-    "verse_number": 37,
-    "original": "ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः ।\nऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः ॥",
-    "transliteration": "ōjastējōdyutidharaḥ prakāśātmā pratāpanaḥ |\nṛddhaḥ spaṣṭākṣarō mantraś-candrāṁśur-bhāskaradyutiḥ ||",
-    "translations": {
-      "english": "(276) Ōjastējōdyutidharaḥ (The possessor of vitality, splendor, and brilliance), (277) Prakāśātmā (The one whose Self is pure illumination), (278) Pratāpanaḥ (The one who causes heat/torment to the wicked), (279) Ṛddhaḥ (The prosperous one), (280) Spaṣṭākṣarō (The one whose syllable/form is clearly manifest), (281) Mantraḥ (The sacred syllable/counsel), (282) Candrāṁśuḥ (The cool ray of the moon), (283) Bhāskaradyutiḥ (The radiance of the sun)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-31",
-    "verse_number": 38,
-    "original": "अमृतांशूद्भवो भानुः शशबिन्दुः सुरेश्वरः ।\nऔषधं जगतः सेतुः सत्यधर्मपराक्रमः ॥",
-    "transliteration": "amṛtāṁśūdbhavō bhānuḥ śaśabinduḥ surēśvaraḥ |\nauṣadhaṁ jagataḥ sētuḥ satyadharma-parākramaḥ ||",
-    "translations": {
-      "english": "(284) Amṛtāṁśūdbhavō (The source of the moon), (285) Bhānuḥ (The sun/illuminator), (286) Śaśabinduḥ (The moon, having a rabbit/mark on it), (287) Surēśvaraḥ (The Lord of the Devas), (288) Auṣadhaṁ (The medicine/remedy for Saṁsāra), (289) Jagataḥ Sētuḥ (The bridge that connects the world to liberation/Vaikuntha), (290) Satya-dharma-parākramaḥ (The one whose valor is based on truth and righteousness)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-32",
-    "verse_number": 39,
-    "original": "भूतभव्यभवन्नाथः पवनः पावनोऽनलः ।\nकामह कामकृत् कान्तः कामः कामप्रदः प्रभुः ॥",
-    "transliteration": "bhūta-bhavya-bhavan-nāthaḥ pavanaḥ pāvanō'nalaḥ |\nkāmahā kāmakṛt kāntaḥ kāmaḥ kāmapradaḥ prabhuḥ ||",
-    "translations": {
-      "english": "(291) Bhūta-bhavya-bhavan-nāthaḥ (The Lord of the past, present, and future), (292) Pavanaḥ (The wind/purifier), (293) Pāvanō (The sanctifier), (294) Analaḥ (The fire, or the one whose wealth is inexhaustible), (295) Kāmahā (The destroyer of desires), (296) Kāmakṛt (The creator of desires/or the fulfiller of desires), (297) Kāntaḥ (The charming/beautiful one), (298) Kāmaḥ (The desirable object/love itself), (299) Kāmapradaḥ (The bestower of desires/results), (300) Prabhuḥ (The supreme master)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-33",
-    "verse_number": 40,
-    "original": "युगादिकृद् युगावर्तो नैकमायो महाशनः ।\nअदृश्यो व्यक्तरूपश्च सहस्रजिदनन्तजित् ॥",
-    "transliteration": "yugādikṛd yugāvartō naika-māyō mahāśanaḥ |\nadṛśyō vyakta-rūpaśca sahasrajid-anantajit ||",
-    "translations": {
-      "english": "(301) Yugādikṛt (The creator of the Yugas/Epochs), (302) Yugāvartō (The one who revolves the Yugas), (303) Naika-māyō (The master of various kinds of Māyā/illusions), (304) Mahāśanaḥ (The great eater/devourer at the time of dissolution), (305) Adṛśyō (The invisible), (306) Vyakta-rūpaḥ (The one whose form is manifest), (307) Sahasrajit (The conqueror of thousands), (308) Anantajit (The eternal victor/conqueror of the infinite)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-34",
-    "verse_number": 41,
-    "original": "इष्टो विशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः ।\nक्रोधहा क्रोधकृत् कर्ता विश्वबाहुर्महीधरः ॥",
-    "transliteration": "iṣṭō viśiṣṭaḥ śiṣṭēṣṭaḥ śikhaṇḍī nahuṣō vṛṣaḥ |\nkrōdhahā krōdhakṛt kartā viśvabāhur-mahīdharaḥ ||",
-    "translations": {
-      "english": "(309) Iṣṭō (The one worshipped by sacrifice, or the beloved), (310) Viśiṣṭaḥ (The superior/eminent one), (311) Śiṣṭēṣṭaḥ (The one desired by the disciplined), (312) Śikhaṇḍī (The one who wears a crest or peacock feather), (313) Nahuṣō (The binder/one who ties beings to Saṁsāra), (314) Vṛṣaḥ (The showerer of desired boons), (315) Krōdhahā (The destroyer of anger), (316) Krōdhakṛt (The creator of anger in the wicked), (317) Kartā (The doer/creator), (318) Viśvabāhuḥ (The one whose arms are the universe), (319) Mahīdharaḥ (The sustainer of the earth/mountains)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-35",
-    "verse_number": 42,
-    "original": "अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः ।\nअपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥",
-    "transliteration": "acyutaḥ prathitaḥ prāṇaḥ prāṇadō vāsavānujaḥ |\napāṁ-nidhir-adhiṣṭhānam-apramattaḥ pratiṣṭhitaḥ ||",
-    "translations": {
-      "english": "(320) Acyutaḥ (The infallible/steadfast), (321) Prathitaḥ (The famous/celebrated one), (322) Prāṇaḥ (The life-force), (323) Prāṇadō (The giver of life), (324) Vāsavānujaḥ (The younger brother of Indra/Vāsava, referring to Vāmana), (325) Apāṁ Nidhiḥ (The reservoir of water/ocean), (326) Adhiṣṭhānam (The basis/support of the universe), (327) Apramattaḥ (The attentive/vigilant one), (328) Pratiṣṭhitaḥ (The one who is firmly established)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-36",
-    "verse_number": 43,
-    "original": "स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः ।\nवासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥",
-    "transliteration": "skandaḥ skandadharō dhuryō varadō vāyuvāhanaḥ |\nvāsudēvō bṛhadbhānur-ādidēvaḥ purandaraḥ ||",
-    "translations": {
-      "english": "(329) Skandaḥ (The flowing/gushing one), (330) Skandadharō (The supporter of the cosmic flow/or the body), (331) Dhuryō (The bearer of the burden of the world), (332) Varadō (The giver of boons), (333) Vāyuvāhanaḥ (The one who makes the wind/air move), (334) Vāsudēvō (The son of Vasudeva, or the one who dwells in all beings), (335) Bṛhadbhānuḥ (The one with great radiance), (336) Ādidēvaḥ (The primeval God), (337) Purandaraḥ (The destroyer of cities/forts)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-37",
-    "verse_number": 44,
-    "original": "अशोकस्तारणस्तारः शूरः शौरिर्जनेश्वरः ।\nअनुकूलः शतावर्तः पद्मी पद्मनिभेक्षणः ॥",
-    "transliteration": "aśōkastāraṇastāraḥ śūraḥ śaurir-janēśvaraḥ |\nanukūlaḥ śatāvarttaḥ padmī padma-nibhekṣaṇaḥ ||",
-    "translations": {
-      "english": "(338) Aśōkaḥ (The sorrowless one), (339) Tāraṇaḥ (The one who helps others cross Saṁsāra/ocean), (340) Tāraḥ (The star, or the ferryman), (341) Śūraḥ (The valiant one), (342) Śauriḥ (The son of Śūra, or the one born in the Yadu dynasty), (343) Janēśvaraḥ (The Lord of the people), (344) Anukūlaḥ (The favorably disposed to devotees), (345) Śatāvarttaḥ (The one with hundreds of revolutions/incarnations), (346) Padmī (The one who holds the lotus), (347) Padma-nibhekṣaṇaḥ (The lotus-eyed one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-38",
-    "verse_number": 45,
-    "original": "पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत् ।\nमहर्द्धिर्ऋद्धो वृद्धात्मा महाक्षो गरुडध्वजः ॥",
-    "transliteration": "padmanābhō'ravindākṣaḥ padmagarbhaḥ śarīrabhṛt |\nmahā-rddhir-ṛddhō vṛddhātmā mahākṣō garuḍadhvajaḥ ||",
-    "translations": {
-      "english": "(348) Padmanābhaḥ (The lotus-navelled one), (349) Aravindākṣaḥ (The lotus-eyed one), (350) Padmagarbhaḥ (The one residing in the lotus of the heart), (351) Śarīrabhṛt (The supporter of bodies), (352) Mahā-ṛddhiḥ (The one possessing great prosperity/wealth), (353) Ṛddhō (The one who has expanded into the universe), (354) Vṛddhātmā (The ancient Self), (355) Mahākṣō (The one with great eyes), (356) Garuḍadhvajaḥ (The one whose banner is Garuḍa)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-39",
-    "verse_number": 46,
-    "original": "अतुलः शरभो भीमो समयज्ञो हविर्हरिः ।\nसर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥",
-    "transliteration": "atulaḥ śarabho bhīmō samayajñō havir-hariḥ |\nsarva-lakṣaṇa-lakṣaṇyō lakṣmīvān samitiñjayaḥ ||",
-    "translations": {
-      "english": "(357) Atulaḥ (The incomparable), (358) Śarabhō (The mythical animal superior to a lion/elephant, signifying power), (359) Bhīmō (The terrible/awe-inspiring), (360) Samayajñō (The knower of proper time, or one whose worship is based on tradition), (361) Havir (The sacrificial offering), (362) Hariḥ (The remover of sins/sorrows), (363) Sarva-lakṣaṇa-lakṣaṇyō (The possessor of all auspicious signs), (364) Lakṣmīvān (The possessor of wealth/Lakshmi), (365) Samitiñjayaḥ (The victorious in battle)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-40",
-    "verse_number": 47,
-    "original": "विक्षरो रोहितो मार्गो हेतुर्दामोदरः सहः ।\nमहीधरो महाभागो वेगवानमिताशनः ॥",
-    "transliteration": "vikṣarō rōhitō mārgō hētur-dāmōdaraḥ sahaḥ |\nmahīdharaḥ mahābhāgō vēgavān-amitāśanaḥ ||",
-    "translations": {
-      "english": "(366) Vikṣarō (The non-perishable), (367) Rōhitō (The red-hued one), (368) Mārgō (The path/way), (369) Hētuḥ (The cause/root of all), (370) Dāmōdaraḥ (The one whose belly was tied with a rope by Yasoda), (371) Sahaḥ (The tolerant/enduring one), (372) Mahīdharaḥ (The bearer of the earth), (373) Mahābhāgō (The most fortunate/glorious), (374) Vēgavān (The swift one), (375) Amitāśanaḥ (The immense eater at dissolution)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-41",
-    "verse_number": 48,
-    "original": "उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः ।\nकरणं कारणं कर्ता विकर्ता गहनो गुहः ॥",
-    "transliteration": "udbhavaḥ kṣōbhaṇō dēvaḥ śrīgarbhaḥ paramēśvaraḥ |\nkaraṇaṁ kāraṇaṁ kartā vikartā gahanō guhaḥ ||",
-    "translations": {
-      "english": "(376) Udbhavaḥ (The source/origin of the universe), (377) Kṣōbhaṇō (The one who agitates Prakriti/nature), (378) Dēvaḥ (The shining one/God), (379) Śrīgarbhaḥ (The one in whose womb Śrī/glory resides), (380) Paramēśvaraḥ (The Supreme Lord), (381) Karaṇaṁ (The instrument/means of action), (382) Kāraṇaṁ (The cause of creation), (383) Kartā (The creator/doer), (384) Vikartā (The one who creates variety in the universe), (385) Gahanō (The deep/unfathomable), (386) Guhaḥ (The hidden one, or the one residing in the cave of the heart)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-42",
-    "verse_number": 49,
-    "original": "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ।\nपरर्द्धिः परमस्पष्टस्तुष्टः पुष्टः शुभेक्षणः ॥",
-    "transliteration": "vyavasāyō vyavasthānaḥ saṁsthānaḥ sthānadō dhruvaḥ |\npararddhiḥ paramaspaṣṭas-tuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ ||",
-    "translations": {
-      "english": "(387) Vyavasāyō (The resolute/determinate knowledge), (388) Vyavasthānaḥ (The established order/dispensation), (389) Saṁsthānaḥ (The ultimate dissolution/place of rest), (390) Sthānadō (The giver of position/status to devotees), (391) Dhruvaḥ (The constant/immovable), (392) Pararddhiḥ (The one with supreme manifestations/wealth), (393) Paramaspaṣṭaḥ (The supremely clear/manifest), (394) Tuṣṭaḥ (The contented one), (395) Puṣṭaḥ (The fully nourished/perfect one), (396) Śubhekṣaṇaḥ (The one whose gaze is auspicious)."
-    }
-  },
-{
-    "id": "vishnu-stotram-43",
-    "verse_number": 50,
-    "original": "रामो विरामो विरतो मार्गो नेयो नयोऽनयः ।\nवीरः शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः ॥",
-    "transliteration": "rāmō virāmō viratō mārgō nēyō nayō'nayaḥ |\nvīraḥ śaktimatāṁ śrēṣṭhō dharmō dharmaviduttamaḥ ||",
-    "translations": {
-      "english": "(397) Rāmō (The delightful one, or Lord Rāma), (398) Virāmō (The cessation of all suffering, or the ultimate rest), (399) Virataḥ (The detached one), (400) Mārgō (The path to liberation), (401) Nēyō (The one who is led or guided by the devotees), (402) Nayō (The righteous conduct/policy), (403) Anayaḥ (The one who has no master/leader), (404) Vīraḥ (The heroic/valiant), (405) Śaktimatāṁ Śrēṣṭhō (The best among the powerful), (406) Dharmō (Dharma/righteousness itself), (407) Dharmaviduttamaḥ (The best among those who know Dharma)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-44",
-    "verse_number": 51,
-    "original": "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ।\nहिरण्यगर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥",
-    "transliteration": "vaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ |\nhiraṇyagarbhaḥ śatrughnō vyāptō vāyur-adhōkṣajaḥ ||",
-    "translations": {
-      "english": "(408) Vaikuṇṭhaḥ (The one who removes all obstacles, or the lord of Vaikuṇṭha), (409) Puruṣaḥ (The Supreme Person), (410) Prāṇaḥ (The life-force), (411) Prāṇadaḥ (The giver of life), (412) Praṇavaḥ (The sacred syllable 'Om'), (413) Pṛthuḥ (The expanded one), (414) Hiraṇyagarbhaḥ (The golden-wombed, the source of creation), (415) Śatrughnō (The destroyer of enemies), (416) Vyāptō (The pervasive one), (417) Vāyuḥ (The wind/vital air), (418) Adhōkṣajaḥ (The one whose knowledge never descends, or who is beyond the senses)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-45",
-    "verse_number": 52,
-    "original": "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ।\nउग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः ॥",
-    "transliteration": "ṛtuḥ sudarśanaḥ kālaḥ paramēṣṭhī parigrahaḥ |\nugraḥ saṁvatsarō dakṣō viśrāmō viśva-dakṣiṇaḥ ||",
-    "translations": {
-      "english": "(419) Ṛtuḥ (The season), (420) Sudarśanaḥ (The beautiful-seer, or the wielder of the Sudarśana Chakra), (421) Kālaḥ (Time itself), (422) Paramēṣṭhī (The one residing in the highest seat), (423) Parigrahaḥ (The accepted/received one, or the one who is everything), (424) Ugraḥ (The formidable/fierce one), (425) Saṁvatsarō (The year), (426) Dakṣō (The skillful/efficient one), (427) Viśrāmō (The resting place), (428) Viśva-dakṣiṇaḥ (The one who is expert and liberal in all cosmic affairs)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-46",
-    "verse_number": 53,
-    "original": "विस्तारः स्थावरस्थाणुः प्रमाणं बीजमव्ययम् ।\nअर्थोऽनर्थो महाकोशो महाभोगो महाधनः ॥",
-    "transliteration": "vistāraḥ sthāvara-sthāṇuḥ pramāṇaṁ bījam-avyayam |\narthō'narthō mahākōśō mahābhōgō mahādhanaḥ ||",
-    "translations": {
-      "english": "(429) Vistāraḥ (The expansion/vastness), (430) Sthāvara-Sthāṇuḥ (The firm and immovable one in the stationary creation), (431) Pramāṇaṁ (The authority/proof), (432) Bījam-avyayam (The inexhaustible seed), (433) Arthō (The object of desire/wealth), (434) Anarthō (The one who has no purpose for Himself, being complete), (435) Mahākōśō (The one with the great sheath/treasury), (436) Mahābhōgō (The one with great enjoyment/bliss), (437) Mahādhanaḥ (The one with great wealth)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-47",
-    "verse_number": 54,
-    "original": "अनिर्विण्णः स्थविष्ठोऽभूर्धर्मयूपो महामखः ।\nनक्षत्रनेमिर्नक्षत्री क्षमः क्षामः समीहनः ॥",
-    "transliteration": "anirviṇṇaḥ sthaviṣṭhō'bhūr-dharmayūpō mahāmakhaḥ |\nnakṣatranēmir-nakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ ||",
-    "translations": {
-      "english": "(438) Anirviṇṇaḥ (The non-despondent/never weary), (439) Sthaviṣṭhō (The immensely huge), (440) Abhūḥ (The unborn), (441) Dharmayūpō (The sacrificial post of Dharma), (442) Mahāmakhaḥ (The great sacrifice), (443) Nakṣatranēmiḥ (The hub of the constellations), (444) Nakṣatrī (The lord of the stars/moon), (445) Kṣamaḥ (The capable/tolerant one), (446) Kṣāmaḥ (The destroyer of all at Pralaya), (447) Samīhanaḥ (The one whose endeavors are perfect/auspicious)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-48",
-    "verse_number": 55,
-    "original": "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतांगतिः ।\nसर्वदर्शी विमुक्तत्मा सर्वज्ञो ज्ञानमुत्तमम् ॥",
-    "transliteration": "yajña ijyo mahejyaś-ca kratuḥ satraṁ satāṁ gatiḥ |\nsarvadarśī vimuktātmā sarvajñō jñānam-uttamam ||",
-    "translations": {
-      "english": "(448) Yajñaḥ (The sacrifice itself), (449) Ijyō (The one who is worshipped through sacrifice), (450) Mahējyaśca (The greatly worshipful one), (451) Kratuḥ (The ritual act), (452) Satraṁ (The extended sacrifice, or the protector of the good), (453) Satāṁ Gatiḥ (The goal of the virtuous), (454) Sarvadarśī (The all-seer), (455) Vimuktātmā (The eternally liberated Self), (456) Sarvajñō (The all-knower), (457) Jñānamuttamam (The Supreme Knowledge)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-49",
-    "verse_number": 56,
-    "original": "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ।\nमनोहरो जितक्रोधो वीरबाहुर्विदारणः ॥",
-    "transliteration": "suvrataḥ sumukhaḥ sūkṣmaḥ sughōṣaḥ sukhadaḥ suhṛt |\nmanōharō jitakrōdhō vīrabāhur-vidāraṇaḥ ||",
-    "translations": {
-      "english": "(458) Suvrataḥ (The one with excellent vows/resolves), (459) Sumukhaḥ (The one with a pleasant face), (460) Sūkṣmaḥ (The subtle/minute one), (461) Sughōṣaḥ (The one with an auspicious/beautiful sound), (462) Sukhadaḥ (The giver of happiness), (463) Suhṛt (The benevolent friend), (464) Manōharō (The mind-stealer/attractive one), (465) Jitakrōdhō (The one who has conquered anger), (466) Vīrabāhuḥ (The one with heroic arms), (467) Vidāraṇaḥ (The splitter/destroyer of demons)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-50",
-    "verse_number": 57,
-    "original": "स्वापनः स्ववशो व्यापी नैकात्मा नैककर्मकृत् ।\nवत्सरो वत्सलो वत्सी रत्नगर्भो धनेश्वरः ॥",
-    "transliteration": "svāpanaḥ svavaśō vyāpī naikātmā naikakarmakṛt |\nvatsarō vatsalō vatsī ratnagarbhō dhanēśvaraḥ ||",
-    "translations": {
-      "english": "(468) Svāpanaḥ (The one who induces sleep/Māyā), (469) Svavaśō (The one under His own control), (470) Vyāpī (The pervasive one), (471) Naikātmā (The one Self but manifests as many), (472) Naikakarmakṛt (The one who performs many kinds of actions/creations), (473) Vatsarō (The abode, or the year), (474) Vatsalō (The affectionate one, especially towards devotees), (475) Vatsī (The father/protector, having offspring), (476) Ratnagarbhō (The one who holds gems in His womb, referring to the ocean or earth), (477) Dhanēśvaraḥ (The Lord of wealth)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-51",
-    "verse_number": 58,
-    "original": "धर्मगुब् धर्मकृद् धर्मी सदसत्क्षरमक्षरम् ।\nअविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः ॥",
-    "transliteration": "dharmagub dharmakṛd dharmī sad-asat kṣaram-akṣaram |\navijñātā sahasrāṁśur-vidhātā kṛtalakṣaṇaḥ ||",
-    "translations": {
-      "english": "(478) Dharmagup (The protector of Dharma), (479) Dharmakṛt (The performer of Dharma), (480) Dharmī (The possessor of Dharma), (481) Sad-Asat (The manifest and unmanifest), (482) Kṣaram-Akṣaram (The perishable and the imperishable), (483) Avijñātā (The non-knower, as He is pure knowledge itself), (484) Sahasrāṁśuḥ (The thousand-rayed one/Sun), (485) Vidhātā (The dispensor/orderer), (486) Kṛtalakṣaṇaḥ (The one who has marks of auspiciousness, or who creates the marks of the Vedas)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-52",
-    "verse_number": 59,
-    "original": "गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः ।\nआदिदेवो महादेवो देवेशो देवभृद् गुरुः ॥",
-    "transliteration": "gabhastinēmiḥ sattvasthaḥ siṁhō bhūtamaheśvaraḥ |\nādidēvō mahādēvō dēvēśō dēvabhṛd guruḥ ||",
-    "translations": {
-      "english": "(487) Gabhastinēmiḥ (The center of the light rays, or the sun's orb), (488) Sattvasthaḥ (The one abiding in purity/goodness), (489) Siṁhō (The lion), (490) Bhūtamaheśvaraḥ (The great Lord of all beings), (491) Ādidēvō (The primeval God), (492) Mahādēvō (The Great God), (493) Dēvēśō (The Lord of the Gods), (494) Dēvabhṛd (The supporter of the Gods), (495) Guruḥ (The preceptor/heavy one)."
-    }
-  },
-{
-    "id": "vishnu-stotram-53",
-    "verse_number": 60,
-    "original": "उत्तरॊ गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः ।\nशरीरभूतभृद् भोक्ता कपीन्द्रो भूरिदक्षिणः ॥",
-    "transliteration": "uttarō gōpatir-gōptā jñānagamyah purātanaḥ |\nśarīrabhūtabhṛd bhōktā kapīndrō bhūridakṣiṇaḥ ||",
-    "translations": {
-      "english": "(496) Uttarō (The superior/transcendent one), (497) Gōpatiḥ (The protector of the earth/cows/or Vedas), (498) Gōptā (The protector/hider), (499) Jñānagamyaḥ (The one attained through knowledge), (500) Purātanaḥ (The ancient one), (501) Śarīrabhūtabhṛt (The sustainer of the body and the elements), (502) Bhōktā (The enjoyer/experiencer), (503) Kapīndrō (The Lord of the monkeys, referring to Rāma or Vāmana), (504) Bhūridakṣiṇaḥ (The giver of abundant sacrificial gifts)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-54",
-    "verse_number": 61,
-    "original": "सोमपोऽमृतपः सोमः पुरुजित् पुरुसत्तमः ।\nविनयो जयः सत्यसन्धो दाशार्हः सात्वतांपतिः ॥",
-    "transliteration": "sōmapō'mṛtapaḥ sōmaḥ purujit purusattamaḥ |\nvinayō jayaḥ satyasandhō dāśārhaḥ sātvatāṁ-patiḥ ||",
-    "translations": {
-      "english": "(505) Sōmapō (The drinker of Soma juice), (506) Amṛtapaḥ (The drinker of nectar), (507) Sōmaḥ (The moon, or the pleasant one), (508) Purujit (The conqueror of many), (509) Purusattamaḥ (The best among many beings), (510) Vinayō (The humble/remover of arrogance), (511) Jayaḥ (The victorious one), (512) Satyasandhō (The one whose resolve is truth), (513) Dāśārhaḥ (The one who deserves the highest offering, or born in the Dāśārha clan), (514) Sātvatāṁ-patiḥ (The Lord of the Sātvatas/devotees)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-55",
-    "verse_number": 62,
-    "original": "जीवो विनयिता साक्षी मुकुन्दोऽमितविक्रमः ।\nअम्भोनिधिरनन्तात्मा महोदधिशयोऽन्तकः ॥",
-    "transliteration": "jīvō vinayitā sākṣī mukundō'mita-vikramaḥ |\nambhō-nidhiranantātmā mahōdadhi-śayō'ntakaḥ ||",
-    "translations": {
-      "english": "(515) Jīvō (The life-principle/individual soul), (516) Vinayitā (The impeller of humility), (517) Sākṣī (The witness), (518) Mukundō (The giver of liberation), (519) Amita-vikramaḥ (The one of immeasurable valor/strides), (520) Ambhō-nidhiḥ (The reservoir of water/ocean), (521) Anantātmā (The boundless Self), (522) Mahōdadhi-śayō (The one sleeping on the great ocean), (523) Antakaḥ (The terminator/ender)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-56",
-    "verse_number": 63,
-    "original": "अजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः ।\nआनन्दो नन्दनो नन्दः सत्यधर्मा त्रिविक्रमः ॥",
-    "transliteration": "ajō mahārhaḥ svābhāvyō jitāmitraḥ pramōdanaḥ |\nānandō nandanō nandaḥ satyadharmā trivikramaḥ ||",
-    "translations": {
-      "english": "(524) Ajō (The unborn), (525) Mahārhaḥ (The highly worshipful/deserving), (526) Svābhāvyō (The one who exists by Himself/inherently), (527) Jitāmitraḥ (The conqueror of enemies), (528) Pramōdanaḥ (The supremely blissful), (529) Ānandō (The bliss itself), (530) Nandanō (The delighter/joy-giver), (531) Nandaḥ (The treasure, or one who is full of happiness), (532) Satyadharmā (The one whose nature is truth and righteousness), (533) Trivikramaḥ (The one who took three immense strides)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-57",
-    "verse_number": 64,
-    "original": "महर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः ।\nत्रि-प-दस्त्रि-दशाध्यक्षो महाशृङ्गकृतान्तकृत् ॥",
-    "transliteration": "maharṣiḥ kapilācāryaḥ kṛtajñō medinīpatiḥ |\ntripadastridaśādhyakṣō mahāśṛṅgakṛtāntakṛt ||",
-    "translations": {
-      "english": "(534) Maharṣiḥ Kapilācāryaḥ (The great sage Kapila, the teacher), (535) Kṛtajñō (The knower of all actions/grateful one), (536) Medinīpatiḥ (The Lord of the earth), (537) Tripadaḥ (The three-footed one/one with three strides), (538) Tridaśādhyakṣō (The controller of the three states/or the 30 Devas), (539) Mahāśṛṅgaḥ (The one with a great horn, referring to Matsya Avatāra), (540) Kṛtāntakṛt (The destroyer of the finished work/death)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-58",
-    "verse_number": 65,
-    "original": "महावराहो गोविन्दः सुषेणः कनकाङ्गदी ।\nगुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः ॥",
-    "transliteration": "mahāvarāhō gōvindaḥ suṣēṇaḥ kanakāṅgadī |\nguhyō gambhīrō gahanō guptaś-cakragadādharaḥ ||",
-    "translations": {
-      "english": "(541) Mahāvarāhō (The Great Boar incarnation), (542) Gōvindaḥ (The protector of the cows/earth), (543) Suṣēṇaḥ (The one with a beautiful army), (544) Kanakāṅgadī (The one wearing golden armlets), (545) Guhyō (The secret/hidden one), (546) Gambhīrō (The deep/profound one), (547) Gahanō (The impenetrable), (548) Guptaḥ (The protected/concealed one), (549) Cakragadādharaḥ (The wielder of the discus and the mace)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-59",
-    "verse_number": 66,
-    "original": "वेधाः स्वाङ्गोऽजितः कृष्णो दृढः संकर्षणोऽच्युतः ।\nवरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः ॥",
-    "transliteration": "vēdhāḥ svāṅgō'jitaḥ kṛṣṇō dṛḍhaḥ saṅkarṣanō'cyutaḥ |\nvaruṇō vāruṇō vṛkṣaḥ puṣkarākṣō mahāmanāḥ ||",
-    "translations": {
-      "english": "(550) Vēdhāḥ (The creator), (551) Svāṅgō (The one whose limbs are self-originated/not dependent on others), (552) Ajitaḥ (The unconquered), (553) Kṛṣṇō (The dark-hued/all-attractive one), (554) Dṛḍhaḥ (The firm/steadfast), (555) Saṅkarṣanō (The one who draws creation back/or Balarāma), (556) Acyutaḥ (The infallible), (557) Varuṇō (The Lord of waters), (558) Vāruṇō (The son of Varuṇa, or relating to Varuṇa), (559) Vṛkṣaḥ (The tree/source of the universe), (560) Puṣkarākṣō (The lotus-eyed), (561) Mahāmanāḥ (The great-minded one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-60",
-    "verse_number": 67,
-    "original": "भगवान् भगहाऽऽनन्दी वनमाली हलायुधः ।\nआदित्यो दिति-नन्दनो भारभूः सत्कृतो ॥",
-    "transliteration": "bhagavān bhagahā''nandī vanamālī halāyudhaḥ |\nādityō ditinandanō bhārabhūḥ satkṛtō ||",
-    "translations": {
-      "english": "(562) Bhagavān (The possessor of six opulences), (563) Bhagahā (The destroyer of the six opulences during Pralaya, or the destroyer of misfortune), (564) Ānandī (The joyful one), (565) Vanamālī (The one wearing the forest garland), (566) Halāyudhaḥ (The one whose weapon is the plough, referring to Balarāma), (567) Ādityō (The son of Aditi/Sun God), (568) Diti-nandanō (The destroyer of the sons of Diti, i.e., Daityas/demons), (569) Bhārabhūḥ (The one who carries the burden of the earth), (570) Satkṛtō (The one who is well-honored)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-61",
-    "verse_number": 68,
-    "original": "सत्यं सत्य-परो मेधी मेधावी प्रिय-कृत् प्रियः ।\nअर्चिष्मान् अर्चितः कुम्भो विषमात्मा निरञ्जनः ॥",
-    "transliteration": "satyaṁ satya-parō mēdhī mēdhāvī priyakṛt priyaḥ |\narciṣmān arcitaḥ kumbhō viṣamātmā nirañjanaḥ ||",
-    "translations": {
-      "english": "(571) Satyaṁ (The truth), (572) Satya-parō (The one dedicated to truth), (573) Mēdhī (The performer of the great sacrifice), (574) Mēdhāvī (The intelligent one), (575) Priya-kṛt (The doer of good for devotees), (576) Priyaḥ (The beloved), (577) Arciṣmān (The luminous/resplendent one), (578) Arcitaḥ (The worshipped one), (579) Kumbhō (The jar/pitcher, or the measurer of time), (580) Viṣamātmā (The one whose Self is hard to attain for the wicked), (581) Nirañjanaḥ (The taintless/pure one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-62",
-    "verse_number": 69,
-    "original": "जनिता जननन्दाख्यो नृगामो मोह-नाशनः ।\nअसुर-घ्नो ज्ञान-गमो लोक-स्वामी त्रिलोक-धृक् ॥",
-    "transliteration": "janitā jananandākhyō nṛgāmō mōha-nāśanaḥ |\nasuraghnō jñānagamō lōkasvāmī trilōkadhṛk ||",
-    "translations": {
-      "english": "(582) Janitā (The progenitor), (583) Jananandākhyō (The delighter of the people), (584) Nṛgāmō (The goal of spiritual seekers), (585) Mōha-nāśanaḥ (The destroyer of delusion), (586) Asuraghnō (The slayer of the Asuras/demons), (587) Jñānagamō (The one who is attained by knowledge), (588) Lōkasvāmī (The Lord of the worlds), (589) Trilōkadhṛk (The supporter of the three worlds)."
-    }
-  },
-{
-    "id": "vishnu-stotram-63",
-    "verse_number": 70,
-    "original": "शुद्धात्मा परमः पद्मं परमः पद्म-निभेक्षणः ।\nपद्म-नाभोऽरविन्दाक्षः पद्म-गर्भः शरीर-भृत् ॥",
-    "transliteration": "śuddhātmā paramaḥ padmaṁ paramaḥ padma-nibhekṣaṇaḥ |\npadma-nābhō'ravindākṣaḥ padma-garbhaḥ śarīra-bhṛt ||",
-    "translations": {
-      "english": "(590) Śuddhātmā (The pure Self), (591) Paramaḥ (The Supreme one), (592) Padmam (The lotus, or the goal), (593) Paramah (The supremely great), (594) Padma-nibhekṣaṇaḥ (The one whose eyes resemble a lotus), (595) Padma-nābhō (The lotus-navelled one), (596) Aravindākṣaḥ (The lotus-eyed), (597) Padma-garbhaḥ (The one residing in the lotus-womb of the heart), (598) Śarīra-bhṛt (The sustainer of the bodies)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-64",
-    "verse_number": 71,
-    "original": "महर्द्धिर्ऋद्धो वृद्धात्मा महाक्षो गरुड-ध्वजः ।\nअतुलः शरभो भीमो समयज्ञो हविर्हरिः ॥",
-    "transliteration": "maharṣi-rṛddhō vṛddhātmā mahākṣō garuḍa-dhvajaḥ |\natulaḥ śarabho bhīmō samayajñō havir-hariḥ ||",
-    "translations": {
-      "english": "(599) Maharṣiḥ (The great sage, here repeated, possibly referring to wealth/manifestation), (600) Ṛddhō (The prosperous/expanded one), (601) Vṛddhātmā (The ancient Self), (602) Mahākṣō (The one with great eyes), (603) Garuḍa-dhvajaḥ (The one whose banner is Garuḍa), (604) Atulaḥ (The incomparable), (605) Śarabhō (A mythical animal stronger than a lion), (606) Bhīmō (The terrible/awe-inspiring), (607) Samayajñō (The knower of proper time/convention), (608) Havir (The sacrificial oblation), (609) Hariḥ (The remover of sins/sorrows)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-65",
-    "verse_number": 72,
-    "original": "सर्व-लक्षण-लक्षण्यो लक्ष्मीवान् समितिञ्जयः ।\nविक्षरो रोहितो मार्गो हेतुर्-दामोदरः सहः ॥",
-    "transliteration": "sarva-lakṣaṇa-lakṣaṇyō lakṣmīvān samitiñjayaḥ |\nvikṣarō rōhitō mārgō hētur-dāmōdaraḥ sahaḥ ||",
-    "translations": {
-      "english": "(610) Sarva-lakṣaṇa-lakṣaṇyō (The possessor of all auspicious signs), (611) Lakṣmīvān (The possessor of Lakshmi/glory), (612) Samitiñjayaḥ (The victorious in battle), (613) Vikṣarō (The non-perishing), (614) Rōhitō (The red-hued, or the fish), (615) Mārgō (The path/way), (616) Hētuḥ (The cause), (617) Dāmōdaraḥ (The one tied with a rope around the belly), (618) Sahaḥ (The tolerant/enduring one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-66",
-    "verse_number": 73,
-    "original": "महीधरो महा-भागो वेगवान् अमिताशनः ।\nउद्भवः क्षोभणो देवः श्री-गर्भः परमेश्वरः ॥",
-    "transliteration": "mahīdharaḥ mahā-bhāgō vēgavān amitāśanaḥ |\nudbhavaḥ kṣōbhaṇō dēvaḥ śrī-garbhaḥ paramēśvaraḥ ||",
-    "translations": {
-      "english": "(619) Mahīdharaḥ (The bearer of the earth), (620) Mahā-bhāgō (The supremely fortunate/glorious), (621) Vēgavān (The swift one), (622) Amitāśanaḥ (The immense eater at the time of Pralaya), (623) Udbhavaḥ (The origin), (624) Kṣōbhaṇō (The one who agitates creation), (625) Dēvaḥ (The shining one), (626) Śrī-garbhaḥ (The one in whose womb Śrī resides), (627) Paramēśvaraḥ (The Supreme Lord)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-67",
-    "verse_number": 74,
-    "original": "करणं कारणं कर्ता विकर्ता गहनो गुहः ।\nव्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ॥",
-    "transliteration": "karaṇaṁ kāraṇaṁ kartā vikartā gahanō guhaḥ |\nvyavasāyō vyavasthānaḥ saṁsthānaḥ sthānadō dhruvaḥ ||",
-    "translations": {
-      "english": "(628) Karaṇaṁ (The instrument/means), (629) Kāraṇaṁ (The ultimate cause), (630) Kartā (The doer/creator), (631) Vikartā (The one who creates variety), (632) Gahanō (The deep/unfathomable), (633) Guhaḥ (The hidden one), (634) Vyavasāyō (The resolute knowledge), (635) Vyavasthānaḥ (The established order), (636) Saṁsthānaḥ (The ultimate dissolution/place of rest), (637) Sthānadō (The giver of position/status), (638) Dhruvaḥ (The constant/firm one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-68",
-    "verse_number": 75,
-    "original": "परर्द्धिः परम-स्पष्टः तुष्टः पुष्टः शुभेक्षणः ।\nरामो विरामो विरतो मार्गो नेयो नयोऽनयः ॥",
-    "transliteration": "pararddhiḥ parama-spaṣṭaḥ tuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ |\nrāmō virāmō viratō mārgō nēyō nayō'nayaḥ ||",
-    "translations": {
-      "english": "(639) Pararddhiḥ (The one with supreme manifestations), (640) Parama-spaṣṭaḥ (The supremely clear/manifest), (641) Tuṣṭaḥ (The contented), (642) Puṣṭaḥ (The fully nourished/perfected), (643) Śubhekṣaṇaḥ (The one whose gaze is auspicious), (644) Rāmō (The delightful one), (645) Virāmō (The ultimate rest), (646) Virataḥ (The detached), (647) Mārgō (The path), (648) Nēyō (The guided one/object of guidance), (649) Nayō (The guide/policy), (650) Anayaḥ (The one who has no leader)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-69",
-    "verse_number": 76,
-    "original": "वीरः शक्तिमतां श्रेष्ठो धर्मो धर्म-विदुत्तमः ।\nवैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ॥",
-    "transliteration": "vīraḥ śaktimatāṁ śrēṣṭhō dharmō dharma-viduttamaḥ |\nvaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ ||",
-    "translations": {
-      "english": "(651) Vīraḥ (The heroic), (652) Śaktimatāṁ Śrēṣṭhō (The best among the powerful), (653) Dharmō (Dharma itself), (654) Dharma-viduttamaḥ (The best among those who know Dharma), (655) Vaikuṇṭhaḥ (The remover of obstacles, or the lord of Vaikuṇṭha), (656) Puruṣaḥ (The Supreme Person), (657) Prāṇaḥ (The life-force), (658) Prāṇadaḥ (The giver of life), (659) Praṇavaḥ (The sound 'Om'), (660) Pṛthuḥ (The vast/expanded one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-70",
-    "verse_number": 77,
-    "original": "हिरण्य-गर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ।\nऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ॥",
-    "transliteration": "hiraṇya-garbhaḥ śatrughnō vyāptō vāyur-adhōkṣajaḥ |\nṛtuḥ sudarśanaḥ kālaḥ paramēṣṭhī parigrahaḥ ||",
-    "translations": {
-      "english": "(661) Hiraṇya-garbhaḥ (The golden-wombed), (662) Śatrughnō (The destroyer of enemies), (663) Vyāptō (The pervasive), (664) Vāyuḥ (The wind), (665) Adhōkṣajaḥ (The one beyond the reach of the senses), (666) Ṛtuḥ (The season), (667) Sudarśanaḥ (The beautiful-seer, or the wielder of the Discus), (668) Kālaḥ (Time), (669) Paramēṣṭhī (The one residing in the highest seat), (670) Parigrahaḥ (The accepted/received one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-71",
-    "verse_number": 78,
-    "original": "उग्रः संवत्सरो दक्षो विश्रामो विश्व-दक्षिणः ।\nविस्तारः स्थावर-स्थाणुः प्रमाणं बीजमव्ययम् ॥",
-    "transliteration": "ugraḥ saṁvatsarō dakṣō viśrāmō viśva-dakṣiṇaḥ |\nvistāraḥ sthāvara-sthāṇuḥ pramāṇaṁ bījam-avyayam ||",
-    "translations": {
-      "english": "(671) Ugraḥ (The fierce one), (672) Saṁvatsarō (The year), (673) Dakṣō (The skillful one), (674) Viśrāmō (The resting place), (675) Viśva-dakṣiṇaḥ (The most efficient and generous in the universe), (676) Vistāraḥ (The expansion), (677) Sthāvara-sthāṇuḥ (The firm in the stationary creation), (678) Pramāṇaṁ (The authority/proof), (679) Bījam-avyayam (The inexhaustible seed)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-72",
-    "verse_number": 79,
-    "original": "अर्थोऽनर्थो महा-कोशो महा-भोगो महा-धनः ।\nअनिर्विण्णः स्थविष्ठोऽभूर् धर्म-यूपो महा-मखः ॥",
-    "transliteration": "arthō'narthō mahā-kōśō mahā-bhōgō mahā-dhanaḥ |\nanirviṇṇaḥ sthaviṣṭhō'bhūr-dharma-yūpō mahā-makhaḥ ||",
-    "translations": {
-      "english": "(680) Arthō (The object of desire), (681) Anarthō (The one who has no purpose for Himself), (682) Mahā-kōśō (The one with the great treasury/sheath), (683) Mahā-bhōgō (The one with great enjoyment/bliss), (684) Mahā-dhanaḥ (The one with great wealth), (685) Anirviṇṇaḥ (The non-despondent/never weary), (686) Sthaviṣṭhō (The immense/massive), (687) Abhūḥ (The unborn), (688) Dharma-yūpō (The sacrificial post of Dharma), (689) Mahā-makhaḥ (The great sacrifice)."
-    }
-  },
-{
-    "id": "vishnu-stotram-73",
-    "verse_number": 80,
-    "original": "नक्षत्र-नेमिर्-नक्षत्री क्षमः क्षामः समीहनः ।\nयज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतांगतिः ॥",
-    "transliteration": "nakṣatra-nēmir-nakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ |\nyajña ijyo mahejyaś-ca kratuḥ satraṁ satāṁ gatiḥ ||",
-    "translations": {
-      "english": "(690) Nakṣatra-nēmiḥ (The hub of the constellations), (691) Nakṣatrī (The lord of the stars/moon), (692) Kṣamaḥ (The capable/tolerant one), (693) Kṣāmaḥ (The destroyer of all at Pralaya), (694) Samīhanaḥ (The one whose endeavors are perfect), (695) Yajñaḥ (The sacrifice itself), (696) Ijyō (The worshipped one), (697) Mahējyaśca (The greatly worshipful one), (698) Kratuḥ (The ritual act), (699) Satraṁ (The extended sacrifice), (700) Satāṁ Gatiḥ (The goal of the virtuous)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-74",
-    "verse_number": 81,
-    "original": "सर्व-दर्शी विमुक्तात्मा सर्वज्ञो ज्ञान-मुत्तमम् ।\nसुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ॥",
-    "transliteration": "sarva-darśī vimuktātmā sarvajñō jñānam-uttamam |\nsuvrataḥ sumukhaḥ sūkṣmaḥ sughōṣaḥ sukhadaḥ suhṛt ||",
-    "translations": {
-      "english": "(701) Sarva-darśī (The all-seer), (702) Vimuktātmā (The eternally liberated Self), (703) Sarvajñō (The all-knower), (704) Jñānamuttamam (The Supreme Knowledge), (705) Suvrataḥ (The one with excellent vows), (706) Sumukhaḥ (The one with a pleasant face), (707) Sūkṣmaḥ (The subtle/minute), (708) Sughōṣaḥ (The one with an auspicious sound), (709) Sukhadaḥ (The giver of happiness), (710) Suhṛt (The benevolent friend)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-75",
-    "verse_number": 82,
-    "original": "मनोहरो जितक्रोधो वीर-बाहुर्-विदारणः ।\nस्वापनः स्ववशो व्यापी नैकात्मा नैक-कर्मकृत् ॥",
-    "transliteration": "manōharō jitakrōdhō vīra-bāhur-vidāraṇaḥ |\nsvāpanaḥ svavaśō vyāpī naikātmā naika-karmakṛt ||",
-    "translations": {
-      "english": "(711) Manōharō (The mind-stealer/attractive one), (712) Jitakrōdhō (The one who has conquered anger), (713) Vīra-bāhuḥ (The one with heroic arms), (714) Vidāraṇaḥ (The splitter/destroyer of demons), (715) Svāpanaḥ (The one who induces sleep/Māyā), (716) Svavaśō (The one under His own control), (717) Vyāpī (The pervasive one), (718) Naikātmā (The one Self but manifests as many), (719) Naika-karmakṛt (The one who performs many kinds of actions)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-76",
-    "verse_number": 83,
-    "original": "वत्सरो वत्सलो वत्सी रत्न-गर्भो धनेश्वरः ।\nधर्मगुब् धर्म-कृद् धर्मी सद-सत्-क्षरम् अक्षरम् ॥",
-    "transliteration": "vatsarō vatsalō vatsī ratna-garbhō dhanēśvaraḥ |\ndharmagup dharma-kṛd dharmī sad-asat kṣaram akṣaram ||",
-    "translations": {
-      "english": "(720) Vatsarō (The year/abode), (721) Vatsalō (The affectionate one), (722) Vatsī (The father/protector), (723) Ratna-garbhō (The one who holds gems in His womb), (724) Dhanēśvaraḥ (The Lord of wealth), (725) Dharmagup (The protector of Dharma), (726) Dharma-kṛt (The performer of Dharma), (727) Dharmī (The possessor of Dharma), (728) Sad-Asat (The manifest and unmanifest), (729) Kṣaram (The perishable), (730) Akṣaram (The imperishable)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-77",
-    "verse_number": 84,
-    "original": "अविज्ञाता सहस्रांशुर् विधाता कृत-लक्षणः ।\nगभस्ति-नेमिः सत्त्व-स्थः सिंहो भूत-महेश्वरः ॥",
-    "transliteration": "avijñātā sahasrāṁśur vidhātā kṛta-lakṣaṇaḥ |\ngabhasti-nēmiḥ sattva-sthaḥ siṁhō bhūta-mahēśvaraḥ ||",
-    "translations": {
-      "english": "(731) Avijñātā (The non-knower, as He is pure knowledge), (732) Sahasrāṁśuḥ (The thousand-rayed one/Sun), (733) Vidhātā (The dispensor/orderer), (734) Kṛta-lakṣaṇaḥ (The one with marks of auspiciousness), (735) Gabhasti-nēmiḥ (The center of the light rays), (736) Sattva-sthaḥ (The one abiding in purity/goodness), (737) Siṁhō (The lion), (738) Bhūta-mahēśvaraḥ (The great Lord of all beings)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-78",
-    "verse_number": 85,
-    "original": "आदि-देवो महा-देवो देवेशो देव-भृद्-गुरुः ।\nउत्तरॊ गोपतिर्-गोप्ता ज्ञान-गम्यः पुरातनः ॥",
-    "transliteration": "ādi-dēvō mahā-dēvō dēvēśō dēva-bhṛd-guruḥ |\nuttarō gōpatir-gōptā jñāna-gamyaḥ purātanaḥ ||",
-    "translations": {
-      "english": "(739) Ādi-dēvō (The primeval God), (740) Mahā-dēvō (The Great God), (741) Dēvēśō (The Lord of the Gods), (742) Dēva-bhṛd-guruḥ (The supporter and preceptor of the Gods), (743) Uttarō (The superior/transcendent one), (744) Gōpatiḥ (The protector of the earth/cows), (745) Gōptā (The protector/hider), (746) Jñāna-gamyaḥ (The one attained through knowledge), (747) Purātanaḥ (The ancient one)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-79",
-    "verse_number": 86,
-    "original": "शरीर-भूत-भृद् भोक्ता कपीन्द्रो भूरि-दक्षिणः ।\nसोमपोऽमृतपः सोमः पुरुजित् पुरु-सत्तमः ॥",
-    "transliteration": "śarīra-bhūta-bhṛd bhōktā kapīndrō bhūri-dakṣiṇaḥ |\nsōmapō'mṛtapaḥ sōmaḥ purujit puru-sattamaḥ ||",
-    "translations": {
-      "english": "(748) Śarīra-bhūta-bhṛt (The sustainer of the body and the elements), (749) Bhōktā (The enjoyer/experiencer), (750) Kapīndrō (The Lord of the monkeys/Rāma or Vāmana), (751) Bhūri-dakṣiṇaḥ (The giver of abundant gifts), (752) Sōmapō (The drinker of Soma juice), (753) Amṛtapaḥ (The drinker of nectar), (754) Sōmaḥ (The moon/pleasant one), (755) Purujit (The conqueror of many), (756) Puru-sattamaḥ (The best among many beings)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-80",
-    "verse_number": 87,
-    "original": "विनयो जयः सत्य-सन्धी दाशार्हः सात्वतांपतिः ।\nजीवो विनयिता साक्षी मुकुन्दोऽमित-विक्रमः ॥",
-    "transliteration": "vinayō jayaḥ satya-sandhī dāśārhaḥ sātvatāṁ-patiḥ |\njīvō vinayitā sākṣī mukundō'mita-vikramaḥ ||",
-    "translations": {
-      "english": "(757) Vinayō (The humble/remover of arrogance), (758) Jayaḥ (The victorious one), (759) Satya-sandhī (The one whose resolve is truth), (760) Dāśārhaḥ (The one who deserves the highest offering), (761) Sātvatāṁ-patiḥ (The Lord of the Sātvatas/devotees), (762) Jīvō (The life-principle/individual soul), (763) Vinayitā (The impeller of humility), (764) Sākṣī (The witness), (765) Mukundō (The giver of liberation), (766) Amita-vikramaḥ (The one of immeasurable valor)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-81",
-    "verse_number": 88,
-    "original": "अम्भो-निधिर्-अनन्तात्मा महो-दधि-शयोऽन्तकः ।\nअजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः ॥",
-    "transliteration": "ambhō-nidhir-anantātmā mahō-dadhi-śayō'ntakaḥ |\najō mahārhaḥ svābhāvyō jitāmitraḥ pramōdanaḥ ||",
-    "translations": {
-      "english": "(767) Ambhō-nidhiḥ (The reservoir of water/ocean), (768) Anantātmā (The boundless Self), (769) Mahō-dadhi-śayō (The one sleeping on the great ocean), (770) Antakaḥ (The terminator/ender), (771) Ajō (The unborn), (772) Mahārhaḥ (The highly worshipful), (773) Svābhāvyō (The one who exists by Himself), (774) Jitāmitraḥ (The conqueror of enemies), (775) Pramōdanaḥ (The supremely blissful)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-82",
-    "verse_number": 89,
-    "original": "आनन्दो नन्दनो नन्दः सत्य-धर्मा त्रिविक्रमः ।\nमहर्षिः कपिलाचार्यः कृतज्ञो मेदिनी-पतिः ॥",
-    "transliteration": "ānandō nandanō nandaḥ satya-dharmā tri-vikramaḥ |\nmaharṣiḥ kapilācāryaḥ kṛtajñō medinī-patiḥ ||",
-    "translations": {
-      "english": "(776) Ānandō (The bliss itself), (777) Nandanō (The delighter/joy-giver), (778) Nandaḥ (The treasure/one who is full of happiness), (779) Satya-dharmā (The one whose nature is truth and righteousness), (780) Tri-vikramaḥ (The one who took three immense strides), (781) Maharṣiḥ Kapilācāryaḥ (The great sage Kapila, the teacher), (782) Kṛtajñō (The knower of all actions/grateful one), (783) Medinī-patiḥ (The Lord of the earth)."
-    }
-  },
-{
-    "id": "vishnu-stotram-83",
-    "verse_number": 90,
-    "original": "त्रि-प-दस्-त्रिदशाध्यक्षो महा-शृङ्ग-कृतान्त-कृत् ।\nमहा-वराहो गोविन्दः सुषेणः कनकाङ्गदी ॥",
-    "transliteration": "tri-padas-tridaśādhyakṣō mahā-śṛṅga-kṛtānta-kṛt |\nmahā-varāhō gōvindaḥ suṣēṇaḥ kanakāṅgadī ||",
-    "translations": {
-      "english": "(784) Tri-padaḥ (The three-footed one/one with three strides), (785) Tridaśādhyakṣō (The controller of the three states/or the 30 Devas), (786) Mahā-śṛṅgaḥ (The one with a great horn, referring to Matsya Avatāra), (787) Kṛtānta-kṛt (The destroyer of the finished work/death), (788) Mahā-varāhō (The Great Boar incarnation), (789) Gōvindaḥ (The protector of the cows/earth), (790) Suṣēṇaḥ (The one with a beautiful army), (791) Kanakāṅgadī (The one wearing golden armlets)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-84",
-    "verse_number": 91,
-    "original": "गुह्यो गभीरो गहनो गुप्तश्-चक्र-गदा-धरः ।\nवेधाः स्वाङ्गोऽजितः कृष्णो दृढः संकर्षणोऽच्युतः ॥",
-    "transliteration": "guhyō gambhīrō gahanō guptaś-cakra-gadā-dharaḥ |\nvēdhāḥ svāṅgō'jitaḥ kṛṣṇō dṛḍhaḥ saṅkarṣanō'cyutaḥ ||",
-    "translations": {
-      "english": "(792) Guhyō (The secret/hidden one), (793) Gambhīrō (The deep/profound one), (794) Gahanō (The impenetrable), (795) Guptaḥ (The protected/concealed one), (796) Cakra-gadā-dharaḥ (The wielder of the discus and the mace), (797) Vēdhāḥ (The creator), (798) Svāṅgō (The one whose limbs are self-originated), (799) Ajitaḥ (The unconquered), (800) Kṛṣṇō (The dark-hued/all-attractive one), (801) Dṛḍhaḥ (The firm/steadfast), (802) Saṅkarṣanō (The one who draws creation back/or Balarāma), (803) Acyutaḥ (The infallible)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-85",
-    "verse_number": 92,
-    "original": "वरुणो वारुणो वृक्षः पुष्कराक्षो महा-मनाः ।\nभगवान् भगहाऽऽनन्दी वनमाली हलायुधः ॥",
-    "transliteration": "varuṇō vāruṇō vṛkṣaḥ puṣkarākṣō mahā-manāḥ |\nbhagavān bhagahā''nandī vanamālī halāyudhaḥ ||",
-    "translations": {
-      "english": "(804) Varuṇō (The Lord of waters), (805) Vāruṇō (The son of Varuṇa, or relating to Varuṇa), (806) Vṛkṣaḥ (The tree/source of the universe), (807) Puṣkarākṣō (The lotus-eyed), (808) Mahā-manāḥ (The great-minded one), (809) Bhagavān (The possessor of six opulences), (810) Bhagahā (The destroyer of misfortune), (811) Ānandī (The joyful one), (812) Vanamālī (The one wearing the forest garland), (813) Halāyudhaḥ (The one whose weapon is the plough)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-86",
-    "verse_number": 93,
-    "original": "आदित्यो दिति-नन्दनो भार-भूः सत्कृतो महान् ।\nसत्यं सत्य-परो मेधी मेधावी प्रिय-कृत् प्रियः ॥",
-    "transliteration": "ādityō diti-nandanō bhāra-bhūḥ satkṛtō mahān |\nsatyaṁ satya-parō mēdhī mēdhāvī priya-kṛt priyaḥ ||",
-    "translations": {
-      "english": "(814) Ādityō (The son of Aditi/Sun God), (815) Diti-nandanō (The destroyer of the sons of Diti/Daityas), (816) Bhāra-bhūḥ (The one who carries the burden of the earth), (817) Satkṛtō (The one who is well-honored), (818) Mahān (The great one), (819) Satyaṁ (The truth), (820) Satya-parō (The one dedicated to truth), (821) Mēdhī (The performer of the great sacrifice), (822) Mēdhāvī (The intelligent one), (823) Priya-kṛt (The doer of good for devotees), (824) Priyaḥ (The beloved)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-87",
-    "verse_number": 94,
-    "original": "अर्चिष्मान् अर्चितः कुम्भो विषमात्मा निरञ्जनः ।\nजनिता जन-नन्दाख्यो नृगामो मोह-नाशनः ॥",
-    "transliteration": "arciṣmān arcitaḥ kumbhō viṣamātmā nirañjanaḥ |\njanitā jana-nandākhyō nṛgāmō mōha-nāśanaḥ ||",
-    "translations": {
-      "english": "(825) Arciṣmān (The luminous/resplendent one), (826) Arcitaḥ (The worshipped one), (827) Kumbhō (The measurer of time), (828) Viṣamātmā (The one whose Self is hard to attain for the wicked), (829) Nirañjanaḥ (The taintless/pure one), (830) Janitā (The progenitor), (831) Jana-nandākhyō (The delighter of the people), (832) Nṛgāmō (The goal of spiritual seekers), (833) Mōha-nāśanaḥ (The destroyer of delusion)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-88",
-    "verse_number": 95,
-    "original": "असुर-घ्नो ज्ञान-गमो लोक-स्वामी त्रिलोक-धृक् ।\nशुद्धात्मा परमः पद्मं परमः पद्म-निभेक्षणः ॥",
-    "transliteration": "asura-ghnō jñāna-gamō lōka-svāmī trilōka-dhṛk |\nśuddhātmā paramaḥ padmaṁ paramaḥ padma-nibhekṣaṇaḥ ||",
-    "translations": {
-      "english": "(834) Asura-ghnō (The slayer of the Asuras/demons), (835) Jñāna-gamō (The one who is attained by knowledge), (836) Lōka-svāmī (The Lord of the worlds), (837) Trilōka-dhṛk (The supporter of the three worlds), (838) Śuddhātmā (The pure Self), (839) Paramaḥ (The Supreme one), (840) Padmam (The lotus, or the goal), (841) Paramaḥ (The supremely great), (842) Padma-nibhekṣaṇaḥ (The one whose eyes resemble a lotus)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-89",
-    "verse_number": 96,
-    "original": "पद्म-नाभोऽरविन्दाक्षः पद्म-गर्भः शरीर-भृत् ।\nमहर्द्धिर्-ऋद्धो वृद्धात्मा महाक्षो गरुड-ध्वजः ॥",
-    "transliteration": "padma-nābhō'ravindākṣaḥ padma-garbhaḥ śarīra-bhṛt |\nmaharṣi-rṛddhō vṛddhātmā mahākṣō garuḍa-dhvajaḥ ||",
-    "translations": {
-      "english": "(843) Padma-nābhō (The lotus-navelled one), (844) Aravindākṣaḥ (The lotus-eyed), (845) Padma-garbhaḥ (The one residing in the lotus-womb of the heart), (846) Śarīra-bhṛt (The sustainer of the bodies), (847) Maharṣiḥ (The great sage), (848) Ṛddhō (The prosperous/expanded one), (849) Vṛddhātmā (The ancient Self), (850) Mahākṣō (The one with great eyes), (851) Garuḍa-dhvajaḥ (The one whose banner is Garuḍa)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-90",
-    "verse_number": 97,
-    "original": "अतुलः शरभो भीमो समयज्ञो हविर्-हरिः ।\nसर्व-लक्षण-लक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥",
-    "transliteration": "atulaḥ śarabho bhīmō samayajñō havir-hariḥ |\nsarva-lakṣaṇa-lakṣaṇyō lakṣmīvān samitiñjayaḥ ||",
-    "translations": {
-      "english": "(852) Atulaḥ (The incomparable), (853) Śarabhō (The mythical powerful animal), (854) Bhīmō (The terrible/awe-inspiring), (855) Samayajñō (The knower of proper time/convention), (856) Havir (The sacrificial oblation), (857) Hariḥ (The remover of sins/sorrows), (858) Sarva-lakṣaṇa-lakṣaṇyō (The possessor of all auspicious signs), (859) Lakṣmīvān (The possessor of Lakshmi/glory), (860) Samitiñjayaḥ (The victorious in battle)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-91",
-    "verse_number": 98,
-    "original": "विक्षरो रोहितो मार्गो हेतुर्-दामोदरः सहः ।\nमहीधरो महा-भागो वेगवान् अमिताशनः ॥",
-    "transliteration": "vikṣarō rōhitō mārgō hētur-dāmōdaraḥ sahaḥ |\nmahīdharaḥ mahā-bhāgō vēgavān amitāśanaḥ ||",
-    "translations": {
-      "english": "(861) Vikṣarō (The non-perishing), (862) Rōhitō (The red-hued), (863) Mārgō (The path/way), (864) Hētuḥ (The cause), (865) Dāmōdaraḥ (The one tied with a rope around the belly), (866) Sahaḥ (The tolerant/enduring one), (867) Mahīdharaḥ (The bearer of the earth), (868) Mahā-bhāgō (The supremely fortunate/glorious), (869) Vēgavān (The swift one), (870) Amitāśanaḥ (The immense eater at the time of Pralaya)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-92",
-    "verse_number": 99,
-    "original": "उद्भवः क्षोभणो देवः श्री-गर्भः परमेश्वरः ।\nकरणं कारणं कर्ता विकर्ता गहनो गुहः ॥",
-    "transliteration": "udbhavaḥ kṣōbhaṇō dēvaḥ śrī-garbhaḥ paramēśvaraḥ |\nkaraṇaṁ kāraṇaṁ kartā vikartā gahanō guhaḥ ||",
-    "translations": {
-      "english": "(871) Udbhavaḥ (The origin), (872) Kṣōbhaṇō (The one who agitates creation), (873) Dēvaḥ (The shining one), (874) Śrī-garbhaḥ (The one in whose womb Śrī resides), (875) Paramēśvaraḥ (The Supreme Lord), (876) Karaṇaṁ (The instrument/means), (877) Kāraṇaṁ (The ultimate cause), (878) Kartā (The creator/doer), (879) Vikartā (The one who creates variety), (880) Gahanō (The deep/unfathomable), (881) Guhaḥ (The hidden one)."
-    }
-  },
-{
-    "id": "vishnu-stotram-93",
-    "verse_number": 100,
-    "original": "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ।\nपरर्द्धिः परम-स्पष्टस्-तुष्टः पुष्टः शुभेक्षणः ॥",
-    "transliteration": "vyavasāyō vyavasthānaḥ saṁsthānaḥ sthānadō dhruvaḥ |\npararddhiḥ parama-spaṣṭas-tuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ ||",
-    "translations": {
-      "english": "(882) Vyavasāyō (The resolute knowledge), (883) Vyavasthānaḥ (The established order), (884) Saṁsthānaḥ (The ultimate dissolution/place of rest), (885) Sthānadō (The giver of position/status), (886) Dhruvaḥ (The constant/firm one), (887) Pararddhiḥ (The one with supreme manifestations), (888) Parama-spaṣṭaḥ (The supremely clear/manifest), (889) Tuṣṭaḥ (The contented), (890) Puṣṭaḥ (The fully nourished/perfected), (891) Śubhekṣaṇaḥ (The one whose gaze is auspicious)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-94",
-    "verse_number": 101,
-    "original": "रामो विरामो विरतो मार्गो नेयो नयोऽनयः ।\nवीरः शक्तिमतां श्रेष्ठो धर्मो धर्म-विदुत्तमः ॥",
-    "transliteration": "rāmō virāmō viratō mārgō nēyō nayō'nayaḥ |\nvīraḥ śaktimatāṁ śrēṣṭhō dharmō dharma-viduttamaḥ ||",
-    "translations": {
-      "english": "(892) Rāmō (The delightful one), (893) Virāmō (The ultimate rest), (894) Virataḥ (The detached), (895) Mārgō (The path), (896) Nēyō (The object of guidance), (897) Nayō (The guide/policy), (898) Anayaḥ (The one who has no leader), (899) Vīraḥ (The heroic), (900) Śaktimatāṁ Śrēṣṭhō (The best among the powerful), (901) Dharmō (Dharma itself), (902) Dharma-viduttamaḥ (The best among those who know Dharma)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-95",
-    "verse_number": 102,
-    "original": "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ।\nहिरण्य-गर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥",
-    "transliteration": "vaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ |\nhiraṇya-garbhaḥ śatrughnō vyāptō vāyur-adhōkṣajaḥ ||",
-    "translations": {
-      "english": "(903) Vaikuṇṭhaḥ (The remover of obstacles, or the lord of Vaikuṇṭha), (904) Puruṣaḥ (The Supreme Person), (905) Prāṇaḥ (The life-force), (906) Prāṇadaḥ (The giver of life), (907) Praṇavaḥ (The sound 'Om'), (908) Pṛthuḥ (The vast/expanded one), (909) Hiraṇya-garbhaḥ (The golden-wombed), (910) Śatrughnō (The destroyer of enemies), (911) Vyāptō (The pervasive), (912) Vāyuḥ (The wind), (913) Adhōkṣajaḥ (The one beyond the reach of the senses)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-96",
-    "verse_number": 103,
-    "original": "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ।\nउग्रः संवत्सरो दक्षो विश्रामो विश्व-दक्षिणः ॥",
-    "transliteration": "ṛtuḥ sudarśanaḥ kālaḥ paramēṣṭhī parigrahaḥ |\nugraḥ saṁvatsarō dakṣō viśrāmō viśva-dakṣiṇaḥ ||",
-    "translations": {
-      "english": "(914) Ṛtuḥ (The season), (915) Sudarśanaḥ (The beautiful-seer, or the wielder of the Discus), (916) Kālaḥ (Time), (917) Paramēṣṭhī (The one residing in the highest seat), (918) Parigrahaḥ (The accepted/received one), (919) Ugraḥ (The fierce one), (920) Saṁvatsarō (The year), (921) Dakṣō (The skillful one), (922) Viśrāmō (The resting place), (923) Viśva-dakṣiṇaḥ (The most efficient and generous in the universe)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-97",
-    "verse_number": 104,
-    "original": "विस्तारः स्थावर-स्थाणुः प्रमाणं बीजमव्ययम् ।\nअर्थोऽनर्थो महा-कोशो महा-भोगो महा-धनः ॥",
-    "transliteration": "vistāraḥ sthāvara-sthāṇuḥ pramāṇaṁ bījam-avyayam |\narthō'narthō mahā-kōśō mahā-bhōgō mahā-dhanaḥ ||",
-    "translations": {
-      "english": "(924) Vistāraḥ (The expansion), (925) Sthāvara-sthāṇuḥ (The firm in the stationary creation), (926) Pramāṇaṁ (The authority/proof), (927) Bījam-avyayam (The inexhaustible seed), (928) Arthō (The object of desire), (929) Anarthō (The one who has no purpose for Himself), (930) Mahā-kōśō (The one with the great treasury/sheath), (931) Mahā-bhōgō (The one with great enjoyment/bliss), (932) Mahā-dhanaḥ (The one with great wealth)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-98",
-    "verse_number": 105,
-    "original": "अनिर्विण्णः स्थविष्ठोऽभूर् धर्म-यूपो महा-मखः ।\nनक्षत्र-नेमिर्-नक्षत्री क्षमः क्षामः समीहनः ॥",
-    "transliteration": "anirviṇṇaḥ sthaviṣṭhō'bhūr-dharma-yūpō mahā-makhaḥ |\nnakṣatra-nēmir-nakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ ||",
-    "translations": {
-      "english": "(933) Anirviṇṇaḥ (The non-despondent/never weary), (934) Sthaviṣṭhō (The immense/massive), (935) Abhūḥ (The unborn), (936) Dharma-yūpō (The sacrificial post of Dharma), (937) Mahā-makhaḥ (The great sacrifice), (938) Nakṣatra-nēmiḥ (The hub of the constellations), (939) Nakṣatrī (The lord of the stars/moon), (940) Kṣamaḥ (The capable/tolerant one), (941) Kṣāmaḥ (The destroyer of all at Pralaya), (942) Samīhanaḥ (The one whose endeavors are perfect)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-99",
-    "verse_number": 106,
-    "original": "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतांगतिः ।\nसर्व-दर्शी विमुक्तात्मा सर्वज्ञो ज्ञान-मुत्तमम् ॥",
-    "transliteration": "yajña ijyo mahejyaś-ca kratuḥ satraṁ satāṁ gatiḥ |\nsarva-darśī vimuktātmā sarvajñō jñānam-uttamam ||",
-    "translations": {
-      "english": "(943) Yajñaḥ (The sacrifice itself), (944) Ijyō (The worshipped one), (945) Mahējyaśca (The greatly worshipful one), (946) Kratuḥ (The ritual act), (947) Satraṁ (The extended sacrifice), (948) Satāṁ Gatiḥ (The goal of the virtuous), (949) Sarva-darśī (The all-seer), (950) Vimuktātmā (The eternally liberated Self), (951) Sarvajñō (The all-knower), (952) Jñānamuttamam (The Supreme Knowledge)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-100",
-    "verse_number": 107,
-    "original": "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ।\nमनोहरो जितक्रोधो वीर-बाहुर्-विदारणः ॥",
-    "transliteration": "suvrataḥ sumukhaḥ sūkṣmaḥ sughōṣaḥ sukhadaḥ suhṛt |\nmanōharō jitakrōdhō vīra-bāhur-vidāraṇaḥ ||",
-    "translations": {
-      "english": "(953) Suvrataḥ (The one with excellent vows), (954) Sumukhaḥ (The one with a pleasant face), (955) Sūkṣmaḥ (The subtle/minute), (956) Sughōṣaḥ (The one with an auspicious sound), (957) Sukhadaḥ (The giver of happiness), (958) Suhṛt (The benevolent friend), (959) Manōharō (The mind-stealer/attractive one), (960) Jitakrōdhō (The one who has conquered anger), (961) Vīra-bāhuḥ (The one with heroic arms), (962) Vidāraṇaḥ (The splitter/destroyer of demons)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-101",
-    "verse_number": 108,
-    "original": "स्वापनः स्ववशो व्यापी नैकात्मा नैक-कर्मकृत् ।\nवत्सरो वत्सलो वत्सी रत्न-गर्भो धनेश्वरः ॥",
-    "transliteration": "svāpanaḥ svavaśō vyāpī naikātmā naika-karmakṛt |\nvatsarō vatsalō vatsī ratna-garbhō dhanēśvaraḥ ||",
-    "translations": {
-      "english": "(963) Svāpanaḥ (The one who induces sleep/Māyā), (964) Svavaśō (The one under His own control), (965) Vyāpī (The pervasive one), (966) Naikātmā (The one Self but manifests as many), (967) Naika-karmakṛt (The one who performs many kinds of actions), (968) Vatsarō (The year/abode), (969) Vatsalō (The affectionate one), (970) Vatsī (The father/protector), (971) Ratna-garbhō (The one who holds gems in His womb), (972) Dhanēśvaraḥ (The Lord of wealth)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-102",
-    "verse_number": 109,
-    "original": "धर्मगुब् धर्म-कृद् धर्मी सद-सत्-क्षरम् अक्षरम् ।\nअविज्ञाता सहस्रांशुर् विधाता कृत-लक्षणः ॥",
-    "transliteration": "dharmagup dharma-kṛd dharmī sad-asat kṣaram akṣaram |\navijñātā sahasrāṁśur vidhātā kṛta-lakṣaṇaḥ ||",
-    "translations": {
-      "english": "(973) Dharmagup (The protector of Dharma), (974) Dharma-kṛt (The performer of Dharma), (975) Dharmī (The possessor of Dharma), (976) Sad-Asat (The manifest and unmanifest), (977) Kṣaram (The perishable), (978) Akṣaram (The imperishable), (979) Avijñātā (The non-knower, as He is pure knowledge), (980) Sahasrāṁśuḥ (The thousand-rayed one/Sun), (981) Vidhātā (The dispensor/orderer), (982) Kṛta-lakṣaṇaḥ (The one with marks of auspiciousness)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-103",
-    "verse_number": 110,
-    "original": "गभस्ति-नेमिः सत्त्व-स्थः सिंहो भूत-महेश्वरः ।\nआदि-देवो महा-देवो देवेशो देव-भृद्-गुरुः ॥",
-    "transliteration": "gabhasti-nēmiḥ sattva-sthaḥ siṁhō bhūta-mahēśvaraḥ |\nādi-dēvō mahā-dēvō dēvēśō dēva-bhṛd-guruḥ ||",
-    "translations": {
-      "english": "(983) Gabhasti-nēmiḥ (The center of the light rays), (984) Sattva-sthaḥ (The one abiding in purity/goodness), (985) Siṁhō (The lion), (986) Bhūta-mahēśvaraḥ (The great Lord of all beings), (987) Ādi-dēvō (The primeval God), (988) Mahā-dēvō (The Great God), (989) Dēvēśō (The Lord of the Gods), (990) Dēva-bhṛd-guruḥ (The supporter and preceptor of the Gods)."
-    }
-  },
-  {
-    "id": "vishnu-stotram-104",
-    "verse_number": 111,
-    "original": "उत्तरॊ गोपतिर्-गोप्ता ज्ञान-गम्यः पुरातनः ।\nशरीर-भूत-भृद् भोक्ता कपीन्द्रो भूरि-दक्षिणः ॥",
-    "transliteration": "uttarō gōpatir-gōptā jñāna-gamyaḥ purātanaḥ |\nśarīra-bhūta-bhṛd bhōktā kapīndrō bhūri-dakṣiṇaḥ ||",
-    "translations": {
-      "english": "(991) Uttarō (The superior/transcendent one), (992) Gōpatiḥ (The protector of the earth/cows), (993) Gōptā (The protector/hider), (994) Jñāna-gamyaḥ (The one attained through knowledge), (995) Purātanaḥ (The ancient one), (996) Śarīra-bhūta-bhṛt (The sustainer of the body and the elements), (997) Bhōktā (The enjoyer/experiencer), (998) Kapīndrō (The Lord of the monkeys/Vāmana), (999) Bhūri-dakṣiṇaḥ (The giver of abundant gifts), (1000) Padmanābha (A repeat name, often used as the 1000th name in some traditions, although in the text it is *Jīva* that is the 1000th, this list uses names from this shloka to complete the count)."
-  }
-}                
-            ]
+      "chapter_number": 1,
+      "name": "Sahasranama (The Thousand Names)",
+      "audioUrl": "https://archive.org/download/VishnuSahasranamam_MSS/Vishnu%20Sahasranamam.mp3",
+      "summary": "The main body of the stotra containing 1000 names (nāmās) of Lord Vishnu, detailing His attributes, qualities, actions, and cosmic roles.",
+      "verses_count": 1000,
+      "verses": [
+        {
+          "id": "vishnu-dhyanam-1",
+          "verse_number": 1,
+          "original": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।\nप्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥",
+          "transliteration": "śuklāmbara-dharaṁ viṣṇuṁ śaśivarṇaṁ caturbhujam |\nprasanna-vadanaṁ dhyāyet sarva-vighnopaśāntaye ||",
+          "translations": {
+            "english": "For the removal of all obstacles, I meditate on Vishnu—the all-pervading Lord—who is dressed in white, possesses the color of the moon, has four arms, and an ever-pleasant countenance."
+          }
+        },
+        {
+          "id": "vishnu-dhyanam-2",
+          "verse_number": 2,
+          "original": "यस्य द्विरदवक्त्राद्याः पारिषद्याः परः शतम् ।\nविघ्नं निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥",
+          "transliteration": "yasya dvirada-vaktrādyāḥ pāriṣadyāḥ paraḥ śatam |\nvighnaṁ nighnanti satataṁ viṣvaksenaṁ tamāśraye ||",
+          "translations": {
+            "english": "I seek refuge in Viśvaksena (the commander-in-chief of Vishnu's army), whose attendants, headed by Gajānana (Gaṇeśa), constantly remove all obstacles."
+          }
+        },
+        {
+          "id": "vishnu-purva-peethika-1",
+          "verse_number": 3,
+          "original": "व्यासंवसिष्ठनप्तारंशक्तेःपौत्रमल्मषम् ।\nपराशरात्मजं वन्दे शुकतातं तपोनधिम् ॥",
+          "transliteration": "vyāsaṁ vasiṣṭha-naptāraṁ śakteḥ pautram-akalmaṣam |\nparāśarātmajaṁ vande śuka-tātaṁ tapo-nidhim ||",
+          "translations": {
+            "english": "I bow to Veda Vyasa, the great-grandson of Vasistha, the grandson of Shakti, the faultless son of Parāśara, the father of Śuka, and the treasure of penance."
+          }
+        },
+        {
+          "id": "vishnu-purva-peethika-2",
+          "verse_number": 4,
+          "original": "व्यासयविष्णुरूपायव्यसरूपायविष्णवे ।\nनमोवैब्रह्मनधयेवसिष्ठायनमो नमः ॥",
+          "transliteration": "vyāsāya viṣṇu-rūpāya vyāsa-rūpāya viṣṇave |\nnamo vai brahma-nidhaye vasiṣṭhāya namo namaḥ ||",
+          "translations": {
+            "english": "My salutations to Vyāsa, who is an embodiment of Viṣṇu, and to Viṣṇu, who is in the form of Vyāsa. Salutations to the great treasure of Vedic knowledge, the one who belongs to the lineage of Vasiṣṭha."
+          }
+        },
+        {
+          "id": "vishnu-purva-peethika-3",
+          "verse_number": 5,
+          "original": "अविकारायशुद्धायनित्यायपरमात्मने ।\nसदैकरूपरूपायविष्णवेसर्वजिष्णवे ॥",
+          "transliteration": "avikārāya śuddhāya nityāya paramātmane |\nsadaika-rūpa-rūpāya viṣṇave sarva-jiṣṇave ||",
+          "translations": {
+            "english": "Salutations to Viṣṇu, who is changeless, pure, eternal, the Supreme Self (Paramātman), whose form is always uniform, and who is victorious over all."
+          }
+        },
+        {
+          "id": "vishnu-purva-peethika-4",
+          "verse_number": 6,
+          "original": "यस्यस्मरणमात्रेणजन्मसं सारबन्धनात् ।\nविमुच्यतेनमस्तस्मैविष्णवेप्रभविष्णवे ॥",
+          "transliteration": "yasya smaraṇa-mātreṇa janma-saṁ sāra-bandhanāt |\nvimucyate namas tasmai viṣṇave prabhaviṣṇave ||",
+          "translations": {
+            "english": "Salutations to that all-powerful Viṣṇu, by merely remembering whom one is freed from the bondage of the cycle of births and deaths (Saṁsāra)."
+          }
+        },
+        {
+          "id": "vishnu-purva-peethika-5",
+          "verse_number": 7,
+          "original": "ओंशान्ताकारंभुजगशयनंपद्मनाभंसु रेशम् ।\nविश्वाधारंगगनसदृशंमेघवर्णंशु भाङ्गम् ॥\nलक्ष्मीकान्तंकमलनयनंयोगिभिर्ध्यानगम्यम् ।\nवन्देविष्णुंभवभयहरं सर्वलोकैकनाथम् ॥",
+          "transliteration": "oṁ śāntākāraṁ bhujaga-śayanaṁ padmanābhaṁ sureśam |\nviśvādhāraṁ gagana-sadṛśaṁ megha-varṇaṁ śubhāṅgam ||\nlakṣmī-kāntaṁ kamala-nayanaṁ yogibhir-dhyāna-gamyam |\nvande viṣṇuṁ bhava-bhaya-haraṁ sarva-lokaika-nātham ||",
+          "translations": {
+            "english": "I bow to Viṣṇu, who has a serene form, who sleeps on the serpent (Adishesha), whose navel holds the lotus (Padmanābha), the Lord of the Devas, the support of the universe, who resembles the sky (in omnipresence), whose color is like a cloud, whose limbs are auspicious, the consort of Lakṣmī, whose eyes are like lotuses, who is realized by Yogis through meditation, the remover of the fear of worldly existence (Saṁsāra), and the sole master of all the worlds."
+          }
+        },
+        {
+          "id": "vishnu-stotram-1",
+          "verse_number": 8,
+          "original": "हरिःओम् ।\nविश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।\nभूतकृद् भूतभृद् भावो भूतात्मा भूतभावनः ॥",
+          "transliteration": "hariḥ om |\nviśvaṁ viṣṇur-vaṣaṭkārō bhūta-bhavya-bhavat-prabhuḥ |\nbhūta-kṛd bhūta-bhṛd bhāvō bhūtātmā bhūta-bhāvanaḥ ||",
+          "translations": {
+            "english": "Harih Om. (1) Viśva (The Universe), (2) Viṣṇu (The Pervader), (3) Vaṣaṭkāra (The performer of the Vaṣaṭ sacrificial rite), (4) Bhūta-bhavya-bhavat-prabhu (The Lord of past, present, and future), (5) Bhūtakṛt (The creator of all beings), (6) Bhūtabhṛt (The supporter of all beings), (7) Bhāva (The true existence/essence), (8) Bhūtātmā (The Self of all beings), (9) Bhūtabhāvana (The nourisher of all beings)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-2",
+          "verse_number": 9,
+          "original": "पूतात्मा परमात्मा च मुक्तानां परमा गतिः ।\nअव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥",
+          "transliteration": "pūtātmā paramātmā ca muktānāṁ paramā gatiḥ |\navyayaḥ puruṣaḥ sākṣī kṣetrajñō'kṣara eva ca ||",
+          "translations": {
+            "english": "(10) Pūtātmā (The pure soul), (11) Paramātmā (The Supreme Soul), (12) Muktānāṁ Paramā Gatiḥ (The supreme goal of the liberated ones), (13) Avyaya (The imperishable), (14) Puruṣa (The Supreme Person), (15) Sākṣī (The witness), (16) Kṣetrajña (The knower of the field/body), (17) Akṣara (The indestructible)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-3",
+          "verse_number": 10,
+          "original": "योगो योगविदां नेता प्रधानपुरुषेश्वरः ।\nनारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥",
+          "transliteration": "yōgō yōga-vidāṁ nētā pradhāna-puruṣēśvaraḥ |\nnārasiṁha-vapuḥ śrīmān kēśavaḥ puruṣōttamaḥ ||",
+          "translations": {
+            "english": "(18) Yōga (He who is the union itself), (19) Yōgavidāṁ Nētā (The guide of those who know Yoga), (20) Pradhāna-puruṣēśvaraḥ (The Lord of Pradhāna/Prakriti and Puruṣa/Cosmic Soul), (21) Nārasiṁha-vapuḥ (He whose form is the Man-Lion), (22) Śrīmān (He who possesses the divine glory/Śrī), (23) Kēśavaḥ (He who has beautiful hair, or the controller of Brahmā and Śiva), (24) Puruṣōttamaḥ (The Supreme among all beings)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-4",
+          "verse_number": 11,
+          "original": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः ।\nसम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥",
+          "transliteration": "sarvaḥ śarvaḥ śivaḥ sthāṇur-bhūtādir-nidhir-avyayaḥ |\nsambhavaḥ bhāvanō bhartā prabhavaḥ prabhur-īśvaraḥ ||",
+          "translations": {
+            "english": "(25) Sarvaḥ (He who is everything), (26) Śarvaḥ (The remover of the troubles of the devotees, or the source of happiness), (27) Śivaḥ (The auspicious one), (28) Sthāṇuḥ (The firm, unmoving, and eternal), (29) Bhūtādiḥ (The origin of all elements/beings), (30) Nidhir-avyayaḥ (The inexhaustible treasure), (31) Sambhavaḥ (He who is born out of His own will), (32) Bhāvanaḥ (The impeller/motivator of all), (33) Bhartā (The supporter of all), (34) Prabhavaḥ (The source of origin), (35) Prabhuḥ (The Omnipotent Lord), (36) Īśvaraḥ (The supreme ruler)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-5",
+          "verse_number": 12,
+          "original": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः ।\nअनादिनिधनो धाता विधाता धातुरुत्तमः ॥",
+          "transliteration": "svayambhūḥ śambhur-ādityaḥ puṣkarākṣō mahāsvanaḥ |\nanādi-nidhanō dhātā vidhātā dhātur-uttamaḥ ||",
+          "translations": {
+            "english": "(37) Svayambhūḥ (Self-born, existing by Himself), (38) Śambhuḥ (The bestower of happiness), (39) Ādityaḥ (The son of Aditi, or one who shines brightly), (40) Puṣkarākṣaḥ (The lotus-eyed one), (41) Mahāsvanaḥ (One with a mighty sound/voice—like the sound of the Vedas or the cosmic drum), (42) Anādi-nidhanō (He who has neither beginning nor end), (43) Dhātā (The creator and supporter), (44) Vidhātā (The dispenser of the results of actions), (45) Dhātur-uttamaḥ (The best of all sustainer/elements)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-6",
+          "verse_number": 13,
+          "original": "अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः ।\nविश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥",
+          "transliteration": "aprameyō hṛṣīkēśaḥ padmanābhō'mara-prabhuḥ |\nviśvakarmā manustvaṣṭā sthaviṣṭhaḥ sthavirō dhruvaḥ ||",
+          "translations": {
+            "english": "(46) Aprameyaḥ (He who is immeasurable/beyond proof), (47) Hṛṣīkēśaḥ (The master of the senses), (48) Padmanābhaḥ (The one with the lotus in the navel), (49) Amara-prabhuḥ (The Lord of the Immortals/Devas), (50) Viśvakarmā (The creator of the universe), (51) Manuḥ (The great thinker/Lawgiver), (52) Tvaṣṭā (The shaper of forms), (53) Sthaviṣṭhaḥ (The most gigantic/massive), (54) Sthavirō (The ancient one), (55) Dhruvaḥ (The permanent/unmoving/fixed one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-7",
+          "verse_number": 14,
+          "original": "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः ।\nप्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम् ॥",
+          "transliteration": "agrāhyaḥ śāśvataḥ kṛṣṇō lōhitākṣaḥ pratardanaḥ |\nprabhūtastri-kakubdhāma pavitraṁ maṅgalaṁ param ||",
+          "translations": {
+            "english": "(56) Agrāhyaḥ (He who cannot be grasped by the senses), (57) Śāśvataḥ (The eternal/ever-present), (58) Kṛṣṇaḥ (The dark-hued one, or the one who draws all creation to Himself), (59) Lōhitākṣaḥ (The red-eyed one), (60) Pratardanaḥ (The destroyer of all at the time of dissolution), (61) Prabhūtaḥ (The abundant/exalted one), (62) Tri-kakubdhāma (The support of the three regions/directions), (63) Pavitram (The pure and purifier), (64) Maṅgalaṁ Param (The Supreme auspiciousness)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-8",
+          "verse_number": 15,
+          "original": "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः ।\nहिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥",
+          "transliteration": "īśānaḥ prāṇadaḥ prāṇō jyēṣṭhaḥ śrēṣṭhaḥ prajāpatiḥ |\nhiraṇyagarbhō bhūgarbhō mādhāvō madhusūdanaḥ ||",
+          "translations": {
+            "english": "(65) Īśānaḥ (The ruler of all), (66) Prāṇadaḥ (The giver of life/strength), (67) Prāṇaḥ (The life-breath/vital energy), (68) Jyēṣṭhaḥ (The oldest/senior-most), (69) Śrēṣṭhaḥ (The most excellent), (70) Prajāpatiḥ (The master of all creatures), (71) Hiraṇyagarbhō (The one who is the golden source of the world), (72) Bhūgarbhō (The one who holds the earth within Himself), (73) Mādhāvaḥ (The consort of Mā, i.e., Lakshmi, or the Lord of knowledge), (74) Madhusūdanaḥ (The slayer of the demon Madhu)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-9",
+          "verse_number": 16,
+          "original": "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः ।\nअनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥",
+          "transliteration": "īśvarō vikramī dhanvī mēdhāvī vikramaḥ kramaḥ |\nanuttamō durādharṣaḥ kṛtajñaḥ kṛtir-ātmavān ||",
+          "translations": {
+            "english": "(75) Īśvarō (The controller), (76) Vikramī (The courageous/valiant), (77) Dhanvī (The wielder of the bow), (78) Mēdhāvī (The supremely intelligent), (79) Vikramaḥ (The one with great strides, or the conquering one), (80) Kramaḥ (The cosmic order, or the one who strides), (81) Anuttamō (The unsurpassed), (82) Durādharṣaḥ (The one who cannot be overcome), (83) Kṛtajñaḥ (The knower of all actions, or the grateful one who accepts the devotion of devotees), (84) Kṛtir-ātmavān (The action/creation itself, and the possessor of great wisdom/Self)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-10",
+          "verse_number": 17,
+          "original": "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः ।\nअहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥",
+          "transliteration": "surēśaḥ śaraṇaṁ śarma viśvarētāḥ prajābhavaḥ |\nahaḥ saṁvatsarō vyālaḥ pratyayaḥ sarvadarśanaḥ ||",
+          "translations": {
+            "english": "(85) Surēśaḥ (The Lord of the gods), (86) Śaraṇaṁ (The refuge/protector), (87) Śarma (The ultimate bliss/happiness), (88) Viśvarētāḥ (The seed of the universe), (89) Prajābhavaḥ (The origin of all beings), (90) Ahaḥ (The day, symbolizing illumination), (91) Saṁvatsarō (The year, symbolizing time), (92) Vyālaḥ (The non-slithering serpent, or one who accepts the unacceptables), (93) Pratyayaḥ (The one who is faith/trust), (94) Sarvadarśanaḥ (The all-seeing)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-11",
+          "verse_number": 18,
+          "original": "अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः ।\nवृषाकपिरमेयात्मा सर्वयोगविनिस्सृतः ॥",
+          "transliteration": "ajaḥ sarvēśvaraḥ siddhaḥ siddhiḥ sarvādir-acyutaḥ |\nvṛṣākapir-amēyātmā sarvayōga-vinissṛtaḥ ||",
+          "translations": {
+            "english": "(95) Ajaḥ (The unborn), (96) Sarvēśvaraḥ (The Lord of all), (97) Siddhaḥ (The accomplished/perfect one), (98) Siddhiḥ (The accomplishment/success itself), (99) Sarvādir (The beginning of all), (100) Acyutaḥ (The infallible/steadfast), (101) Vṛṣākapiḥ (The one who is Dharma/righteousness and Varāha/Boar incarnation, or the pure soul), (102) Amēyātmā (The one with an immeasurable Self), (103) Sarvayōga-vinissṛtaḥ (The one who is free from all bondage/attachments)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-12",
+          "verse_number": 19,
+          "original": "वसुर्वसुमनाः सत्यः समात्माऽसम्मितः समः ।\nअमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥",
+          "transliteration": "vasur-vasumanāḥ satyaḥ samātmā'sammitaḥ samaḥ |\namōghaḥ puṇḍarīkākṣō vṛṣakarmā vṛṣākṛtiḥ ||",
+          "translations": {
+            "english": "(104) Vasuḥ (The dwelling place of all, or the treasure), (105) Vasumanāḥ (The one with a pure mind/heart), (106) Satyaḥ (The truth), (107) Samātmā (The one whose Self is equal in all), (108) Asammitaḥ (The immeasurable), (109) Samaḥ (The non-dual/equal in all conditions), (110) Amōghaḥ (The one whose actions are never in vain), (111) Puṇḍarīkākṣō (The one whose eyes are like lotuses), (112) Vṛṣakarmā (The one whose actions are righteous/Dharma), (113) Vṛṣākṛtiḥ (The one whose form is of Dharma)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-13",
+          "verse_number": 20,
+          "original": "रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः ।\nअमृतः शाश्वतस्थाणुर्वरारोहो महातपाः ॥",
+          "transliteration": "rudrō bahuśirā babhrur-viśvayōniḥ śuciśravāḥ |\namṛtaḥ śāśvata-sthāṇur-varārōhō mahātapāḥ ||",
+          "translations": {
+            "english": "(114) Rudrō (The one who makes people weep at the time of dissolution, or the remover of distress), (115) Bahuśirā (The one with many heads), (116) Babhruḥ (The supporter of the worlds), (117) Viśvayōniḥ (The source of the universe), (118) Śuciśravāḥ (The one with pure, auspicious fame), (119) Amṛtaḥ (The immortal/nectar), (120) Śāśvata-sthāṇuḥ (The eternal and unmoving one), (121) Varārōhō (The most excellent refuge), (122) Mahātapāḥ (The one of great penance/austerity)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-14",
+          "verse_number": 21,
+          "original": "सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः ।\nवेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः ॥",
+          "transliteration": "sarvagaḥ sarvavid-bhānur-viṣvaksēnō janārdanaḥ |\nvēdō vēda-vid-avyaṅgō vēdāṅgō vēda-vit kaviḥ ||",
+          "translations": {
+            "english": "(123) Sarvagaḥ (The all-pervading), (124) Sarvavid-bhānuḥ (The all-knowing, luminous one), (125) Viṣvaksēnaḥ (The commander of the army—who overcomes all armies), (126) Janārdanaḥ (The one who grants refuge to people and is worshipped by them, or the tormentor of wicked people), (127) Vēdō (The Veda itself), (128) Vēda-vit (The knower of the Vedas), (129) Avyaṅgō (The one free of any defect/limitation), (130) Vēdāṅgō (The limbs/branches of the Vedas, such as Grammar, etc.), (131) Vēda-vit (The supreme interpreter of the Vedas), (132) Kaviḥ (The wise poet/seer)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-15",
+          "verse_number": 22,
+          "original": "लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः ।\nचतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥",
+          "transliteration": "lōkādhyakṣaḥ surādhyakṣō dharmādhyakṣaḥ kṛtākṛtaḥ |\ncaturātmā caturvyūhaś-caturdaṁṣṭraś-caturbhujaḥ ||",
+          "translations": {
+            "english": "(133) Lōkādhyakṣaḥ (The controller of all worlds), (134) Surādhyakṣō (The controller of the Devas), (135) Dharmādhyakṣaḥ (The controller of Dharma/righteousness), (136) Kṛtākṛtaḥ (The effect which is created, and the cause which is not created), (137) Caturātmā (The four-formed Self—referring to Vasudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha), (138) Caturvyūhaḥ (The one with the four emanations), (139) Caturdaṁṣṭraḥ (The one with four fangs, in His Vārāha/Boar form), (140) Caturbhujaḥ (The four-armed one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-16",
+          "verse_number": 23,
+          "original": "भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः ।\nअनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥",
+          "transliteration": "bhrājiṣṇur-bhōjanaṁ bhōktā sahiṣṇur-jagadādijaḥ |\nanaghō vijayō jētā viśvayōniḥ punarvasuḥ ||",
+          "translations": {
+            "english": "(141) Bhrājiṣṇuḥ (The supremely shining), (142) Bhōjanaṁ (The food/object of experience), (143) Bhōktā (The enjoyer/experiencer), (144) Sahiṣṇuḥ (The patient/forbearing one), (145) Jagadādijaḥ (He who was born before the world), (146) Anaghō (The sinless/pure one), (147) Vijayō (The victorious one), (148) Jētā (The conqueror), (149) Viśvayōniḥ (The cause of the universe), (150) Punarvasuḥ (The one who dwells again and again in the bodies)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-17",
+          "verse_number": 24,
+          "original": "उपेन्द्रो वामनः प्रांशुः अमोघः शुचिरूर्जितः ।\nअतीन्द्रः संग्रहः सर्गो धृतात्मा नियमो यमः ॥",
+          "transliteration": "upēndrō vāmanaḥ prāṁśuḥ amōghaḥ śucir-ūrjitaḥ |\natīndraḥ saṁgrahaḥ sargō dhṛtātmā niyamō yamaḥ ||",
+          "translations": {
+            "english": "(151) Upēndrō (The younger brother of Indra), (152) Vāmanaḥ (The dwarf-formed incarnation), (153) Prāṁśuḥ (The one of tall stature, who grew immensely as Vāmana), (154) Amōghaḥ (The fruitful/unfailing one), (155) Śuciḥ (The clean/pure one), (156) Ūrjitaḥ (The powerful/vigorous one), (157) Atīndraḥ (The one who surpasses Indra), (158) Saṁgrahaḥ (The collector/absorber of the universe at dissolution), (159) Sargō (The creation itself), (160) Dhṛtātmā (The self-controlled one), (161) Niyamō (The restraining law/rule), (162) Yamaḥ (The internal restraint/regulator)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-18",
+          "verse_number": 25,
+          "original": "वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः ।\nअतीन्द्रियो महामायो महोत्साहो महाबलः ॥",
+          "transliteration": "vēdyō vaidyah sadāyōgī vīrahā mādhāvō madhuḥ |\natīndriyō mahāmāyō mahōtsāhō mahābalaḥ ||",
+          "translations": {
+            "english": "(163) Vēdyō (The knowable truth), (164) Vaidyaḥ (The supreme knower/physician), (165) Sadāyōgī (The one who is always in union/meditation), (166) Vīrahā (The destroyer of heroic demons/or sins), (167) Mādhāvō (The Lord of Lakshmi), (168) Madhuḥ (The honey/sweetest one), (169) Atīndriyō (Beyond the reach of the senses), (170) Mahāmāyō (The master of the great cosmic illusion), (171) Mahōtsāhō (The one with great enthusiasm/energy), (172) Mahābalaḥ (The one with great strength)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-19",
+          "verse_number": 26,
+          "original": "महाबुद्धिर्महावीर्यो महाशक्तिर्महाद्युतिः ।\nअनिर्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक् ॥",
+          "transliteration": "mahābuddhir-mahā-vīryō mahāśaktir-mahādyutiḥ |\nanirdeśya-vapuḥ śrīmān-amēyātmā mahādridhṛk ||",
+          "translations": {
+            "english": "(173) Mahābuddhiḥ (The one with great intelligence), (174) Mahāvīryō (The one with great vigor/prowess), (175) Mahāśaktiḥ (The one with great power), (176) Mahādyutiḥ (The one with great splendor/lustre), (177) Anirdeśya-vapuḥ (The one whose form cannot be exactly defined), (178) Śrīmān (The possessor of Śrī/divine glory), (179) Amēyātmā (The one with an immeasurable Self), (180) Mahādridhṛk (The lifter of the great mountain—referencing Govardhana)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-20",
+          "verse_number": 27,
+          "original": "महेश्वासो महीभर्ता श्रीनिवासः सतां गतिः ।\nअनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः ॥",
+          "transliteration": "mahēśvāsō mahībhartā śrīnivāsaḥ satāṁ gatiḥ |\naniruddhaḥ surānandō gōvindō gōvidāṁ patiḥ ||",
+          "translations": {
+            "english": "(181) Mahēśvāsō (The possessor of the great bow), (182) Mahībhartā (The husband/sustainer of the earth), (183) Śrīnivāsaḥ (The abode of Śrī/Lakshmi), (184) Satāṁ Gatiḥ (The refuge/goal of the virtuous), (185) Aniruddhaḥ (The one who cannot be obstructed), (186) Surānandō (The joy of the Devas), (187) Gōvindō (The protector of the cows/earth, or the one knowable through the Vedas), (188) Gōvidāṁ Patiḥ (The Lord of those who know the Vedas)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-21",
+          "verse_number": 28,
+          "original": "मरीचिर्दमनो हंसः सुपर्णो भुजगोत्तमः ।\nहिरण्यनाभः सुतपाः पद्मनाभः प्रजापतिः ॥",
+          "transliteration": "marīcirdamanō haṁsaḥ suparṇō bhujagōttamaḥ |\nhiraṇyanābhaḥ sutapāḥ padmanābhaḥ prajāpatiḥ ||",
+          "translations": {
+            "english": "(189) Marīciḥ (The ray of light/lustre), (190) Damanō (The controller/subduer), (191) Haṁsaḥ (The swan/The purified soul), (192) Suparṇō (The beautiful-winged, referring to Garuḍa, or the pure self), (193) Bhujagōttamaḥ (The best of serpents, referring to Ādishesha on whom Vishnu reclines), (194) Hiraṇyanābhaḥ (The one with a golden navel), (195) Sutapāḥ (The one with excellent penance), (196) Padmanābhaḥ (The lotus-navelled one), (197) Prajāpatiḥ (The Lord of creatures)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-22",
+          "verse_number": 29,
+          "original": "अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः ।\nअजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ॥",
+          "transliteration": "amṛtyuḥ sarvadṛk siṁhaḥ sandhātā sandhimān sthiraḥ |\najō durmarṣaṇaḥ śāstā viśrutātmā surārihā ||",
+          "translations": {
+            "english": "(198) Amṛtyuḥ (The deathless), (199) Sarvadṛk (The all-seeing), (200) Siṁhaḥ (The lion, signifying strength and terror to the wicked), (201) Sandhātā (The regulator/unifier of actions and results), (202) Sandhimān (The one who is always connected to His devotees, or who has beneficial joints), (203) Sthiraḥ (The steady/firm one), (204) Ajō (The unborn), (205) Durmarṣaṇaḥ (The one who cannot be tolerated by demons), (206) Śāstā (The ruler/disciplinarian), (207) Viśrutātmā (The one with a widely known/famous Self), (208) Surārihā (The destroyer of the enemies of the Devas)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-23",
+          "verse_number": 30,
+          "original": "गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः ।\nनिमिषोऽनिमिषः स्रग्वी वाचस्पतिरुदारधीः ॥",
+          "transliteration": "gurur-gurutamō dhāma satyaḥ satya-parākramaḥ |\nnimiṣō'nimiṣaḥ sragvī vācaspatir-udāradhīḥ ||",
+          "translations": {
+            "english": "(209) Guruḥ (The teacher/preceptor), (210) Gurutamō (The greatest preceptor), (211) Dhāma (The light/support/abode), (212) Satyaḥ (The truth), (213) Satyaparākramaḥ (The one whose prowess is truth/unfailing), (214) Nimiṣō (The one who closes His eyes in Yoganidra), (215) Animiṣaḥ (The ever-awake, or the Devas who never wink), (216) Sragvī (The one who wears a garland, referring to the Vaijayanti garland), (217) Vācaspatiḥ (The master of speech/learning, or Lord of Veda), (218) Udāradhīḥ (The one with a noble/magnanimous mind)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-24",
+          "verse_number": 31,
+          "original": "अग्रणीर्ग्रामणीः श्रीमान् न्यायो नेता समीरणः ।\nसहस्रमूर्धा विश्वात्मा सहस्राक्षः सहस्रपात् ॥",
+          "transliteration": "agraṇīr-grāmaṇīḥ śrīmān nyāyō nētā samīraṇaḥ |\nsahasramūrdhā viśvātmā sahasrākṣaḥ sahasrapāt ||",
+          "translations": {
+            "english": "(219) Agraṇīḥ (The leader/foremost), (220) Grāmaṇīḥ (The leader of the flock/community of beings), (221) Śrīmān (The one possessing all prosperity), (222) Nyāyō (Justice/logic itself), (223) Nētā (The guide/leader), (224) Samīraṇaḥ (The impeller of vital airs/or the cosmic air), (225) Sahasramūrdhā (The one with a thousand heads), (226) Viśvātmā (The soul of the universe), (227) Sahasrakṣaḥ (The one with a thousand eyes), (228) Sahasrapāt (The one with a thousand feet)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-25",
+          "verse_number": 32,
+          "original": "आवर्तनो निवृत्तात्मा संवृतः सम्प्रमर्दनः ।\\nअहः संवर्तको वह्निरनिलो धरणीधरः ॥",
+          "transliteration": "āvartanō nivṛttātmā saṁvṛtaḥ sampramardanaḥ |\nahaḥ saṁvartakō vahniranilō dharaṇīdharaḥ ||",
+          "translations": {
+            "english": "(229) Āvartanō (The one who rotates the wheel of Saṁsāra), (230) Nivṛttātmā (The one whose Self is fully withdrawn from the bonds of the world), (231) Saṁvṛtaḥ (The one who is concealed/hidden by Māyā), (232) Sampramardanaḥ (The destroyer of the universe), (233) Ahaḥ Saṁvartakō (The one who causes the revolution of the day), (234) Vahniḥ (The carrier of offerings/the fire), (235) Anilaḥ (The air/wind, or the non-impeller/stable), (236) Dharaṇīdharaḥ (The supporter of the earth)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-26",
+          "verse_number": 33,
+          "original": "सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः ।\nसत्कर्ता सत्कृतः साधुर्जह्नुर्नारायणो नरः ॥",
+          "transliteration": "suprasādaḥ prasannātmā viśvadhṛg-viśvabhug-vibhuḥ |\nsatkārtā satkṛtaḥ sādhū jahnur-nārāyaṇō naraḥ ||",
+          "translations": {
+            "english": "(237) Suprasādaḥ (The supremely gracious one), (238) Prasannātmā (The one with a serene/pleased Self), (239) Viśvadhṛk (The supporter of the universe), (240) Viśvabhuk (The enjoyer/protector of the universe), (241) Vibhuḥ (The all-pervading/powerful), (242) Satkārtā (The one who honors the good), (243) Satkṛtaḥ (The one who is honored by the virtuous), (244) Sādhū (The righteous one), (245) Jahnuḥ (The one who leaves aside everything worldly), (246) Nārāyaṇō (The abode of men, or the one who resides in water), (247) Naraḥ (The leader/man/guide)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-27",
+          "verse_number": 34,
+          "original": "असंख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः ।\nसिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः ॥",
+          "transliteration": "asaṅkhyeyō'prameyātmā viśiṣṭaḥ śiṣṭakṛc-śuciḥ |\nsiddhārthaḥ siddhasaṅkalpaḥ siddhidaḥ siddhisādhanaḥ ||",
+          "translations": {
+            "english": "(248) Asaṅkhyeyaḥ (The one with innumerable names/forms), (249) Aprameyātmā (The one whose Self is immeasurable), (250) Viśiṣṭaḥ (The most distinguished/supreme), (251) Śiṣṭakṛt (The promulgator of discipline/order), (252) Śuciḥ (The pure one), (253) Siddhārthaḥ (The one whose goals are already achieved), (254) Siddhusaṅkalpaḥ (The one whose wishes are immediately fulfilled), (255) Siddhidaḥ (The giver of perfection/accomplishment), (256) Siddhisādhanaḥ (The means to attain perfection)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-28",
+          "verse_number": 35,
+          "original": "वृषाही वृषभो विष्णुर्वृषपर्वा वृषोदरः ।\nवर्धमानो वर्धमानो विविक्तः श्रुतिसागरः ॥",
+          "transliteration": "vṛṣāhī vṛṣabhō viṣṇur-vṛṣaparvā vṛṣōdaraḥ |\nvardhamanō vardhamanō viviktaḥ śruti-sāgaraḥ ||",
+          "translations": {
+            "english": "(257) Vṛṣāhī (The day of Dharma, or the one whose vehicle is Dharma), (258) Vṛṣabhō (The showerer of all desires, the great bull), (259) Viṣṇuḥ (The all-pervading), (260) Vṛṣaparvā (The one whose steps/stages are virtuous), (261) Vṛṣōdaraḥ (The one whose belly showers wealth/or absorbs all creation), (262) Vardhamanō (The one who grows/flourishes in the form of the universe), (263) Vardhamanaḥ (The enhancer of the prosperity of His devotees), (264) Viviktaḥ (The separated/distinct, referring to His transcendence), (265) Śruti-sāgaraḥ (The ocean of the Vedas)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-29",
+          "verse_number": 36,
+          "original": "सुभुजो दुर्धरो वाग्मी महेन्द्रो वसुदो वसुः ।\nनैकरूपो बृहद्रूपः शिपिविष्टः प्रकाशनः ॥",
+          "transliteration": "subhujō durdharō vāgmī mahēndrō vasudō vasuḥ |\nnaikarūpō bṛhadrūpaḥ śipiviṣṭaḥ prakāśanaḥ ||",
+          "translations": {
+            "english": "(266) Subhujō (The one with beautiful arms), (267) Durdharō (The one who is difficult to be sustained or grasped), (268) Vāgmī (The eloquent speaker/master of speech), (269) Mahēndrō (The great Indra, or the Lord of the great), (270) Vasudō (The giver of wealth), (271) Vasuḥ (The wealth itself, or the indweller of all), (272) Naikarūpō (The one of many forms), (273) Bṛhadrūpaḥ (The gigantic/vast formed one), (274) Śipiviṣṭaḥ (The one who is covered by rays, or residing in the sacrificial animal, or residing in the light), (275) Prakāśanaḥ (The luminous/illuminating one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-30",
+          "verse_number": 37,
+          "original": "ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः ।\nऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः ॥",
+          "transliteration": "ōjastējōdyutidharaḥ prakāśātmā pratāpanaḥ |\nṛddhaḥ spaṣṭākṣarō mantraś-candrāṁśur-bhāskaradyutiḥ ||",
+          "translations": {
+            "english": "(276) Ōjastējōdyutidharaḥ (The possessor of vitality, splendor, and brilliance), (277) Prakāśātmā (The one whose Self is pure illumination), (278) Pratāpanaḥ (The one who causes heat/torment to the wicked), (279) Ṛddhaḥ (The prosperous one), (280) Spaṣṭākṣarō (The one whose syllable/form is clearly manifest), (281) Mantraḥ (The sacred syllable/counsel), (282) Candrāṁśuḥ (The cool ray of the moon), (283) Bhāskaradyutiḥ (The radiance of the sun)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-31",
+          "verse_number": 38,
+          "original": "अमृतांशूद्भवो भानुः शशबिन्दुः सुरेश्वरः ।\nऔषधं जगतः सेतुः सत्यधर्मपराक्रमः ॥",
+          "transliteration": "amṛtāṁśūdbhavō bhānuḥ śaśabinduḥ surēśvaraḥ |\nauṣadhaṁ jagataḥ sētuḥ satyadharma-parākramaḥ ||",
+          "translations": {
+            "english": "(284) Amṛtāṁśūdbhavō (The source of the moon), (285) Bhānuḥ (The sun/illuminator), (286) Śaśabinduḥ (The moon, having a rabbit/mark on it), (287) Surēśvaraḥ (The Lord of the Devas), (288) Auṣadhaṁ (The medicine/remedy for Saṁsāra), (289) Jagataḥ Sētuḥ (The bridge that connects the world to liberation/Vaikuntha), (290) Satya-dharma-parākramaḥ (The one whose valor is based on truth and righteousness)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-32",
+          "verse_number": 39,
+          "original": "भूतभव्यभवन्नाथः पवनः पावनोऽनलः ।\nकामह कामकृत् कान्तः कामः कामप्रदः प्रभुः ॥",
+          "transliteration": "bhūta-bhavya-bhavan-nāthaḥ pavanaḥ pāvanō'nalaḥ |\nkāmahā kāmakṛt kāntaḥ kāmaḥ kāmapradaḥ prabhuḥ ||",
+          "translations": {
+            "english": "(291) Bhūta-bhavya-bhavan-nāthaḥ (The Lord of the past, present, and future), (292) Pavanaḥ (The wind/purifier), (293) Pāvanō (The sanctifier), (294) Analaḥ (The fire, or the one whose wealth is inexhaustible), (295) Kāmahā (The destroyer of desires), (296) Kāmakṛt (The creator of desires/or the fulfiller of desires), (297) Kāntaḥ (The charming/beautiful one), (298) Kāmaḥ (The desirable object/love itself), (299) Kāmapradaḥ (The bestower of desires/results), (300) Prabhuḥ (The supreme master)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-33",
+          "verse_number": 40,
+          "original": "युगादिकृद् युगावर्तो नैकमायो महाशनः ।\nअदृश्यो व्यक्तरूपश्च सहस्रजिदनन्तजित् ॥",
+          "transliteration": "yugādikṛd yugāvartō naika-māyō mahāśanaḥ |\nadṛśyō vyakta-rūpaśca sahasrajid-anantajit ||",
+          "translations": {
+            "english": "(301) Yugādikṛt (The creator of the Yugas/Epochs), (302) Yugāvartō (The one who revolves the Yugas), (303) Naika-māyō (The master of various kinds of Māyā/illusions), (304) Mahāśanaḥ (The great eater/devourer at the time of dissolution), (305) Adṛśyō (The invisible), (306) Vyakta-rūpaḥ (The one whose form is manifest), (307) Sahasrajit (The conqueror of thousands), (308) Anantajit (The eternal victor/conqueror of the infinite)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-34",
+          "verse_number": 41,
+          "original": "इष्टो विशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः ।\nक्रोधहा क्रोधकृत् कर्ता विश्वबाहुर्महीधरः ॥",
+          "transliteration": "iṣṭō viśiṣṭaḥ śiṣṭēṣṭaḥ śikhaṇḍī nahuṣō vṛṣaḥ |\nkrōdhahā krōdhakṛt kartā viśvabāhur-mahīdharaḥ ||",
+          "translations": {
+            "english": "(309) Iṣṭō (The one worshipped by sacrifice, or the beloved), (310) Viśiṣṭaḥ (The superior/eminent one), (311) Śiṣṭēṣṭaḥ (The one desired by the disciplined), (312) Śikhaṇḍī (The one who wears a crest or peacock feather), (313) Nahuṣō (The binder/one who ties beings to Saṁsāra), (314) Vṛṣaḥ (The showerer of desired boons), (315) Krōdhahā (The destroyer of anger), (316) Krōdhakṛt (The creator of anger in the wicked), (317) Kartā (The doer/creator), (318) Viśvabāhuḥ (The one whose arms are the universe), (319) Mahīdharaḥ (The sustainer of the earth/mountains)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-35",
+          "verse_number": 42,
+          "original": "अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः ।\nअपांनिधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः ॥",
+          "transliteration": "acyutaḥ prathitaḥ prāṇaḥ prāṇadō vāsavānujaḥ |\napāṁ-nidhir-adhiṣṭhānam-apramattaḥ pratiṣṭhitaḥ ||",
+          "translations": {
+            "english": "(320) Acyutaḥ (The infallible/steadfast), (321) Prathitaḥ (The famous/celebrated one), (322) Prāṇaḥ (The life-force), (323) Prāṇadō (The giver of life), (324) Vāsavānujaḥ (The younger brother of Indra/Vāsava, referring to Vāmana), (325) Apāṁ Nidhiḥ (The reservoir of water/ocean), (326) Adhiṣṭhānam (The basis/support of the universe), (327) Apramattaḥ (The attentive/vigilant one), (328) Pratiṣṭhitaḥ (The one who is firmly established)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-36",
+          "verse_number": 43,
+          "original": "स्कन्दः स्कन्दधरो धुर्यो वरदो वायुवाहनः ।\nवासुदेवो बृहद्भानुरादिदेवः पुरन्दरः ॥",
+          "transliteration": "skandaḥ skandadharō dhuryō varadō vāyuvāhanaḥ |\nvāsudēvō bṛhadbhānur-ādidēvaḥ purandaraḥ ||",
+          "translations": {
+            "english": "(329) Skandaḥ (The flowing/gushing one), (330) Skandadharō (The supporter of the cosmic flow/or the body), (331) Dhuryō (The bearer of the burden of the world), (332) Varadō (The giver of boons), (333) Vāyuvāhanaḥ (The one who makes the wind/air move), (334) Vāsudēvō (The son of Vasudeva, or the one who dwells in all beings), (335) Bṛhadbhānuḥ (The one with great radiance), (336) Ādidēvaḥ (The primeval God), (337) Purandaraḥ (The destroyer of cities/forts)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-37",
+          "verse_number": 44,
+          "original": "अशोकस्तारणस्तारः शूरः शौरिर्जनेश्वरः ।\nअनुकूलः शतावर्तः पद्मी पद्मनिभेक्षणः ॥",
+          "transliteration": "aśōkastāraṇastāraḥ śūraḥ śaurir-janēśvaraḥ |\nanukūlaḥ śatāvarttaḥ padmī padma-nibhekṣaṇaḥ ||",
+          "translations": {
+            "english": "(338) Aśōkaḥ (The sorrowless one), (339) Tāraṇaḥ (The one who helps others cross Saṁsāra/ocean), (340) Tāraḥ (The star, or the ferryman), (341) Śūraḥ (The valiant one), (342) Śauriḥ (The son of Śūra, or the one born in the Yadu dynasty), (343) Janēśvaraḥ (The Lord of the people), (344) Anukūlaḥ (The favorably disposed to devotees), (345) Śatāvarttaḥ (The one with hundreds of revolutions/incarnations), (346) Padmī (The one who holds the lotus), (347) Padma-nibhekṣaṇaḥ (The lotus-eyed one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-38",
+          "verse_number": 45,
+          "original": "पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत् ।\nमहर्द्धिर्ऋद्धो वृद्धात्मा महाक्षो गरुडध्वजः ॥",
+          "transliteration": "padmanābhō'ravindākṣaḥ padmagarbhaḥ śarīrabhṛt |\nmahā-rddhir-ṛddhō vṛddhātmā mahākṣō garuḍadhvajaḥ ||",
+          "translations": {
+            "english": "(348) Padmanābhaḥ (The lotus-navelled one), (349) Aravindākṣaḥ (The lotus-eyed one), (350) Padmagarbhaḥ (The one residing in the lotus of the heart), (351) Śarīrabhṛt (The supporter of bodies), (352) Mahā-ṛddhiḥ (The one possessing great prosperity/wealth), (353) Ṛddhō (The one who has expanded into the universe), (354) Vṛddhātmā (The ancient Self), (355) Mahākṣō (The one with great eyes), (356) Garuḍadhvajaḥ (The one whose banner is Garuḍa)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-39",
+          "verse_number": 46,
+          "original": "अतुलः शरभो भीमो समयज्ञो हविर्हरिः ।\nसर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥",
+          "transliteration": "atulaḥ śarabho bhīmō samayajñō havir-hariḥ |\nsarva-lakṣaṇa-lakṣaṇyō lakṣmīvān samitiñjayaḥ ||",
+          "translations": {
+            "english": "(357) Atulaḥ (The incomparable), (358) Śarabhō (The mythical animal superior to a lion/elephant, signifying power), (359) Bhīmō (The terrible/awe-inspiring), (360) Samayajñō (The knower of proper time, or one whose worship is based on tradition), (361) Havir (The sacrificial offering), (362) Hariḥ (The remover of sins/sorrows), (363) Sarva-lakṣaṇa-lakṣaṇyō (The possessor of all auspicious signs), (364) Lakṣmīvān (The possessor of wealth/Lakshmi), (365) Samitiñjayaḥ (The victorious in battle)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-40",
+          "verse_number": 47,
+          "original": "विक्षरो रोहितो मार्गो हेतुर्दामोदरः सहः ।\nमहीधरो महाभागो वेगवानमिताशनः ॥",
+          "transliteration": "vikṣarō rōhitō mārgō hētur-dāmōdaraḥ sahaḥ |\nmahīdharaḥ mahābhāgō vēgavān-amitāśanaḥ ||",
+          "translations": {
+            "english": "(366) Vikṣarō (The non-perishable), (367) Rōhitō (The red-hued one), (368) Mārgō (The path/way), (369) Hētuḥ (The cause/root of all), (370) Dāmōdaraḥ (The one whose belly was tied with a rope by Yasoda), (371) Sahaḥ (The tolerant/enduring one), (372) Mahīdharaḥ (The bearer of the earth), (373) Mahābhāgō (The most fortunate/glorious), (374) Vēgavān (The swift one), (375) Amitāśanaḥ (The immense eater at dissolution)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-41",
+          "verse_number": 48,
+          "original": "उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः ।\nकरणं कारणं कर्ता विकर्ता गहनो गुहः ॥",
+          "transliteration": "udbhavaḥ kṣōbhaṇō dēvaḥ śrīgarbhaḥ paramēśvaraḥ |\nkaraṇaṁ kāraṇaṁ kartā vikartā gahanō guhaḥ ||",
+          "translations": {
+            "english": "(376) Udbhavaḥ (The source/origin of the universe), (377) Kṣōbhaṇō (The one who agitates Prakriti/nature), (378) Dēvaḥ (The shining one/God), (379) Śrīgarbhaḥ (The one in whose womb Śrī/glory resides), (380) Paramēśvaraḥ (The Supreme Lord), (381) Karaṇaṁ (The instrument/means of action), (382) Kāraṇaṁ (The cause of creation), (383) Kartā (The creator/doer), (384) Vikartā (The one who creates variety in the universe), (385) Gahanō (The deep/unfathomable), (386) Guhaḥ (The hidden one, or the one residing in the cave of the heart)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-42",
+          "verse_number": 49,
+          "original": "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ।\nपरर्द्धिः परमस्पष्टस्तुष्टः पुष्टः शुभेक्षणः ॥",
+          "transliteration": "vyavasāyō vyavasthānaḥ saṁsthānaḥ sthānadō dhruvaḥ |\npararddhiḥ paramaspaṣṭas-tuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ ||",
+          "translations": {
+            "english": "(387) Vyavasāyō (The resolute/determinate knowledge), (388) Vyavasthānaḥ (The established order/dispensation), (389) Saṁsthānaḥ (The ultimate dissolution/place of rest), (390) Sthānadō (The giver of position/status to devotees), (391) Dhruvaḥ (The constant/immovable), (392) Pararddhiḥ (The one with supreme manifestations/wealth), (393) Paramaspaṣṭaḥ (The supremely clear/manifest), (394) Tuṣṭaḥ (The contented one), (395) Puṣṭaḥ (The fully nourished/perfect one), (396) Śubhekṣaṇaḥ (The one whose gaze is auspicious)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-43",
+          "verse_number": 50,
+          "original": "रामो विरामो विरतो मार्गो नेयो नयोऽनयः ।\nवीरः शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः ॥",
+          "transliteration": "rāmō virāmō viratō mārgō nēyō nayō'nayaḥ |\nvīraḥ śaktimatāṁ śrēṣṭhō dharmō dharmaviduttamaḥ ||",
+          "translations": {
+            "english": "(397) Rāmō (The delightful one, or Lord Rāma), (398) Virāmō (The cessation of all suffering, or the ultimate rest), (399) Virataḥ (The detached one), (400) Mārgō (The path to liberation), (401) Nēyō (The one who is led or guided by the devotees), (402) Nayō (The righteous conduct/policy), (403) Anayaḥ (The one who has no master/leader), (404) Vīraḥ (The heroic/valiant), (405) Śaktimatāṁ Śrēṣṭhō (The best among the powerful), (406) Dharmō (Dharma/righteousness itself), (407) Dharmaviduttamaḥ (The best among those who know Dharma)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-44",
+          "verse_number": 51,
+          "original": "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ।\nहिरण्यगर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥",
+          "transliteration": "vaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ |\nhiraṇyagarbhaḥ śatrughnō vyāptō vāyur-adhōkṣajaḥ ||",
+          "translations": {
+            "english": "(408) Vaikuṇṭhaḥ (The one who removes all obstacles, or the lord of Vaikuṇṭha), (409) Puruṣaḥ (The Supreme Person), (410) Prāṇaḥ (The life-force), (411) Prāṇadō (The giver of life), (412) Praṇavaḥ (The sacred syllable 'Om'), (413) Pṛthuḥ (The expanded one), (414) Hiraṇyagarbhaḥ (The golden-wombed, the source of creation), (415) Śatrughnō (The destroyer of enemies), (416) Vyāptō (The pervasive one), (417) Vāyuḥ (The wind/vital air), (418) Adhōkṣajaḥ (The one whose knowledge never descends, or who is beyond the senses)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-45",
+          "verse_number": 52,
+          "original": "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ।\nउग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः ॥",
+          "transliteration": "ṛtuḥ sudarśanaḥ kālaḥ paramēṣṭhī parigrahaḥ |\nugraḥ saṁvatsarō dakṣō viśrāmō viśva-dakṣiṇaḥ ||",
+          "translations": {
+            "english": "(419) Ṛtuḥ (The season), (420) Sudarśanaḥ (The beautiful-seer, or the wielder of the Sudarśana Chakra), (421) Kālaḥ (Time itself), (422) Paramēṣṭhī (The one residing in the highest seat), (423) Parigrahaḥ (The accepted/received one, or the one who is everything), (424) Ugraḥ (The formidable/fierce one), (425) Saṁvatsarō (The year), (426) Dakṣō (The skillful/efficient one), (427) Viśrāmō (The resting place), (428) Viśva-dakṣiṇaḥ (The one who is expert and liberal in all cosmic affairs)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-46",
+          "verse_number": 53,
+          "original": "विस्तारः स्थावरस्थाणुः प्रमाणं बीजमव्ययम् ।\nअर्थोऽनर्थो महाकोशो महाभोगो महाधनः ॥",
+          "transliteration": "vistāraḥ sthāvara-sthāṇuḥ pramāṇaṁ bījam-avyayam |\narthō'narthō mahākōśō mahābhōgō mahādhanaḥ ||",
+          "translations": {
+            "english": "(429) Vistāraḥ (The expansion/vastness), (430) Sthāvara-Sthāṇuḥ (The firm and immovable one in the stationary creation), (431) Pramāṇaṁ (The authority/proof), (432) Bījam-avyayam (The inexhaustible seed), (433) Arthō (The object of desire/wealth), (434) Anarthō (The one who has no purpose for Himself, being complete), (435) Mahākōśō (The one with the great sheath/treasury), (436) Mahābhōgō (The one with great enjoyment/bliss), (437) Mahādhanaḥ (The one with great wealth)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-47",
+          "verse_number": 54,
+          "original": "अनिर्विण्णः स्थविष्ठोऽभूर्धर्मयूपो महामखः ।\nनक्षत्रनेमिर्नक्षत्री क्षमः क्षामः समीहनः ॥",
+          "transliteration": "anirviṇṇaḥ sthaviṣṭhō'bhūr-dharmayūpō mahāmakhaḥ |\nnakṣatranēmir-nakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ ||",
+          "translations": {
+            "english": "(438) Anirviṇṇaḥ (The non-despondent/never weary), (439) Sthaviṣṭhō (The immensely huge), (440) Abhūḥ (The unborn), (441) Dharmayūpō (The sacrificial post of Dharma), (442) Mahāmakhaḥ (The great sacrifice), (443) Nakṣatranēmiḥ (The hub of the constellations), (444) Nakṣatrī (The lord of the stars/moon), (445) Kṣamaḥ (The capable/tolerant one), (446) Kṣāmaḥ (The destroyer of all at Pralaya), (447) Samīhanaḥ (The one whose endeavors are perfect/auspicious)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-48",
+          "verse_number": 55,
+          "original": "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतांगतिः ।\nसर्वदर्शी विमुक्तत्मा सर्वज्ञो ज्ञानमुत्तमम् ॥",
+          "transliteration": "yajña ijyo mahejyaś-ca kratuḥ satraṁ satāṁ gatiḥ |\nsarvadarśī vimuktātmā sarvajñō jñānam-uttamam ||",
+          "translations": {
+            "english": "(448) Yajñaḥ (The sacrifice itself), (449) Ijyō (The one who is worshipped through sacrifice), (450) Mahējyaśca (The greatly worshipful one), (451) Kratuḥ (The ritual act), (452) Satraṁ (The extended sacrifice, or the protector of the good), (453) Satāṁ Gatiḥ (The goal of the virtuous), (454) Sarvadarśī (The all-seer), (455) Vimuktātmā (The eternally liberated Self), (456) Sarvajñō (The all-knower), (457) Jñānamuttamam (The Supreme Knowledge)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-49",
+          "verse_number": 56,
+          "original": "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ।\nमनोहरो जितक्रोधो वीरबाहुर्विदारणः ॥",
+          "transliteration": "suvrataḥ sumukhaḥ sūkṣmaḥ sughōṣaḥ sukhadaḥ suhṛt |\nmanōharō jitakrōdhō vīrabāhur-vidāraṇaḥ ||",
+          "translations": {
+            "english": "(458) Suvrataḥ (The one with excellent vows/resolves), (459) Sumukhaḥ (The one with a pleasant face), (460) Sūkṣmaḥ (The subtle/minute one), (461) Sughōṣaḥ (The one with an auspicious/beautiful sound), (462) Sukhadaḥ (The giver of happiness), (463) Suhṛt (The benevolent friend), (464) Manōharō (The mind-stealer/attractive one), (465) Jitakrōdhō (The one who has conquered anger), (466) Vīrabāhuḥ (The one with heroic arms), (467) Vidāraṇaḥ (The splitter/destroyer of demons)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-50",
+          "verse_number": 57,
+          "original": "स्वापनः स्ववशो व्यापी नैकात्मा नैककर्मकृत् ।\nवत्सरो वत्सलो वत्सी रत्नगर्भो धनेश्वरः ॥",
+          "transliteration": "svāpanaḥ svavaśō vyāpī naikātmā naikakarmakṛt |\nvatsarō vatsalō vatsī ratnagarbhō dhanēśvaraḥ ||",
+          "translations": {
+            "english": "(468) Svāpanaḥ (The one who induces sleep/Māyā), (469) Svavaśō (The one under His own control), (470) Vyāpī (The pervasive one), (471) Naikātmā (The one Self but manifests as many), (472) Naikakarmakṛt (The one who performs many kinds of actions/creations), (473) Vatsarō (The abode, or the year), (474) Vatsalō (The affectionate one, especially towards devotees), (475) Vatsī (The father/protector, having offspring), (476) Ratnagarbhō (The one who holds gems in His womb, referring to the ocean or earth), (477) Dhanēśvaraḥ (The Lord of wealth)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-51",
+          "verse_number": 58,
+          "original": "धर्मगुब् धर्मकृद् धर्मी सदसत्क्षरमक्षरम् ।\nअविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः ॥",
+          "transliteration": "dharmagub dharmakṛd dharmī sad-asat kṣaram-akṣaram |\navijñātā sahasrāṁśur-vidhātā kṛtalakṣaṇaḥ ||",
+          "translations": {
+            "english": "(478) Dharmagup (The protector of Dharma), (479) Dharmakṛt (The performer of Dharma), (480) Dharmī (The possessor of Dharma), (481) Sad-Asat (The manifest and unmanifest), (482) Kṣaram-Akṣaram (The perishable and the imperishable), (483) Avijñātā (The non-knower, as He is pure knowledge itself), (484) Sahasrāṁśuḥ (The thousand-rayed one/Sun), (485) Vidhātā (The dispensor/orderer), (486) Kṛtalakṣaṇaḥ (The one who has marks of auspiciousness, or who creates the marks of the Vedas)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-52",
+          "verse_number": 59,
+          "original": "गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः ।\nआदिदेवो महादेवो देवेशो देवभृद् गुरुः ॥",
+          "transliteration": "gabhastinēmiḥ sattvasthaḥ siṁhō bhūtamaheśvaraḥ |\nādidēvō mahādēvō dēvēśō dēvabhṛd guruḥ ||",
+          "translations": {
+            "english": "(487) Gabhastinēmiḥ (The center of the light rays, or the sun's orb), (488) Sattvasthaḥ (The one abiding in purity/goodness), (489) Siṁhō (The lion), (490) Bhūtamaheśvaraḥ (The great Lord of all beings), (491) Ādidēvō (The primeval God), (492) Mahādēvō (The Great God), (493) Dēvēśō (The Lord of the Gods), (494) Dēvabhṛd (The supporter of the Gods), (495) Guruḥ (The preceptor/heavy one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-53",
+          "verse_number": 60,
+          "original": "उत्तरॊ गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः ।\nशरीरभूतभृद् भोक्ता कपीन्द्रो भूरिदक्षिणः ॥",
+          "transliteration": "uttarō gōpatir-gōptā jñānagamyah purātanaḥ |\nśarīrabhūtabhṛd bhōktā kapīndrō bhūridakṣiṇaḥ ||",
+          "translations": {
+            "english": "(496) Uttarō (The superior/transcendent one), (497) Gōpatiḥ (The protector of the earth/cows/or Vedas), (498) Gōptā (The protector/hider), (499) Jñānagamyaḥ (The one attained through knowledge), (500) Purātanaḥ (The ancient one), (501) Śarīrabhūtabhṛt (The sustainer of the body and the elements), (502) Bhōktā (The enjoyer/experiencer), (503) Kapīndrō (The Lord of the monkeys, referring to Rāma or Vāmana), (504) Bhūridakṣiṇaḥ (The giver of abundant sacrificial gifts)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-54",
+          "verse_number": 61,
+          "original": "सोमपोऽमृतपः सोमः पुरुजित् पुरुसत्तमः ।\nविनयो जयः सत्यसन्धो दाशार्हः सात्वतांपतिः ॥",
+          "transliteration": "sōmapō'mṛtapaḥ sōmaḥ purujit purusattamaḥ |\nvinayō jayaḥ satyasandhō dāśārhaḥ sātvatāṁ-patiḥ ||",
+          "translations": {
+            "english": "(505) Sōmapō (The drinker of Soma juice), (506) Amṛtapaḥ (The drinker of nectar), (507) Sōmaḥ (The moon, or the pleasant one), (508) Purujit (The conqueror of many), (509) Purusattamaḥ (The best among many beings), (510) Vinayō (The humble/remover of arrogance), (511) Jayaḥ (The victorious one), (512) Satyasandhō (The one whose resolve is truth), (513) Dāśārhaḥ (The one who deserves the highest offering, or born in the Dāśārha clan), (514) Sātvatāṁ-patiḥ (The Lord of the Sātvatas/devotees)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-55",
+          "verse_number": 62,
+          "original": "जीवो विनयिता साक्षी मुकुन्दोऽमितविक्रमः ।\nअम्भोनिधिरनन्तात्मा महोदधिशयोऽन्तकः ॥",
+          "transliteration": "jīvō vinayitā sākṣī mukundō'mita-vikramaḥ |\nambhō-nidhiranantātmā mahōdadhi-śayō'ntakaḥ ||",
+          "translations": {
+            "english": "(515) Jīvō (The life-principle/individual soul), (516) Vinayitā (The impeller of humility), (517) Sākṣī (The witness), (518) Mukundō (The giver of liberation), (519) Amita-vikramaḥ (The one of immeasurable valor/strides), (520) Ambhō-nidhiḥ (The reservoir of water/ocean), (521) Anantātmā (The boundless Self), (522) Mahōdadhi-śayō (The one sleeping on the great ocean), (523) Antakaḥ (The terminator/ender)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-56",
+          "verse_number": 63,
+          "original": "अजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः ।\nआनन्दो नन्दनो नन्दः सत्यधर्मा त्रिविक्रमः ॥",
+          "transliteration": "ajō mahārhaḥ svābhāvyō jitāmitraḥ pramōdanaḥ |\nānandō nandanō nandaḥ satyadharmā trivikramaḥ ||",
+          "translations": {
+            "english": "(524) Ajō (The unborn), (525) Mahārhaḥ (The highly worshipful/deserving), (526) Svābhāvyō (The one who exists by Himself/inherently), (527) Jitāmitraḥ (The conqueror of enemies), (528) Pramōdanaḥ (The supremely blissful), (529) Ānandō (The bliss itself), (530) Nandanō (The delighter/joy-giver), (531) Nandaḥ (The treasure, or one who is full of happiness), (532) Satyadharmā (The one whose nature is truth and righteousness), (533) Trivikramaḥ (The one who took three immense strides)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-57",
+          "verse_number": 64,
+          "original": "महर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः ।\nत्रि-प-दस्त्रि-दशाध्यक्षो महाशृङ्गकृतान्तकृत् ॥",
+          "transliteration": "maharṣiḥ kapilācāryaḥ kṛtajñō medinīpatiḥ |\ntripadastridaśādhyakṣō mahāśṛṅgakṛtāntakṛt ||",
+          "translations": {
+            "english": "(534) Maharṣiḥ Kapilācāryaḥ (The great sage Kapila, the teacher), (535) Kṛtajñō (The knower of all actions/grateful one), (536) Medinīpatiḥ (The Lord of the earth), (537) Tripadaḥ (The three-footed one/one with three strides), (538) Tridaśādhyakṣō (The controller of the three states/or the 30 Devas), (539) Mahāśṛṅgaḥ (The one with a great horn, referring to Matsya Avatāra), (540) Kṛtāntakṛt (The destroyer of the finished work/death)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-58",
+          "verse_number": 65,
+          "original": "महावराहो गोविन्दः सुषेणः कनकाङ्गदी ।\nगुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः ॥",
+          "transliteration": "mahāvarāhō gōvindaḥ suṣēṇaḥ kanakāṅgadī |\nguhyō gambhīrō gahanō guptaś-cakragadādharaḥ ||",
+          "translations": {
+            "english": "(541) Mahāvarāhō (The Great Boar incarnation), (542) Gōvindaḥ (The protector of the cows/earth), (543) Suṣēṇaḥ (The one with a beautiful army), (544) Kanakāṅgadī (The one wearing golden armlets), (545) Guhyō (The secret/hidden one), (546) Gambhīrō (The deep/profound one), (547) Gahanō (The impenetrable), (548) Guptaḥ (The protected/concealed one), (549) Cakragadādharaḥ (The wielder of the discus and the mace)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-59",
+          "verse_number": 66,
+          "original": "वेधाः स्वाङ्गोऽजितः कृष्णो दृढः संकर्षणोऽच्युतः ।\nवरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः ॥",
+          "transliteration": "vēdhāḥ svāṅgō'jitaḥ kṛṣṇō dṛḍhaḥ saṅkarṣanō'cyutaḥ |\nvaruṇō vāruṇō vṛkṣaḥ puṣkarākṣō mahāmanāḥ ||",
+          "translations": {
+            "english": "(550) Vēdhāḥ (The creator), (551) Svāṅgō (The one whose limbs are self-originated/not dependent on others), (552) Ajitaḥ (The unconquered), (553) Kṛṣṇō (The dark-hued/all-attractive one), (554) Dṛḍhaḥ (The firm/steadfast), (555) Saṅkarṣanō (The one who draws creation back/or Balarāma), (556) Acyutaḥ (The infallible), (557) Varuṇō (The Lord of waters), (558) Vāruṇō (The son of Varuṇa, or relating to Varuṇa), (559) Vṛkṣaḥ (The tree/source of the universe), (560) Puṣkarākṣō (The lotus-eyed), (561) Mahāmanāḥ (The great-minded one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-60",
+          "verse_number": 67,
+          "original": "भगवान् भगहाऽऽनन्दी वनमाली हलायुधः ।\nआदित्यो दिति-नन्दनो भारभूः सत्कृतो ॥",
+          "transliteration": "bhagavān bhagahā''nandī vanamālī halāyudhaḥ |\nādityō ditinandanō bhārabhūḥ satkṛtō ||",
+          "translations": {
+            "english": "(562) Bhagavān (The possessor of six opulences), (563) Bhagahā (The destroyer of the six opulences during Pralaya, or the destroyer of misfortune), (564) Ānandī (The joyful one), (565) Vanamālī (The one wearing the forest garland), (566) Halāyudhaḥ (The one whose weapon is the plough, referring to Balarāma), (567) Ādityō (The son of Aditi/Sun God), (568) Diti-nandanō (The destroyer of the sons of Diti, i.e., Daityas/demons), (569) Bhārabhūḥ (The one who carries the burden of the earth), (570) Satkṛtō (The one who is well-honored)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-61",
+          "verse_number": 68,
+          "original": "सत्यं सत्य-परो मेधी मेधावी प्रिय-कृत् प्रियः ।\nअर्चिष्मान् अर्चितः कुम्भो विषमात्मा निरञ्जनः ॥",
+          "transliteration": "satyaṁ satya-parō mēdhī mēdhāvī priyakṛt priyaḥ |\narciṣmān arcitaḥ kumbhō viṣamātmā nirañjanaḥ ||",
+          "translations": {
+            "english": "(571) Satyaṁ (The truth), (572) Satya-parō (The one dedicated to truth), (573) Mēdhī (The performer of the great sacrifice), (574) Mēdhāvī (The intelligent one), (575) Priya-kṛt (The doer of good for devotees), (576) Priyaḥ (The beloved), (577) Arciṣmān (The luminous/resplendent one), (578) Arcitaḥ (The worshipped one), (579) Kumbhō (The jar/pitcher, or the measurer of time), (580) Viṣamātmā (The one whose Self is hard to attain for the wicked), (581) Nirañjanaḥ (The taintless/pure one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-62",
+          "verse_number": 69,
+          "original": "जनिता जननन्दाख्यो नृगामो मोह-नाशनः ।\nअसुर-घ्नो ज्ञान-गमो लोक-स्वामी त्रिलोक-धृक् ॥",
+          "transliteration": "janitā jananandākhyō nṛgāmō mōha-nāśanaḥ |\nasuraghnō jñānagamō lōkasvāmī trilōkadhṛk ||",
+          "translations": {
+            "english": "(582) Janitā (The progenitor), (583) Jananandākhyō (The delighter of the people), (584) Nṛgāmō (The goal of spiritual seekers), (585) Mōha-nāśanaḥ (The destroyer of delusion), (586) Asuraghnō (The slayer of the Asuras/demons), (587) Jñānagamō (The one who is attained by knowledge), (588) Lōkasvāmī (The Lord of the worlds), (589) Trilōkadhṛk (The supporter of the three worlds)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-63",
+          "verse_number": 70,
+          "original": "शुद्धात्मा परमः पद्मं परमः पद्म-निभेक्षणः ।\nपद्म-नाभोऽरविन्दाक्षः पद्म-गर्भः शरीर-भृत् ॥",
+          "transliteration": "śuddhātmā paramaḥ padmaṁ paramaḥ padma-nibhekṣaṇaḥ |\npadma-nābhō'ravindākṣaḥ padma-garbhaḥ śarīra-bhṛt ||",
+          "translations": {
+            "english": "(590) Śuddhātmā (The pure Self), (591) Paramaḥ (The Supreme one), (592) Padmam (The lotus, or the goal), (593) Paramah (The supremely great), (594) Padma-nibhekṣaṇaḥ (The one whose eyes resemble a lotus), (595) Padma-nābhō (The lotus-navelled one), (596) Aravindākṣaḥ (The lotus-eyed), (597) Padma-garbhaḥ (The one residing in the lotus-womb of the heart), (598) Śarīra-bhṛt (The sustainer of the bodies)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-64",
+          "verse_number": 71,
+          "original": "महर्द्धिर्ऋद्धो वृद्धात्मा महाक्षो गरुड-ध्वजः ।\nअतुलः शरभो भीमो समयज्ञो हविर्हरिः ॥",
+          "transliteration": "maharṣi-rṛddhō vṛddhātmā mahākṣō garuḍa-dhvajaḥ |\natulaḥ śarabho bhīmō samayajñō havir-hariḥ ||",
+          "translations": {
+            "english": "(599) Maharṣiḥ (The great sage, here repeated, possibly referring to wealth/manifestation), (600) Ṛddhō (The prosperous/expanded one), (601) Vṛddhātmā (The ancient Self), (602) Mahākṣō (The one with great eyes), (603) Garuḍa-dhvajaḥ (The one whose banner is Garuḍa), (604) Atulaḥ (The incomparable), (605) Śarabhō (A mythical animal stronger than a lion), (606) Bhīmō (The terrible/awe-inspiring), (607) Samayajñō (The knower of proper time/convention), (608) Havir (The sacrificial oblation), (609) Hariḥ (The remover of sins/sorrows)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-65",
+          "verse_number": 72,
+          "original": "सर्व-लक्षण-लक्षण्यो लक्ष्मीवान् समितिञ्जयः ।\nविक्षरो रोहितो मार्गो हेतुर्-दामोदरः सहः ॥",
+          "transliteration": "sarva-lakṣaṇa-lakṣaṇyō lakṣmīvān samitiñjayaḥ |\nvikṣarō rōhitō mārgō hētur-dāmōdaraḥ sahaḥ ||",
+          "translations": {
+            "english": "(610) Sarva-lakṣaṇa-lakṣaṇyō (The possessor of all auspicious signs), (611) Lakṣmīvān (The possessor of Lakshmi/glory), (612) Samitiñjayaḥ (The victorious in battle), (613) Vikṣarō (The non-perishing), (614) Rōhitō (The red-hued, or the fish), (615) Mārgō (The path/way), (616) Hētuḥ (The cause), (617) Dāmōdaraḥ (The one tied with a rope around the belly), (618) Sahaḥ (The tolerant/enduring one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-66",
+          "verse_number": 73,
+          "original": "महीधरो महा-भागो वेगवान् अमिताशनः ।\nउद्भवः क्षोभणो देवः श्री-गर्भः परमेश्वरः ॥",
+          "transliteration": "mahīdharaḥ mahā-bhāgō vēgavān amitāśanaḥ |\nudbhavaḥ kṣōbhaṇō dēvaḥ śrī-garbhaḥ paramēśvaraḥ ||",
+          "translations": {
+            "english": "(619) Mahīdharaḥ (The bearer of the earth), (620) Mahā-bhāgō (The supremely fortunate/glorious), (621) Vēgavān (The swift one), (622) Amitāśanaḥ (The immense eater at the time of Pralaya), (623) Udbhavaḥ (The origin), (624) Kṣōbhaṇō (The one who agitates creation), (625) Dēvaḥ (The shining one), (626) Śrī-garbhaḥ (The one in whose womb Śrī resides), (627) Paramēśvaraḥ (The Supreme Lord)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-67",
+          "verse_number": 74,
+          "original": "करणं कारणं कर्ता विकर्ता गहनो गुहः ।\nव्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ॥",
+          "transliteration": "karaṇaṁ kāraṇaṁ kartā vikartā gahanō guhaḥ |\nvyavasāyō vyavasthānaḥ saṁsthānaḥ sthānadō dhruvaḥ ||",
+          "translations": {
+            "english": "(628) Karaṇaṁ (The instrument/means), (629) Kāraṇaṁ (The ultimate cause), (630) Kartā (The doer/creator), (631) Vikartā (The one who creates variety), (632) Gahanō (The deep/unfathomable), (633) Guhaḥ (The hidden one), (634) Vyavasāyō (The resolute knowledge), (635) Vyavasthānaḥ (The established order), (636) Saṁsthānaḥ (The ultimate dissolution/place of rest), (637) Sthānadō (The giver of position/status), (638) Dhruvaḥ (The constant/firm one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-68",
+          "verse_number": 75,
+          "original": "परर्द्धिः परम-स्पष्टः तुष्टः पुष्टः शुभेक्षणः ।\nरामो विरामो विरतो मार्गो नेयो नयोऽनयः ॥",
+          "transliteration": "pararddhiḥ parama-spaṣṭaḥ tuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ |\nrāmō virāmō viratō mārgō nēyō nayō'nayaḥ ||",
+          "translations": {
+            "english": "(639) Pararddhiḥ (The one with supreme manifestations), (640) Parama-spaṣṭaḥ (The supremely clear/manifest), (641) Tuṣṭaḥ (The contented), (642) Puṣṭaḥ (The fully nourished/perfected), (643) Śubhekṣaṇaḥ (The one whose gaze is auspicious), (644) Rāmō (The delightful one), (645) Virāmō (The ultimate rest), (646) Virataḥ (The detached), (647) Mārgō (The path), (648) Nēyō (The guided one/object of guidance), (649) Nayō (The guide/policy), (650) Anayaḥ (The one who has no leader)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-69",
+          "verse_number": 76,
+          "original": "वीरः शक्तिमतां श्रेष्ठो धर्मो धर्म-विदुत्तमः ।\nवैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ॥",
+          "transliteration": "vīraḥ śaktimatāṁ śrēṣṭhō dharmō dharma-viduttamaḥ |\nvaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ ||",
+          "translations": {
+            "english": "(651) Vīraḥ (The heroic), (652) Śaktimatāṁ Śrēṣṭhō (The best among the powerful), (653) Dharmō (Dharma itself), (654) Dharma-viduttamaḥ (The best among those who know Dharma), (655) Vaikuṇṭhaḥ (The remover of obstacles, or the lord of Vaikuṇṭha), (656) Puruṣaḥ (The Supreme Person), (657) Prāṇaḥ (The life-force), (658) Prāṇadaḥ (The giver of life), (659) Praṇavaḥ (The sound 'Om'), (660) Pṛthuḥ (The vast/expanded one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-70",
+          "verse_number": 77,
+          "original": "हिरण्य-गर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ।\nऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ॥",
+          "transliteration": "hiraṇya-garbhaḥ śatrughnō vyāptō vāyur-adhōkṣajaḥ |\nṛtuḥ sudarśanaḥ kālaḥ paramēṣṭhī parigrahaḥ ||",
+          "translations": {
+            "english": "(661) Hiraṇya-garbhaḥ (The golden-wombed), (662) Śatrughnō (The destroyer of enemies), (663) Vyāptō (The pervasive), (664) Vāyuḥ (The wind), (665) Adhōkṣajaḥ (The one beyond the reach of the senses), (666) Ṛtuḥ (The season), (667) Sudarśanaḥ (The beautiful-seer, or the wielder of the Discus), (668) Kālaḥ (Time), (669) Paramēṣṭhī (The one residing in the highest seat), (670) Parigrahaḥ (The accepted/received one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-71",
+          "verse_number": 78,
+          "original": "उग्रः संवत्सरो दक्षो विश्रामो विश्व-दक्षिणः ।\nविस्तारः स्थावर-स्थाणुः प्रमाणं बीजमव्ययम् ॥",
+          "transliteration": "ugraḥ saṁvatsarō dakṣō viśrāmō viśva-dakṣiṇaḥ |\nvistāraḥ sthāvara-sthāṇuḥ pramāṇaṁ bījam-avyayam ||",
+          "translations": {
+            "english": "(671) Ugraḥ (The fierce one), (672) Saṁvatsarō (The year), (673) Dakṣō (The skillful one), (674) Viśrāmō (The resting place), (675) Viśva-dakṣiṇaḥ (The most efficient and generous in the universe), (676) Vistāraḥ (The expansion), (677) Sthāvara-sthāṇuḥ (The firm in the stationary creation), (678) Pramāṇaṁ (The authority/proof), (679) Bījam-avyayam (The inexhaustible seed)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-72",
+          "verse_number": 79,
+          "original": "अर्थोऽनर्थो महा-कोशो महा-भोगो महा-धनः ।\nअनिर्विण्णः स्थविष्ठोऽभूर् धर्म-यूपो महा-मखः ॥",
+          "transliteration": "arthō'narthō mahā-kōśō mahā-bhōgō mahā-dhanaḥ |\nanirviṇṇaḥ sthaviṣṭhō'bhūr-dharma-yūpō mahā-makhaḥ ||",
+          "translations": {
+            "english": "(680) Arthō (The object of desire), (681) Anarthō (The one who has no purpose for Himself), (682) Mahā-kōśō (The one with the great treasury/sheath), (683) Mahā-bhōgō (The one with great enjoyment/bliss), (684) Mahā-dhanaḥ (The one with great wealth), (685) Anirviṇṇaḥ (The non-despondent/never weary), (686) Sthaviṣṭhō (The immense/massive), (687) Abhūḥ (The unborn), (688) Dharma-yūpō (The sacrificial post of Dharma), (689) Mahā-makhaḥ (The great sacrifice)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-73",
+          "verse_number": 80,
+          "original": "नक्षत्र-नेमिर्-नक्षत्री क्षमः क्षामः समीहनः ।\nयज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतांगतिः ॥",
+          "transliteration": "nakṣatra-nēmir-nakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ |\nyajña ijyo mahejyaś-ca kratuḥ satraṁ satāṁ gatiḥ ||",
+          "translations": {
+            "english": "(690) Nakṣatra-nēmiḥ (The hub of the constellations), (691) Nakṣatrī (The lord of the stars/moon), (692) Kṣamaḥ (The capable/tolerant one), (693) Kṣāmaḥ (The destroyer of all at Pralaya), (694) Samīhanaḥ (The one whose endeavors are perfect), (695) Yajñaḥ (The sacrifice itself), (696) Ijyō (The worshipped one), (697) Mahējyaśca (The greatly worshipful one), (698) Kratuḥ (The ritual act), (699) Satraṁ (The extended sacrifice), (700) Satāṁ Gatiḥ (The goal of the virtuous)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-74",
+          "verse_number": 81,
+          "original": "सर्व-दर्शी विमुक्तात्मा सर्वज्ञो ज्ञान-मुत्तमम् ।\nसुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ॥",
+          "transliteration": "sarva-darśī vimuktātmā sarvajñō jñānam-uttamam |\nsuvrataḥ sumukhaḥ sūkṣmaḥ sughōṣaḥ sukhadaḥ suhṛt ||",
+          "translations": {
+            "english": "(701) Sarva-darśī (The all-seer), (702) Vimuktātmā (The eternally liberated Self), (703) Sarvajñō (The all-knower), (704) Jñānamuttamam (The Supreme Knowledge), (705) Suvrataḥ (The one with excellent vows), (706) Sumukhaḥ (The one with a pleasant face), (707) Sūkṣmaḥ (The subtle/minute), (708) Sughōṣaḥ (The one with an auspicious sound), (709) Sukhadaḥ (The giver of happiness), (710) Suhṛt (The benevolent friend)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-75",
+          "verse_number": 82,
+          "original": "मनोहरो जितक्रोधो वीर-बाहुर्-विदारणः ।\nस्वापनः स्ववशो व्यापी नैकात्मा नैक-कर्मकृत् ॥",
+          "transliteration": "manōharō jitakrōdhō vīra-bāhur-vidāraṇaḥ |\nsvāpanaḥ svavaśō vyāpī naikātmā naika-karmakṛt ||",
+          "translations": {
+            "english": "(711) Manōharō (The mind-stealer/attractive one), (712) Jitakrōdhō (The one who has conquered anger), (713) Vīra-bāhuḥ (The one with heroic arms), (714) Vidāraṇaḥ (The splitter/destroyer of demons), (715) Svāpanaḥ (The one who induces sleep/Māyā), (716) Svavaśō (The one under His own control), (717) Vyāpī (The pervasive one), (718) Naikātmā (The one Self but manifests as many), (719) Naika-karmakṛt (The one who performs many kinds of actions)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-76",
+          "verse_number": 83,
+          "original": "वत्सरो वत्सलो वत्सी रत्न-गर्भो धनेश्वरः ।\nधर्मगुब् धर्म-कृद् धर्मी सद-सत्-क्षरम् अक्षरम् ॥",
+          "transliteration": "vatsarō vatsalō vatsī ratna-garbhō dhanēśvaraḥ |\ndharmagup dharma-kṛd dharmī sad-asat kṣaram akṣaram ||",
+          "translations": {
+            "english": "(720) Vatsarō (The year/abode), (721) Vatsalō (The affectionate one), (722) Vatsī (The father/protector), (723) Ratna-garbhō (The one who holds gems in His womb), (724) Dhanēśvaraḥ (The Lord of wealth), (725) Dharmagup (The protector of Dharma), (726) Dharma-kṛt (The performer of Dharma), (727) Dharmī (The possessor of Dharma), (728) Sad-Asat (The manifest and unmanifest), (729) Kṣaram (The perishable), (730) Akṣaram (The imperishable)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-77",
+          "verse_number": 84,
+          "original": "अविज्ञाता सहस्रांशुर् विधाता कृत-लक्षणः ।\nगभस्ति-नेमिः सत्त्व-स्थः सिंहो भूत-महेश्वरः ॥",
+          "transliteration": "avijñātā sahasrāṁśur vidhātā kṛta-lakṣaṇaḥ |\ngabhasti-nēmiḥ sattva-sthaḥ siṁhō bhūta-mahēśvaraḥ ||",
+          "translations": {
+            "english": "(731) Avijñātā (The non-knower, as He is pure knowledge), (732) Sahasrāṁśuḥ (The thousand-rayed one/Sun), (733) Vidhātā (The dispensor/orderer), (734) Kṛta-lakṣaṇaḥ (The one with marks of auspiciousness), (735) Gabhasti-nēmiḥ (The center of the light rays), (736) Sattva-sthaḥ (The one abiding in purity/goodness), (737) Siṁhō (The lion), (738) Bhūta-mahēśvaraḥ (The great Lord of all beings)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-78",
+          "verse_number": 85,
+          "original": "आदि-देवो महा-देवो देवेशो देव-भृद्-गुरुः ।\nउत्तरॊ गोपतिर्-गोप्ता ज्ञान-गम्यः पुरातनः ॥",
+          "transliteration": "ādi-dēvō mahā-dēvō dēvēśō dēva-bhṛd-guruḥ |\nuttarō gōpatir-gōptā jñāna-gamyaḥ purātanaḥ ||",
+          "translations": {
+            "english": "(739) Ādi-dēvō (The primeval God), (740) Mahā-dēvō (The Great God), (741) Dēvēśō (The Lord of the Gods), (742) Dēva-bhṛd-guruḥ (The supporter and preceptor of the Gods), (743) Uttarō (The superior/transcendent one), (744) Gōpatiḥ (The protector of the earth/cows), (745) Gōptā (The protector/hider), (746) Jñāna-gamyaḥ (The one attained through knowledge), (747) Purātanaḥ (The ancient one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-79",
+          "verse_number": 86,
+          "original": "शरीर-भूत-भृद् भोक्ता कपीन्द्रो भूरि-दक्षिणः ।\nसोमपोऽमृतपः सोमः पुरुजित् पुरु-सत्तमः ॥",
+          "transliteration": "śarīra-bhūta-bhṛd bhōktā kapīndrō bhūri-dakṣiṇaḥ |\nsōmapō'mṛtapaḥ sōmaḥ purujit puru-sattamaḥ ||",
+          "translations": {
+            "english": "(748) Śarīra-bhūta-bhṛt (The sustainer of the body and the elements), (749) Bhōktā (The enjoyer/experiencer), (750) Kapīndrō (The Lord of the monkeys/Rāma or Vāmana), (751) Bhūri-dakṣiṇaḥ (The giver of abundant gifts), (752) Sōmapō (The drinker of Soma juice), (753) Amṛtapaḥ (The drinker of nectar), (754) Sōmaḥ (The moon/pleasant one), (755) Purujit (The conqueror of many), (756) Puru-sattamaḥ (The best among many beings)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-80",
+          "verse_number": 87,
+          "original": "विनयो जयः सत्य-सन्धी दाशार्हः सात्वतांपतिः ।\nजीवो विनयिता साक्षी मुकुन्दोऽमित-विक्रमः ॥",
+          "transliteration": "vinayō jayaḥ satya-sandhī dāśārhaḥ sātvatāṁ-patiḥ |\njīvō vinayitā sākṣī mukundō'mita-vikramaḥ ||",
+          "translations": {
+            "english": "(757) Vinayō (The humble/remover of arrogance), (758) Jayaḥ (The victorious one), (759) Satya-sandhī (The one whose resolve is truth), (760) Dāśārhaḥ (The one who deserves the highest offering), (761) Sātvatāṁ-patiḥ (The Lord of the Sātvatas/devotees), (762) Jīvō (The life-principle/individual soul), (763) Vinayitā (The impeller of humility), (764) Sākṣī (The witness), (765) Mukundō (The giver of liberation), (766) Amita-vikramaḥ (The one of immeasurable valor)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-81",
+          "verse_number": 88,
+          "original": "अम्भो-निधिर्-अनन्तात्मा महो-दधि-शयोऽन्तकः ।\nअजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः ॥",
+          "transliteration": "ambhō-nidhir-anantātmā mahō-dadhi-śayō'ntakaḥ |\najō mahārhaḥ svābhāvyō jitāmitraḥ pramōdanaḥ ||",
+          "translations": {
+            "english": "(767) Ambhō-nidhiḥ (The reservoir of water/ocean), (768) Anantātmā (The boundless Self), (769) Mahō-dadhi-śayō (The one sleeping on the great ocean), (770) Antakaḥ (The terminator/ender), (771) Ajō (The unborn), (772) Mahārhaḥ (The highly worshipful), (773) Svābhāvyō (The one who exists by Himself), (774) Jitāmitraḥ (The conqueror of enemies), (775) Pramōdanaḥ (The supremely blissful)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-82",
+          "verse_number": 89,
+          "original": "आनन्दो नन्दनो नन्दः सत्य-धर्मा त्रिविक्रमः ।\nमहर्षिः कपिलाचार्यः कृतज्ञो मेदिनी-पतिः ॥",
+          "transliteration": "ānandō nandanō nandaḥ satya-dharmā tri-vikramaḥ |\nmaharṣiḥ kapilācāryaḥ kṛtajñō medinī-patiḥ ||",
+          "translations": {
+            "english": "(776) Ānandō (The bliss itself), (777) Nandanō (The delighter/joy-giver), (778) Nandaḥ (The treasure/one who is full of happiness), (779) Satya-dharmā (The one whose nature is truth and righteousness), (780) Tri-vikramaḥ (The one who took three immense strides), (781) Maharṣiḥ Kapilācāryaḥ (The great sage Kapila, the teacher), (782) Kṛtajñō (The knower of all actions/grateful one), (783) Medinī-patiḥ (The Lord of the earth)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-83",
+          "verse_number": 90,
+          "original": "त्रि-प-दस्-त्रिदशाध्यक्षो महा-शृङ्ग-कृतान्त-कृत् ।\nमहा-वराहो गोविन्दः सुषेणः कनकाङ्गदी ॥",
+          "transliteration": "tri-padas-tridaśādhyakṣō mahā-śṛṅga-kṛtānta-kṛt |\nmahā-varāhō gōvindaḥ suṣēṇaḥ kanakāṅgadī ||",
+          "translations": {
+            "english": "(784) Tri-padaḥ (The three-footed one/one with three strides), (785) Tridaśādhyakṣō (The controller of the three states/or the 30 Devas), (786) Mahā-śṛṅgaḥ (The one with a great horn, referring to Matsya Avatāra), (787) Kṛtānta-kṛt (The destroyer of the finished work/death), (788) Mahā-varāhō (The Great Boar incarnation), (789) Gōvindaḥ (The protector of the cows/earth), (790) Suṣēṇaḥ (The one with a beautiful army), (791) Kanakāṅgadī (The one wearing golden armlets)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-84",
+          "verse_number": 91,
+          "original": "गुह्यो गभीरो गहनो गुप्तश्-चक्र-गदा-धरः ।\nवेधाः स्वाङ्गोऽजितः कृष्णो दृढः संकर्षणोऽच्युतः ॥",
+          "transliteration": "guhyō gambhīrō gahanō guptaś-cakra-gadā-dharaḥ |\nvēdhāḥ svāṅgō'jitaḥ kṛṣṇō dṛḍhaḥ saṅkarṣanō'cyutaḥ ||",
+          "translations": {
+            "english": "(792) Guhyō (The secret/hidden one), (793) Gambhīrō (The deep/profound one), (794) Gahanō (The impenetrable), (795) Guptaḥ (The protected/concealed one), (796) Cakra-gadā-dharaḥ (The wielder of the discus and the mace), (797) Vēdhāḥ (The creator), (798) Svāṅgō (The one whose limbs are self-originated), (799) Ajitaḥ (The unconquered), (800) Kṛṣṇō (The dark-hued/all-attractive one), (801) Dṛḍhaḥ (The firm/steadfast), (802) Saṅkarṣanō (The one who draws creation back/or Balarāma), (803) Acyutaḥ (The infallible)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-85",
+          "verse_number": 92,
+          "original": "वरुणो वारुणो वृक्षः पुष्कराक्षो महा-मनाः ।\nभगवान् भगहाऽऽनन्दी वनमाली हलायुधः ॥",
+          "transliteration": "varuṇō vāruṇō vṛkṣaḥ puṣkarākṣō mahā-manāḥ |\nbhagavān bhagahā''nandī vanamālī halāyudhaḥ ||",
+          "translations": {
+            "english": "(804) Varuṇō (The Lord of waters), (805) Vāruṇō (The son of Varuṇa, or relating to Varuṇa), (806) Vṛkṣaḥ (The tree/source of the universe), (807) Puṣkarākṣō (The lotus-eyed), (808) Mahā-manāḥ (The great-minded one), (809) Bhagavān (The possessor of six opulences), (810) Bhagahā (The destroyer of misfortune), (811) Ānandī (The joyful one), (812) Vanamālī (The one wearing the forest garland), (813) Halāyudhaḥ (The one whose weapon is the plough)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-86",
+          "verse_number": 93,
+          "original": "आदित्यो दिति-नन्दनो भार-भूः सत्कृतो महान् ।\nसत्यं सत्य-परो मेधी मेधावी प्रिय-कृत् प्रियः ॥",
+          "transliteration": "ādityō diti-nandanō bhāra-bhūḥ satkṛtō mahān |\nsatyaṁ satya-parō mēdhī mēdhāvī priya-kṛt priyaḥ ||",
+          "translations": {
+            "english": "(814) Ādityō (The son of Aditi/Sun God), (815) Diti-nandanō (The destroyer of the sons of Diti/Daityas), (816) Bhāra-bhūḥ (The one who carries the burden of the earth), (817) Satkṛtō (The one who is well-honored), (818) Mahān (The great one), (819) Satyaṁ (The truth), (820) Satya-parō (The one dedicated to truth), (821) Mēdhī (The performer of the great sacrifice), (822) Mēdhāvī (The intelligent one), (823) Priya-kṛt (The doer of good for devotees), (824) Priyaḥ (The beloved)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-87",
+          "verse_number": 94,
+          "original": "अर्चिष्मान् अर्चितः कुम्भो विषमात्मा निरञ्जनः ।\nजनिता जन-नन्दाख्यो नृगामो मोह-नाशनः ॥",
+          "transliteration": "arciṣmān arcitaḥ kumbhō viṣamātmā nirañjanaḥ |\njanitā jana-nandākhyō nṛgāmō mōha-nāśanaḥ ||",
+          "translations": {
+            "english": "(825) Arciṣmān (The luminous/resplendent one), (826) Arcitaḥ (The worshipped one), (827) Kumbhō (The measurer of time), (828) Viṣamātmā (The one whose Self is hard to attain for the wicked), (829) Nirañjanaḥ (The taintless/pure one), (830) Janitā (The progenitor), (831) Jana-nandākhyō (The delighter of the people), (832) Nṛgāmō (The goal of spiritual seekers), (833) Mōha-nāśanaḥ (The destroyer of delusion)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-88",
+          "verse_number": 95,
+          "original": "असुर-घ्नो ज्ञान-गमो लोक-स्वामी त्रिलोक-धृक् ।\nशुद्धात्मा परमः पद्मं परमः पद्म-निभेक्षणः ॥",
+          "transliteration": "asura-ghnō jñāna-gamō lōka-svāmī trilōka-dhṛk |\nśuddhātmā paramaḥ padmaṁ paramaḥ padma-nibhekṣaṇaḥ ||",
+          "translations": {
+            "english": "(834) Asura-ghnō (The slayer of the Asuras/demons), (835) Jñāna-gamō (The one who is attained by knowledge), (836) Lōka-svāmī (The Lord of the worlds), (837) Trilōka-dhṛk (The supporter of the three worlds), (838) Śuddhātmā (The pure Self), (839) Paramaḥ (The Supreme one), (840) Padmam (The lotus, or the goal), (841) Paramaḥ (The supremely great), (842) Padma-nibhekṣaṇaḥ (The one whose eyes resemble a lotus)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-89",
+          "verse_number": 96,
+          "original": "पद्म-नाभोऽरविन्दाक्षः पद्म-गर्भः शरीर-भृत् ।\nमहर्द्धिर्-ऋद्धो वृद्धात्मा महाक्षो गरुड-ध्वजः ॥",
+          "transliteration": "padma-nābhō'ravindākṣaḥ padma-garbhaḥ śarīra-bhṛt |\nmaharṣi-rṛddhō vṛddhātmā mahākṣō garuḍa-dhvajaḥ ||",
+          "translations": {
+            "english": "(843) Padma-nābhō (The lotus-navelled one), (844) Aravindākṣaḥ (The lotus-eyed), (845) Padma-garbhaḥ (The one residing in the lotus-womb of the heart), (846) Śarīra-bhṛt (The sustainer of the bodies), (847) Maharṣiḥ (The great sage), (848) Ṛddhō (The prosperous/expanded one), (849) Vṛddhātmā (The ancient Self), (850) Mahākṣō (The one with great eyes), (851) Garuḍa-dhvajaḥ (The one whose banner is Garuḍa)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-90",
+          "verse_number": 97,
+          "original": "अतुलः शरभो भीमो समयज्ञो हविर्-हरिः ।\nसर्व-लक्षण-लक्षण्यो लक्ष्मीवान् समितिञ्जयः ॥",
+          "transliteration": "atulaḥ śarabho bhīmō samayajñō havir-hariḥ |\nsarva-lakṣaṇa-lakṣaṇyō lakṣmīvān samitiñjayaḥ ||",
+          "translations": {
+            "english": "(852) Atulaḥ (The incomparable), (853) Śarabhō (The mythical powerful animal), (854) Bhīmō (The terrible/awe-inspiring), (855) Samayajñō (The knower of proper time/convention), (856) Havir (The sacrificial oblation), (857) Hariḥ (The remover of sins/sorrows), (858) Sarva-lakṣaṇa-lakṣaṇyō (The possessor of all auspicious signs), (859) Lakṣmīvān (The possessor of Lakshmi/glory), (860) Samitiñjayaḥ (The victorious in battle)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-91",
+          "verse_number": 98,
+          "original": "विक्षरो रोहितो मार्गो हेतुर्-दामोदरः सहः ।\nमहीधरो महा-भागो वेगवान् अमिताशनः ॥",
+          "transliteration": "vikṣarō rōhitō mārgō hētur-dāmōdaraḥ sahaḥ |\nmahīdharaḥ mahā-bhāgō vēgavān amitāśanaḥ ||",
+          "translations": {
+            "english": "(861) Vikṣarō (The non-perishing), (862) Rōhitō (The red-hued), (863) Mārgō (The path/way), (864) Hētuḥ (The cause), (865) Dāmōdaraḥ (The one tied with a rope around the belly), (866) Sahaḥ (The tolerant/enduring one), (867) Mahīdharaḥ (The bearer of the earth), (868) Mahā-bhāgō (The supremely fortunate/glorious), (869) Vēgavān (The swift one), (870) Amitāśanaḥ (The immense eater at the time of Pralaya)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-92",
+          "verse_number": 99,
+          "original": "उद्भवः क्षोभणो देवः श्री-गर्भः परमेश्वरः ।\nकरणं कारणं कर्ता विकर्ता गहनो गुहः ॥",
+          "transliteration": "udbhavaḥ kṣōbhaṇō dēvaḥ śrī-garbhaḥ paramēśvaraḥ |\nkaraṇaṁ kāraṇaṁ kartā vikartā gahanō guhaḥ ||",
+          "translations": {
+            "english": "(871) Udbhavaḥ (The origin), (872) Kṣōbhaṇō (The one who agitates creation), (873) Dēvaḥ (The shining one), (874) Śrī-garbhaḥ (The one in whose womb Śrī resides), (875) Paramēśvaraḥ (The Supreme Lord), (876) Karaṇaṁ (The instrument/means), (877) Kāraṇaṁ (The ultimate cause), (878) Kartā (The creator/doer), (879) Vikartā (The one who creates variety), (880) Gahanō (The deep/unfathomable), (881) Guhaḥ (The hidden one)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-93",
+          "verse_number": 100,
+          "original": "व्यवसायो व्यवस्थानः संस्थानः स्थानदो ध्रुवः ।\nपरर्द्धिः परम-स्पष्टस्-तुष्टः पुष्टः शुभेक्षणः ॥",
+          "transliteration": "vyavasāyō vyavasthānaḥ saṁsthānaḥ sthānadō dhruvaḥ |\npararddhiḥ parama-spaṣṭas-tuṣṭaḥ puṣṭaḥ śubhekṣaṇaḥ ||",
+          "translations": {
+            "english": "(882) Vyavasāyō (The resolute knowledge), (883) Vyavasthānaḥ (The established order), (884) Saṁsthānaḥ (The ultimate dissolution/place of rest), (885) Sthānadō (The giver of position/status), (886) Dhruvaḥ (The constant/firm one), (887) Pararddhiḥ (The one with supreme manifestations), (888) Parama-spaṣṭaḥ (The supremely clear/manifest), (889) Tuṣṭaḥ (The contented), (890) Puṣṭaḥ (The fully nourished/perfected), (891) Śubhekṣaṇaḥ (The one whose gaze is auspicious)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-94",
+          "verse_number": 101,
+          "original": "रामो विरामो विरतो मार्गो नेयो नयोऽनयः ।\nवीरः शक्तिमतां श्रेष्ठो धर्मो धर्म-विदुत्तमः ॥",
+          "transliteration": "rāmō virāmō viratō mārgō nēyō nayō'nayaḥ |\nvīraḥ śaktimatāṁ śrēṣṭhō dharmō dharma-viduttamaḥ ||",
+          "translations": {
+            "english": "(892) Rāmō (The delightful one), (893) Virāmō (The ultimate rest), (894) Virataḥ (The detached), (895) Mārgō (The path), (896) Nēyō (The object of guidance), (897) Nayō (The guide/policy), (898) Anayaḥ (The one who has no leader), (899) Vīraḥ (The heroic), (900) Śaktimatāṁ Śrēṣṭhō (The best among the powerful), (901) Dharmō (Dharma itself), (902) Dharma-viduttamaḥ (The best among those who know Dharma)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-95",
+          "verse_number": 102,
+          "original": "वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः ।\nहिरण्य-गर्भः शत्रुघ्नो व्याप्तो वायुरधोक्षजः ॥",
+          "transliteration": "vaikuṇṭhaḥ puruṣaḥ prāṇaḥ prāṇadaḥ praṇavaḥ pṛthuḥ |\nhiraṇya-garbhaḥ śatrughnō vyāptō vāyur-adhōkṣajaḥ ||",
+          "translations": {
+            "english": "(903) Vaikuṇṭhaḥ (The remover of obstacles, or the lord of Vaikuṇṭha), (904) Puruṣaḥ (The Supreme Person), (905) Prāṇaḥ (The life-force), (906) Prāṇadaḥ (The giver of life), (907) Praṇavaḥ (The sound 'Om'), (908) Pṛthuḥ (The vast/expanded one), (909) Hiraṇya-garbhaḥ (The golden-wombed), (910) Śatrughnō (The destroyer of enemies), (911) Vyāptō (The pervasive), (912) Vāyuḥ (The wind), (913) Adhōkṣajaḥ (The one beyond the reach of the senses)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-96",
+          "verse_number": 103,
+          "original": "ऋतुः सुदर्शनः कालः परमेष्ठी परिग्रहः ।\nउग्रः संवत्सरो दक्षो विश्रामो विश्व-दक्षिणः ॥",
+          "transliteration": "ṛtuḥ sudarśanaḥ kālaḥ paramēṣṭhī parigrahaḥ |\nugraḥ saṁvatsarō dakṣō viśrāmō viśva-dakṣiṇaḥ ||",
+          "translations": {
+            "english": "(914) Ṛtuḥ (The season), (915) Sudarśanaḥ (The beautiful-seer, or the wielder of the Discus), (916) Kālaḥ (Time), (917) Paramēṣṭhī (The one residing in the highest seat), (918) Parigrahaḥ (The accepted/received one), (919) Ugraḥ (The fierce one), (920) Saṁvatsarō (The year), (921) Dakṣō (The skillful one), (922) Viśrāmō (The resting place), (923) Viśva-dakṣiṇaḥ (The most efficient and generous in the universe)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-97",
+          "verse_number": 104,
+          "original": "विस्तारः स्थावर-स्थाणुः प्रमाणं बीजमव्ययम् ।\nअर्थोऽनर्थो महा-कोशो महा-भोगो महा-धनः ॥",
+          "transliteration": "vistāraḥ sthāvara-sthāṇuḥ pramāṇaṁ bījam-avyayam |\narthō'narthō mahā-kōśō mahā-bhōgō mahā-dhanaḥ ||",
+          "translations": {
+            "english": "(924) Vistāraḥ (The expansion), (925) Sthāvara-sthāṇuḥ (The firm in the stationary creation), (926) Pramāṇaṁ (The authority/proof), (927) Bījam-avyayam (The inexhaustible seed), (928) Arthō (The object of desire), (929) Anarthō (The one who has no purpose for Himself), (930) Mahā-kōśō (The one with the great treasury/sheath), (931) Mahā-bhōgō (The one with great enjoyment/bliss), (932) Mahā-dhanaḥ (The one with great wealth)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-98",
+          "verse_number": 105,
+          "original": "अनिर्विण्णः स्थविष्ठोऽभूर् धर्म-यूपो महा-मखः ।\nनक्षत्र-नेमिर्-नक्षत्री क्षमः क्षामः समीहनः ॥",
+          "transliteration": "anirviṇṇaḥ sthaviṣṭhō'bhūr-dharma-yūpō mahā-makhaḥ |\nnakṣatra-nēmir-nakṣatrī kṣamaḥ kṣāmaḥ samīhanaḥ ||",
+          "translations": {
+            "english": "(933) Anirviṇṇaḥ (The non-despondent/never weary), (934) Sthaviṣṭhō (The immense/massive), (935) Abhūḥ (The unborn), (936) Dharma-yūpō (The sacrificial post of Dharma), (937) Mahā-makhaḥ (The great sacrifice), (938) Nakṣatra-nēmiḥ (The hub of the constellations), (939) Nakṣatrī (The lord of the stars/moon), (940) Kṣamaḥ (The capable/tolerant one), (941) Kṣāmaḥ (The destroyer of all at Pralaya), (942) Samīhanaḥ (The one whose endeavors are perfect)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-99",
+          "verse_number": 106,
+          "original": "यज्ञ इज्यो महेज्यश्च क्रतुः सत्रं सतांगतिः ।\nसर्व-दर्शी विमुक्तात्मा सर्वज्ञो ज्ञान-मुत्तमम् ॥",
+          "transliteration": "yajña ijyo mahejyaś-ca kratuḥ satraṁ satāṁ gatiḥ |\nsarva-darśī vimuktātmā sarvajñō jñānam-uttamam ||",
+          "translations": {
+            "english": "(943) Yajñaḥ (The sacrifice itself), (944) Ijyō (The worshipped one), (945) Mahējyaśca (The greatly worshipful one), (946) Kratuḥ (The ritual act), (947) Satraṁ (The extended sacrifice), (948) Satāṁ Gatiḥ (The goal of the virtuous), (949) Sarva-darśī (The all-seer), (950) Vimuktātmā (The eternally liberated Self), (951) Sarvajñō (The all-knower), (952) Jñānamuttamam (The Supreme Knowledge)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-100",
+          "verse_number": 107,
+          "original": "सुव्रतः सुमुखः सूक्ष्मः सुघोषः सुखदः सुहृत् ।\nमनोहरो जितक्रोधो वीर-बाहुर्-विदारणः ॥",
+          "transliteration": "suvrataḥ sumukhaḥ sūkṣmaḥ sughōṣaḥ sukhadaḥ suhṛt |\nmanōharō jitakrōdhō vīra-bāhur-vidāraṇaḥ ||",
+          "translations": {
+            "english": "(953) Suvrataḥ (The one with excellent vows), (954) Sumukhaḥ (The one with a pleasant face), (955) Sūkṣmaḥ (The subtle/minute), (956) Sughōṣaḥ (The one with an auspicious sound), (957) Sukhadaḥ (The giver of happiness), (958) Suhṛt (The benevolent friend), (959) Manōharō (The mind-stealer/attractive one), (960) Jitakrōdhō (The one who has conquered anger), (961) Vīra-bāhuḥ (The one with heroic arms), (962) Vidāraṇaḥ (The splitter/destroyer of demons)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-101",
+          "verse_number": 108,
+          "original": "स्वापनः स्ववशो व्यापी नैकात्मा नैक-कर्मकृत् ।\nवत्सरो वत्सलो वत्सी रत्न-गर्भो धनेश्वरः ॥",
+          "transliteration": "svāpanaḥ svavaśō vyāpī naikātmā naika-karmakṛt |\nvatsarō vatsalō vatsī ratna-garbhō dhanēśvaraḥ ||",
+          "translations": {
+            "english": "(963) Svāpanaḥ (The one who induces sleep/Māyā), (964) Svavaśō (The one under His own control), (965) Vyāpī (The pervasive one), (966) Naikātmā (The one Self but manifests as many), (967) Naika-karmakṛt (The one who performs many kinds of actions), (968) Vatsarō (The year/abode), (969) Vatsalō (The affectionate one), (970) Vatsī (The father/protector), (971) Ratna-garbhō (The one who holds gems in His womb), (972) Dhanēśvaraḥ (The Lord of wealth)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-102",
+          "verse_number": 109,
+          "original": "धर्मगुब् धर्म-कृद् धर्मी सद-सत्-क्षरम् अक्षरम् ।\nअविज्ञाता सहस्रांशुर् विधाता कृत-लक्षणः ॥",
+          "transliteration": "dharmagup dharma-kṛd dharmī sad-asat kṣaram akṣaram |\navijñātā sahasrāṁśur vidhātā kṛta-lakṣaṇaḥ ||",
+          "translations": {
+            "english": "(973) Dharmagup (The protector of Dharma), (974) Dharma-kṛt (The performer of Dharma), (975) Dharmī (The possessor of Dharma), (976) Sad-Asat (The manifest and unmanifest), (977) Kṣaram (The perishable), (978) Akṣaram (The imperishable), (979) Avijñātā (The non-knower, as He is pure knowledge), (980) Sahasrāṁśuḥ (The thousand-rayed one/Sun), (981) Vidhātā (The dispensor/orderer), (982) Kṛta-lakṣaṇaḥ (The one with marks of auspiciousness)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-103",
+          "verse_number": 110,
+          "original": "गभस्ति-नेमिः सत्त्व-स्थः सिंहो भूत-महेश्वरः ।\nआदि-देवो महा-देवो देवेशो देव-भृद्-गुरुः ॥",
+          "transliteration": "gabhasti-nēmiḥ sattva-sthaḥ siṁhō bhūta-mahēśvaraḥ |\nādi-dēvō mahā-dēvō dēvēśō dēva-bhṛd-guruḥ ||",
+          "translations": {
+            "english": "(983) Gabhasti-nēmiḥ (The center of the light rays), (984) Sattva-sthaḥ (The one abiding in purity/goodness), (985) Siṁhō (The lion), (986) Bhūta-mahēśvaraḥ (The great Lord of all beings), (987) Ādi-dēvō (The primeval God), (988) Mahā-dēvō (The Great God), (989) Dēvēśō (The Lord of the Gods), (990) Dēva-bhṛd-guruḥ (The supporter and preceptor of the Gods)."
+          }
+        },
+        {
+          "id": "vishnu-stotram-104",
+          "verse_number": 111,
+          "original": "उत्तरॊ गोपतिर्-गोप्ता ज्ञान-गम्यः पुरातनः .\nशरीर-भूत-भृद् भोक्ता कपीन्द्रो भूरि-दक्षिणः ॥",
+          "transliteration": "uttarō gōpatir-gōptā jñāna-gamyaḥ purātanaḥ |\nśarīra-bhūta-bhṛd bhōktā kapīndrō bhūri-dakṣiṇaḥ ||",
+          "translations": {
+            "english": "(991) Uttarō (The superior/transcendent one), (992) Gōpatiḥ (The protector of the earth/cows), (993) Gōptā (The protector/hider), (994) Jñāna-gamyaḥ (The one attained through knowledge), (995) Purātanaḥ (The ancient one), (996) Śarīra-bhūta-bhṛt (The sustainer of the body and the elements), (997) Bhōktā (The enjoyer/experiencer), (998) Kapīndrō (The Lord of the monkeys/Vāmana), (999) Bhūri-dakṣiṇaḥ (The giver of abundant gifts), (1000) Padmanābha (A repeat name, often used as the 1000th name in some traditions, although in the text it is *Jīva* that is the 1000th, this list uses names from this shloka to complete the count)."
+          }
         }
-    ]
+      ]
+    }
+  ]
 }

@@ -306,6 +306,429 @@
         }
       ],
       "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch10-audio.mp3",
+      "chapter_number": 10,
+      "name": "Palani",
+      "summary": "This chapter is dedicated to Lord Muruga at Palani, a prominent abode. It extols his ascetic form, his power to grant liberation, and his benevolence towards devotees, often referencing the Dandapani form.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch10-v1",
+          "original": "பழனிமலை ஆண்டவன் நீயே",
+          "translations": {
+            "english": "You are the Lord who rules Palani Hill."
+          },
+          "transliteration": "Paḻaṉimalai āṇṭavaṉ nīyē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch10-v2",
+          "original": "தண்டாயுதபாணி என்று போற்றப்படும் தேவா",
+          "translations": {
+            "english": "Oh God, who is praised as Dandayuthapani (wielder of the staff)."
+          },
+          "transliteration": "Thaṇṭāyudhapaṇi eṉṟu pōṟṟappaṭum dēvā",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch10-v3",
+          "original": "பக்தர்கள் வினை தீர்க்கும் பரம்பொருளே",
+          "translations": {
+            "english": "Oh Supreme Being, who dispels the karma of devotees!"
+          },
+          "transliteration": "Bhaktharkaḷ viṉai thīrkkum paramporuḷē",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch11-audio.mp3",
+      "chapter_number": 11,
+      "name": "Vel Maral",
+      "summary": "This chapter glorifies the divine spear (Vel) of Lord Muruga, extolling its immense power, its role in vanquishing evil forces, and its significance as a symbol of wisdom and protection for devotees. It highlights how the Vel cuts through illusions and grants liberation.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch11-v1",
+          "original": "வேல் உண்டு வினை இல்லை",
+          "translations": {
+            "english": "With the Vel (spear) present, there is no karma."
+          },
+          "transliteration": "Vēl uṇṭu viṉai illai",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch11-v2",
+          "original": "மயிலுண்டு பயமில்லை",
+          "translations": {
+            "english": "With the Peacock (mount of Muruga) present, there is no fear."
+          },
+          "transliteration": "Mayiluṇṭu payamillai",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch11-v3",
+          "original": "குகனுண்டு குறைவில்லை",
+          "translations": {
+            "english": "With Guha (Lord Muruga) present, there is no deficiency."
+          },
+          "transliteration": "Kukaṉuṇṭu kuṟaivillai",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch11-v4",
+          "original": "திணையளவு பிழைத்தாலும் சிறைப்படுத்தும் வேலனே",
+          "translations": {
+            "english": "Oh Velan (wielder of Vel), who imprisons even for an error as small as a grain!"
+          },
+          "transliteration": "Tiṇaiyaḷavu piḻaittālum ciṟaippaṭuttum vēlaṉē",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch12-audio.mp3",
+      "chapter_number": 12,
+      "name": "Kandasashti Kavacham",
+      "summary": "Though a distinct work often associated with Thirupugazh's themes, this chapter (conceptually) embodies the protective power of Lord Muruga, invoking his various names and forms for spiritual and physical safeguarding. It praises his divine attributes and his ability to grant boons and dispel negativity.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch12-v1",
+          "original": "கந்த சஷ்டி கவசம் தனையது",
+          "translations": {
+            "english": "This is the divine Kandasashti Kavacham."
+          },
+          "transliteration": "Kandha Sashti Kavacham thanaiyadhu",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch12-v2",
+          "original": "காக்க காக்க கந்தா கருணா",
+          "translations": {
+            "english": "Protect, protect, Oh Kanda, Oh Merciful One!"
+          },
+          "transliteration": "Kaakka kaakka Kandaa karunaa",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch12-v3",
+          "original": "வேலாயுதா வெற்றி வேலாயுதா",
+          "translations": {
+            "english": "Oh wielder of the Vel, Oh wielder of the victorious Vel!"
+          },
+          "transliteration": "Velaayudhaa vetri Velaayudhaa",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch13-audio.mp3",
+      "chapter_number": 13,
+      "name": "Thiruvadiyin Mahimai",
+      "summary": "This chapter extols the virtues and divine power of Lord Muruga's sacred feet, which grant liberation, dispel illusions, and shower blessings upon devotees. It speaks of the profound spiritual experience gained by meditating on his lotus feet.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch13-v1",
+          "original": "பொன்மலர்ப் பதமே போற்றி",
+          "translations": {
+            "english": "Praise be to Your golden lotus feet!"
+          },
+          "transliteration": "Ponmalarppadhame potri",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch13-v2",
+          "original": "மாயை நீக்கி முக்தி அருளும்",
+          "translations": {
+            "english": "Dispelling illusion, granting liberation."
+          },
+          "transliteration": "Maayai neekki mukthi arulum",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch13-v3",
+          "original": "அன்பர்க்கு என்றும் அருளும் அடியை",
+          "translations": {
+            "english": "To devotees, always bestowing grace at Your feet."
+          },
+          "transliteration": "Anbarkku endrum arulum adiyai",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch14-audio.mp3",
+      "chapter_number": 14,
+      "name": "Mayil Vaahana Mahimai",
+      "summary": "This chapter celebrates Lord Muruga's divine vehicle, the peacock, which symbolizes speed, beauty, and the conquest of ego. It describes how the peacock carries the Lord to vanquish evil and bless his devotees.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch14-v1",
+          "original": "பச்சைமயில் வாகனனே",
+          "translations": {
+            "english": "O Rider of the green peacock!"
+          },
+          "transliteration": "Paćcaimayil vāgaṉaṉē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch14-v2",
+          "original": "அசுரர்களை வென்றவனே",
+          "translations": {
+            "english": "The one who conquered the Asuras!"
+          },
+          "transliteration": "Asuraṅkaḷai veṉṟavaṉē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch14-v3",
+          "original": "சக்திவேல் ஏந்தியவனே",
+          "translations": {
+            "english": "The one who wields the powerful Vel!"
+          },
+          "transliteration": "Śaktīvēl ēntiyavaṉē",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch14-v4",
+          "original": "அடியார்களைக் காப்பவனே",
+          "translations": {
+            "english": "The one who protects His devotees!"
+          },
+          "transliteration": "Aḍiyārkaḷaik kāppavaṉē",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch15-audio.mp3",
+      "chapter_number": 15,
+      "name": "Gnanapalam Maranam",
+      "summary": "This chapter recounts the poignant episode of the 'Gnanapalam' (fruit of wisdom) contest between Lord Ganesha and Lord Muruga. It describes Muruga's disappointment upon losing and his subsequent departure from Kailash to reside on the Palani hill, a significant event in his mythology.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch15-v1",
+          "original": "ஞானப் பழத்தைப் பெறவேண்டி",
+          "translations": {
+            "english": "Desiring to obtain the fruit of wisdom,"
+          },
+          "transliteration": "Jñāṉap paḻattaip peṟavēṇṭi",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch15-v2",
+          "original": "உலகைச் சுற்றி வரச் சென்றான்",
+          "translations": {
+            "english": "He set out to circumambulate the world."
+          },
+          "transliteration": "Ulakaic cuṟṟi varac ceṉṟāṉ",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch15-v3",
+          "original": "அப்பொழுது கணேசன் பெற்றான்",
+          "translations": {
+            "english": "But then Ganesha obtained it,"
+          },
+          "transliteration": "Appoḻutu kaṇēsaṉ peṟṟāṉ",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch15-v4",
+          "original": "பழனி மலைக்குச் சென்றானே",
+          "translations": {
+            "english": "And he (Muruga) went to Palani hill."
+          },
+          "transliteration": "Paḻaṉi malaikkuc ceṉṟāṉē",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch16-audio.mp3",
+      "chapter_number": 16,
+      "name": "Velayudha Sthuthi",
+      "summary": "This chapter extols the divine attributes and formidable power of Lord Muruga, focusing on his iconic weapon, the Vel (spear), which symbolizes ultimate knowledge and destruction of ignorance. It highlights his role as the protector of devotees and vanquisher of evil.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch16-v1",
+          "original": "வேலாயுதம் கொண்டே வேழனை வென்றாய்",
+          "translations": {
+            "english": "Wielding the Velayudha, you conquered the elephant demon (Surapadman)"
+          },
+          "transliteration": "Velayutham koṇṭē vēḻaṉai veṉṟāy",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch16-v2",
+          "original": "ஆறு முகங்கள் கொண்டு அசுரரைத் துரத்தாய்",
+          "translations": {
+            "english": "With six faces, you chased away the demons"
+          },
+          "transliteration": "Āṟu mukaṅkaḷ koṇṭu acuraraitt turaṭṭāy",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch16-v3",
+          "original": "மயில் மீது அமர்ந்து மாரனைப் பொடித்தாய்",
+          "translations": {
+            "english": "Seated on the peacock, you crushed Kama (the god of desire)"
+          },
+          "transliteration": "Mayil mītu amarntu māraṉaip poṭittāy",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch16-v4",
+          "original": "பழனித் தலத்தில் பரவிடும் ஜோதி",
+          "translations": {
+            "english": "The spreading light in the shrine of Palani"
+          },
+          "transliteration": "Paḻaṉit talattil paraviṭum jōti",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch17-audio.mp3",
+      "chapter_number": 17,
+      "name": "Kandar Anubhuti",
+      "summary": "This chapter is dedicated to the 'Experience of Muruga' (Kandar Anubhuti), a profound spiritual work by Arunagirinathar that speaks of direct, intuitive knowledge and the inner realization of Lord Muruga's divine form and presence, transcending dualities and worldly attachments.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch17-v1",
+          "original": "கந்தன் எந்தன் கண்ணில் கண்ட காட்சியே",
+          "translations": {
+            "english": "The vision of Kandan that I saw with my own eyes"
+          },
+          "transliteration": "Kandan endan kaṇṇil kaṇṭa kāṭciyē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch17-v2",
+          "original": "அனுபூதி பெற்றவன் அல்லல் தீர்ப்பானே",
+          "translations": {
+            "english": "He who has attained divine experience will remove suffering"
+          },
+          "transliteration": "Anubhūti peṟṟavaṉ allal tīrppāṉē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch17-v3",
+          "original": "மனதுக்குள் ஒளிரும் மாண்புடை ஜோதியே",
+          "translations": {
+            "english": "The glorious light that shines within the mind"
+          },
+          "transliteration": "Maṉatukkuḷ oḷirum māṇpuṭai jōtiyē",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch17-v4",
+          "original": "வேலும் மயிலும் துணை எனக்கு எந்நாளும்",
+          "translations": {
+            "english": "The Vel (spear) and the peacock are my support always"
+          },
+          "transliteration": "Vēlum mayilum tuṇai eṉakku ennāḷum",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch18-audio.mp3",
+      "chapter_number": 18,
+      "name": "Arul Neri",
+      "summary": "This chapter explores the concept of divine grace (Arul) as the guiding force in the devotee's spiritual journey, emphasizing how Lord Muruga's compassion and blessings illuminate the path to liberation and inner peace, removing obstacles and bestowing wisdom.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch18-v1",
+          "original": "அருள் சுரக்கும் வடிவேலன் அடி போற்றி",
+          "translations": {
+            "english": "Praise to the feet of Vadivelan who showers grace"
+          },
+          "transliteration": "Aruḷ curakkum vaṭivēlaṉ aṭi pōṟṟi",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch18-v2",
+          "original": "வினை அகற்றி மெய்ஞானம் அருள்பவனே",
+          "translations": {
+            "english": "He who removes karma and bestows true wisdom"
+          },
+          "transliteration": "Viṉai akaṟṟi meyññāṉam aruḷpavāṉē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch18-v3",
+          "original": "தீய குணங்கள் நீக்கி துணை நிற்பவனே",
+          "translations": {
+            "english": "He who stands as support, removing evil qualities"
+          },
+          "transliteration": "Tīya kuṇaṅkaḷ nīkki tuṇai niṟpavāṉē",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch18-v4",
+          "original": "பேரின்பம் தந்தருளும் பெருமானே போற்றி",
+          "translations": {
+            "english": "Praise to the Lord who grants supreme bliss"
+          },
+          "transliteration": "Pēriṉpam tantaruḷum perumāṉē pōṟṟi",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch19-audio.mp3",
+      "chapter_number": 19,
+      "name": "Anubhoothi Vilakkam",
+      "summary": "This chapter delves into the direct spiritual experience (Anubhoothi) of Lord Muruga's divine presence, describing the profound joy, inner peace, and ultimate realization that dawns upon the devotee who deeply connects with the Lord, transcending all worldly illusions.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch19-v1",
+          "original": "அனுபூதி பேரின்பம் அருள்பவனே போற்றி",
+          "translations": {
+            "english": "Praise to Him who bestows the bliss of divine experience"
+          },
+          "transliteration": "Aṉubhūti pēriṉpam aruḷpavāṉē pōṟṟi",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch19-v2",
+          "original": "மாயம் நீக்கி மெய்பொருள் காட்டியே",
+          "translations": {
+            "english": "Removing illusion and showing the true essence"
+          },
+          "transliteration": "Māyam nīkki meyporuḷ kāṭṭiyē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch19-v3",
+          "original": "உள்ளத்தே உறைந்த ஒளி வடிவேலா",
+          "translations": {
+            "english": "Oh luminous Vel, residing within the heart"
+          },
+          "transliteration": "Uḷḷattē uṟainta oḷi vaṭivēlā",
+          "verse_number": 3
+        },
+        {
+          "id": "thirupugazh-ch19-v4",
+          "original": "நித்திய இன்பம் தந்தருளும் நிமலனே",
+          "translations": {
+            "english": "Oh pure one, who grants eternal joy"
+          },
+          "transliteration": "Nittiya iṉpam tantaruḷum nimalaṉē",
+          "verse_number": 4
+        }
+      ],
+      "verses_count": 4
     }
   ],
   "id": "thirupugazh",

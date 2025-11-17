@@ -338,7 +338,16 @@
   "translations": {
     "english": "The four branches of the Vedas (Aṅkam) and the four Vedas themselves sing Your praise."
   }
-},
+}
+        
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "name": "Palani",
+      "summary": "Hymns 93 through 112 are dedicated to Palani (Palani Aandavar Temple), the third of the Arupadaiveedu, signifying the state of renunciation (Virakti).",
+      "verses_count": 20,
+      "verses": [
 {
   "id": "thiru-palani-v93",
   "verse_number": 93,
@@ -517,16 +526,7 @@
   "translations": {
     "english": "You who witnessed the four Vedas (Nālu Maṟaikaḷu) being recited, show me the ultimate reality."
   }
-}
-        
-      ]
-    },
-    {
-      "chapter_number": 3,
-      "name": "Palani",
-      "summary": "Hymns 93 through 112 are dedicated to Palani (Palani Aandavar Temple), the third of the Arupadaiveedu, signifying the state of renunciation (Virakti).",
-      "verses_count": 20,
-      "verses": []
+}]
     },
     {
       "chapter_number": 4,

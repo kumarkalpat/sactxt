@@ -1,41 +1,53 @@
-Revised Prompt 1: To Generate a Complete Book (Single-Line Verses)
-This version adds a crucial instruction to format each part of the verse as a single-line string, using a | character to denote poetic line breaks instead of a newline.
-code
-Text
-You are an expert in Hindu philosophy and an assistant skilled at generating structured JSON data. Your task is to create a complete JSON object for the "Isha Upanishad".
+1. JSON Data Structure
+Each sacred text is defined by a JSON file. The structure must match the example below to be compatible with the application.
 
-The JSON object must strictly follow this structure:
-- A root object with `id`, `title`, `author`, `introduction`, and a `chapters` array.
-- The `id` should be a lowercase, kebab-case string (e.g., "isha-upanishad").
-- The `author` is "Unknown (Vedic sages)".
-- The `introduction` should be a concise, 2-3 paragraph summary of the text's core teachings.
-- The `chapters` array will contain a single chapter object.
-- The chapter object must have `chapter_number`, `name`, `summary`, `verses_count`, and a `verses` array.
-- The `verses` array must contain objects for all 18 verses.
-- Each verse object must include:
-  - `id`: A unique string formatted as `isha-1-[verse_number]`.
-  - `verse_number`: The sequential number of the verse.
-  - `original`: The full verse text in Devanagari script.
-  - `transliteration`: An accurate IAST transliteration.
-  - `translations`: An object containing translations for `english` and `hindi`.
+{
+  "id": "unique-text-id",
+  "title": "Title of the Text",
+  "author": "Author of the Text",
+  "introduction": "A multi-line introduction...",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "Chapter Name",
+      "summary": "Chapter summary...",
+      "verses_count": 1,
+      "verses": [
+        {
+          "id": "unique-text-id-1-1",
+          "verse_number": 1,
+          "original": "Original text in Devanagari...",
+          "transliteration": "IAST transliteration...",
+          "translations": {
+            "english": "English translation..."
+          }
+        }
+      ],
+      "audioUrl": "https://archive.org/details/your-audio-id (optional)"
+    }
+  ]
+}
+2. Example AI Prompt
+You can use a generative AI like Gemini to create the JSON content for you. Provide a clear and specific prompt, including the required structure. Here is a simple example:
 
-**CRITICAL INSTRUCTION:** For the `original`, `transliteration`, and all `translations` fields, the entire text for a verse must be a **single-line JSON string**. Do not use newline characters (`\n`). If the original verse has distinct poetic lines, separate them with a single pipe character surrounded by spaces (` | `).
-Revised Prompt 2: To Generate a Single Chapter (Single-Line Verses)
-This variation applies the same single-line constraint to the chapter-specific prompt.
-code
-Text
-You are an expert in sacred Hindu texts and an assistant skilled at generating structured JSON data. Your task is to create a JSON object for Chapter 2 of the "Katha Upanishad", titled "The Path of the Good vs. the Pleasant".
+Generate a complete JSON object for the sacred text 'Hanuman Chalisa'.
 
-The JSON object must strictly represent a single chapter with the following structure:
-- A root object with `chapter_number`, `name`, `summary`, `verses_count`, and a `verses` array.
-- The `verses` array must contain objects for all verses in Chapter 2.
-- Each verse object must include:
-  - `id`: A unique string formatted as `katha-2-[verse_number]`.
-  - `verse_number`: The sequential number of the verse.
-  - `original`: The full verse text in Devanagari.
-  - `transliteration`: An accurate IAST transliteration.
-  - `translations`: An object containing high-quality translations for `english` and `hindi`.
+The JSON must follow this structure exactly:
+- A root object with "id", "title", "author", and "introduction".
+- A "chapters" array containing chapter objects.
+- Each chapter object must have "chapter_number", "name", "summary", "verses_count", and a "verses" array.
+- Each verse in the "verses" array must have "id", "verse_number", "original" (in Devanagari), "transliteration" (IAST), and a "translations" object with an "english" key.
 
-**CRITICAL INSTRUCTION:** For the `original`, `transliteration`, and all `translations` fields, the entire text for a verse must be a **single-line JSON string**. Do not use newline characters (`\n`). If the original verse has distinct poetic lines, separate them with a single pipe character surrounded by spaces (` | `).
-By adding this explicit constraint, you ensure the generated JSON is clean and predictable, giving you full control over how and where line breaks are rendered in your application's UI.
+Please generate the content for all 42 verses of the Hanuman Chalisa.
+3. Adding Your Text
+To add your text to the library, follow these steps:
 
+Create your text's .json file using the structure and prompt guide above.
+Upload the file to the data/ folder in the source repository.
+Add an entry for your new text in the data/texts.json manifest file. This entry tells the app where to find your file. It should look like this:
+{
+  "id": "your-unique-text-id",
+  "title": "Your Text Title",
+  "author": "Author Name",
+  "path": "data/your-file-name.json"
+}

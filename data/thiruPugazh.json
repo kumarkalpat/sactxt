@@ -3,7 +3,7 @@
   "title": "Thirupukazh (The Glory of the Divine)",
   "author": "Arunagirinathar",
   "introduction": "Thirupukazh, meaning 'Praise of the Lord,' is a masterpiece of devotional poetry in Tamil, consisting of hymns dedicated to Lord Murugan (Kartikeya). Composed by the saint-poet Arunagirinathar in the 15th century, the verses are renowned for their rhythmic complexity (Chandam) and profound spiritual content, focusing on the pursuit of spiritual liberation and the glory of Murugan's six abodes (Arupadaiveedu) and other sacred Sthalas (temples). The surviving collection contains approximately 1,307 songs.",
-  "chapters": [
+"chapters": [
     {
       "chapter_number": 1,
       "name": "Tirupparankundram (Verses 1-56)",
@@ -13,8 +13,8 @@
         {
           "id": "thiru-parankundram-v1",
           "verse_number": 1,
-          "original": "कैकैयु मुटऱ् कैयतुण्टु कऩियेप्पऴ मुरुक्का मुऩैक्",
-          "transliteration": "Kaikeiyum uṭaṟ kaiyatuṇṭu kaṉiyeppaḻ murukkā muṉaik",
+          "original": "கைக்கேயு முடற்கைய துண்டு கனியேப்பழ் முறுக்கா முனைக்கு",
+          "transliteration": "Kaikeiyum uṭaṟ kaiyatuṇṭu kaṉiyeppaḻ muṟukkā muṉaikku",
           "translations": {
             "english": "O Ganesha (the one with the elephant trunk and large body), who holds a fruit in your hand! You bestow the sweet fruit of grace upon those who approach you."
           }
@@ -22,7 +22,7 @@
         {
           "id": "thiru-parankundram-v2",
           "verse_number": 2,
-          "original": "चैवऩ् काऩम् त्ēवरुणर् पाट्टु नल्ल",
+          "original": "சைவன் கானந் தேவருணர் பாட்டு நல்ல",
           "transliteration": "Caivaṉ kāṉam tēvaruṇar pāṭṭu nalla",
           "translations": {
             "english": "O Lord (Murugan), who is the son of Shiva! The celestial beings (Devas) and enlightened ones sing good songs in your praise."
@@ -31,8 +31,8 @@
         {
           "id": "thiru-parankundram-v3",
           "verse_number": 3,
-          "original": "मुत्ताय् नी मरुत्तव्वा ळिव् वुलकिल्ē",
-          "transliteration": "Muttāy nī maruttavvā ḷiv vulakilē",
+          "original": "முத்தாய் நீ மருத்தவ்வாள் இவ் வுலகிலே",
+          "transliteration": "Muttāy nī maruttavvāḷ iv vulakilē",
           "translations": {
             "english": "You are the Pearl (Muttā), who came down to this world as a doctor, performing extraordinary deeds."
           }
@@ -40,8 +40,8 @@
         {
           "id": "thiru-parankundram-v4",
           "verse_number": 4,
-          "original": "अरुमैय्ō टेऩ्ऱु निऩ्ऱ मुटैय्ōऩ्ē",
-          "transliteration": "Arumaiyō ṭeṉṟu niṉṟa muṭaiyōṉē",
+          "original": "அருமையோ டென்று நின்ற உடையோனே",
+          "transliteration": "Arumaiyō ṭeṉṟu niṉṟa uṭaiyōṉē",
           "translations": {
             "english": "O Lord who stands as a rarity and who possesses great glory!"
           }
@@ -49,7 +49,7 @@
         {
           "id": "thiru-parankundram-v5",
           "verse_number": 5,
-          "original": "ऊऩाटि नीयऩ्ऱु ōर् क्ōट्टु मुत्तु नल्लिऩ",
+          "original": "ஊனாடி நீயன்று ஓர் கோட்டு முத்துக் நல்லின",
           "transliteration": "Ūṉāṭi nīyaṉṟu ōr kōṭṭu muttu nalliṉa",
           "translations": {
             "english": "You who danced in the flesh (human form), once gave the pearl (of wisdom) to the one who asked."
@@ -58,7 +58,7 @@
         {
           "id": "thiru-parankundram-v6",
           "verse_number": 6,
-          "original": "अरुम्पेऱल् विल्ल्ōटु विल् वळित्ōऩ्ē",
+          "original": "அரும்பெறல் வில்லோடு வில் வளிதோனே",
           "transliteration": "Arumpeṟal villōṭu vil vaḷitōṉē",
           "translations": {
             "english": "O Lord who possesses the bow that is difficult to attain and who wields the bow with strength!"
@@ -67,7 +67,7 @@
         {
           "id": "thiru-parankundram-v7",
           "verse_number": 7,
-          "original": "वल्ल्ōर्कळैयेऩ्ऱु मुऩ्ऩम् वैय्ōरुमिल्लै",
+          "original": "வல்லோர்களை யென்று முன்னம் வைய்யோருமில்லை",
           "transliteration": "Vallōrkaḷaiyeṉṟu muṉṉam vaiyyōrumillai",
           "translations": {
             "english": "There is no one (among the skilled) who can defeat you, the foremost mighty one, at any time."
@@ -76,7 +76,7 @@
         {
           "id": "thiru-parankundram-v8",
           "verse_number": 8,
-          "original": "उऩैत्तिऩम् निऩैत्त्ōर्क्कु निऩैत्त्ōर् पोरुळै उवन्त्ē",
+          "original": "உனைத்தினம் நினைத்தோர்க்கு நினைத்தோர் பொருளை உவந்தே",
           "transliteration": "Uṉaittinam niṉaittōrkku niṉaittōr poruḷai uvantē",
           "translations": {
             "english": "To those who think of you daily, you gladly bestow the things they desire (spiritual realization), though it is difficult to attain."
@@ -85,8 +85,8 @@
         {
           "id": "thiru-parankundram-v9",
           "verse_number": 9,
-          "original": "करुवटैन्तु पण्टु पयिल् कैविटातु कण्मुटिक्कि",
-          "transliteration": "Karuvaṭaintu paṇṭu payil kaiviṭātu kaṇmuṭikki",
+          "original": "கருவடைந்து பண்டு பயில் கைவிடாது கண்முடக்கி",
+          "transliteration": "Karuvaṭaintu paṇṭu payil kaiviṭātu kaṇmuṭakki",
           "translations": {
             "english": "Having taken a physical form and not letting go of the habits ingrained since the beginning, and as the eyes close (in death), will I be able to utter your sacred name, Muruga?"
           }
@@ -94,7 +94,7 @@
         {
           "id": "thiru-parankundram-v10",
           "verse_number": 10,
-          "original": "कऩकन्तिरळ्किऩ्ऱ मात्ōटु पण्पाट्टु विळ्किऩ्ऱ पूण्ōटु",
+          "original": "கனகந்திரள்கின்ற மாதோடு பண்பாட்டு விள்கின்ற பூணோடு",
           "transliteration": "Kaṉakantiraḷkiṉṟa mātōṭu paṇpāṭṭu viḷkiṉṟa pūṇōṭu",
           "translations": {
             "english": "You, who reside with the golden goddess (Deivanai/Devasena) and wear ornaments that shine amidst the music of devotion, please grant me the boon of your grace."

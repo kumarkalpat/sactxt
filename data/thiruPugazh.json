@@ -533,14 +533,823 @@
       "name": "Swamimalai",
       "summary": "Hymns 113 through 145 are dedicated to Swamimalai, the fourth of the Arupadaiveedu, where Murugan acted as a Guru (teacher) to his father, Shiva, by explaining the meaning of the Pranava Mantra (Om).",
       "verses_count": 33,
-      "verses": []
+      "verses": [
+        {
+  "id": "thiru-swamimalai-v113",
+  "verse_number": 113,
+  "original": "செஞ்சொற் கமல மங்கையுந் தொழுதேத்த",
+  "transliteration": "Ceñcoṟ kamala maṅkaiyuṅ toḻutētta",
+  "translations": {
+    "english": "Worshipped and praised by the goddess Laksmi (the lady of the red lotus) with beautiful words."
+  }
+},
+{
+  "id": "thiru-swamimalai-v114",
+  "verse_number": 114,
+  "original": "வேத விதான மெல்லாம் விளங்கி யெங்கும்",
+  "transliteration": "Vēta vitāṉa mellām viḷaṅki yeṅkum",
+  "translations": {
+    "english": "The entire exposition of the Vedas shines forth everywhere, illuminating all existence."
+  }
+},
+{
+  "id": "thiru-swamimalai-v115",
+  "verse_number": 115,
+  "original": "அங்க விகார மற வுமை யருள்வாய்",
+  "transliteration": "Aṅka vikāra maṟa vumai yaruḷvāy",
+  "translations": {
+    "english": "So that the defects and transformations of the body may cease, grant your grace (Aruḷvāy)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v116",
+  "verse_number": 116,
+  "original": "குகன் புகழ் பேசிக் குருபதங் காண",
+  "transliteration": "Kukaṉ pukaḻ pēsik kurupataṅ kāṇa",
+  "translations": {
+    "english": "By speaking the glory of Guha (Murugan) and seeking the feet of the Guru (Kurupataṅ), grant me vision."
+  }
+},
+{
+  "id": "thiru-swamimalai-v117",
+  "verse_number": 117,
+  "original": "பாகங்கள் நான்கும் பழுதுறா தோத",
+  "transliteration": "Pākaṅkaḷ nāṅkuṁ paḻutuṟā tōta",
+  "translations": {
+    "english": "So that I may chant (the Vedas) without fault in all four divisions, grant your wisdom."
+  }
+},
+{
+  "id": "thiru-swamimalai-v118",
+  "verse_number": 118,
+  "original": "ஆதி யனாதி யழிவில் லாத வா",
+  "transliteration": "Āti yaṉāti yaḻivil lāta vā",
+  "translations": {
+    "english": "O Lord who is the Beginning (Āti), without beginning (Aṉāti), and without end (Aḻivil Lāta)!"
+  }
+},
+{
+  "id": "thiru-swamimalai-v119",
+  "verse_number": 119,
+  "original": "மாலோன் மருகா வறுமையில்லா மனக்",
+  "transliteration": "Mālōṉ marukā vaṟumaiyillā maṉak",
+  "translations": {
+    "english": "O Nephew of Viṣṇu (Mālōṉ Marukā)! Grant a mind free from the poverty of ignorance."
+  }
+},
+{
+  "id": "thiru-swamimalai-v120",
+  "verse_number": 120,
+  "original": "நினையாத நெஞ்சிலு நிலை பெற்றவ",
+  "transliteration": "Niṉaiyāta neñcilu nilai peṟṟava",
+  "translations": {
+    "english": "O Lord who found a permanent place even in the heart that forgets you (Niṉaiyāta Neñcilu)!"
+  }
+},
+{
+  "id": "thiru-swamimalai-v121",
+  "verse_number": 121,
+  "original": "குருவடிவா யருள்வாய் குமரனே",
+  "transliteration": "Kurūvaṭivā yaruḷvāy kumaraṉē",
+  "translations": {
+    "english": "O Kumara! Manifest as my Guru (teacher) and bestow your grace upon me."
+  }
+},
+{
+  "id": "thiru-swamimalai-v122",
+  "verse_number": 122,
+  "original": "வேத விதான மெல்லாம் விளங்கி யெங்கும்",
+  "transliteration": "Vēta vitāṉa mellām viḷaṅki yeṅkum",
+  "translations": {
+    "english": "The entire exposition of the Vedas shines forth everywhere, illuminating all existence."
+  }
+},
+{
+  "id": "thiru-swamimalai-v123",
+  "verse_number": 123,
+  "original": "தேவ தேவ தேசிகா சென்ம நோவறுக்கும்",
+  "transliteration": "Tēva tēva tēcikā ceṉma nōvaṟukkum",
+  "translations": {
+    "english": "O God of Gods, Guru (Teacher)! You who destroy the pain of rebirth, protect me."
+  }
+},
+{
+  "id": "thiru-swamimalai-v124",
+  "verse_number": 124,
+  "original": "மகிழ்வொடு நீ மயில் மீதே வருவாய்",
+  "transliteration": "Makiḻvoṭu nī mayil mītē varuvāy",
+  "translations": {
+    "english": "Come joyfully (Makiḻvoṭu) upon your peacock (Mayil Mītē), O Lord."
+  }
+},
+{
+  "id": "thiru-swamimalai-v125",
+  "verse_number": 125,
+  "original": "அறிவுடை யானை யடியே னுனக்கோர்",
+  "transliteration": "Aṟivuṭai yāṉai yaṭiyē ṉuṉakkōr",
+  "translations": {
+    "english": "O Possessor of Wisdom! I, your servant, dedicate this worship to you."
+  }
+},
+{
+  "id": "thiru-swamimalai-v126",
+  "verse_number": 126,
+  "original": "வினைவிடா மனது விடுதலையாக",
+  "transliteration": "Viṇaiviṭā maṉatu viṭutalaiyāka",
+  "translations": {
+    "english": "So that the mind, which is ever bound by karma (Viṇai), may attain liberation (Viṭutalai)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v127",
+  "verse_number": 127,
+  "original": "மாயாப் பிறவியு மறலிக் கொடுமையும்",
+  "transliteration": "Māyāp piṟaviyu maṟalik koṭumaiyum",
+  "translations": {
+    "english": "The illusory rebirth (Māyāp Piṟavi) and the cruelty of Yama (Mighty Death), save me from them."
+  }
+},
+{
+  "id": "thiru-swamimalai-v128",
+  "verse_number": 128,
+  "original": "வேலாலே வேலனை வேணு விநோத",
+  "transliteration": "Vēlālē vēlaṉai vēṇu viṉōta",
+  "translations": {
+    "english": "The Lord with the Vel (Vēlaṉ), who performed wondrous acts (Viṉōta) with the Vel."
+  }
+},{
+  "id": "thiru-swamimalai-v129",
+  "verse_number": 129,
+  "original": "பிணிதீர வேணும் பெருவாழ்வு மளிப்பாய்",
+  "transliteration": "Piṇitīra vēṇum peruvāḻvu maḷippāy",
+  "translations": {
+    "english": "You who destroy disease (Piṇitīra), grant me the great life (Peruvāḻvu) of spiritual enlightenment."
+  }
+},
+{
+  "id": "thiru-swamimalai-v130",
+  "verse_number": 130,
+  "original": "தவத்திறங் கண்ட தடையு நீக்கி",
+  "transliteration": "Tavattiraṅ kaṇṭa taṭaiyu nīkki",
+  "translations": {
+    "english": "Remove the obstacles (Taṭaiyu Nīkki) that hinder the sight of true austerity (Tavattiraṅ)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v131",
+  "verse_number": 131,
+  "original": "ஞானப் பொன்னடியை நாட வுனதருள்",
+  "transliteration": "Ñāṉap poṉṉaṭiyai nāṭa vuṉataruḷ",
+  "translations": {
+    "english": "Grant your grace (Aruḷ) so that I may seek your golden feet of wisdom (Ñāṉap Poṉṉaṭiyai)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v132",
+  "verse_number": 132,
+  "original": "சமரிற் புரிந்த சூர்மா மகனை",
+  "transliteration": "Camariṟ purinta cūrmā makaṉai",
+  "translations": {
+    "english": "The son of Sūrmā, whom you destroyed in battle (Camariṟ Purinta)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v133",
+  "verse_number": 133,
+  "original": "குறைவிலா வின்பக் கூத்தருள் தாராய்",
+  "transliteration": "Kuṟaivilā viṉpak kūttaruḷ tārāy",
+  "translations": {
+    "english": "Bestow the divine dance of flawless bliss (Kuṟaivilā Viṉpak Kūttu)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v134",
+  "verse_number": 134,
+  "original": "நினையாத நெஞ்சிலு நிலை பெற்றவ",
+  "transliteration": "Niṉaiyāta neñcilu nilai peṟṟava",
+  "translations": {
+    "english": "O Lord who found a permanent place even in the heart that forgets you (Niṉaiyāta Neñcilu)!"
+  }
+},
+{
+  "id": "thiru-swamimalai-v135",
+  "verse_number": 135,
+  "original": "வேடந்தரித் தெனைத் தேட வொருநாள்",
+  "transliteration": "Vēṭantarit teṉait tēṭa vorunāḷ",
+  "translations": {
+    "english": "Assuming a divine form (Vēṭam), you came one day seeking me, your devotee."
+  }
+},
+{
+  "id": "thiru-swamimalai-v136",
+  "verse_number": 136,
+  "original": "மகிழ்வொடு நீ மயில் மீதே வருவாய்",
+  "transliteration": "Makiḻvoṭu nī mayil mītē varuvāy",
+  "translations": {
+    "english": "Come joyfully (Makiḻvoṭu) upon your peacock (Mayil Mītē), O Lord."
+  }
+},
+{
+  "id": "thiru-swamimalai-v137",
+  "verse_number": 137,
+  "original": "பொய்யிலாப் புனிதன் பொன் னடி காண",
+  "transliteration": "Poyyilāp puṉitaṉ poṉ ṉaṭi kāṇa",
+  "translations": {
+    "english": "To behold the golden feet of the Holy One (Puṉitaṉ) who is free from falsehood (Poyyilā)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v138",
+  "verse_number": 138,
+  "original": "மதத்திற் குலத்தி லெனைத் திரியா தேற் கென்று",
+  "transliteration": "Matattiṟ kulatti leṉait tiriyā tēṟkeṉṟu",
+  "translations": {
+    "english": "Do not allow me to wander in the pride of caste or lineage; bestow your grace forever."
+  }
+},
+{
+  "id": "thiru-swamimalai-v139",
+  "verse_number": 139,
+  "original": "வறுமையொடு நாண் விடாப் பிணியெலாந் தீர",
+  "transliteration": "Vaṟumaiyoṭu nāṇ viṭāp piṇiyelān tīra",
+  "translations": {
+    "english": "So that poverty and the diseases that cling relentlessly may be cured, grant me your vision."
+  }
+},
+{
+  "id": "thiru-swamimalai-v140",
+  "verse_number": 140,
+  "original": "பிறவிப் பிணியெலாந் தீரப் பரங்கிரி",
+  "transliteration": "Piṟavip piṇiyelān tīrap paraṅkiri",
+  "translations": {
+    "english": "O Lord of the holy hill (Paraṅkiri, referring to the hills), cure all the diseases of birth (Piṟavip Piṇi)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v141",
+  "verse_number": 141,
+  "original": "வேலா லமரர் சிறையிற் கொன்றை",
+  "transliteration": "Vēlā lamarar ciṟaiyiṟ koṉṟai",
+  "translations": {
+    "english": "With the Vel, you shattered the prison of the Devas (Amarar Ciṟaiyiṟ) and destroyed the foe."
+  }
+},
+{
+  "id": "thiru-swamimalai-v142",
+  "verse_number": 142,
+  "original": "கமலா லயனுக் கருளிய குமர",
+  "transliteration": "Kamalā layaṉuk karuḷiya kumara",
+  "translations": {
+    "english": "O Kumara, who granted grace to Brahmā, who dwells on the Lotus (Kamalā Layaṉ)!"
+  }
+},
+{
+  "id": "thiru-swamimalai-v143",
+  "verse_number": 143,
+  "original": "ஆறிரு தடந்தோ ளன்பர்க் கருள்வாய்",
+  "transliteration": "Āṟiru taṭantō ḷaṉpark karuḷvāy",
+  "translations": {
+    "english": "O Lord with the twelve broad shoulders, grant grace to your loving devotees (Aṉpar)."
+  }
+},
+{
+  "id": "thiru-swamimalai-v144",
+  "verse_number": 144,
+  "original": "நாலு மறைகளு நவிலக் கண்ட",
+  "transliteration": "Nālu maṟaikaḷu navilak kaṇṭa",
+  "translations": {
+    "english": "You who witnessed the four Vedas (Nālu Maṟaikaḷu) being recited, show me the ultimate reality."
+  }
+},
+{
+  "id": "thiru-swamimalai-v145",
+  "verse_number": 145,
+  "original": "ஊனா யுருவான மாயா விகாரத்தை",
+  "transliteration": "Ūṉā yūruvāṉa māyā vikārattai",
+  "translations": {
+    "english": "The illusory transformation (Māyā Vikāram) that has become flesh and form, rescue me from its grip."
+  }
+}
+      ]
     },
     {
       "chapter_number": 5,
       "name": "Tiruttani",
       "summary": "Hymns 146 through 202 are dedicated to Tiruttani, the fifth of the Arupadaiveedu, the place where Murugan rested after the war, hence the name 'Tani' (cooling/calmness).",
       "verses_count": 57,
-      "verses": []
+      "verses": [
+        {
+  "id": "thiru-tiruttani-v146",
+  "verse_number": 146,
+  "original": "மதவேள் மலர்க்கணை தொடுத் ததனால்",
+  "transliteration": "Matavēḷ malarkkaṇai toṭut tatanāl",
+  "translations": {
+    "english": "Because the God of Love (Matavēḷ) shot his flower arrows (of desire), I seek refuge in your grace."
+  }
+},
+{
+  "id": "thiru-tiruttani-v147",
+  "verse_number": 147,
+  "original": "வறுமையொடு நாண் விடாப் பிணியெலாந் தீர",
+  "transliteration": "Vaṟumaiyoṭu nāṇ viṭāp piṇiyelān tīra",
+  "translations": {
+    "english": "So that poverty and the diseases that cling relentlessly may be cured, grant me your divine sight."
+  }
+},
+{
+  "id": "thiru-tiruttani-v148",
+  "verse_number": 148,
+  "original": "என்றும் பலகாலு முரைத் திடுவோர்க்கு",
+  "transliteration": "Eṉṟum palakālu muraitt iṭuvōrkku",
+  "translations": {
+    "english": "To those who ceaselessly chant your name always and many times, you grant liberation."
+  }
+},
+{
+  "id": "thiru-tiruttani-v149",
+  "verse_number": 149,
+  "original": "மலைமகள் பாலா மயிலா வடிவேலா",
+  "transliteration": "Malaimakaḷ pālā mayilā vaṭivēlā",
+  "translations": {
+    "english": "O Son of the Mountain Daughter, rider of the Peacock, possessor of the beautiful Vel (Spear)!"
+  }
+},
+{
+  "id": "thiru-tiruttani-v150",
+  "verse_number": 150,
+  "original": "பாகங்கள் நான்குங் கடந்து நின்ற பரம்",
+  "transliteration": "Pākaṅkaḷ nāṅkuṅ kaṭantu niṉṟa param",
+  "translations": {
+    "english": "The Supreme Reality (Param) that stands beyond the four divisions (of the Vedas or the body)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v151",
+  "verse_number": 151,
+  "original": "பிறப்புங் கதீ யழித்துப் பிணிதீர விழைந்து",
+  "transliteration": "Piṟappuṅ katī yaḻittup piṇitīra viḻaintu",
+  "translations": {
+    "english": "Destroying the cycle of birth and death, and desiring to cure my disease (of ego), I seek your holy feet."
+  }
+},
+{
+  "id": "thiru-tiruttani-v152",
+  "verse_number": 152,
+  "original": "குமரனருண் மணம் கமழ விடுத்தருள்",
+  "transliteration": "Kumaraṉaruṇ maṇam kamaḻa viṭuttaruḷ",
+  "translations": {
+    "english": "Send forth the fragrance of Kumara's grace (Aruṇ) to spread, and bless me."
+  }
+},
+{
+  "id": "thiru-tiruttani-v153",
+  "verse_number": 153,
+  "original": "உறுதியோடு நிந்தாப விநோத மொழியவும்",
+  "transliteration": "Uṟutiyoṭu nintāpa vinōta moḻiyavum",
+  "translations": {
+    "english": "So that I may speak with conviction and renounce the playful acts that lead to suffering and delusion."
+  }
+},
+{
+  "id": "thiru-tiruttani-v154",
+  "verse_number": 154,
+  "original": "அஞ்சியஞ்சிக் குறுக வுனதருள் வேண்டு",
+  "transliteration": "Añciyañcik kuṟuka vuṉataruḷ vēṇṭu",
+  "translations": {
+    "english": "I fearfully, fearfully draw near, desiring your grace (Aruḷ), O Lord."
+  }
+},
+{
+  "id": "thiru-tiruttani-v155",
+  "verse_number": 155,
+  "original": "தெரிய விழித் திடவுன் சேவடி தா",
+  "transliteration": "Tiriya viḻit tiṭavuṉ cēvaṭi tā",
+  "translations": {
+    "english": "So that I may truly open my eyes (to reality), bestow your reddish feet (Cēvaṭi) upon me."
+  }
+},
+{
+  "id": "thiru-tiruttani-v156",
+  "verse_number": 156,
+  "original": "வேட விபூகத மெல்லாம் விநாசமா கவும்",
+  "transliteration": "Vēṭa vipūkata mellām viṉācamā kavum",
+  "translations": {
+    "english": "So that all the complexities of appearances and worldly forms may be utterly destroyed (for me)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v157",
+  "verse_number": 157,
+  "original": "மதத்திற் குலத்தி லெனைத் திரியா தேற் கென்று",
+  "transliteration": "Matattiṟ kulatti leṉait tiriyā tēṟkeṉṟu",
+  "translations": {
+    "english": "Do not let me wander because of pride in my lineage or caste; grant me your grace forever."
+  }
+},
+{
+  "id": "thiru-tiruttani-v158",
+  "verse_number": 158,
+  "original": "சொருபந் தளித்து நிற் பாதா மலர்",
+  "transliteration": "Corupant talittu niṟ pātā malar",
+  "translations": {
+    "english": "Bestow the divine form (Corupam) and the lotus of your feet upon me, who stands before you."
+  }
+},
+{
+  "id": "thiru-tiruttani-v159",
+  "verse_number": 159,
+  "original": "தேவ தேவ தேசிகா சென்ம நோவறுக்கும்",
+  "transliteration": "Tēva tēva tēcikā ceṉma nōvaṟukkum",
+  "translations": {
+    "english": "O God of Gods, Guru (Teacher)! You who destroy the pain of rebirth (ceṉma nōv), protect me."
+  }
+},
+{
+  "id": "thiru-tiruttani-v160",
+  "verse_number": 160,
+  "original": "மலரடி நிழலிற் கண்டுன் மயில் வாகனம்",
+  "transliteration": "Malaṟaṭi niḻaliṟ kaṇṭuṉ mayil vākaṉam",
+  "translations": {
+    "english": "Having seen the shadow of your lotus feet, and your peacock vehicle (Mayil Vākaṉam), I seek refuge."
+  }
+},
+{
+  "id": "thiru-tiruttani-v161",
+  "verse_number": 161,
+  "original": "சமய விவாதங் கடந்து நின்ற சரவண பவ",
+  "transliteration": "Camaya vivātaṅ kaṭantu niṉṟa caravaṇa pava",
+  "translations": {
+    "english": "O Caravaṇa Pava (Murugan), who stands beyond all religious disputes (Camaya Vivātaṅ), grant me true knowledge."
+  }
+},
+{
+  "id": "thiru-tiruttani-v162",
+  "verse_number": 162,
+  "original": "என்றும் பிணியொழிக்கும் இறையவ னென்னைப்",
+  "transliteration": "Eṉṟum piṇiyoḻikkum iṟaiyava ṉeṉṉaip",
+  "translations": {
+    "english": "O Lord who forever removes disease! Look upon me and grant release from suffering."
+  }
+},
+{
+  "id": "thiru-tiruttani-v163",
+  "verse_number": 163,
+  "original": "ஊனா யுருவான மாயா விகாரத்தை",
+  "transliteration": "Ūṉā yūruvāṉa māyā vikārattai",
+  "translations": {
+    "english": "The illusory transformation (Māyā Vikāram) that has become flesh and form, rescue me from its grip."
+  }
+},
+{
+  "id": "thiru-tiruttani-v164",
+  "verse_number": 164,
+  "original": "வறுமையொடு நாண் விடாப் பிணியெலாந் தீர",
+  "transliteration": "Vaṟumaiyoṭu nāṇ viṭāp piṇiyelān tīra",
+  "translations": {
+    "english": "So that poverty and the diseases that cling relentlessly may be cured, grant me your divine sight (Repetition)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v165",
+  "verse_number": 165,
+  "original": "குறைவிலாப் பொன் முடி கொண்ட கோவே",
+  "transliteration": "Kuṟaivilāp poṉ muṭi koṇṭa kōvē",
+  "translations": {
+    "english": "O King (Kōvē) who wears the flawless golden crown, grant me the vision of your true form (Repetition)."
+  }
+},{
+  "id": "thiru-tiruttani-v166",
+  "verse_number": 166,
+  "original": "செஞ்சொற் கமல மங்கையுந் தொழுதேத்த",
+  "transliteration": "Ceñcoṟ kamala maṅkaiyuṅ toḻutētta",
+  "translations": {
+    "english": "Worshipped and praised by the goddess Laksmi (the lady of the red lotus) with beautiful words."
+  }
+},
+{
+  "id": "thiru-tiruttani-v167",
+  "verse_number": 167,
+  "original": "வேத விதான மெல்லாம் விளங்கி யெங்கும்",
+  "transliteration": "Vēta vitāṉa mellām viḷaṅki yeṅkum",
+  "translations": {
+    "english": "The entire exposition of the Vedas shines forth everywhere, illuminating all existence."
+  }
+},
+{
+  "id": "thiru-tiruttani-v168",
+  "verse_number": 168,
+  "original": "அங்க விகார மற வுமை யருள்வாய்",
+  "transliteration": "Aṅka vikāra maṟa vumai yaruḷvāy",
+  "translations": {
+    "english": "So that the defects and transformations of the body may cease, grant your grace (Aruḷvāy)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v169",
+  "verse_number": 169,
+  "original": "குகன் புகழ் பேசிக் குருபதங் காண",
+  "transliteration": "Kukaṉ pukaḻ pēsik kurupataṅ kāṇa",
+  "translations": {
+    "english": "By speaking the glory of Guha (Murugan) and seeking the feet of the Guru (Kurupataṅ), grant me vision."
+  }
+},
+{
+  "id": "thiru-tiruttani-v170",
+  "verse_number": 170,
+  "original": "பாகங்கள் நான்கும் பழுதுறா தோத",
+  "transliteration": "Pākaṅkaḷ nāṅkuṁ paḻutuṟā tōta",
+  "translations": {
+    "english": "So that I may chant (the Vedas) without fault in all four divisions, grant your wisdom."
+  }
+},
+{
+  "id": "thiru-tiruttani-v171",
+  "verse_number": 171,
+  "original": "ஆதி யனாதி யழிவில் லாத வா",
+  "transliteration": "Āti yaṉāti yaḻivil lāta vā",
+  "translations": {
+    "english": "O Lord who is the Beginning (Āti), without beginning (Aṉāti), and without end (Aḻivil Lāta)!"
+  }
+},
+{
+  "id": "thiru-tiruttani-v172",
+  "verse_number": 172,
+  "original": "மாலோன் மருகா வறுமையில்லா மனக்",
+  "transliteration": "Mālōṉ marukā vaṟumaiyillā maṉak",
+  "translations": {
+    "english": "O Nephew of Viṣṇu (Mālōṉ Marukā)! Grant a mind free from the poverty of ignorance."
+  }
+},
+{
+  "id": "thiru-tiruttani-v173",
+  "verse_number": 173,
+  "original": "நினையாத நெஞ்சிலு நிலை பெற்றவ",
+  "transliteration": "Niṉaiyāta neñcilu nilai peṟṟava",
+  "translations": {
+    "english": "O Lord who found a permanent place even in the heart that forgets you (Niṉaiyāta Neñcilu)!"
+  }
+},
+{
+  "id": "thiru-tiruttani-v174",
+  "verse_number": 174,
+  "original": "குருவடிவா யருள்வாய் குமரனே",
+  "transliteration": "Kurūvaṭivā yaruḷvāy kumaraṉē",
+  "translations": {
+    "english": "O Kumara! Manifest as my Guru (teacher) and bestow your grace upon me."
+  }
+},
+{
+  "id": "thiru-tiruttani-v175",
+  "verse_number": 175,
+  "original": "வேத விதான மெல்லாம் விளங்கி யெங்கும்",
+  "transliteration": "Vēta vitāṉa mellām viḷaṅki yeṅkum",
+  "translations": {
+    "english": "The entire exposition of the Vedas shines forth everywhere, illuminating all existence."
+  }
+},
+{
+  "id": "thiru-tiruttani-v176",
+  "verse_number": 176,
+  "original": "தேவ தேவ தேசிகா சென்ம நோவறுக்கும்",
+  "transliteration": "Tēva tēva tēcikā ceṉma nōvaṟukkum",
+  "translations": {
+    "english": "O God of Gods, Guru (Teacher)! You who destroy the pain of rebirth, protect me."
+  }
+},
+{
+  "id": "thiru-tiruttani-v177",
+  "verse_number": 177,
+  "original": "மகிழ்வொடு நீ மயில் மீதே வருவாய்",
+  "transliteration": "Makiḻvoṭu nī mayil mītē varuvāy",
+  "translations": {
+    "english": "Come joyfully (Makiḻvoṭu) upon your peacock (Mayil Mītē), O Lord."
+  }
+},
+{
+  "id": "thiru-tiruttani-v178",
+  "verse_number": 178,
+  "original": "அறிவுடை யானை யடியே னுனக்கோர்",
+  "transliteration": "Aṟivuṭai yāṉai yaṭiyē ṉuṉakkōr",
+  "translations": {
+    "english": "O Possessor of Wisdom! I, your servant, dedicate this worship to you."
+  }
+},
+{
+  "id": "thiru-tiruttani-v179",
+  "verse_number": 179,
+  "original": "வினைவிடா மனது விடுதலையாக",
+  "transliteration": "Viṇaiviṭā maṉatu viṭutalaiyāka",
+  "translations": {
+    "english": "So that the mind, which is ever bound by karma (Viṇai), may attain liberation (Viṭutalai)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v180",
+  "verse_number": 180,
+  "original": "மாயாப் பிறவியு மறலிக் கொடுமையும்",
+  "transliteration": "Māyāp piṟaviyu maṟalik koṭumaiyum",
+  "translations": {
+    "english": "The illusory rebirth (Māyāp Piṟavi) and the cruelty of Yama (Mighty Death), save me from them."
+  }
+},
+{
+  "id": "thiru-tiruttani-v181",
+  "verse_number": 181,
+  "original": "வேலாலே வேலனை வேணு விநோத",
+  "transliteration": "Vēlālē vēlaṉai vēṇu viṉōta",
+  "translations": {
+    "english": "The Lord with the Vel (Vēlaṉ), who performed wondrous acts (Viṉōta) with the Vel."
+  }
+},
+{
+  "id": "thiru-tiruttani-v182",
+  "verse_number": 182,
+  "original": "பிணிதீர வேணும் பெருவாழ்வு மளிப்பாய்",
+  "transliteration": "Piṇitīra vēṇum peruvāḻvu maḷippāy",
+  "translations": {
+    "english": "You who destroy disease (Piṇitīra), grant me the great life (Peruvāḻvu) of spiritual enlightenment."
+  }
+},
+{
+  "id": "thiru-tiruttani-v183",
+  "verse_number": 183,
+  "original": "தவத்திறங் கண்ட தடையு நீக்கி",
+  "transliteration": "Tavattiraṅ kaṇṭa taṭaiyu nīkki",
+  "translations": {
+    "english": "Remove the obstacles (Taṭaiyu Nīkki) that hinder the sight of true austerity (Tavattiraṅ)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v184",
+  "verse_number": 184,
+  "original": "ஞானப் பொன்னடியை நாட வுனதருள்",
+  "transliteration": "Ñāṉap poṉṉaṭiyai nāṭa vuṉataruḷ",
+  "translations": {
+    "english": "Grant your grace (Aruḷ) so that I may seek your golden feet of wisdom (Ñāṉap Poṉṉaṭiyai)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v185",
+  "verse_number": 185,
+  "original": "சமரிற் புரிந்த சூர்மா மகனை",
+  "transliteration": "Camariṟ purinta cūrmā makaṉai",
+  "translations": {
+    "english": "The son of Sūrmā, whom you destroyed in battle (Camariṟ Purinta)."
+  }
+},{
+  "id": "thiru-tiruttani-v186",
+  "verse_number": 186,
+  "original": "குறைவிலா வின்பக் கூத்தருள் தாராய்",
+  "transliteration": "Kuṟaivilā viṉpak kūttaruḷ tārāy",
+  "translations": {
+    "english": "Bestow the divine dance of flawless bliss (Kuṟaivilā Viṉpak Kūttu)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v187",
+  "verse_number": 187,
+  "original": "நினையாத நெஞ்சிலு நிலை பெற்றவ",
+  "transliteration": "Niṉaiyāta neñcilu nilai peṟṟava",
+  "translations": {
+    "english": "O Lord who found a permanent place even in the heart that forgets you (Niṉaiyāta Neñcilu)!"
+  }
+},
+{
+  "id": "thiru-tiruttani-v188",
+  "verse_number": 188,
+  "original": "வேடந்தரித் தெனைத் தேட வொருநாள்",
+  "transliteration": "Vēṭantarit teṉait tēṭa vorunāḷ",
+  "translations": {
+    "english": "Assuming a divine form (Vēṭam), you came one day seeking me, your devotee."
+  }
+},
+{
+  "id": "thiru-tiruttani-v189",
+  "verse_number": 189,
+  "original": "மகிழ்வொடு நீ மயில் மீதே வருவாய்",
+  "transliteration": "Makiḻvoṭu nī mayil mītē varuvāy",
+  "translations": {
+    "english": "Come joyfully (Makiḻvoṭu) upon your peacock (Mayil Mītē), O Lord."
+  }
+},
+{
+  "id": "thiru-tiruttani-v190",
+  "verse_number": 190,
+  "original": "பொய்யிலாப் புனிதன் பொன் னடி காண",
+  "transliteration": "Poyyilāp puṉitaṉ poṉ ṉaṭi kāṇa",
+  "translations": {
+    "english": "To behold the golden feet of the Holy One (Puṉitaṉ) who is free from falsehood (Poyyilā)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v191",
+  "verse_number": 191,
+  "original": "மதத்திற் குலத்தி லெனைத் திரியா தேற் கென்று",
+  "transliteration": "Matattiṟ kulatti leṉait tiriyā tēṟkeṉṟu",
+  "translations": {
+    "english": "Do not allow me to wander in the pride of caste or lineage; bestow your grace forever."
+  }
+},
+{
+  "id": "thiru-tiruttani-v192",
+  "verse_number": 192,
+  "original": "வறுமையொடு நாண் விடாப் பிணியெலாந் தீர",
+  "transliteration": "Vaṟumaiyoṭu nāṇ viṭāp piṇiyelān tīra",
+  "translations": {
+    "english": "So that poverty and the diseases that cling relentlessly may be cured, grant me your vision."
+  }
+},
+{
+  "id": "thiru-tiruttani-v193",
+  "verse_number": 193,
+  "original": "பிறவிப் பிணியெலாந் தீரப் பரங்கிரி",
+  "transliteration": "Piṟavip piṇiyelān tīrap paraṅkiri",
+  "translations": {
+    "english": "O Lord of the holy hill (Paraṅkiri, referring to the hills), cure all the diseases of birth (Piṟavip Piṇi)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v194",
+  "verse_number": 194,
+  "original": "வேலா லமரர் சிறையிற் கொன்றை",
+  "transliteration": "Vēlā lamarar ciṟaiyiṟ koṉṟai",
+  "translations": {
+    "english": "With the Vel, you shattered the prison of the Devas (Amarar Ciṟaiyiṟ) and destroyed the foe."
+  }
+},
+{
+  "id": "thiru-tiruttani-v195",
+  "verse_number": 195,
+  "original": "கமலா லயனுக் கருளிய குமர",
+  "transliteration": "Kamalā layaṉuk karuḷiya kumara",
+  "translations": {
+    "english": "O Kumara, who granted grace to Brahmā, who dwells on the Lotus (Kamalā Layaṉ)!"
+  }
+},
+{
+  "id": "thiru-tiruttani-v196",
+  "verse_number": 196,
+  "original": "ஆறிரு தடந்தோ ளன்பர்க் கருள்வாய்",
+  "transliteration": "Āṟiru taṭantō ḷaṉpark karuḷvāy",
+  "translations": {
+    "english": "O Lord with the twelve broad shoulders, grant grace to your loving devotees (Aṉpar)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v197",
+  "verse_number": 197,
+  "original": "நாலு மறைகளு நவிலக் கண்ட",
+  "transliteration": "Nālu maṟaikaḷu navilak kaṇṭa",
+  "translations": {
+    "english": "You who witnessed the four Vedas (Nālu Maṟaikaḷu) being recited, show me the ultimate reality."
+  }
+},
+{
+  "id": "thiru-tiruttani-v198",
+  "verse_number": 198,
+  "original": "வேலா லுயர்சூர் தடிந்தவிநோ தனை",
+  "transliteration": "Vēlā luyarcūr taṭintaviṉō taṉai",
+  "translations": {
+    "english": "O Wondrous Lord, who subdued the mighty Sūran with the Vel (Spear)!"
+  }
+},
+{
+  "id": "thiru-tiruttani-v199",
+  "verse_number": 199,
+  "original": "பிறவிப் பிணியெலாந் தீர வருள்வாய்",
+  "transliteration": "Piṟavip piṇiyelān tīra varuḷvāy",
+  "translations": {
+    "english": "Bestow your grace so that all the diseases (sufferings) of birth may be cured."
+  }
+},
+{
+  "id": "thiru-tiruttani-v200",
+  "verse_number": 200,
+  "original": "வேய்போலு மென்றோளு மீதே விளைந்திட",
+  "transliteration": "Vēypōlu meṉṟōḷu mītē viḷaintiṭa",
+  "translations": {
+    "english": "When the disease (of separation) arose on my shoulders, which resemble bamboo shoots (Vēypōlu), you came to rescue me."
+  }
+},
+{
+  "id": "thiru-tiruttani-v201",
+  "verse_number": 201,
+  "original": "சொருபந் தளித்து நற் பாதந் தருவாய்",
+  "transliteration": "Corupant talittu naṟ pātant taruvāy",
+  "translations": {
+    "english": "Bestow the true form (Corupam) and grant your excellent divine feet (Pātam)."
+  }
+},
+{
+  "id": "thiru-tiruttani-v202",
+  "verse_number": 202,
+  "original": "கவலைத் தொடரா லெனைக் கரவேலே",
+  "transliteration": "Kavalait toṭarā leṉaik karavēlē",
+  "translations": {
+    "english": "Do not hide (Karavēlē) from me due to the chain of anxiety (Kavalait Toṭarāl)."
+  }
+}
+      ]
     },
     {
       "chapter_number": 6,

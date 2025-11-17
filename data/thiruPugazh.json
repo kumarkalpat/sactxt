@@ -1,0 +1,314 @@
+{
+  "author": "Arunagirinathar",
+  "chapters": [
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch1-audio.mp3",
+      "chapter_number": 1,
+      "name": "Karuviyaraith Thenchollin",
+      "summary": "This chapter praises Lord Muruga's supreme glory and ability to grant boons, emphasizing his divine presence and the power of his devotees.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch1-v1",
+          "original": "கருவியறைத் தெஞ்சொலி நஞ்சணி கண்டர் கயிலையதிற் குமரர்",
+          "translations": {
+            "english": "Lord Muruga, who resides in Kailasa with Lord Shiva, whose throat is adorned with poison, is the divine youth."
+          },
+          "transliteration": "Karuviyaraith theñjoli nañjaṇi kaṇṭar kayilaiyatir kumarar",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch1-v2",
+          "original": "திருவடியைப் பணிவோர்க்கு நவநிதி ஈவன் தனியெழில் வீரன்",
+          "translations": {
+            "english": "He is the unique, beautiful hero who bestows nine treasures upon those who worship his sacred feet."
+          },
+          "transliteration": "Tiruvaṭiyaip paṇivōrkku navanithi īvan taṉiyeḻil vīraṉ",
+          "verse_number": 2
+        }
+      ],
+      "verses_count": 2
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch2-audio.mp3",
+      "chapter_number": 2,
+      "name": "Arivilellam",
+      "summary": "This chapter delves into the importance of true wisdom and devotion, highlighting that Lord Muruga's grace leads to ultimate liberation and understanding.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch2-v1",
+          "original": "அறிவிலெல்லாம் நிறைவொளியாய் அமர்ந்த பெருமானே அசுரர் குல காலனே",
+          "translations": {
+            "english": "Oh Lord, who is the full light residing in all wisdom, the destroyer of the demon race!"
+          },
+          "transliteration": "Arivilellam niṟaivoḷiyāy amarndha perumāṉē asurar kula kālaṉē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch2-v2",
+          "original": "அன்பிலன்பர் அனவர்தமும் ஏத்திடு நாரணர்க் கணபதி தேவரே",
+          "translations": {
+            "english": "He is the Lord worshipped by devotees with love, constantly praised by Narayana and Ganesha."
+          },
+          "transliteration": "Anbilaṉbar aṉavarthamum ēththiṭu nāraṇark kaṇapathi dhēvarē",
+          "verse_number": 2
+        }
+      ],
+      "verses_count": 2
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch3-audio.mp3",
+      "chapter_number": 3,
+      "name": "Vadivela",
+      "summary": "This chapter extols the divine beauty of Lord Muruga and the invincible power of his Vel, describing his role as a protector and bestower of grace.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch3-v1",
+          "original": "வடிவேலன் தனைநாளும் வணங்காதவர் நெஞ்சில் மருவாவெழி லோனே",
+          "translations": {
+            "english": "Oh beautiful Lord, whose grace does not enter the hearts of those who do not worship the beautiful Velan daily!"
+          },
+          "transliteration": "Vaṭivēlaṉ taṉaināḷum vaṇaṅkāthavar neñcil maruvāvezhi lōṉē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch3-v2",
+          "original": "மயில்வீரன் செந்திலாதி மகிழ்வானெழி லோனே மனதாசை நீக்குவோனே",
+          "translations": {
+            "english": "The brave rider of the peacock, the delightful beautiful Lord of Thiruchendur, who removes all worldly desires from the mind!"
+          },
+          "transliteration": "Mayilvīraṉ centhilāthi magizhuvāṉezhi lōṉē maṉathācai nīkkuvōṉē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch3-v3",
+          "original": "குறமகள் மனதிலுறையும் கொடியின் மணாளா குமரகுருநாதா",
+          "translations": {
+            "english": "The husband of the creeper-like Valli who resides in the heart of the huntress maiden, Oh Kumara, the divine Guru!"
+          },
+          "transliteration": "Kuṟamagaḷ maṦathil uṟaiyum koṭiyiṉ maṇāḷā Kumaragurunāthā",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch4-audio.mp3",
+      "chapter_number": 4,
+      "name": "Thiruparankundram",
+      "summary": "This chapter is dedicated to Thiruparankundram, the first of the Arupadaiveedu (six abodes of Lord Muruga), celebrating its sanctity and Lord Muruga's divine presence there.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch4-v1",
+          "original": "செந்தூரின் முருகா திருச்செங்கொட்டு வாளா திருப்பரங்கிரிநாதா",
+          "translations": {
+            "english": "Oh Muruga of Thiruchendur, valiant warrior with a sword, Lord of Thiruparankundram!"
+          },
+          "transliteration": "Centūriṉ Murugā Thiruccaṅkoṭṭu vāḷā Thirupparaṅkirināthā",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch4-v2",
+          "original": "சரவணபவ தேவா சண்முகவேல் கோவே தணிகைவாழ் குமரவேலா",
+          "translations": {
+            "english": "Oh Saravanabhava Deva, King with the six-faced Vel, Oh Kumara Velan dwelling in Thani!"
+          },
+          "transliteration": "Caravaṇapava thēvā Caṇmugavēl kōvē Thaṇigaivāzh Kumaravēlā",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch4-v3",
+          "original": "பழனத்து முருகா பழமுதிர்சோலை ஆண்ட பழனிவாழ் குகனே",
+          "translations": {
+            "english": "Oh Muruga of Pazhani, Lord of Pazhamudircholai, Oh Guha dwelling in Pazhani!"
+          },
+          "transliteration": "Pazhaṉatthu Murugā Pazhamuthircōlai āṇṭa Pazhaṉivāzh Guganē",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch5-audio.mp3",
+      "chapter_number": 5,
+      "name": "Thiruttani",
+      "summary": "This chapter glorifies Lord Muruga's abode at Tiruttani, emphasizing its serene atmosphere and the spiritual liberation gained by His devotees there.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch5-v1",
+          "original": "தணிகைமலை தேவா திருத்தணி முருகா கருணைக்கடல் நீயே",
+          "translations": {
+            "english": "Oh Lord of Thani Hills, Oh Muruga of Tiruttani, You are indeed the ocean of grace!"
+          },
+          "transliteration": "Thaṇigaimalai thēvā Thirutthaṇi Murugā Karuṇaikkaṭal nīyē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch5-v2",
+          "original": "வேல் பிடித்து நின்று வினைகளைத் தீர்க்கும் வேலவனே எமதிறையே",
+          "translations": {
+            "english": "Oh Velan who stands holding the Vel, dispelling all karmic burdens, You are our Lord!"
+          },
+          "transliteration": "Vēl piṭiththu niṉṭru viṉagaḷaith thīrkkum Vēlavaṉē Emathiṟaiyē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch5-v3",
+          "original": "அடியார்கள் பிழைபொறுத்து அருள் புரிவாய் நீயே அறுமுகப் பெருமானே",
+          "translations": {
+            "english": "Oh Aru-mukha Peruman (Lord with six faces), You alone forgive the faults of your devotees and bestow grace!"
+          },
+          "transliteration": "Aṭiyārgaḷ pizhaipoṟutthhu aruḷ purivāy nīyē Aṟumugap perumāṉē",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch6-audio.mp3",
+      "chapter_number": 6,
+      "name": "Palani",
+      "summary": "This chapter celebrates Lord Muruga's divine presence at Palani, a renowned pilgrimage site, highlighting His ascetic form and the spiritual solace found by devotees.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch6-v1",
+          "original": "பழனிமலை மீது அமர்ந்த பரம் பொருளே பரனே",
+          "translations": {
+            "english": "Oh Supreme Being, Oh Lord, who is seated atop Palani Hill!"
+          },
+          "transliteration": "Pazhaṉimalai mīdhu amarndha param poruḷē paranē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch6-v2",
+          "original": "தண்டபாணி ரூபத்தில் தவக்கோலம் கொண்டவனே",
+          "translations": {
+            "english": "You who have assumed the ascetic form of Dhandapani!"
+          },
+          "transliteration": "Daṇḍapāṇi rūpaththil thavakkōlam koṇḍavaṉē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch6-v3",
+          "original": "அடியார்க்கு அருள் புரியும் அறுமுகனே ஆறுமுகனே",
+          "translations": {
+            "english": "Oh Aru-mugan (six-faced Lord), who bestows grace upon devotees!"
+          },
+          "transliteration": "Aṭiyārkku aruḷ puriyum aṟumugaṉē āṟumugaṉē",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch7-audio.mp3",
+      "chapter_number": 7,
+      "name": "Swamimalai",
+      "summary": "This chapter describes Lord Muruga's role as a Guru, imparting the essence of Pranava Mantra to His father Lord Shiva at Swamimalai, emphasizing knowledge and spiritual wisdom.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch7-v1",
+          "original": "சுவாமிமலையில் அமர்ந்த ஞான தேசிகனே",
+          "translations": {
+            "english": "Oh Guru of wisdom, who resides in Swamimalai!"
+          },
+          "transliteration": "Svāmimalaiyil amarndha ñāna dēśikaṉē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch7-v2",
+          "original": "தந்தைக்கு பிரணவப் பொருளை உரைத்த தனிப் பொருளே",
+          "translations": {
+            "english": "Oh unique Being, who expounded the meaning of Pranava to His father!"
+          },
+          "transliteration": "Thandhaikku praṇavap poruḷai uraiththa thaṇip poruḷē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch7-v3",
+          "original": "ஞானப்பழம் நீயே என வணங்கும் பக்தர்கள் தலைவனே",
+          "translations": {
+            "english": "Oh leader of devotees who worship You as the fruit of wisdom!"
+          },
+          "transliteration": "Ñāṉappazham nīyē eṉa vaṇaṅgum bhakthargaḷ thalaivaṉē",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch8-audio.mp3",
+      "chapter_number": 8,
+      "name": "Tiruttani",
+      "summary": "This chapter extols Lord Muruga's divine presence and the spiritual bliss experienced by devotees at Tiruttani, a revered hill temple known for its serene atmosphere and spiritual vibrancy.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch8-v1",
+          "original": "தணிகை மீது அமர்ந்து அருளும் தனி நாயகனே",
+          "translations": {
+            "english": "Oh unique Lord, who graciously resides on Tiruttani!"
+          },
+          "transliteration": "Thaṇigai mīdhu amarndhu aruḷum thaṇi nāyagaṉē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch8-v2",
+          "original": "ஞான தாகம் தணிக்க வந்த ஞான பதியே",
+          "translations": {
+            "english": "Oh Lord of wisdom, who came to quench the thirst for knowledge!"
+          },
+          "transliteration": "Ñāṉa dhāgam thaṇikka vandha ñāṉa pathiyē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch8-v3",
+          "original": "பக்தர் குறை தீர்க்கும் பரம ஜோதியே",
+          "translations": {
+            "english": "Oh supreme light, who dispels the woes of devotees!"
+          },
+          "transliteration": "Bhakthar kuṟai thīrkkum parama jōthiyē",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    },
+    {
+      "audioUrl": "https://example.com/thirupugazh-ch9-audio.mp3",
+      "chapter_number": 9,
+      "name": "Swamimalai",
+      "summary": "This chapter glorifies Lord Muruga as the 'Guru' (teacher) who imparted the meaning of the Pranava mantra to his father, Lord Shiva, at Swamimalai, highlighting his supreme wisdom.",
+      "verses": [
+        {
+          "id": "thirupugazh-ch9-v1",
+          "original": "பிரணவப் பொருள் ஓதும் பெருமான் நீயே",
+          "translations": {
+            "english": "You are the great Lord who expounds the meaning of the Pranava (Om)."
+          },
+          "transliteration": "Praṇavap poruḷ ōdhum perumāṉ nīyē",
+          "verse_number": 1
+        },
+        {
+          "id": "thirupugazh-ch9-v2",
+          "original": "தந்தைக்கே ஞான போதனை செய்த தம்பிரானே",
+          "translations": {
+            "english": "Oh Lord, who imparted divine knowledge to his own father!"
+          },
+          "transliteration": "Thandhaikkē ñāṉa bōdhaṉai seydha thambirāṉē",
+          "verse_number": 2
+        },
+        {
+          "id": "thirupugazh-ch9-v3",
+          "original": "ஞானப் பழம் ஈந்த கந்தா போற்றி",
+          "translations": {
+            "english": "Hail to Skanda, who bestowed the fruit of wisdom!"
+          },
+          "transliteration": "Ñāṉap paḻam īndha Kanthā pōṭri",
+          "verse_number": 3
+        }
+      ],
+      "verses_count": 3
+    }
+  ],
+  "id": "thirupugazh",
+  "introduction": "Thirupugazh is a monumental work of Tamil devotional poetry composed by the medieval poet-saint Arunagirinathar. It consists of thousands of hymns (about 1360 available today) dedicated to Lord Muruga (Kartikeya), the Hindu god of war, wisdom, and love. The hymns are renowned for their intricate poetic structure, rhythmic complexity, and profound philosophical insights, often blending Bhakti (devotion) with elements of Yoga and Shaiva Siddhanta. Thirupugazh is a vibrant celebration of Muruga's valor, beauty, and grace, depicting various legends, spiritual experiences, and appeals for divine intervention against worldly ills.",
+  "title": "Thirupugazh"
+}

@@ -6,44 +6,98 @@
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "Tirupparankundram (Part 1)",
-      "summary": "Hymns 1 to 56 are dedicated to the holy mountain and temple of Tirupparankundram, the first of Murugan's six abodes. This is the site where Murugan married Deivanai (Devasena).",
-      "verses_count": 2,
+      "name": "Tirupparankundram (Verses 1-56)",
+      "summary": "This chapter is dedicated entirely to the songs composed by Arunagirinathar at the Tirupparankundram temple, glorifying Lord Murugan's victory over the Asuras and his compassionate nature as a savior.",
+      "verses_count": 10,
       "verses": [
         {
-          "id": "unique-text-id-1-1",
+          "id": "thiru-parankundram-v1",
           "verse_number": 1,
-          "original": "मुरुगनेय्यिरुं पेरुमाळ्ē!",
-          "transliteration": "Muruganēyyirum perumāḷē!",
+          "original": "कैकैयु मुटऱ् कैयतुण्टु कऩियेप्पऴ मुरुक्का मुऩैक्",
+          "transliteration": "Kaikeiyum uṭaṟ kaiyatuṇṭu kaṉiyeppaḻ murukkā muṉaik",
           "translations": {
-            "english": "O Great Lord, Murugan!"
+            "english": "O Ganesha (the one with the elephant trunk and large body), who holds a fruit in your hand! You bestow the sweet fruit of grace upon those who approach you."
           }
         },
         {
-          "id": "unique-text-id-1-2",
+          "id": "thiru-parankundram-v2",
           "verse_number": 2,
-          "original": "अरुळि पेरुम पेरुमाळ्ē!",
-          "transliteration": "Aruḷi perum perumāḷē!",
+          "original": "चैवऩ् काऩम् त्ēवरुणर् पाट्टु नल्ल",
+          "transliteration": "Caivaṉ kāṉam tēvaruṇar pāṭṭu nalla",
           "translations": {
-            "english": "O Lord, who bestows great grace!"
+            "english": "O Lord (Murugan), who is the son of Shiva! The celestial beings (Devas) and enlightened ones sing good songs in your praise."
           }
-        }
-      ],
-      "audioUrl": "https://archive.org/details/Thiruppugazh_1_MuruganeyyirumPerumale"
-    },
-    {
-      "chapter_number": 2,
-      "name": "Tirupparankundram (Part 2)",
-      "summary": "This section continues the glorification of Lord Murugan at Tirupparankundram, focusing on his divine acts, his valor, and the saint's plea for liberation from the cycle of birth and death.",
-      "verses_count": 1,
-      "verses": [
+        },
         {
-          "id": "unique-text-id-2-1",
+          "id": "thiru-parankundram-v3",
           "verse_number": 3,
-          "original": "वाणनिल् मणनिलम् उयर्त्ति वाळ्वोन्",
-          "transliteration": "Vāṇanil maṇanilam uyartti vāḷvon",
+          "original": "मुत्ताय् नी मरुत्तव्वा ळिव् वुलकिल्ē",
+          "transliteration": "Muttāy nī maruttavvā ḷiv vulakilē",
           "translations": {
-            "english": "You who live, raising the banner of victory in the sky and on the earth!"
+            "english": "You are the Pearl (Muttā), who came down to this world as a doctor, performing extraordinary deeds."
+          }
+        },
+        {
+          "id": "thiru-parankundram-v4",
+          "verse_number": 4,
+          "original": "अरुमैय्ō टेऩ्ऱु निऩ्ऱ मुटैय्ōऩ्ē",
+          "transliteration": "Arumaiyō ṭeṉṟu niṉṟa muṭaiyōṉē",
+          "translations": {
+            "english": "O Lord who stands as a rarity and who possesses great glory!"
+          }
+        },
+        {
+          "id": "thiru-parankundram-v5",
+          "verse_number": 5,
+          "original": "ऊऩाटि नीयऩ्ऱु ōर् क्ōट्टु मुत्तु नल्लिऩ",
+          "transliteration": "Ūṉāṭi nīyaṉṟu ōr kōṭṭu muttu nalliṉa",
+          "translations": {
+            "english": "You who danced in the flesh (human form), once gave the pearl (of wisdom) to the one who asked."
+          }
+        },
+        {
+          "id": "thiru-parankundram-v6",
+          "verse_number": 6,
+          "original": "अरुम्पेऱल् विल्ल्ōटु विल् वळित्ōऩ्ē",
+          "transliteration": "Arumpeṟal villōṭu vil vaḷitōṉē",
+          "translations": {
+            "english": "O Lord who possesses the bow that is difficult to attain and who wields the bow with strength!"
+          }
+        },
+        {
+          "id": "thiru-parankundram-v7",
+          "verse_number": 7,
+          "original": "वल्ल्ōर्कळैयेऩ्ऱु मुऩ्ऩम् वैय्ōरुमिल्लै",
+          "transliteration": "Vallōrkaḷaiyeṉṟu muṉṉam vaiyyōrumillai",
+          "translations": {
+            "english": "There is no one (among the skilled) who can defeat you, the foremost mighty one, at any time."
+          }
+        },
+        {
+          "id": "thiru-parankundram-v8",
+          "verse_number": 8,
+          "original": "उऩैत्तिऩम् निऩैत्त्ōर्क्कु निऩैत्त्ōर् पोरुळै उवन्त्ē",
+          "transliteration": "Uṉaittinam niṉaittōrkku niṉaittōr poruḷai uvantē",
+          "translations": {
+            "english": "To those who think of you daily, you gladly bestow the things they desire (spiritual realization), though it is difficult to attain."
+          }
+        },
+        {
+          "id": "thiru-parankundram-v9",
+          "verse_number": 9,
+          "original": "करुवटैन्तु पण्टु पयिल् कैविटातु कण्मुटिक्कि",
+          "transliteration": "Karuvaṭaintu paṇṭu payil kaiviṭātu kaṇmuṭikki",
+          "translations": {
+            "english": "Having taken a physical form and not letting go of the habits ingrained since the beginning, and as the eyes close (in death), will I be able to utter your sacred name, Muruga?"
+          }
+        },
+        {
+          "id": "thiru-parankundram-v10",
+          "verse_number": 10,
+          "original": "कऩकन्तिरळ्किऩ्ऱ मात्ōटु पण्पाट्टु विळ्किऩ्ऱ पूण्ōटु",
+          "transliteration": "Kaṉakantiraḷkiṉṟa mātōṭu paṇpāṭṭu viḷkiṉṟa pūṇōṭu",
+          "translations": {
+            "english": "You, who reside with the golden goddess (Deivanai/Devasena) and wear ornaments that shine amidst the music of devotion, please grant me the boon of your grace."
           }
         }
       ],

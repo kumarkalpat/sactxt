@@ -36,7 +36,8 @@
     "title": "Vishnu Sahasranama",
     "author": "Veda Vyasa (from the Mahabharata, Anushasana Parva)",
     "path": "vishnuSahasranama.json",
-    "coverImage": "images/VishnuSahasranama.png"
+    "coverImage": "images/VishnuSahasranama.png",
+    "audioUrl": "https://archive.org/download/VishnuSahasranamam_MSS/Vishnu%20Sahasranamam.mp3"
   },
   {
     "id": "soundarya-lahari",

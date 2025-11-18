@@ -3,9 +3,9 @@
   "title": "Sri Rudram",
   "author": "Vedic Hymn (attributed to various Rishis)",
   "introduction": "Sri Rudram is a profound Vedic hymn dedicated to Lord Rudra (an epithet of Shiva). It is found in the Taittiriya Samhita of the Krishna Yajurveda. The text consists of two main parts: Namakam (salutations, 11 Anuvakas) and Chamakam (requests for blessings, 11 Anuvakas). Chanting the entire Sri Rudram is considered a powerful spiritual practice, believed to purify the mind, body, and surroundings, and bestow spiritual and material well-being.",
+  "audioUrl": "https://www.youtube.com/watch?v=kYv950oIqM4",
   "chapters": [
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka1.mp3",
       "chapter_number": 1,
       "name": "Namakam - Anuvaka 1 (The Prayer for Peace)",
       "summary": "This section is a direct prayer to Lord Rudra, asking Him to turn away His fierce, destructive form (His bow and arrows) and manifest in His most auspicious and benevolent form, Shiva, for the peace and welfare of the world.",
@@ -13,7 +13,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka2.mp3",
       "chapter_number": 2,
       "name": "Namakam - Anuvaka 2 (The Omnipresent Rudra)",
       "summary": "Salutations to Rudra in His various manifestations as the source of all existence: the Lord of animals, forests, paths, food, and the four directions. He is worshipped in His forms both subtle and physical, golden and terrible.",
@@ -21,7 +20,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka3.mp3",
       "chapter_number": 3,
       "name": "Namakam - Anuvaka 3 (The Cosmic Archer and Dweller)",
       "summary": "This section addresses Rudra as the supreme archer and the cosmic warrior, invoking Him as the source of all weapons, both drawn and undrawn. He is saluted as the dweller of mountains, rivers, and all places where life and death intersect.",
@@ -29,7 +27,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka4.mp3",
       "chapter_number": 4,
       "name": "Namakam - Anuvaka 4 (The Forms of Shiva and Rudra)",
       "summary": "This is a key section that salutes Rudra by eight prominent names (Bhava, Sharva, Pashupati, Nilagriva, etc.), acknowledging the dual nature of the Lord—fierce (Rudra) and benevolent (Shiva/Shankara).",
@@ -37,7 +34,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka5.mp3",
       "chapter_number": 5,
       "name": "Namakam - Anuvaka 5 (The All-Pervasive Rudra)",
       "summary": "Salutations to Rudra in various geographical and elemental forms: as water, torrents, waves, lakes, and the sound of the clouds. He is invoked as the essence of all motion and stability in the universe.",
@@ -45,7 +41,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka6.mp3",
       "chapter_number": 6,
       "name": "Namakam - Anuvaka 6 (Rudra as the Creator and Destroyer)",
       "summary": "This section salutes Rudra as the creator and destroyer, associating him with various celestial beings, forests, and trees. He is worshipped as the one with a thousand eyes (omniscience) and a hundred bows.",
@@ -53,15 +48,13 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka7.mp3",
       "chapter_number": 7,
       "name": "Namakam - Anuvaka 7 (The Young and the Old)",
-      "summary": "Salutations to Rudra as the oldest (Jyeshtha) and the youngest (Kanishtha), the one born before (Purvaja) and after (Aparaja). This acknowledges his presence across all time and in all stages of evolution.",
+      "summary": "Salutations to the oldest (Jyeshtha) and the youngest (Kanishtha), the one born before (Purvaja) and after (Aparaja). This acknowledges his presence across all time and in all stages of evolution.",
       "verses_count": 15,
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka8.mp3",
       "chapter_number": 8,
       "name": "Namakam - Anuvaka 8 (The Mahamrityunjaya Mantra)",
       "summary": "The most significant part of the Namakam, containing the powerful Mahamrityunjaya Mantra. This section is a prayer for spiritual wisdom, health, prosperity, and liberation from the cycle of death, through the grace of Tryambaka (Shiva).",
@@ -69,7 +62,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka9.mp3",
       "chapter_number": 9,
       "name": "Namakam - Anuvaka 9 (The Lord of the Universe)",
       "summary": "Salutations to Rudra as the Lord of the paths, the source of wind (Vāta) and Brahman. He is invoked as the divine healer and the provider of auspiciousness, granting protection in all situations and realms.",
@@ -77,7 +69,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka10.mp3",
       "chapter_number": 10,
       "name": "Namakam - Anuvaka 10 (The Benevolent Forms of Shiva)",
       "summary": "This section contains the famous prayer seeking the most gentle and peaceful form of Rudra (Shiva). It is a request for peace (Shaṁ) from all directions and a final plea for His protection from all harm and fear.",
@@ -85,7 +76,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/namakam/anuvaka11.mp3",
       "chapter_number": 11,
       "name": "Namakam - Anuvaka 11 (Final Submission and Benediction)",
       "summary": "The concluding section of Namakam is a final submission to Rudra. It seeks protection for cows and men, and asks for the cessation of His fierce actions. It concludes with an assurance of happiness and well-being for the devotee.",
@@ -93,7 +83,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka1.mp3",
       "chapter_number": 12,
       "name": "Chamakam - Anuvaka 1 (Requests for Spiritual & Material Needs)",
       "summary": "Chamakam begins with requests for strength, food, spiritual effort, resolve, fame, hearing (knowledge), light, and austerity. The pervasive phrase is 'cha me' (and to me), asking for the bestowal of hundreds of auspicious items.",
@@ -101,7 +90,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka2.mp3",
       "chapter_number": 13,
       "name": "Chamakam - Anuvaka 2 (Requests for Health and Protection)",
       "summary": "Prayers for health (immunity from disease), protection from fear, and requests for physical strength, vigor, longevity, and the necessary energy for ritual performance are made in this section.",
@@ -109,7 +97,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka3.mp3",
       "chapter_number": 14,
       "name": "Chamakam - Anuvaka 3 (Requests for Prosperity and Resources)",
       "summary": "This Anuvaka requests prosperity in the form of cattle, wealth, offspring, stable social status, and various forms of material abundance necessary for a fulfilling life.",
@@ -117,7 +104,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka4.mp3",
       "chapter_number": 15,
       "name": "Chamakam - Anuvaka 4 (Requests for Heavenly Blessings)",
       "summary": "Requests are made for blessings from the heavens, including rain, seasons, moon, stars, and celestial light. It links the fulfillment of human desires to the harmony of cosmic forces.",
@@ -125,7 +111,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka5.mp3",
       "chapter_number": 16,
       "name": "Chamakam - Anuvaka 5 (Requests for Ritual Items)",
       "summary": "This section specifically requests all items and means essential for performing Vedic sacrifices and rituals, such as clarified butter, rice, wheat, and the tools of worship.",
@@ -133,7 +118,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka6.mp3",
       "chapter_number": 17,
       "name": "Chamakam - Anuvaka 6 (Requests for Metals and Minerals)",
       "summary": "A prayer for the attainment of various metals, minerals, and earthly resources (gold, silver, iron, lead, tin, etc.), symbolizing material richness and economic stability.",
@@ -141,7 +125,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka7.mp3",
       "chapter_number": 18,
       "name": "Chamakam - Anuvaka 7 (Requests for Knowledge and Wisdom)",
       "summary": "This section focuses on spiritual and intellectual boons, requesting knowledge, intelligence, and the realization of ultimate truth, aligning with the hymn's underlying theme of Vedic wisdom.",
@@ -149,7 +132,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka8.mp3",
       "chapter_number": 19,
       "name": "Chamakam - Anuvaka 8 (Requests for Odd Numbers)",
       "summary": "This unique Anuvaka is a prayer for odd numbers (Eka, Trī, Pañca, Sapta, etc.) up to 33, often interpreted symbolically as a request for various powers and spiritual connections associated with these numbers.",
@@ -157,7 +139,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka9.mp3",
       "chapter_number": 20,
       "name": "Chamakam - Anuvaka 9 (Requests for Even Numbers)",
       "summary": "Following the previous Anuvaka, this section is a corresponding prayer for even numbers (Dve, Catasraḥ, Ṣaṭ, Aṣṭa, etc.), completing the totality of numerical principles that govern the cosmos and ritual.",
@@ -165,7 +146,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka10.mp3",
       "chapter_number": 21,
       "name": "Chamakam - Anuvaka 10 (Requests for Cosmic Elements)",
       "summary": "A prayer for the elements of creation (Earth, Sky, Fire, Wind, etc.) and the vital cosmic energies. It seeks mastery over both the material and spiritual dimensions of existence.",
@@ -173,7 +153,6 @@
       "verses": []
     },
     {
-      "audioUrl": "https://example.com/rudram/chamakam/anuvaka11.mp3",
       "chapter_number": 22,
       "name": "Chamakam - Anuvaka 11 (Final Vows and Fulfillment)",
       "summary": "The concluding Anuvaka renews the commitment to the sacrifice and seeks the ultimate reward: the attainment of the heavenly worlds and immortality (*Amṛta*), completing the goal of the Vedic ritual.",

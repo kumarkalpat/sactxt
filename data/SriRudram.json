@@ -1,472 +1,134 @@
 {
-  "author": "Vedic Sages",
+  "author": "Vedic Hymn (attributed to various Rishis)",
   "chapters": [
     {
+      "audioUrl": "https://example.com/rudram/namakam/anuvaka1.mp3",
       "chapter_number": 1,
-      "name": "Namakam - Anuvaka 1",
-      "summary": "The first Anuvaka of Namakam praises Lord Rudra and seeks His mercy to avert His fierce forms, inviting Him to protect. It invokes Him with salutations to His various aspects and attributes.",
+      "name": "Namakam",
+      "summary": "Namakam, the first part of Sri Rudram, is a series of salutations (Namah) to Lord Rudra. It praises Rudra's omnipresent and multifaceted forms, acknowledging both his fierce and benevolent aspects. Each Anuvaka focuses on different attributes, names, and manifestations of Rudra, seeking his grace and protection from various dangers, while also praying for peace and prosperity.",
       "verses": [
         {
-          "id": "namakam-anuvaka1-v1",
-          "original": "ॐ नमो भगवते रुद्राय॥",
+          "id": "namakam-1-1",
+          "original": "ॐ नमो भगवते रुद्राय",
           "translations": {
             "english": "Om. Salutations to Lord Rudra."
           },
-          "transliteration": "Om namo bhagavate rudrāya."
+          "transliteration": "oṃ namo bhagavate rudrāya",
+          "verse_number": 1
         },
         {
-          "id": "namakam-anuvaka1-v2",
-          "original": "नमस्ते रुद्र मन्यव उतोत इषवे नमः। नमस्ते अस्तु धन्वने बाहुभ्यामुत ते नमः॥",
+          "id": "namakam-1-2",
+          "original": "नमस्त एस्तु भगवन् विश्वेश्वराय महादेवाय त्र्यम्बकाय त्रिपुरान्तकाय त्रिकाग्निकालाय कालाग्निरुद्राय नीलकण्ठाय मृत्युञ्जयाय सर्वेश्वराय सदाशिवाय श्रीमन् महादेवाय नमः",
           "translations": {
-            "english": "Salutations to your wrath, O Rudra, and to your arrow. Salutations to your bow, and to your two arms."
+            "english": "Salutations to Thee, O Lord, the Lord of the universe, the Great God, the three-eyed one, the destroyer of Tripura, the annihilator of the three fires, Rudra as the fire of time, the blue-necked one, the conqueror of death, the Lord of all, the eternally auspicious one, the glorious Great God."
           },
-          "transliteration": "Namaste rudra manyava utota iṣave namaḥ. Namaste astu dhanvane bāhubhyāmuta te namaḥ."
+          "transliteration": "namas ta estu bhagavan viśveśvarāya mahādevāya tryambakāya tripurāntakāya trikāgnikālāya kālāgnirudrāya nīlakaṇṭhāya mṛtyuñjayāya sarveśvarāya sadāśivāya śrīman mahādevāya namaḥ",
+          "verse_number": 2
         },
         {
-          "id": "namakam-anuvaka1-v3",
-          "original": "या ते रुद्र शिवा तनूरघोराऽपापकाशिनी। तया नस्तनुवा शन्तमया गिरिशंताभिचाकशीहि॥",
+          "id": "namakam-1-3",
+          "original": "नमो हिरण्यबाहवे सेनान्ये दिशां च पतये नमो नमो वृक्षेभ्यो हरिकेशेभ्यः पशूनां पतये नमो नमः सस्पिञ्जराय त्विषीमते पथीनां पतये नमो नमो बभ्लुशाय विव्याधिने ऽन्नानां पतये नमो नमो हरिकेशायोपवीतिने पुष्टानां पतये नमो नमो भवस्य हेत्यै जगतां पतये नमो नमो रुद्राय तताविने क्षेत्राणां पतये नमो नमः सूतायाहन्त्याय वनानां पतये नमो नमः रोहिताय स्थपतये वृक्षाणां पतये नमो नमो मन्त्रिणे वाणिजाय कक्षाणां पतये नमो नमो भुवन्तये वारिवस्कृतायौषधीनां पतये नमो नमः उच्चैर्घोषायाक्रन्दयते पत्तीनां पतये नमः",
           "translations": {
-            "english": "With that auspicious and benevolent form of yours, O Rudra, which is not terrible and does not reveal sin, O Dweller on the mountain, protect us."
+            "english": "Salutations to Him with golden arms, to the commander of armies, and to the lord of directions. Salutations to the green-haired trees, to the lord of animals. Salutations to the golden-red, radiant one, to the lord of paths. Salutations to the tawny-colored, piercing one, to the lord of food. Salutations to the green-haired, sacred-thread wearing one, to the lord of the nourished. Salutations to the cause of existence, to the lord of the worlds. Salutations to Rudra, the one who expands, to the lord of fields. Salutations to the charioteer, the unconquerable, to the lord of forests. Salutations to the red one, the architect, to the lord of trees. Salutations to the counselor, the merchant, to the lord of hidden places. Salutations to the creator of beings, the bestower of boons, to the lord of herbs. Salutations to the one with loud shouts, who causes cries, to the lord of foot-soldiers."
           },
-          "transliteration": "Yā te rudra śivā tanūraghorā'pāpakāśinī. Tayā nastanuvā śantamayā giriśantābhicākaśīhi."
+          "transliteration": "namo hiraṇyabāhave senānye diśāṁ ca pataye namo namo vṛkṣebhyo harikeśebhyaḥ paśūnāṁ pataye namo namaḥ saspiñjarāya tviṣīmate pathīnāṁ pataye namo namo babhluśāya vivyādhine 'nnānāṁ pataye namo namo harikeśāyopavītine puṣṭānāṁ pataye namo namo bhavasya hetyai jagatāṁ pataye namo namo rudrāya tatāvine kṣetrāṇāṁ pataye namo namaḥ sūtāyāhantyāya vanānāṁ pataye namo namaḥ rohitāya sthapataye vṛkṣāṇāṁ pataye namo namo mantriṇe vāṇijāya kakṣāṇāṁ pataye namo namo bhuvantaye vārivaskṛtāyauṣadhīnāṁ pataye namo namaḥ uccairghoṣāyākrandayate pattīnāṁ pataye namaḥ",
+          "verse_number": 3
         },
         {
-          "id": "namakam-anuvaka1-v4",
-          "original": "यामिषुं गिरिशंत हस्ते बिभर्ष्यस्तवे। शिवां गिरित्र तां कुरु मा हिंसीः पुरुषं जगत्॥",
+          "id": "namakam-2-1",
+          "original": "नमो हिरण्यबाहवे हिरण्यवर्णाय हिरण्यरूपाय हिरण्यपतये अम्बिकापतये उमापतये पशुपतये नमो नमः",
           "translations": {
-            "english": "O Dweller on the mountain, O Protector of mountains, the arrow which you hold in your hand for shooting, make it auspicious. Do not harm our persons or the world."
+            "english": "Salutations to Him with golden arms, of golden color, of golden form, the Lord of gold, the consort of Ambika, the consort of Uma, the Lord of all beings."
           },
-          "transliteration": "Yāmiṣuṃ giriśanta haste bibharṣyastave. Śivāṃ giritra tāṃ kuru mā hiṃsīḥ puruṣaṃ jagat."
+          "transliteration": "namo hiraṇyabāhave hiraṇyavarṇāya hiraṇyarūpāya hiraṇyapataye ambikāpataye umāpataye paśupataye namo namaḥ",
+          "verse_number": 12
         },
         {
-          "id": "namakam-anuvaka1-v5",
-          "original": "शिवेन वचसा त्वा गिरिशाच्छावदामसि। यथा नः सर्वमिज्जगदयक्ष्मं सुमना असत्॥",
+          "id": "namakam-2-2",
+          "original": "नमो भवाय च रुद्राय च नमः शर्वाय च पशुपतये च",
           "translations": {
-            "english": "With auspicious words, O Lord of the mountains, we speak to you, so that all this world may be free from disease and be happy."
+            "english": "Salutations to Bhava and to Rudra. Salutations to Sharva and to Pashupati."
           },
-          "transliteration": "Śivena vacasā tvā giriśācchāvadāmasi. Yathā naḥ sarvamijjagadayakṣmaṃ sumanā asat."
+          "transliteration": "namo bhavāya ca rudrāya ca namaḥ śarvāya ca paśupataye ca",
+          "verse_number": 13
         },
         {
-          "id": "namakam-anuvaka1-v6",
-          "original": "अध्यवोचदधिवक्ता प्रथमो दैव्यो भिषक्। अहींश्च सर्वाञ्जम्भयन्त्सर्वाश्च यातुधान्यः॥",
+          "id": "namakam-2-3",
+          "original": "नमो नीलग्रीवाय च शितिकण्ठाय च नमः कपर्दिने च व्युप्तकेशाय च",
           "translations": {
-            "english": "Let the divine physician, the foremost advocate, speak for us. May he destroy all serpents and all evil spirits."
+            "english": "Salutations to the blue-necked and the white-throated. Salutations to the one with matted hair and the one with shaven head."
           },
-          "transliteration": "Adhyavocadadhivaktā prathamo daivyo bhiṣak. Ahīṃśca sarvāñjambhayantsarvāśca yātudhānyaḥ."
-        },
-        {
-          "id": "namakam-anuvaka1-v7",
-          "original": "असौ यस्ताम्रो अरुण उत बभ्रुः सुमङ्गलः। ये चैनं रुद्रा अभिगतो दिक्षु श्रिताः सहस्रशोऽवैषां हेड ईमहे॥",
-          "translations": {
-            "english": "That one who is copper-red, reddish-brown, and auspicious, and those Rudras who are present in the thousands in all directions – we seek to turn away their wrath."
-          },
-          "transliteration": "Asau yastāmro aruṇa uta babhruḥ sumaṅgalaḥ. Ye cainaṃ rudrā abhigato dikṣu śritāḥ sahasraśo'vaiṣāṃ heḍa īmahe."
-        },
-        {
-          "id": "namakam-anuvaka1-v8",
-          "original": "असौ योऽवसर्पति नीलग्रीवो विलोहितः। उतैनं गोपा अदृशन्नदृशन्नुदहार्यः। उतैनं विश्वा भूतानि स दृष्टो मृडयाति नः॥",
-          "translations": {
-            "english": "That one who descends, blue-necked, intensely red. The cowherds saw him, and the water-bearers saw him. All beings saw him. May he, being seen, bring happiness to us."
-          },
-          "transliteration": "Asau yo'vasarpati nīlagrīvo vilohitaḥ. Utainaṃ gopā adṛśannadṛśannudahāryaḥ. Utainaṃ viśvā bhūtāni sa dṛṣṭo mṛḍayāti naḥ."
-        },
-        {
-          "id": "namakam-anuvaka1-v9",
-          "original": "नमो अस्तु नीलग्रीवाय सहस्राक्षाय मीढुषे। अथो ये अस्य सत्वानोऽहं तेभ्योऽकरं नमः॥",
-          "translations": {
-            "english": "Salutations to the blue-necked one, to the thousand-eyed one, the bestower of boons. And to those beings who are his attendants, I offer my salutations."
-          },
-          "transliteration": "Namo astu nīlagrīvāya sahasrākṣāya mīḍhuṣe. Atho ye asya satvāno'haṃ tebhyo'karaṃ namaḥ."
-        },
-        {
-          "id": "namakam-anuvaka1-v10",
-          "original": "प्रमुञ्च धन्वनस्त्वमुभयोरार्त्न्योर्ज्याम्। याश्च ते हस्त इषवः परा ता भगवो वप॥",
-          "translations": {
-            "english": "Release the string from both ends of your bow. And the arrows that are in your hand, O Lord, scatter them far away."
-          },
-          "transliteration": "Pramuñca dhanvanastvamubhayorārtnyorjyām. Yāśca te hasta iṣavaḥ parā tā bhagavo vapa."
-        },
-        {
-          "id": "namakam-anuvaka1-v11",
-          "original": "अवत्य धनुष्ट्वं सहस्राक्ष शतेषुधे। निशीर्य शल्यानां मुखा शिवो नः सुमना भव॥",
-          "translations": {
-            "english": "Unstring your bow, O thousand-eyed one, with a hundred quivers. Having scattered the tips of the arrows, become auspicious and kind-hearted to us."
-          },
-          "transliteration": "Avatya dhanuṣṭvaṃ sahasrākṣa śateṣudhe. Niśīrya śalyānāṃ mukhā śivo naḥ sumanā bhava."
+          "transliteration": "namo nīlagrīvāya ca śitikaṇṭhāya ca namaḥ kapardine ca vyuptakeśāya ca",
+          "verse_number": 14
         }
       ],
-      "verses_count": 11
+      "verses_count": 66
     },
     {
+      "audioUrl": "https://example.com/rudram/chamakam/anuvaka1.mp3",
       "chapter_number": 2,
-      "name": "Namakam - Anuvaka 2",
-      "summary": "This Anuvaka continues to describe Rudra's pervasive presence and forms, seeking protection from his wrath.",
+      "name": "Chamakam",
+      "summary": "Chamakam, the second part of Sri Rudram, is a fervent prayer for the fulfillment of all desires and needs, both material and spiritual. It lists hundreds of auspicious things, concepts, and entities, using the repetitive phrase 'cha me' (and to me), indicating a plea for these blessings to be granted. It embodies the human desire for holistic well-being, encompassing health, wealth, knowledge, progeny, and spiritual liberation, all sought through the grace of Lord Rudra.",
       "verses": [
         {
-          "id": "namakam-anuvaka2-v1",
-          "original": "विज्यां धनुः कपर्दिनो विशल्यो बाणवाँ उत। अनेशन्नस्येषव आभुरस्य निषङ्गथिः॥",
+          "id": "chamakam-1-1",
+          "original": "अग्नौ च मे देव सवितरि चाग्नावभ्यग्रे च मे",
           "translations": {
-            "english": "The bow of Kapardin (Rudra with matted hair) is unstrung, and his quiver is without arrows. His arrows are ineffective, and his sword is sheathed."
+            "english": "May fire be mine, and Savitar, O God, and may the fire at the front be mine."
           },
-          "transliteration": "Vijyāṃ dhanuḥ kapardino viśalyo bāṇavām̐ uta. Aneśannasyaiṣava ābhūrasya niṣaṅgathiḥ."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 3,
-      "name": "Namakam - Anuvaka 3",
-      "summary": "Further prayers to Rudra, addressing Him as the source of creation, sustenance, and dissolution.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka3-v1",
-          "original": "या ते हेतिर्मीढुष्टम हस्ते बभूव ते धनुः। तयास्मान् विश्वतस्त्वमयक्ष्मया परिब्भुज॥",
-          "translations": {
-            "english": "O most bountiful one, the weapon and the bow that are in your hand, with them protect us from all sides, free from sickness."
-          },
-          "transliteration": "Yā te hetirmīḍhuṣṭama haste babhūva te dhanuḥ. Tayāsmān viśvatastvamayakṣmayā paribhbhja."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 4,
-      "name": "Namakam - Anuvaka 4",
-      "summary": "Invoking Rudra's beneficence and various forms, seeking peace and well-being.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka4-v1",
-          "original": "नमो हिरण्यबाहवे सेनान्ये दिशां च पतये नमो नमो वृक्षेभ्यो हरिकेशेभ्यः पशूनां पतये नमो नमः॥",
-          "translations": {
-            "english": "Salutations to him whose arms are golden, to the leader of armies, and to the lord of directions. Salutations to the green-haired trees, to the lord of animals, salutations."
-          },
-          "transliteration": "Namo hiraṇyabāhave senānye diśāṃ ca pataye namo namo vṛkṣebhyo harikeśebhyaḥ paśūnāṃ pataye namo namaḥ."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 5,
-      "name": "Namakam - Anuvaka 5",
-      "summary": "Salutations to Rudra in His numerous manifestations, from the mountains to the waters and beyond.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka5-v1",
-          "original": "नमः शम्भव्याय च मयोभवाय च नमः शङ्कराय च मयस्कराय च नमः शिवाय च शिवतराय च॥",
-          "translations": {
-            "english": "Salutations to the source of well-being and source of delight. Salutations to the doer of good and doer of happiness. Salutations to the auspicious and to the most auspicious."
-          },
-          "transliteration": "Namaḥ śambhavāyya ca mayobhavāya ca namaḥ śaṅkarāya ca mayaskarāya ca namaḥ śivāya ca śivatarāya ca."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 6,
-      "name": "Namakam - Anuvaka 6",
-      "summary": "This Anuvaka offers salutations to Rudra in his diverse aspects, including his fearsome and benevolent forms, residing in various places.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka6-v1",
-          "original": "नमस्तीर्थ्याय च कूल्याय च नमः पार्याय चावार्याय च नमः प्रतरणाय चोत्तरणाय च॥",
-          "translations": {
-            "english": "Salutations to him who is at the sacred bathing place, and to him who is at the river bank. Salutations to him who is on the farther bank, and to him who is on the nearer bank. Salutations to him who helps to cross over, and to him who helps to cross well."
-          },
-          "transliteration": "Namastīrthyāya ca kūlyāya ca namaḥ pāryāya cāvāryāya ca namaḥ prataraṇāya cottaraṇāya ca."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 7,
-      "name": "Namakam - Anuvaka 7",
-      "summary": "Salutations continue, addressing Rudra as existing in trees, plants, and other natural elements, acknowledging his omnipresence.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka7-v1",
-          "original": "नमो गोष्ठ्याय च गेह्याय च नमस्तल्प्याय च गह्वेष्थ्याय च नमो नाड्याय च निषङ्गिणे च॥",
-          "translations": {
-            "english": "Salutations to him who is in the cattle pen and in the house. Salutations to him who is on the couch and in the caves. Salutations to him who is in the river channels and to the one holding a sword."
-          },
-          "transliteration": "Namo goṣṭhyāya ca gehāya ca namastalpyāya ca gahveṣṭhyāya ca namo nāḍyāya ca niṣaṅgiṇe ca."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 8,
-      "name": "Namakam - Anuvaka 8",
-      "summary": "This Anuvaka details Rudra's many attendants and forms, including those associated with warriors and various professions, highlighting his governance over all.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka8-v1",
-          "original": "नमो ब्रध्राय चाद्राय च नमः प्रधन्ययाय च प्रतिश्रवाय च नम आशुषेणाय चाशुराय च॥",
-          "translations": {
-            "english": "Salutations to the great and to the small. Salutations to the chief and to the hearer. Salutations to the quick-marching army and to the swift."
-          },
-          "transliteration": "Namo bradhrāya cādrāya ca namaḥ pradhanyayāya ca pratiśravāya ca nama āśuṣeṇāya cāśurāya ca."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 9,
-      "name": "Namakam - Anuvaka 9",
-      "summary": "Anuvaka 9 focuses on Rudra's various abodes and attributes, including his existence in paths, wells, and forests, emphasizing his universal presence.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka9-v1",
-          "original": "नमः शर्वाय च पशुपतये च नमो नीलग्रीवाय च शितिकण्ठाय च नमः कपर्दिने च व्युप्तकेशाय च॥",
-          "translations": {
-            "english": "Salutations to the destroyer and to the lord of animals. Salutations to the blue-necked and to the white-throated. Salutations to the one with matted hair and to the one with shaven hair."
-          },
-          "transliteration": "Namaḥ śarvāya ca paśupataye ca namo nīlagrīvāya ca śitikaṇṭhāya ca namaḥ kapardine ca vyuptakeśāya ca."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 10,
-      "name": "Namakam - Anuvaka 10",
-      "summary": "This Anuvaka praises Rudra's auspicious and fierce forms, praying for protection and acknowledging his power over life and death.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka10-v1",
-          "original": "नमो भवाय च रुद्राय च नमः शर्वाय च पशुपतये च नमो नीलग्रीवाय च शितिकण्ठाय च॥",
-          "translations": {
-            "english": "Salutations to Bhava and to Rudra. Salutations to Sharva and to Pasupati. Salutations to Nilagriva and to Sitikantha."
-          },
-          "transliteration": "Namo bhavāya ca rudrāya ca namaḥ śarvāya ca paśupataye ca namo nīlagrīvāya ca śitikaṇṭhāya ca."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 11,
-      "name": "Namakam - Anuvaka 11",
-      "summary": "The concluding Anuvaka of Namakam, offering final prayers and salutations to Rudra, seeking peace, healing, and freedom from all fears.",
-      "verses": [
-        {
-          "id": "namakam-anuvaka11-v1",
-          "original": "नमस्ते अस्तु भगवन् विश्वेश्वराय महादेवाय त्र्यम्बकाय त्रिपुरान्तकाय त्रिकाग्निकालाय कालाग्निरुद्राय नीलकण्ठाय मृत्युञ्जयाय सर्वेश्वराय सदाशिवाय श्रीमन् महादेवाय नमः॥",
-          "translations": {
-            "english": "Salutations to you, O Lord, the Lord of the universe, the Great God, the three-eyed one, the destroyer of Tripura, the controller of the three sacrificial fires, the Rudra of the fire of time, the blue-throated one, the conqueror of death, the Lord of all, the eternally auspicious, the glorious Great God. Salutations."
-          },
-          "transliteration": "Namaste astu bhagavan viśveśvarāya mahādevāya tryambakāya tripurāntakāya trikāgnikālāya kālāgnirudrāya nīlakaṇṭhāya mṛtyuñjayāya sarveśvarāya sadāśivāya śrīman mahādevāya namaḥ."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 12,
-      "name": "Chamakam - Anuvaka 1",
-      "summary": "The first Anuvaka of Chamakam consists of prayers for various forms of sustenance, well-being, and blessings, with the repetitive 'cha me' (and for me).",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka1-v1",
-          "original": "अग्निश्च मे इन्द्रश्च मे सोमश्च मे सूर्यश्च मे॥",
-          "translations": {
-            "english": "May Agni be for me, and Indra for me, and Soma for me, and Surya for me."
-          },
-          "transliteration": "Agniśca me indraśca me somaśca me sūryaśca me."
+          "transliteration": "agnau ca me deva savitari cāgnāvabhyagre ca me",
+          "verse_number": 1
         },
         {
-          "id": "chamakam-anuvaka1-v2",
-          "original": "पर्जन्यश्च मे वायुश्च मे पृथ्वी च मे अन्तरिक्षं च मे द्यौश्च मे॥",
+          "id": "chamakam-1-2",
+          "original": "वाजे च मे प्रसवो च मे प्रयतिश्च मे प्रसितिश्च मे धीतिश्च मे क्रतुश्च मे स्वरश्च मे श्लोकश्च मे श्रावश्च मे श्रुतिश्च मे",
           "translations": {
-            "english": "And Parjanya for me, and Vayu for me, and Prithvi for me, and Antariksha for me, and Dyau for me."
+            "english": "May food be mine, and its production, and effort, and accomplishment, and thought, and resolve, and voice, and fame, and listening, and hearing."
           },
-          "transliteration": "Parjanyaśca me vāyuśca me pṛthvī ca me antarikṣaṃ ca me dyauśca me."
+          "transliteration": "vaje ca me prasavo ca me prayatiśca me prasitiśca me dhītiśca me kratuśca me svaraśca me ślokaśca me śrāvaśca me śrutiśca me",
+          "verse_number": 2
         },
         {
-          "id": "chamakam-anuvaka1-v3",
-          "original": "नक्षत्रामि च मे चन्द्रमाश्च मे अपश्च मे ओषधयश्च मे वनस्पतयश्च मे॥",
+          "id": "chamakam-1-3",
+          "original": "ज्योतिश्च मे तपश्च मे व्रतञ्च मे तपो च मे दमश्च मे शमश्च मे",
           "translations": {
-            "english": "And the stars for me, and the moon for me, and the waters for me, and the herbs for me, and the trees for me."
+            "english": "May light be mine, and austerity, and vows, and penance, and self-restraint, and tranquility."
           },
-          "transliteration": "Nakṣatrāmi ca me candramāśca me apaśca me oṣadhayaśca me vanaspatayaśca me."
+          "transliteration": "jyotiśca me tapaśca me vratañca me tapo ca me damaśca me śamaśca me",
+          "verse_number": 3
         },
         {
-          "id": "chamakam-anuvaka1-v4",
-          "original": "संवत्सरश्च मे साधश्च मे अहोरात्रे च मे अर्धमासाश्च मे मासाश्च मे॥",
+          "id": "chamakam-2-1",
+          "original": "इमं मे वरुण श्रुधी हवमद्या च मृळय त्वामवस्युराचके",
           "translations": {
-            "english": "And the year for me, and seasons for me, and day and night for me, and half-months for me, and months for me."
+            "english": "O Varuna, hear this call of mine today, and be gracious. I, desiring protection, invoke you."
           },
-          "transliteration": "Saṃvatsaraśca me sādhaśca me ahorātre ca me ardhamāsāśca me māsāśca me."
+          "transliteration": "imaṁ me varuṇa śrudhī havamadyā ca mṛḷaya tvāmavasyurācake",
+          "verse_number": 12
         },
         {
-          "id": "chamakam-anuvaka1-v5",
-          "original": "ऋतवश्च मे वर्षाश्च मे शरदश्च मे हेमन्तश्च मे शिशिरश्च मे वसन्तश्च मे॥",
+          "id": "chamakam-2-2",
+          "original": "त्वं नो अग्ने मह्यं वरुणाय ते नमः",
           "translations": {
-            "english": "And the seasons for me, and rains for me, and autumn for me, and winter for me, and cold season for me, and spring for me."
+            "english": "You, O Agni, are ours. To Varuna, salutations to you."
           },
-          "transliteration": "Ṛtavaśca me varṣāśca me śaradaśca me hemantaśca me śiśiraśca me vasantaśca me."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 13,
-      "name": "Chamakam - Anuvaka 2",
-      "summary": "This Anuvaka continues to invoke various cosmic and earthly elements, praying for their benevolent presence and abundance.",
-      "verses": [
+          "transliteration": "tvaṁ no agne mahyaṁ varuṇāya te namaḥ",
+          "verse_number": 13
+        },
         {
-          "id": "chamakam-anuvaka2-v1",
-          "original": "एका च मे तिस्रश्च मे पञ्च च मे सप्त च मे नव च मे एकादश च मे त्रयोदश च मे पञ्चदश च मे सप्तदश च मे नवदश च मे एकविंशतिश्च मे त्रयोविंशतिश्च मे पञ्चविंशतिश्च मे सप्तविंशतिश्च मे नवविंशतिश्च मे एकत्रिंशच्च मे त्रयस्त्रिंशच्च मे॥",
+          "id": "chamakam-2-3",
+          "original": "आपो हि ष्ठा मयोभुवः ता न ऊर्जे दधातन महे रणाय चक्षसे",
           "translations": {
-            "english": "And one for me, and three for me, and five for me, and seven for me, and nine for me, and eleven for me, and thirteen for me, and fifteen for me, and seventeen for me, and nineteen for me, and twenty-one for me, and twenty-three for me, and twenty-five for me, and twenty-seven for me, and twenty-nine for me, and thirty-one for me, and thirty-three for me."
+            "english": "O Waters, you are verily the source of joy. Bestow upon us strength, for great delight and vision."
           },
-          "transliteration": "Ekā ca me tisraśca me pañca ca me sapta ca me nava ca me ekādaśa ca me trayodaśa ca me pañcadaśa ca me saptadaśa ca me navadaśa ca me ekaviṃśatiśca me trayoviṃśatiśca me pañcaviṃśatiśca me saptaviṃśatiśca me navaviṃśatiśca me ekatriṃśacca me trayastriṃśacca me."
+          "transliteration": "āpo hi ṣṭhā mayobhuvaḥ tā na ūrje dadhātana mahe raṇāya cakṣase",
+          "verse_number": 14
         }
       ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 14,
-      "name": "Chamakam - Anuvaka 3",
-      "summary": "Prayers for strength, vitality, and various forms of energy to be bestowed.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka3-v1",
-          "original": "वाजश्च मे प्रसवश्च मे प्रयतिश्च मे प्रसितिश्च मे धीतिश्च मे क्रतुश्च मे स्वरश्च मे श्लोकश्च मे श्रावश्च मे श्रुतिश्च मे॥",
-          "translations": {
-            "english": "And food for me, and impulse for me, and effort for me, and attachment for me, and thought for me, and will for me, and voice for me, and praise for me, and fame for me, and knowledge for me."
-          },
-          "transliteration": "Vājaśca me prasavaśca me prayatiśca me prasitiśca me dhītiśca me kratuśca me svaraśca me ślokaśca me śrāvaśca me śrutiśca me."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 15,
-      "name": "Chamakam - Anuvaka 4",
-      "summary": "This Anuvaka asks for various forms of wealth, prosperity, and auspiciousness.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka4-v1",
-          "original": "ज्योतिश्च मे तपश्च मे ओजश्च मे सहश्च मे आयुश्च मे यज्ञेन कल्पन्ताम्॥",
-          "translations": {
-            "english": "And light for me, and austerity for me, and vigor for me, and power for me, and life for me, may they be completed by sacrifice."
-          },
-          "transliteration": "Jyotiśca me tapaśca me ojaśca me sahaśca me āyuśca me yajñena kalpantām."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 16,
-      "name": "Chamakam - Anuvaka 5",
-      "summary": "Requests for progeny, good health, and an abundance of cattle and resources.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka5-v1",
-          "original": "चन्द्रमाश्च मे ज्योतिश्च मे वरिवश्च मे अयाश्च मे देवस्य सवितुः सवे स्याम॥",
-          "translations": {
-            "english": "And the moon for me, and light for me, and wealth for me, and iron for me, may we be in the impulsion of the divine Savitar."
-          },
-          "transliteration": "Candramāśca me jyotiśca me varivaśca me ayāśca me devasya savituḥ save syāma."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 17,
-      "name": "Chamakam - Anuvaka 6",
-      "summary": "This Anuvaka prays for various types of material and spiritual gains, including food, milk, and happiness.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka6-v1",
-          "original": "इडा च मे सरस्वती च मे भारती च मेळा च मे मही च मे राका च मे सिनीवाली च मे कुहूश्च मे॥",
-          "translations": {
-            "english": "And Ila for me, and Saraswati for me, and Bharati for me, and Ila for me, and Mahi for me, and Raka for me, and Sinivali for me, and Kuhu for me."
-          },
-          "transliteration": "Iḍā ca me sarasvatī ca me bhāratī ca meḷā ca me mahī ca me rākā ca me sinīvālī ca me kuhūśca me."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 18,
-      "name": "Chamakam - Anuvaka 7",
-      "summary": "Requests for peace, comfort, and the absence of fear and suffering.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka7-v1",
-          "original": "तन्वश्च मे त्वचश्च मे शरीराणि च मे सर्वानि च मे तानि च मे सं कल्पन्ताम्॥",
-          "translations": {
-            "english": "And my body for me, and my skin for me, and my limbs for me, and all for me, may they be united for me."
-          },
-          "transliteration": "Tanvaśca me tvacaśca me śarīrāṇi ca me sarvāni ca me tāni ca me saṃ kalpantām."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 19,
-      "name": "Chamakam - Anuvaka 8",
-      "summary": "This Anuvaka seeks the fulfillment of various desires, including spiritual growth and virtuous living.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka8-v1",
-          "original": "उपसदश्च मेऽनुयाजाश्च मे प्रयाजाश्च मे याज्याश्च मे वषट्काराश्च मे आहुतयश्च मे॥",
-          "translations": {
-            "english": "And Upasad offerings for me, and Anuyaja offerings for me, and Prayaja offerings for me, and Yajya invocations for me, and Vasatkāra exclamations for me, and oblations for me."
-          },
-          "transliteration": "Upasadaśca me'nuyājāśca me prayājāśca me yājyāśca me vaṣaṭkārāśca me āhutayaśca me."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 20,
-      "name": "Chamakam - Anuvaka 9",
-      "summary": "Prayers for agricultural prosperity, rich harvests, and abundant food.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka9-v1",
-          "original": "भूरि च मे भुवश्च मे महश्च मे जनश्च मे तपश्च मे सत्यं च मे॥",
-          "translations": {
-            "english": "And Bhuh for me, and Bhuvah for me, and Mahah for me, and Janah for me, and Tapah for me, and Satyam for me."
-          },
-          "transliteration": "Bhūri ca me bhuvaśca me mahaśca me janaśca me tapaśca me satyaṃ ca me."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 21,
-      "name": "Chamakam - Anuvaka 10",
-      "summary": "This Anuvaka invokes various deities and their blessings for prosperity and protection.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka10-v1",
-          "original": "अग्नीषोमौ च मे द्यावापृथिवी च मे इन्द्राग्नी च मे मित्रो वरुणौ च मे॥",
-          "translations": {
-            "english": "And Agni-Soma for me, and Heaven and Earth for me, and Indra-Agni for me, and Mitra and Varuna for me."
-          },
-          "transliteration": "Agnīṣomau ca me dyāvāpṛthivī ca me indrāgnī ca me mitro varuṇau ca me."
-        }
-      ],
-      "verses_count": 11
-    },
-    {
-      "chapter_number": 22,
-      "name": "Chamakam - Anuvaka 11",
-      "summary": "The concluding Anuvaka of Chamakam, a comprehensive prayer for overall well-being, including spiritual growth, material prosperity, and liberation.",
-      "verses": [
-        {
-          "id": "chamakam-anuvaka11-v1",
-          "original": "वाजाय स्वाहा वसवे स्वाहा कामाय स्वाहा वनाय स्वाहा॥",
-          "translations": {
-            "english": "Oblation to food! Oblation to wealth! Oblation to desire! Oblation to the forest!"
-          },
-          "transliteration": "Vājāya svāhā vasave svāhā kāmāya svāhā vanāya svāhā."
-        }
-      ],
-      "verses_count": 11
+      "verses_count": 66
     }
   ],
   "id": "sri-rudram",
-  "introduction": "Sri Rudram, also known as Rudra Prashna, is a Vedic hymn dedicated to Rudra (an epithet of Shiva). It is part of the Krishna Yajurveda, specifically the Taittiriya Samhita. It consists of two parts: Namakam and Chamakam. Namakam is a prayer addressing Rudra with various names and attributes, seeking His mercy to avert His fierce forms and invite His benevolent presence. Chamakam, on the other hand, is a prayer seeking blessings and boons, asking for various forms of sustenance, well-being, and prosperity.",
+  "introduction": "Sri Rudram is a profound Vedic hymn dedicated to Lord Rudra (an epithet of Shiva). It is found in the Taittiriya Samhita of the Krishna Yajurveda. The text consists of two main parts, Namakam and Chamakam, each containing eleven sections called Anuvakas. Namakam, meaning 'salutations,' invokes Rudra in various aspects and forms, seeking his benevolent nature. Chamakam, meaning 'to me,' is a prayer for the fulfillment of all desires and needs, listing various auspicious things. Chanting Sri Rudram is considered highly sacred and beneficial, believed to purify the mind, body, and surroundings, and bestow spiritual and material well-being.",
   "title": "Sri Rudram"
 }

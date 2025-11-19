@@ -2,7 +2,8 @@
   {
     "id": "gita",
     "title": "Bhagavad Gita",
-    "author": "Veda Vyasa (as part of the Mahabharata)",
+    "author": "Veda Vyasa",
+    "introduction": "The Bhagavad Gita (Song of the Lord) is a 700-verse Hindu scripture that is part of the epic Mahabharata. It presents a dialogue between Prince Arjuna and his guide and charioteer, Lord Kṛṣṇa.\n\nThe setting is the battlefield of Kurukṣetra, just before the start of the great war between the Pāṇḍavas and the Kauravas. Overwhelmed by moral dilemma and despair at the thought of fighting his own kinsmen, teachers, and friends, Arjuna refuses to fight.\n\nKṛṣṇa then imparts transcendental knowledge, covering the principles of duty (Dharma), the nature of the soul (Ātman), devotion (Bhakti), action (Karma Yoga), and knowledge (Jñāna Yoga). The 18 chapters of the Gita are often referred to as 18 Yogas (disciplines or paths to spiritual realization). The essence of the Gita is to encourage selfless action and devotion, regardless of worldly outcomes.",
     "path": "bhagavadGita.json",
     "coverImage": "images/KrishaArjuna.png"
   },
@@ -10,13 +11,17 @@
     "id": "chalisa",
     "title": "Hanuman Chalisa",
     "author": "Tulsidas",
+    "audioUrl": "https://archive.org/download/HanumanChalisaMSSubbulakshmiwww.Mp3MaD.Com/Hanuman_Chalisa-M_S_Subbulakshmi%5Bwww.Mp3MaD.Com%5D.mp3" ,
+    "introduction": "The Hanuman Chalisa is a Hindu devotional hymn addressed to Lord Hanuman, a devout follower of Lord Rama and a central character in the epic Ramayana. Composed in the Awadhi language by the 16th-century poet Tulsidas, it is one of the most widely recited Hindu texts, revered for its power to invoke courage, strength, and protection.\n\nThe word 'Chalisa' derives from 'Chalis,' meaning forty in Hindi, referring to the 40 main verses (Chaupais) that form the core of the prayer. The complete recitation is traditionally counted as 43 sections, including two preliminary couplets (Dohas) that set the stage, and one final couplet that concludes the invocation.\n\nThe text glorifies Hanuman's immense strength, wisdom, celibacy, and unwavering devotion to Lord Rama. Reciting the Chalisa is believed to ward off evil spirits and negativity, alleviate suffering, and grant the devotee the virtues of knowledge and fortitude, making it a powerful spiritual anchor for millions of devotees worldwide.",
     "path": "hanumanChalisa.json",
     "coverImage": "images/HanumanChalisa.png"
   },
   {
     "id": "lalita",
     "title": "Lalita Sahasranama",
-    "author": "Sage Hayagrīva (narrated in Brahmanda Purana)",
+    "author": "Sage Hayagrīva",
+    "audioUrl": "https://archive.org/download/sri-lalitha-sahasranamam-full-with-lyrics-lalita-devi-stotram-rajalakshmee-sanjay-devotional-320k/Sri%20Lalitha%20Sahasranamam%20Full%20With%20Lyrics%20-%20Lalita%20Devi%20Stotram%20-%20Rajalakshmee%20Sanjay%20-%20Devotional-320k.mp3",  
+    "introduction": "The Lalita Sahasranama is one of the most sacred texts in Shaktism, dedicated to the Hindu Mother Goddess Lalita Tripurasundari, the form of the Divine Mother (Shakti) who governs the three worlds. This hymn appears in the Uttara Khanda of the Brahmanda Purana and is presented as a conversation between the sage Agastya and Lord Hayagrīva (an incarnation of Vishnu).\n\nUnlike other Sahasranamas (thousand names) which may contain repetitive or manufactured names, the Lalita Sahasranama is unique because it is said to have been composed by the Goddess herself at the request of the Vāgdevatas (Goddesses of Speech), ensuring its flawless and supreme nature.\n\nRecitation of the Sahasranama is central to the worship of Lalita and is believed to grant spiritual merit, prosperity, and liberation (moksha). The names systematically describe the Goddess's physical attributes, her divine weapons (like the sugarcane bow and flowery arrows), her glorious pastimes, and her role as the ultimate creator, maintainer, and destroyer of the universe.",
     "path": "lalitaSahasranama.json",
     "coverImage": "images/LalithaSahasranama.png"
   },

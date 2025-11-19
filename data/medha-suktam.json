@@ -1,0 +1,85 @@
+{
+  "id": "medha-suktam",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "Invocation of Medhā Devī",
+      "summary": "This chapter contains the core verses invoking Medhā (Intellect), praying for its strength and permanence, and seeking the blessing of the deities associated with knowledge and mental acuity.",
+      "verses_count": 8,
+      "verses": [
+        {
+          "id": "medha-suktam-1-1",
+          "verse_number": 1,
+          "original": "मे॒धादे॒वी जु॒षमा॑णा न॒ आगा॑द्वि॒श्वाची॑ भ॒द्रा सु॑म॒नस्य॑माना । त्वया॒ जुष्टा॑ नु॒दमा॑ना दु॒रुक्ता॑न् बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥",
+          "transliteration": "medhā́ devī juṣamāṇā na ā́gād viśvācī́ bhadrā sumanasyamā́nā । tváyā́ juṣṭā́ nudamā́nā duruktā́n bṛhád vadema vidáthe suvīrā́h ॥",
+          "translations": {
+            "english": "May the Goddess Medhā, who is pleased and kind-hearted, benevolent to all, come to us. Cherished by you, and driving away all evil thoughts, may we speak great words of wisdom in the assembly, possessing good spiritual strength."
+          }
+        },
+        {
+          "id": "medha-suktam-1-2",
+          "verse_number": 2,
+          "original": "त्वया॒ जुष्टा॑ ऋ॒षिर्भ॑वति देवि॒ त्वया॒ जुष्टा॒ ब्रह्म॑णा ग॒तश्रीः॑ । त्वया॒ जुष्टा॑श्चि॒त्रं वि॒न्दते॒ वसु॒ सा नो॑ जुषस्व॒ द्रवि॑णो न मे॒धे ॥",
+          "transliteration": "tváyā́ juṣṭā́ r̥ṣíh bhavati devi tváyā́ juṣṭā́ bráhmaṇā gatáśrīh । tváyā́ juṣṭā́ś citrám vindate vásu sā́ nō juṣasva dráviṇō na medhe ॥",
+          "translations": {
+            "english": "O Goddess, one favoured by you becomes a Sage (Ṛṣi); one favoured by you, O Brāhmaṇa, becomes glorious. One favoured by you obtains various forms of wealth. O Medhā, please favour us and grant us wealth and intellect."
+          }
+        },
+        {
+          "id": "medha-suktam-1-3",
+          "verse_number": 3,
+          "original": "मे॒धाम॒ग्निरिन्द्रो॑ मे॒धां दे॒वी सर॑स्वती । मे॒धां मे॒ ब्रह्मा॒श्विना॑वु॒भावा॒धत्तां॒ पुष्क॑रस्रजा ॥",
+          "transliteration": "medhā́m agnír índrō medhā́m devī́ sárasvatī । medhā́m me brahmā́śvināv ubhā́v ā́dhattāṃ púṣkarasrajā ॥",
+          "translations": {
+            "english": "May Agni grant me Medhā, may Indra grant me Medhā, may the Divine Sarasvatī grant me Medhā. May Brahmā and the two Aśvinī Kumāras, garlanded with lotuses, both bestow Medhā upon me."
+          }
+        },
+        {
+          "id": "medha-suktam-1-4",
+          "verse_number": 4,
+          "original": "यत्पु॒रूषे॒षु पुरु॑हू॒तम॑प्सु॒ यद्दे॒वेषु॒ यदसु॑रेषु॒ मेधाम् । तया॒ माम॒द्य मे॒धया॑ग्ने मे॒धावि॑नं कुरु ॥",
+          "transliteration": "yát purū́ṣeṣu purū́hūtam apsú yád devéṣu yád ásureṣu medhā́m । táyā́ mām adyá medháyāgne medhā́vinaṃ kuru ॥",
+          "translations": {
+            "english": "O Agni, by the Medhā (intellect) that is present in men (often invoked), that is in the waters, that is in the Gods, and that is in the Asuras—by that Medhā make me intelligent and wise today."
+          }
+        },
+        {
+          "id": "medha-suktam-1-5",
+          "verse_number": 5,
+          "original": "मे॒धां म॒ इन्द्रो॑ ददातु मे॒धां दे॒वी सर॑स्वती । मे॒धां मे॒ भग॑स्य प्रथ॒मा मे॒धां मे॑ ददातु ॥",
+          "transliteration": "medhā́m ma índrō dadātu medhā́m devī́ sárasvatī । medhā́m me bhágasya prathamā́ medhā́m me dadātu ॥",
+          "translations": {
+            "english": "May Indra grant me Medhā, may the Goddess Sarasvatī grant me Medhā. May Bhaga, the foremost among the deities, grant me Medhā."
+          }
+        },
+        {
+          "id": "medha-suktam-1-6",
+          "verse_number": 6,
+          "original": "मे॒धां म॑नु॒ष्य॑प्सु॒ यद्वि॒दद्य॑ग॒न्धर्वे॒षु॒ यदसु॑रेषु मे॒धाम् । तया॒ माम॒द्य मे॒धया॑ग्ने मे॒धावि॑नं कुरु ॥",
+          "transliteration": "medhā́m manuṣyàpsú yád vidádyagandharvéṣu yád ásureṣu medhā́m । táyā́ mām adyá medháyāgne medhā́vinaṃ kuru ॥",
+          "translations": {
+            "english": "O Agni, by the Medhā that is known among men, in the waters, in the Gandharvas, and in the Asuras—by that Medhā make me intelligent and wise today."
+          }
+        },
+        {
+          "id": "medha-suktam-1-7",
+          "verse_number": 7,
+          "original": "आ मा॒मे॒धा सु॒प्रजा॒ ब्रह्म॑वर्च॒सिनी॒ वा॒चं मे॒ दधा॑तु शि॒वाम् । ओ३म् ॥",
+          "transliteration": "ā́ māmedhā́ suprájā bráhmavarčasinī́ vācáṃ me dádhātu śivā́m । O3M ॥",
+          "translations": {
+            "english": "May Medhā come to me, bringing good progeny and the lustre of Vedic knowledge (Brahma-Varchas). May she bless me with auspicious speech. Om."
+          }
+        },
+        {
+          "id": "medha-suktam-1-8",
+          "verse_number": 8,
+          "original": "श॒न् नो॑ भवतु मे॒धा शं नो॑ धा॒त्री शं नः॑ ॥",
+          "transliteration": "śám nō bhavatu medhā́ śáṃ nō dhātrī́ śáṃ nah ॥",
+          "translations": {
+            "english": "May Medhā be a source of peace for us. May the Supporter (Dhātrī) be a source of peace for us. May she grant us peace."
+          }
+        }
+      ]
+    }
+  ]
+}

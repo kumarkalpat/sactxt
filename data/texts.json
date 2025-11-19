@@ -90,7 +90,8 @@
   {
     "id": "sri-rudram",
     "title": "Sri Rudram",
-    "author": "Krishna Yajurveda, Taittiriya Samhita",
+    "author": "Vedic Hymn (attributed to various Rishis)",
+    "audioUrl": "https://archive.org/download/qqaf_sri-rudram_202406/Sri%20Rudram.mp3",
     "introduction": "Sri Rudram is a Vedic hymn dedicated to Lord Rudra (Shiva). It consists of two parts: Namakam (11 anuvakas) praising Rudra in his many forms, and Chamakam (11 anuvakas) requesting blessings. Together they form 22 sections (~220 verses).",
     "path": "SriRudram.json",
     "coverImage": "images/sriRudram.png"

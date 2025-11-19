@@ -113,5 +113,14 @@
     "audioUrl": "https://archive.org/download/SriSuktam/SriSuktam.mp3",
     "path": "sri-suktam.json",
     "coverImage": "images/sri-suktam.png"
-  }  
+  },
+  {
+    "id": "durga-suktam",
+    "title": "Durgā Sūktam",
+    "author": "Vedic Sages",
+    "introduction": "The Durgā Sūktam is a Vedic hymn found in the *Mahanarayana Upanishad*. Although primarily addressed to Jātavedas Agni (the all-knowing Fire God), it is understood as an invocation of Goddess Durgā, the Supreme Shakti who removes all obstacles (Durgā literally meaning 'one who is difficult to approach or cross over'). The hymn prays for protection, prosperity, and the ability to cross over all difficulties in life, just as a boatman ferries people across a sea.",
+    "audioUrl": "https://archive.org/download/DurgaSuktam/Durgasuktam1.MP3",
+    "path": "durga-suktam.json",
+    "coverImage": "images/durga-suktam.png"
+  }    
 ]

@@ -1,0 +1,267 @@
+{
+  "id": "venkateswara-suprabhatam",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "The Waking Hymn (Suprabhātam)",
+      "summary": "The main part of the composition, containing 29 verses that lyrically describe the break of dawn, the arrival of celestial beings, the gathering of devotees, and various mythological references, all used to awaken Lord Veṅkaṭeśvara.",
+      "verses_count": 29,
+      "verses": [
+        {
+          "id": "venkateswara-suprabhatam-1-1",
+          "verse_number": 1,
+          "original": "कौसल्यासुप्रजा राम पूर्वा सन्ध्या प्रवर्तते । उत्तिष्ठ नरशार्दूल कर्त्तव्यं दैवमाह्निकम् ॥",
+          "transliteration": "kausalyāsuprājā rāma pūrvā sandhyā pravartate । uttiṣṭha naraśārdūla kartavyaṁ daivamāhnikam ॥",
+          "translations": {
+            "english": "O Rāma, the blessed son of Kausalyā! The morning twilight has commenced. O Tiger among men, please arise, as the daily ritual duties to the Gods must be performed."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-2",
+          "verse_number": 2,
+          "original": "उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज । उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥",
+          "transliteration": "uttiṣṭhottiṣṭha govinda uttiṣṭha garuḍadhvaja । uttiṣṭha kamalākānta trailokyaṁ maṅgalaṁ kuru ॥",
+          "translations": {
+            "english": "Arise, arise, O Govinda! Arise, O one whose banner bears Garuḍa! Arise, O darling of Kamalā (Lakṣmī)! And bring auspiciousness to the three worlds."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-3",
+          "verse_number": 3,
+          "original": "मातः समस्तां जगतां मधुकैटभदारिणः । श्रीयः पियुषदेव्यस्य सुप्रभातमस्तु ते ॥",
+          "transliteration": "mātaḥ samastāṁ jagatāṁ madhukaiṭabhadāriṇaḥ । śrīyaḥ piyuṣadevyasya suprabhātamastu te ॥",
+            "translations": {
+            "english": "O Mother of all the worlds, the consort of the destroyer of Madhu and Kaiṭabha, O divine Lakṣmī! May this be an auspicious dawn for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-4",
+          "verse_number": 4,
+          "original": "तव सुप्रभातरतिसुप्रभातमस्तु श्रीवेङ्कटेशचरणौ शरणं प्रपद्ये ॥",
+          "transliteration": "tava suprabhātaratisuprabhātamastu śrīveṅkaṭeśacaraṇau śaraṇaṁ prapadye ॥",
+          "translations": {
+            "english": "May your auspicious morning be the most auspicious. I take refuge at the feet of Lord Śrī Veṅkaṭeśa."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-5",
+          "verse_number": 5,
+          "original": "ब्रह्मादयः सुरवराः समर्षयस्ते सन्निहितास्तव हि मङ्गळशासनार्थम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "brahmādayaḥ suravarāḥ samarṣayaste sannihitāstava hi maṅgaḷaśāsanārtham । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Brahmā and other chief Gods, along with the Sages, are gathered here to pronounce blessings upon you. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-6",
+          "verse_number": 6,
+          "original": "उत्थाय शङ्करवृषध्वजशारङ्गधरादियुक्तास्त्वत्सन्निधौ खगवरस्य वचः शृण्वन्तः । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "utthāya śaṅkaravṛṣadhvajaśāraṅgadharādiyuktāstvatsannidhau khagavarasya vacaḥ śṛṇvantaḥ । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Śaṅkara (Shiva) with his bull banner, Śārṅgadhara (Viṣṇu with the bow), and others have arisen and are waiting in your presence, listening to the words of the best of birds (Garuḍa). O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-7",
+          "verse_number": 7,
+          "original": "त्वत्सूर्यचन्द्रकिरणां सवितानं ते तप्तं प्रबुद्धपद्मवनं विगतरौद्रम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tvatsūryacandrakiraṇāṁ savitānaṁ te taptaṁ prabuddapadmavanaṁ vigatarau-dram । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The sun and moon are shedding their rays upon you, the lotus ponds have blossomed, and the fierce darkness has vanished. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-8",
+          "verse_number": 8,
+          "original": "चन्द्रार्कयोर्युगमनुद्रुमकुञ्जराणाम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "candrārkayoryugamanudrumakuñjarāṇām । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The moon and the sun are rising together, and the trees are awake, as are the elephants. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-9",
+          "verse_number": 9,
+          "original": "भूयः प्रकाशयति भ्रातर्मन्दं च मन्दम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "bhūyaḥ prakāśayati bhrātar mandaṁ ca mandam । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The light is spreading again, O Brother (of Lakṣmī/the world), slowly and gently. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-10",
+          "verse_number": 10,
+          "original": "तस्मात्त्वय्यर्चितसङ्गतपद्मपद्मम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tasmāttvayyarcitasaṅgatapadmapadmam । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Therefore, the lotus feet of Lakṣmī are eternally joined to you in worship. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-11",
+          "verse_number": 11,
+          "original": "पुष्पाणि पादयुगले सुगन्धयुक्तानि । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "puṣpāṇi pādayugale sugandhayuktāni । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Fragrant flowers are being offered to your two feet. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-12",
+          "verse_number": 12,
+          "original": "आद्यैश्च देवगणकैः स्तुतिवाक्प्रबन्धैः । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "ādyaiśca devagaṇakaiḥ stutivākprabandhaiḥ । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The primeval hosts of Gods are singing hymns of praise and eulogy. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-13",
+          "verse_number": 13,
+          "original": "त्वद्वक्त्रदर्शनविहीनसुन्दरीणाम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tvadvaktradarśanavihīnasundarīṇām । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The beautiful damsels (celestial and human) are lamenting because they have not yet had sight of your face. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-14",
+          "verse_number": 14,
+          "original": "श्रीपद्मवक्त्रजनको जगत्प्रबोधो । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "śrīpadmavaktrajanako jagatprabodho । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "O Father of the Lotus-faced Lakṣmī, the one who brings awakening to the world. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-15",
+          "verse_number": 15,
+          "original": "प्रातर्नमस्मि भगवन् । त्वयि सात्त्विकदृष्टा । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "prātarnamasmi bhagavan । tvayi sāttvikadṛṣṭā । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "I salute you this morning, O Lord! You are seen with Sāttvika (pure) vision. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-16",
+          "verse_number": 16,
+          "original": "चञ्चत्पक्षावृतचकोरगणादिसन्ध्या । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "cañcatpakṣāvṛtacakoragaṇādisandhyā । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The twilight is here, with flocks of Cakora birds swiftly circling. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-17",
+          "verse_number": 17,
+          "original": "सर्वं हि कारणकरं जगत्पूज्यम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "sarvaṁ hi kāraṇakaraṁ jagatpūjyam । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "You are the cause of all causes, worshipped by the entire world. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-18",
+          "verse_number": 18,
+          "original": "भूयो भूयः प्रणतं मकरकुण्डलाङ्गं । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "bhūyo bhūyaḥ praṇataṁ makarakuṇḍalāṅgaṁ । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "We repeatedly bow to your form adorned with Makara (crocodile-shaped) earrings. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-19",
+          "verse_number": 19,
+          "original": "यस्याश्रमे भगवतः कृतसंश्रयस्य । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "yasyāśrame bhagavataḥ kṛtasaṁśrayasya । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "You took refuge in the hermitage of the sage (Agastya or Bhṛgu). O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-20",
+          "verse_number": 20,
+          "original": "त्वत्सङ्गतो हि बहुधा मुनयश्च नित्यम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tvatsaṅgato hi bahudhā munayaśca nityam । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Many Sages are constantly associated with you in diverse ways. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-21",
+          "verse_number": 21,
+          "original": "तत्तत्स्वरूपपरिपूजनकारणेन । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tattatsvarūpaparipūjanakāraṇena । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "For the sake of worshipping your various forms and glories. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-22",
+          "original": "त्वं नो विभो विबुधमण्डलगोचरोऽसि । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tvaṁ no vibho vibudhamaṇḍalagocaro'si । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "O All-pervading Lord, you are within the vision of the assembly of the wise. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-23",
+          "original": "वेदान्तवेद्यपुरुषोत्तम तेऽवसानम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "vedāntavedya-puruṣottama te’vasānam । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "O Puruṣottama (Supreme Being) known through the Vedānta, you are the end goal. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-24",
+          "original": "त्वय्यर्पितात्मा विरतोऽपि जनानुरागात् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "tvayyar-pitātmā virato’pi janānurāgāt । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Those who have surrendered their souls to you renounce attachment even to the love of people. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-25",
+          "original": "योऽयं जनानुरागी जनितोऽनुरक्तान् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "yo'yaṁ janānurāgī janito'nuraktān । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "You, who are beloved by the people, grant happiness to your devotees. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-26",
+          "original": "लक्ष्मीविलाससकलार्थिसिद्धिहेतो । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "lakṣmīvilāsasakalarthisiddhiheto । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "You are the cause of the fulfillment of all desires through the delightful presence of Lakṣmī. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-27",
+          "original": "श्रीमन्निलाकृतिपराक्रमकान्तसङ्गा । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "śrīmannilākṛtiparākramakāntasaṅgā । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "O Glorious One, who is constantly associated with the beauty and valor of Nīlā Devī (Bhu Devī/Earth Goddess). O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-28",
+          "original": "प्रातर्निरीक्ष्य करुणावदनाम्बुजं ते । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "prātarnirīkṣya karuṇāvadanāmbujam te । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "Let us gaze upon your lotus face, filled with compassion, this morning. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        },
+        {
+          "id": "venkateswara-suprabhatam-1-29",
+          "verse_number": 29,
+          "original": "अम्लानपुष्पमधुगन्धसुगन्धियुक्तम् । श्रीवेङ्कटाधिपते तव सुप्रभातं नित्यं च मङ्गळमस्तु ॥",
+          "transliteration": "amlānapuṣpamadhugandhasugandhiyuktam । śrīveṅkaṭādhipate tava suprabhātaṁ nityaṁ ca maṅgaḷamastu ॥",
+          "translations": {
+            "english": "The atmosphere is filled with the sweet fragrance of honey and fresh, unfading flowers. O Lord of Veṅkaṭa, may your morning be auspicious, and may all be eternally well for you."
+          }
+        }
+      ]
+    }
+  ]
+}

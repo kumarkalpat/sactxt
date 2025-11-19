@@ -1,11 +1,11 @@
 {
-  "author": "Agastya (from Ramayana)",
-  "chapters": [
+    "id": "aditya_hridayam",
+    "chapters": [
     {
-      "audioUrl": "https://archive.org/download/AdityaHridayamMantra/Aditya%20Hrudayam.mp3",
       "chapter_number": 1,
       "name": "Aditya Hridayam Stotram",
       "summary": "This chapter contains the complete Aditya Hridayam hymn, a powerful prayer dedicated to Surya, the Sun God. It was recited by Sage Agastya to Lord Rama on the battlefield to ensure his victory over Ravana. The hymn praises the Sun God's omnipotence, radiance, and life-giving energy, offering strength, courage, and prosperity to its reciter.",
+      "verses_count": 31,
       "verses": [
         {
           "id": "aditya_hridayam_1_1",
@@ -286,11 +286,7 @@
           "transliteration": "etat puṇyaṁ pavitraṁ ca sarvaśatruvināśanam| japennityaṁ jayaṁ caiva sarvakāmārthasiddhaye||31||",
           "verse_number": 31
         }
-      ],
-      "verses_count": 31
+      ]
     }
-  ],
-  "id": "aditya_hridayam",
-  "introduction": "Aditya Hrudayam (Sanskrit: आदित्यहृदयम्, romanized: Ādityahṛdayam) is a devotional hymn in praise of Surya, the Sun God, and is a significant stotra in Hinduism. It means 'The Heart of Aditya' (Aditya refers to Surya). This hymn was recited by the sage Agastya to Rama on the battlefield before his fight with Ravana, to bestow victory upon him. It is found in the Yuddha Kanda of the Valmiki Ramayana. Chanting this hymn is believed to bring courage, victory, prosperity, and good health. It comprises 31 verses that describe the Sun God's glory, His various names, and the benefits of His worship.",
-  "title": "Aditya Hridayam"
+  ]
 }

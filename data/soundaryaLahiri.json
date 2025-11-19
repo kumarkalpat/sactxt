@@ -3,11 +3,10 @@
   "title": "Soundarya Lahari",
   "author": "Adi Shankara",
   "audioUrl": "https://archive.org/download/SoundaryaLahariBombaySisters/Soundarya%20Lahari-Bombay%20Sisters.mp3",
-  "introduction": "The Soundarya Lahari ('Waves of Beauty') is a famous Sanskrit literary work attributed to Adi Shankara. It is a devotional poem of one hundred verses (shlokas) praising Goddess Parvati as the supreme divine mother, depicted in various aspects of beauty, grace, and power. The first 41 verses are known as 'Ananda Lahari' (Waves of Bliss), focusing on the Kundalini yoga and the mystical aspects of the Sri Chakra. The remaining 59 verses are called 'Soundarya Lahari' (Waves of Beauty), describing the physical beauty of the Goddess from head to toe. It is a profound work that blends devotion, Tantric philosophy, and aesthetics, revered by devotees and scholars alike for its lyrical beauty and spiritual depth."
-
+  "introduction": "The Soundarya Lahari ('Waves of Beauty') is a famous Sanskrit literary work attributed to Adi Shankara. It is a devotional poem of one hundred verses (shlokas) praising Goddess Parvati as the supreme divine mother, depicted in various aspects of beauty, grace, and power. The first 41 verses are known as 'Ananda Lahari' (Waves of Bliss), focusing on the Kundalini yoga and the mystical aspects of the Sri Chakra. The remaining 59 verses are called 'Soundarya Lahari' (Waves of Beauty), describing the physical beauty of the Goddess from head to toe. It is a profound work that blends devotion, Tantric philosophy, and aesthetics, revered by devotees and scholars alike for its lyrical beauty and spiritual depth.",
   "chapters": [
     {
-       "chapter_number": 1,
+      "chapter_number": 1,
       "name": "Soundarya Lahari Stotram",
       "summary": "Soundarya Lahari (Waves of Beauty) is a devotional poem of one hundred verses composed by Adi Shankara. It is dedicated to Goddess Parvati/Dakshayani, a manifestation of the divine mother, and describes her beauty, grace, and her various aspects as the supreme energy (Shakti). The verses are rich in Tantric mysticism and profound philosophical insights.",
       "verses": [
@@ -22,7 +21,7 @@
         },
         {
           "id": "SL_2",
-          "original": "तनीयां सुं पांसुं तव चरण पङ्केरुह-भवं विरिञ्चिः सञ्चिन्वन् विरचयति लोकान् अविक्लवम्।वहत्येनं शौरिः कथमपि सहस्रेण शिरसां हरः संक्षुद्यैनं भजति भसितोद्धूलन विधिम्॥२॥",
+          "original": "तनीयां सुं पांसुं तव चरण पङ्केरुह-भवं विरिञ्चिः सञ्चिन्वन विरचयति लोकान् अविक्लवम्।वहत्येनं शौरिः कथमपि सहस्रेण शिरसां हरः संक्षुद्यैनं भजति भसितोद्धूलन विधिम्॥२॥",
           "translations": {
             "english": "Collecting the minute dust from your lotus feet, Brahma creates the worlds without effort. Vishnu somehow bears this dust on his thousand heads, and Shiva, reducing it to ashes, smears it on his body."
           },
@@ -170,7 +169,7 @@
           "translations": {
             "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
           },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||18||",
+          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥsmaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||18||",
           "verse_number": 18
         },
         {
@@ -229,7 +228,7 @@
         },
         {
           "id": "SL_25",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥२५॥",
+          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कuruते हरिरभ्रामतव चरणयोर्या विरचिता॥२५॥",
           "translations": {
             "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
           },
@@ -265,7 +264,7 @@
         },
         {
           "id": "SL_29",
-          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दयितताअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥२९॥",
+          "original": "समन्ताल्लोकं त्वं ननु परशिवे ते दayitatāअतो भक्तस्त्वां त्वं हि जनयसि तेषामहर्निशंविभुं यस्त्वं जानासि प्रकृतितनुमात्मैव हि भवेत्॥२९॥",
           "translations": {
             "english": "Indeed, O Parashiva, your benevolence extends to the entire world. Therefore, you generate enlightenment day and night for your devotees, for you know that the supreme self is indeed the embodied nature."
           },
@@ -548,7 +547,7 @@
           "translations": {
             "english": "There, with great power, leading to the methods of cosmic dissolution – Shiva, Shakti, Kama, Earth, then the Sun, the Moon, Cupid, Hamsa, Indra – these letters, enclosed within, are indeed the names of the children of the mountain king (Himalaya)."
           },
-          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||60||",
+          "transliteration": "mahāśaktyā tatra pralayavidhīnāṃ pariṇayanśivaḥ śaktiḥ kāmaḥ kṣitiratha raviḥ śītarakiraṇaḥ|smaro haṃsaḥ śakrastadanu ca parā māraharayaḥamī lekhāntargāḥ syuriha girirājena tanayāḥ ||60||",
           "verse_number": 60
         },
         {
@@ -652,7 +651,7 @@
         },
         {
           "id": "SL_72",
-          "original": "चतुःषष्ट्या तन्त्रैः सकलमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥७२॥",
+          "original": "चतुःषष्ट्या तन्त्रैः सकalमतिसन्धाय भुवनंस्थित स्तत्तत्सिद्धिप्रसवपरतन्त्रैः पशुपतिः।पुनस्त्वन्निबन्धादखिलपुरुषार्थैकघटनास्वतन्त्रं ते तन्त्रं क्षितितलमवातीतरदिदम्॥७२॥",
           "translations": {
             "english": "Lord Pashupati (Shiva), having completely understood the entire universe through sixty-four Tantras, which are devoted to bestowing various siddhis (powers), then, by your command, brought down to this earth your own Tantra, which is independent and capable of granting all human aspirations."
           },
@@ -661,7 +660,7 @@
         },
         {
           "id": "SL_73",
-          "original": "अहो देवि त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥७३॥",
+          "original": "अहो देvi त्वत्पादं शरणं गताः सकलाः।महाशक्त्या तत्र प्रलयविधीनां परिणयन्।कुरुते हरिरभ्रामतव चरणयोर्या विरचिता॥७३॥",
           "translations": {
             "english": "Oh Goddess! All beings seek refuge at your feet. With great power, leading to the methods of cosmic dissolution, Vishnu performs for you the worship offered at your feet."
           },
@@ -701,7 +700,7 @@
           "translations": {
             "english": "Vishnu performs for you the worship offered to your feet. Indeed, these (gods) always stand near the jeweled pedestal supporting your feet, with their crown-adorned heads bowed and hands clasped in reverence."
           },
-          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi tvatpādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||77||",
+          "transliteration": "kurute harirabhrāmatava caraṇayoryā viracitā|tathā hi त्वत्pādodvahaṇamaṇipīṭhasya nikaṭaṃsthitā hyete śaśvanmukulitakarottaṃsamakuṭāḥ ||77||",
           "verse_number": 77
         },
         {
@@ -827,7 +826,7 @@
           "translations": {
             "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
           },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||91||",
+          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||91||",
           "verse_number": 91
         },
         {
@@ -899,7 +898,7 @@
           "translations": {
             "english": "Placing my head at your feet, though the world is renowned by the brilliance of the beings (gods) as supreme, yet, O Sri Kala, by constantly gazing compassionately at the three worlds, you generate contentment in the meditation on your lotus feet."
           },
-          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribhuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||99||",
+          "transliteration": "śirāsi saṃdhāyāhaṃ caraṇayorhi makuṭaṃtejobhirlokānāṃ prathitajagatā yadyapi param|atha śrīkāle nityaṃ karuṇamavalokya tribuvanaṃsantoṣaṃ dhyāne tava hi caraṇābje janayasi ||99||",
           "verse_number": 99
         },
         {

@@ -1,0 +1,160 @@
+{
+  "id": "sri-suktam",
+  "title": "Śrī Sūktam (Hymn to Śrī-Lakṣmī)",
+  "author": "Vedic Sages (Khila Sūktas of the Rigveda)",
+  "introduction": "The Śrī Sūktam is a sacred Vedic hymn found in the Khila Sūktas (appendices) of the Rigveda, dedicated to Goddess Śrī (Lakṣmī), the personification of wealth, prosperity, and auspiciousness. It invokes the Goddess, often through the medium of Agni (the Fire God), to banish misfortune (Alakṣmī) and bestow abundance in all its forms—material (gold, cattle, food) and spiritual (fame, peace, progeny). It is a key text in the veneration of the Divine Feminine.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "The Hymn to Śrī",
+      "summary": "The main body of the Śrī Sūktam, consisting of 15 or 16 primary verses (Richas) that invoke the radiant Goddess Lakṣmī, praising her golden color, lotus association, and power to grant prosperity, while pleading for the removal of poverty and inauspiciousness.",
+      "verses_count": 16,
+      "verses": [
+        {
+          "id": "sri-suktam-1-1",
+          "verse_number": 1,
+          "original": "ॐ हिरण्यवर्णां हरिणीं सुवर्णरजतस्रजाम् । चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥",
+          "transliteration": "oṁ hiraṇyavarṇāṁ hariṇīṁ suvarṇarajatasrajām । candrāṁ hiraṇmayīṁ lakṣmīṁ jātavedo ma āvaha ॥",
+          "translations": {
+            "english": "O Jātavedas (Agni), invoke for me that Lakṣmī (Śrī) who is of golden hue, charming as a deer, adorned with garlands of gold and silver. Who is moon-like and all-golden. Invoke that Lakṣmī unto me."
+          }
+        },
+        {
+          "id": "sri-suktam-1-2",
+          "verse_number": 2,
+          "original": "तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् । यस्यां हिरण्यं विन्देयं गामश्वं पुरुषानहम् ॥",
+          "transliteration": "tāṁ ma āvaha jātavedo lakṣmīmanapagāminīm । yasyāṁ hiraṇyaṁ vindeyaṁ gāmaśvaṁ puruṣānaham ॥",
+          "translations": {
+            "english": "O Jātavedas, invoke for me that unfailing Lakṣmī, by whose grace I may obtain abundant gold, cows, horses, progeny, and servants."
+          }
+        },
+        {
+          "id": "sri-suktam-1-3",
+          "verse_number": 3,
+          "original": "अश्वपूर्वां रथमध्यां हस्तिनादप्रबोधिनीम् । श्रियं देवीमुपह्वये श्रीर्मा देवीर्जुषताम् ॥",
+          "transliteration": "aśvapūrvāṁ rathamadhyāṁ hastinādaprabodhinīm । śriyaṁ devīmupahvaye śrīrmā devīrjuṣatām ॥",
+          "translations": {
+            "english": "I invoke the Goddess Śrī, who is preceded by horses, has chariots in the middle, and is awakened by the trumpeting of elephants. May that divine Śrī come and dwell with me."
+          }
+        },
+        {
+          "id": "sri-suktam-1-4",
+          "verse_number": 4,
+          "original": "कां सोस्मितां हिरण्यप्राकारामार्द्रां ज्वलन्तीं तृप्तां तर्पयन्तीम् । पद्मे स्थितां पद्मवर्णां तामिहोपह्वये श्रियम् ॥",
+          "transliteration": "kāṁ sosmitāṁ hiraṇyaprākārāmārdrāṁ jvalantīṁ tṛptāṁ tarpayantīm । padme sthitāṁ padmavarṇāṁ tāmihopahvaye śriyam ॥",
+          "translations": {
+            "english": "I invoke that Śrī here, who has a pleasant smile, whose enclosure is golden, who is moist (full of compassion), radiant, satisfied, and satisfying others. Who is seated in a lotus and is of the color of a lotus."
+          }
+        },
+        {
+          "id": "sri-suktam-1-5",
+          "verse_number": 5,
+          "original": "चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टामुदाराम् । तां पद्मिनीमीं शरणमहं प्रपद्येऽलक्ष्मीर्मे नश्यतां त्वां वृणे ॥",
+          "transliteration": "candrāṁ prabhāsāṁ yaśasā jvalantīṁ śriyaṁ loke devajuṣṭāmudārām । tāṁ padminīmīṁ śaraṇamahaṁ prapadye'lakṣmīrme naśyatāṁ tvāṁ vṛṇe ॥",
+          "translations": {
+            "english": "I seek refuge in that Padmiṇī (Lakṣmī), who is brilliant like the moon, radiant, blazing with fame, adored by the Gods in the world, and highly generous. May my misfortune (Alakṣmī) perish. I choose you."
+          }
+        },
+        {
+          "id": "sri-suktam-1-6",
+          "verse_number": 6,
+          "original": "आदित्यवर्णे तपसोऽधिजातो वनस्पतिस्त्व वृक्षोऽथ बिल्वः । तस्य फलानि तपसानुदन्तु मायान्तरायाश्च बाह्या अलक्ष्मीः ॥",
+          "transliteration": "ādityavarṇe tapaso'dhijāto vanaspatistva vṛkṣo'tha bilvaḥ । tasya phalāni tapasānudantu māyāntarāyāśca bāhyā alakṣmīḥ ॥",
+          "translations": {
+            "english": "O you of sun-like color! By your penance, the Bilva tree (wood-apple), the king of all forest trees, was born. May the fruits of that tree, by the power of penance, drive away my inner obstacles (Māya) and all external misfortunes (Alakṣmī)."
+          }
+        },
+        {
+          "id": "sri-suktam-1-7",
+          "verse_number": 7,
+          "original": "उपैतु मां देवसखः कीर्तिश्च मणिना सह । प्रादुर्भूतोऽस्मि राष्ट्रेऽस्मिन् कीर्तिमृद्धिं ददातु मे ॥",
+          "transliteration": "upaitu māṁ devasakhaḥ kīrtiśca maṇinā saha । prādurbhūto'smi rāṣṭre'smin kīrtimṛddhiṁ dadātu me ॥",
+          "translations": {
+            "english": "May the friend of the Gods (Kubera or Viṣṇu) and Kīrti (Fame) come to me, accompanied by Maṇi (jewels). I am born in this nation (or realm); may they bestow fame and prosperity upon me."
+          }
+        },
+        {
+          "id": "sri-suktam-1-8",
+          "verse_number": 8,
+          "original": "क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीं नाशयाम्यहम् । अभूतिमसमृद्धिं च सर्वां निर्णुद मे गृहात् ॥",
+          "transliteration": "kṣutpipāsāmalāṁ jyeṣṭhāmalakṣmīṁ nāśayāmyaham । abhūtimasamṛddhiṁ ca sarvāṁ nirṇuda me gṛhāt ॥",
+          "translations": {
+            "english": "I destroy Jyeṣṭhā-Alakṣmī (the elder sister of Lakṣmī, the embodiment of inauspiciousness) who is soiled with hunger and thirst. O Lakṣmī, drive away all wretchedness and lack of prosperity from my home."
+          }
+        },
+        {
+          "id": "sri-suktam-1-9",
+          "verse_number": 9,
+          "original": "गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् । ईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियम् ॥",
+          "transliteration": "gandhadvārāṁ durādharṣāṁ nityapuṣṭāṁ karīṣiṇīm । īśvarīṁ sarvabhūtānāṁ tāmihopahvaye śriyam ॥",
+          "translations": {
+            "english": "I invoke that Śrī here, whose main door of perception is scent (or who resides in fragrant things), who is unassailable, eternally nourished, associated with cow-dung (symbol of fertility), and the sovereign ruler of all beings."
+          }
+        },
+        {
+          "id": "sri-suktam-1-10",
+          "verse_number": 10,
+          "original": "मनसः काममाकूतिं वाचः सत्यमशीमहि । पशूनां रूपमन्नस्य मयि श्रीः श्रयतां यशः ॥",
+          "transliteration": "manasaḥ kāmamākūtiṁ vācaḥ satyamaśīmahi । paśūnāṁ rūpamannasya mayi śrīḥ śrayatāṁ yaśaḥ ॥",
+          "translations": {
+            "english": "May we attain the desires of the mind, the resolution (will), and truth in speech. May Śrī (prosperity) and fame reside in me, along with the abundance of cattle and food."
+          }
+        },
+        {
+          "id": "sri-suktam-1-11",
+          "verse_number": 11,
+          "original": "कर्दमेन प्रजाभूता मयि सम्भव कर्दम । श्रियं वासय मे कुले मातरं पद्ममालिनीम् ॥",
+          "transliteration": "kardamena prajābhūtā mayi sambhava kardama । śriyaṁ vāsaya me kule mātaraṁ padmamālinīm ॥",
+          "translations": {
+            "english": "O Kardama (son of Lakṣmī, or mud/earth), all living beings are born through you. May you reside in me! And cause the Mother Śrī, who wears a lotus garland, to dwell in my family."
+          }
+        },
+        {
+          "id": "sri-suktam-1-12",
+          "verse_number": 12,
+          "original": "आपः सृजन्तु स्निग्धानि चिक्लीत वस मे गृहे । नि च देवीं मातरं श्रियं वासय मे कुले ॥",
+          "transliteration": "āpaḥ sṛjantu snigdhāni ciklīta vasa me gṛhe । ni ca devīṁ mātaraṁ śriyaṁ vāsaya me kule ॥",
+          "translations": {
+            "english": "May the waters (of the ocean) create smooth, unctuous things (moisture/fat, i.e., nourishment). O Ciklīta (another son of Lakṣmī, or moisture), reside in my house, and cause the divine Mother Śrī to dwell in my family."
+          }
+        },
+        {
+          "id": "sri-suktam-1-13",
+          "verse_number": 13,
+          "original": "आर्द्रां पुष्करिणीं पुष्टिं सुवर्णां हेममालिनीम् । सूर्यां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥",
+          "transliteration": "ārdrāṁ puṣkariṇīṁ puṣṭiṁ suvarṇāṁ hemamālinīm । sūryāṁ hiraṇmayīṁ lakṣmīṁ jātavedo ma āvaha ॥",
+          "translations": {
+            "english": "O Jātavedas, invoke for me that Lakṣmī who is moist (full of compassion), associated with the lotus pond, nourishing, of beautiful golden color, wearing a golden garland, and radiant like the Sun, all-golden."
+          }
+        },
+        {
+          "id": "sri-suktam-1-14",
+          "verse_number": 14,
+          "original": "आर्द्रां यः करिणीं यष्टिं पिङ्गलां पद्ममालिनीम् । चन्द्रां हिरण्मयीं लक्ष्मीं जातवेदो म आवह ॥",
+          "transliteration": "ārdrāṁ yaḥ kariṇīṁ yaṣṭiṁ piṅgalāṁ padmamālinīm । candrāṁ hiraṇmayīṁ lakṣmīṁ jātavedo ma āvaha ॥",
+          "translations": {
+            "english": "O Jātavedas, invoke for me that Lakṣmī who is moist, who wields a staff (of authority), yellowish (tawny) in color, wearing a lotus garland, moon-like, and all-golden."
+          }
+        },
+        {
+          "id": "sri-suktam-1-15",
+          "verse_number": 15,
+          "original": "तां म आवह जातवेदो लक्ष्मीमनपगामिनीम् । यस्यां हिरण्यं प्रभूतं गावो दास्योऽश्वान् विन्देयं पुरुषानहम् ॥",
+          "transliteration": "tāṁ ma āvaha jātavedo lakṣmīmanapagāminīm । yasyāṁ hiraṇyaṁ prabhūtaṁ gāvo dāsyo’śvān vindeyaṁ puruṣānaham ॥",
+          "translations": {
+            "english": "O Jātavedas, invoke for me that unfailing Lakṣmī, by whose grace I may obtain abundant gold, cows, maidservants, horses, and men (servants/progeny)."
+          }
+        },
+        {
+          "id": "sri-suktam-1-16",
+          "verse_number": 16,
+          "original": "यः शुचिः प्रयतो भूत्वा जुहुयादाज्यमन्वहम् । श्रियः पञ्चदशर्चं च श्रीकामः सततं जपेत् ॥",
+          "transliteration": "yaḥ śuciḥ prayato bhūtvā juhuyādājyamanvaham । śriyaḥ pañcadaśarcaṁ ca śrīkāmaḥ satataṁ japet ॥",
+          "translations": {
+            "english": "The one who is pure and restrained, and performs a *homa* (fire ritual) daily with *ājya* (ghee), and who desires Śrī (prosperity), should always chant these fifteen *richas* (verses) of the Śrī Sūktam."
+          }
+        }
+      ]
+    }
+  ]
+}

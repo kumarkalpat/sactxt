@@ -207,5 +207,16 @@
     "audioSource": "Rajalakshmee Sanjay - Youtube Music",
     "path": "mahishasura-mardini.json",
     "coverImage": "images/mahishasura-mardini.png"
+  },
+  {
+    "id": "narasimha-kavacham",
+    "title": "Narasimha Kavacham (Prahlāda Kṛta)",
+    "author": "Prahlāda Mahārāja (as told in the Brahmāṇḍa Purāṇa)",
+    "introduction": "The Narasimha Kavacham (Armor of Narasimha) is a powerful protective hymn dedicated to Lord Narasimha, the man-lion avatar of Viṣṇu. Attributed to the great devotee Prahlāda Mahārāja, who was saved by the Lord from his demonic father, Hiraṇyakaśipu, this stotram is a detailed prayer invoking different aspects and limbs of Narasimha to act as a shield for every part of the reciter's body, mind, and spirit. It is widely revered for its ability to grant fearlessness, destroy evil, and bestow complete protection from all forms of danger, seen and unseen.",
+    "total_verses": 32,
+    "audioUrl": "https://music.youtube.com/watch?v=aai1k4SX_uk&si=xnrsmexcFpzvvpYc",
+    "audioSource": "ISKCON Bangalore - Youtube Music",
+    "path": "narasimha-kavacham.json",
+    "coverImage": "images/narasimha.jpg"
   }
 ]

@@ -120,6 +120,7 @@
     "author": "Vedic Sages (Khila Sūktas of the Rigveda)",
     "introduction": "The Śrī Sūktam is a sacred Vedic hymn found in the Khila Sūktas (appendices) of the Rigveda, dedicated to Goddess Śrī (Lakṣmī), the personification of wealth, prosperity, and auspiciousness. It invokes the Goddess, often through the medium of Agni (the Fire God), to banish misfortune (Alakṣmī) and bestow abundance in all its forms—material (gold, cattle, food) and spiritual (fame, peace, progeny). It is a key text in the veneration of the Divine Feminine.",
     "audioUrl": "https://archive.org/download/SriSuktam/SriSuktam.mp3",
+    "audioSource": "Archive.org",
     "path": "sri-suktam.json",
     "coverImage": "images/sri-suktam.png"
   },
@@ -139,6 +140,7 @@
     "author": "Vedic Sages",
     "introduction": "The Medhā Sūktam is a hymn invoking the grace of Medhā Devī, the personification of sharp intellect, memory, and wisdom. This Suktam is traditionally chanted by students and seekers of knowledge to improve their concentration, retention, and understanding. It appeals to various deities—including Agni, Indra, Aśvins, and Sarasvatī—to bestow the divine quality of Medhā upon the worshipper.",    
     "audioUrl": "https://archive.org/download/MedhaSuktam/MedhaSuktam.mp3",
+    "audioSource": "Archive.org",
     "path": "medha-suktam.json",
     "coverImage": "images/medha-suktam.png"
   },
@@ -158,6 +160,7 @@
     "author": "Prativādibhayankara Annangāchārya",
     "introduction": "The Veṅkaṭeśvara Suprabhātam is the first of a set of four hymns dedicated to Lord Veṅkaṭeśvara of Tirumala. This primary section, consisting of 29 verses, is a devotional call to the Lord to wake up from His yoga-nidrā (yogic sleep). It praises His divine form, His glorious attributes, His consort Padmāvatī/Lakṣmī, and the auspicious signs of the morning, inviting Him to bless the world. The recitation is a mandatory part of the early morning rituals (Seva) at the Tirumala temple.",
     "audioUrl": "https://archive.org/download/VenkateshwaraSuprabhatam/vsuprabhatammss.mp3",
+    "audioSource": "M S Subbulakshmi - Archive.org",
     "path": "venkateswara-suprabhatam.json",
     "coverImage": "images/venkateswara-suprabhatam.png"
   },

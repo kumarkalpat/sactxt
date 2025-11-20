@@ -30,7 +30,8 @@
     "id": "shiva",
     "title": "Shiva Tandava Stotram",
     "author": "Ravana",
-    "audioUrl": "https://archive.org/download/ShivaTandavaStotram_201707/Shiva_Tandava_Stotram.mp3",   
+    "audioUrl": "https://music.youtube.com/watch?v=qe_GFx6hGgw&si=YVzuwJgyjBb8rPRp",
+    "audioSource": "Uma Mohan - Youtube Music",
     "introduction": "The Shiva Tandava Stotram is a Sanskrit hymn of praise to the Hindu God Shiva, often attributed to Ravana, the Rakshasa King of Lanka and a devoted follower of Shiva. The hymn is renowned for its intense, alliterative meter (Pañcacāmara Jati), which mimics the powerful rhythm of Shiva's furious cosmic dance, the Tandava.\n\nComposed in a highly evocative and descriptive language, the stotram captures the duality of Shiva—the terrifying destroyer of ignorance and the benevolent bestower of blessings. It details his fierce appearance, including his matted locks holding the Ganga, the crescent moon on his head, the venomous serpents encircling his body, and the fire blazing on his forehead.\n\nRecitation of the Shiva Tandava Stotram is believed to bring immense courage, devotion, and freedom from fear.",
     "path": "shivaTandavaStotram.json",
     "coverImage": "images/ShivaTandav.png"
@@ -93,7 +94,8 @@
     "id": "sri-rudram",
     "title": "Sri Rudram",
     "author": "Vedic Hymn (attributed to various Rishis)",
-    "audioUrl": "https://archive.org/download/qqaf_sri-rudram_202406/Sri%20Rudram.mp3",
+    "audioUrl": "https://music.youtube.com/watch?v=Nre6Qt7Fqv4&si=03d7RrlIqG9qliGP",
+    "audioSource": "Challakere Brothers - Youtube Music",
     "introduction": "Sri Rudram is a Vedic hymn dedicated to Lord Rudra (Shiva). It consists of two parts: Namakam (11 anuvakas) praising Rudra in his many forms, and Chamakam (11 anuvakas) requesting blessings. Together they form 22 sections (~220 verses).",
     "path": "SriRudram.json",
     "coverImage": "images/sriRudram.png"

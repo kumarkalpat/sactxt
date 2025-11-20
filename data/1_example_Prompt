@@ -1,6 +1,13 @@
-1. JSON Data Structure
-Each sacred text is defined by a JSON file. The structure must match the example below to be compatible with the application.
+Generate a complete JSON object for the sacred text 'SACRED TEXT'.
 
+The JSON must follow this structure exactly:
+
+- A root object with "id", "title", "author", and "introduction".
+- A "chapters" array containing chapter objects.
+- Each chapter object must have "chapter_number", "name", "summary", "verses_count", and a "verses" array.
+- Each verse in the "verses" array must have "id", "verse_number", "original" (in Devanagari), "transliteration" (IAST), and a "translations" object with an "english" key.
+
+JSON structure:
 {
   "id": "unique-text-id",
   "title": "Title of the Text",
@@ -16,29 +23,23 @@ Each sacred text is defined by a JSON file. The structure must match the example
         {
           "id": "unique-text-id-1-1",
           "verse_number": 1,
-          "original": "Original text in Devanagari...",
+          "original": "Original text in Devanagari, Tamil or as appropriate...",
           "transliteration": "IAST transliteration...",
           "translations": {
             "english": "English translation..."
           }
         }
-      ],
-      "audioUrl": "https://archive.org/details/your-audio-id (optional)"
+      ]
     }
   ]
 }
-2. Example AI Prompt
-You can use a generative AI like Gemini to create the JSON content for you. Provide a clear and specific prompt, including the required structure. Here is a simple example:
 
-Generate a complete JSON object for the sacred text 'Hanuman Chalisa'.
-
-The JSON must follow this structure exactly:
-- A root object with "id", "title", "author", and "introduction".
-- A "chapters" array containing chapter objects.
-- Each chapter object must have "chapter_number", "name", "summary", "verses_count", and a "verses" array.
-- Each verse in the "verses" array must have "id", "verse_number", "original" (in Devanagari), "transliteration" (IAST), and a "translations" object with an "english" key.
+----------------------------------------
 
 Please generate the content for all 42 verses of the Hanuman Chalisa.
+
+
+
 3. Adding Your Text
 To add your text to the library, follow these steps:
 

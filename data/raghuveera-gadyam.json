@@ -1,0 +1,250 @@
+{
+  "id": "raghuveera-gadyam",
+  "title": "Raghuveera Gadyam (The Prose-Poem of Raghuveera)",
+  "author": "Vedanta Desika (Swamy Desikan)",
+  "introduction": "The Raghuveera Gadyam is a famous Sanskrit prayer that narrates the entire story of Lord Rāma (Raghuveera) in a continuous, flowing prose style (Gadyam), often employing highly elaborate and descriptive compound words. It begins with the invocation 'Jayati' (Victory to) and ends with a description of the final coronation (Pattabhishekam). It is renowned for its literary brilliance and devotional fervor.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "The Victory of Raghuveera (Jayati Vākya)",
+      "summary": "This chapter covers the entire narrative of Lord Rama, from his lineage and divine birth to the climax of the Ramayana—his coronation and eternal reign.",
+      "verses_count": 26,
+      "verses": [
+        {
+          "id": "raghuveera-1-1",
+          "verse_number": 1,
+          "original": "जयति आश्रितसंस्त्रास-ध्वंसन-प्रकृष्टिः,\nविषह्य-पराक्रम-धनम्, सत्य-सन्धम्, धर्म-धामम्, निगमान्त-सार-सौख्यम्, जानकी-सहितम् रघुवीरम् ॥",
+          "transliteration": "jayati āśritasaṁstrāsa-dhvaṁsana-prakṛṣṭiḥ,\nviṣahya-parākrāma-dhanam, satya-sandham, dharma-dhāmam, nigamānta-sāra-saukhyam, jānakī-sahitaṁ raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera (Rāma) who excels in destroying the fears of those who take refuge in him, whose wealth is his invincible valor, who is pledged to truth, the abode of Dharma, the essence and happiness of the Vedas, and who is ever united with Jānakī (Sītā)."
+          }
+        },
+        {
+          "id": "raghuveera-1-2",
+          "verse_number": 2,
+          "original": "जयति अखिल-भुवन-जय-शर्म-सीमानम्, दशरथ-सुतम्... सन्न-विभूति-सम्पदा-श्रितम् रघुवीरम् ॥",
+          "transliteration": "jayati akhila-bhuvana-jaya-śarma-sīmānam, daśaratha-sutam... sanna-vibhūti-sampadā-śritam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, the ultimate limit of all worlds' victory and happiness, the son of Daśaratha, who possesses supreme and eternal glory and wealth."
+          }
+        },
+        {
+          "id": "raghuveera-1-3",
+          "verse_number": 3,
+          "original": "जयति विश्रुत-वीर-वर-मन्त्र-वीथी-समाश्रितम्, विश्वमित्र-प्रियम्, मिथिलेश-सुता-कल्याणम्... रघुवीरम् ॥",
+          "transliteration": "jayati viśruta-vīra-vara-mantra-vīthī-samāśritam, viśvāmitra-priyam, mithileśa-sutā-kalyāṇam... raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who received the famed great and heroic Mantras (Bala-Atibala), the beloved of Viśvāmitra, and the cause of the auspicious marriage of the daughter of the King of Mithilā (Sītā)."
+          }
+        },
+        {
+          "id": "raghuveera-1-4",
+          "verse_number": 4,
+          "original": "जयति भार्गव-दर्प-खण्डन-चतुरम्, क्षत्रिय-कुल-तिलकम्... निरतिशय-सुख-सम्पत्-समृद्धि-युतम् रघुवीरम् ॥",
+          "transliteration": "jayati bhārgava-darpa-khaṇḍana-caturam, kṣatriya-kula-tilakam... niratiśaya-sukha-sampat-samṛddhi-yutam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, clever in crushing the arrogance of Bhārgava (Paraśurāma), the ornament of the Kṣatriya lineage, endowed with incomparable happiness and abundant wealth."
+          }
+        },
+        {
+          "id": "raghuveera-1-5",
+          "verse_number": 5,
+          "original": "जयति दत्त-राज्य-न्यस्त-भरतम्, कैकेयी-वर-पालन-दीक्षितम्... सीता-लक्ष्मण-सङ्गतम् रघुवीरम् ॥",
+          "transliteration": "jayati datta-rājya-nyasta-bharatam, kaikeyī-vara-pālana-dīkṣitam... sītā-lakṣmaṇa-saṅgatam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who entrusted the kingdom to Bharata, who was initiated into fulfilling Kaikeyī's boon, and who was accompanied by Sītā and Lakṣmaṇa."
+          }
+        },
+        {
+          "id": "raghuveera-1-6",
+          "verse_number": 6,
+          "original": "जयति दण्डकारण्य-चारिणम्, विराध-राक्षस-विद्रावणम्... शरभङ्ग-सुतीक्ष्ण-मुनि-प्रसाद-लभम् रघुवीरम् ॥",
+          "transliteration": "jayati daṇḍakāraṇya-cāriṇam, virādha-rākṣasa-vidrāvaṇam... śarabhaṅga-sutīkṣṇa-muni-prasāda-labham raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who traversed the Daṇḍaka forest, who vanquished the demon Virādha, and who obtained the grace of the sages Śarabhaṅga and Sutīkṣṇa."
+          }
+        },
+        {
+          "id": "raghuveera-1-7",
+          "verse_number": 7,
+          "original": "जयति गोदावरी-तीर-कुटीर-वासिनम्, पञ्चवटी-स्थ-शूर्पणखा-विदारणम्... खर-दूषण-त्रिशिर-प्रभृति-वध-भीकरम् रघुवीरम् ॥",
+          "transliteration": "jayati godāvarī-tīra-kuṭīra-vāsīnam, pañcavaṭī-stha-śūrpaṇakhā-vidāraṇam... khara-dūṣaṇa-triśira-prabhṛti-vadha-bhīkaram raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who dwelled in a hut on the banks of the Godāvarī, who mutilated Śūrpaṇakhā at Pañcavaṭī, and who was terrifying in his slaying of Khara, Dūṣaṇa, Triśira, and others."
+          }
+        },
+        {
+          "id": "raghuveera-1-8",
+          "verse_number": 8,
+          "original": "जयति मारीच-माया-मृग-मोहन-विद्रावणम्, सीता-अपहरण-खेद-सन्तप्तम्... कबन्ध-शाप-मोक्ष-दान-दक्षम् रघुवीरम् ॥",
+          "transliteration": "jayati mārīca-māyā-mṛga-mohana-vidrāvaṇam, sītā-apaharaṇa-kheda-santaptam... kabandha-śāpa-mokṣa-dāna-dakṣam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who put to flight the illusion of the golden deer (Mārīca), who was afflicted with sorrow over Sītā’s abduction, and who was skilled in granting release from the curse to Kabandha."
+          }
+        },
+        {
+          "id": "raghuveera-1-9",
+          "verse_number": 9,
+          "original": "जयति शबरी-प्रणाम-प्रसन्नम्, हनुमान्-सुग्रीव-मित्र-करणम्... वāli-निग्रह-धार्मिकम् रघुवीरम् ॥",
+          "transliteration": "jayati śabarī-praṇāma-prasannam, hanumān-sugrīva-mitra-karaṇam... vāli-nigraha-dhārmikam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who was pleased by the obeisance of Śabarī, who established friendship with Hanumān and Sugrīva, and who was righteous in punishing Vāli."
+          }
+        },
+        {
+          "id": "raghuveera-1-10",
+          "verse_number": 10,
+          "original": "जयति वर्षा-काल-विश्रान्तम्, प्रोषिता-सीता-सन्दृष्टि-कृत-प्रतिज्ञम्... हनुमान्-वीर्य-प्रशंसन-तुष्टम् रघुवीरम् ॥",
+          "transliteration": "jayati varṣā-kāla-viśrāntam, proṣitā-sītā-sandṛṣṭi-kṛta-pratijñam... hanumān-vīrya-praśaṁsana-tuṣṭam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who rested during the rainy season, who vowed to find the separated Sītā, and who was delighted by praising the valor of Hanumān."
+          }
+        },
+        {
+          "id": "raghuveera-1-11",
+          "verse_number": 11,
+          "original": "जयति सागर-तीर-कृत-मन्त्र-वीथिम, विभीषण-शरण-प्रदान-धार्मिकम्... समुद्र-जल-बन्धन-वीर्यम् रघुवीरम् ॥",
+          "transliteration": "jayati sāgara-tīra-kṛta-mantra-vīthīma, vibhīṣaṇa-śaraṇa-pradāna-dhārmikam... samudra-jala-bandhana-vīryam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who conducted the sacred counsel on the seashore, who was righteous in granting refuge to Vibhīṣaṇa, and whose valor bound the waters of the ocean."
+          }
+        },
+        {
+          "id": "raghuveera-1-12",
+          "verse_number": 12,
+          "original": "जयति सेतु-बन्ध-संस्थापकम्, लङ्का-विजय-उद्यतम्... धूम्राक्ष-अकम्पन-मेघनाद-प्रभृति-हन्तारम् रघुवीरम् ॥",
+          "transliteration": "jayati setu-bandha-saṁsthāpakam, laṅkā-vijaya-udyatam... dhūmrākṣa-akampana-meghanāda-prabhṛti-hantāram raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, the establisher of the bridge (Setu), who was ready for the conquest of Laṅkā, and the killer of Dhūmrākṣa, Akampana, Meghanāda (Indrajit), and others."
+          }
+        },
+        {
+          "id": "raghuveera-1-13",
+          "verse_number": 13,
+          "original": "जयति कुम्भकर्ण-निकुम्भ-वध-हर्षितम्, रावण-शिरश्छेद-महा-पराक्रमम्... मन्दोदरी-पति-शोकावहम् रघुवीरम् ॥",
+          "transliteration": "jayati kumbhakarṇa-nikumbha-vadha-harṣitam, rāvaṇa-śiraścheda-mahā-parākramam... mandodarī-pati-śokāvaham raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who was delighted by the killing of Kumbhakarṇa and Nikumbha, whose great valor cut off Rāvaṇa's heads, and who caused sorrow to Mandodarī (Rāvaṇa's wife)."
+          }
+        },
+        {
+          "id": "raghuveera-1-14",
+          "verse_number": 14,
+          "original": "जयति सीता-पातिव्रत्य-शुद्धि-लब्ध-प्रमोदम्, विभीषण-राज्य-प्रदान-दीक्षितम्... पुष्पक-विमान-आरोहण-सुखम् रघुवीरम् ॥",
+          "transliteration": "jayati sītā-pātivratya-śuddhi-labdha-pramodam, vibhīṣaṇa-rājya-pradāna-dīkṣitam... puṣpaka-vimāna-ārōhaṇa-sukham raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who attained joy upon the establishment of Sītā's chastity (Pātivratya), who was consecrated to grant the kingdom to Vibhīṣaṇa, and who enjoyed the comfort of ascending the Puṣpaka aircraft."
+          }
+        },
+        {
+          "id": "raghuveera-1-15",
+          "verse_number": 15,
+          "original": "जयति भरत-प्रीति-प्रशंसनम्, किष्किन्धा-लङ्का-रक्षणा-रक्षण-वचन-बद्धम्... अयोध्या-पुरी-प्रवेश-महा-उत्सवम् रघुवीरम् ॥",
+          "transliteration": "jayati bharata-prīti-praśaṁsanam, kiṣkindhā-laṅkā-rakṣaṇā-rakṣaṇa-vacana-baddham... ayodhyā-purī-praveśa-mahā-utsavam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who was lauded for his love by Bharata, who was bound by the promise to protect Kiṣkindhā and Laṅkā, and who presided over the grand festival of entering the city of Ayodhyā."
+          }
+        },
+        {
+          "id": "raghuveera-1-16",
+          "verse_number": 16,
+          "original": "जयति वसिष्ठ-प्रभृति-मुनि-जनादि-आशीर्वाद-पात्रम्, सीता-लक्ष्मण-भरत-शत्रुघ्न-परिवृतम्... नन्दिग्राम-अभिषेकम् रघुवीरम् ॥",
+          "transliteration": "jayati vasiṣṭha-prabhṛti-muni-janādi-āśīrvāda-pātram, sītā-lakṣmaṇa-bharata-śatrughna-parivṛtam... nandigrāma-abhiṣekam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, the recipient of blessings from sages like Vasiṣṭha, surrounded by Sītā, Lakṣmaṇa, Bharata, and Śatrughna, and who was crowned at Nandigrāma (before the main coronation)."
+          }
+        },
+        {
+          "id": "raghuveera-1-17",
+          "verse_number": 17,
+          "original": "जयति चतुर्दश-वर्ष-व्रत-पूरण-कृत-सन्तुष्टम्, मुनि-नूतन-उपदेश-लाभम्... सर्व-राज-राजेश्वरम् रघुवीरम् ॥",
+          "transliteration": "jayati caturdaśa-varṣa-vrata-pūraṇa-kṛta-santuṣṭam, muni-nūtana-upadeśa-lābham... sarva-rāja-rājeśvaram raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who was delighted by the completion of his fourteen-year vow, who received new teachings from the sages, and who is the King of all Kings."
+          }
+        },
+        {
+          "id": "raghuveera-1-18",
+          "verse_number": 18,
+          "original": "जयति विश्व-संसार-वृत्त-रक्षा-दक्षम्, अखिल-धर्म-प्रतिष्ठापकम्... आनन्द-सन्धान-सौख्य-लब्धम् रघुवीरम् ॥",
+          "transliteration": "jayati viśva-saṁsāra-vṛtta-rakṣā-dakṣam, akhila-dharma-pratiṣṭhāpakam... ānanda-sandhāna-saukhya-labdham raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who is skilled in protecting the cycle of the entire universe, the establisher of all righteous principles (Dharma), and who attained the happiness that is the union with supreme bliss."
+          }
+        },
+        {
+          "id": "raghuveera-1-19",
+          "verse_number": 19,
+          "original": "जयति सीता-देवी-कटाक्ष-विलसितम्, लक्ष्मी-समेतम्... चतुर्-विध-पुरुषार्थ-प्रदम् रघुवीरम् ॥",
+          "transliteration": "jayati sītā-devī-kaṭākṣa-vilasitam, lakṣmī-sametam... catur-vidha-puruṣārtha-pradam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, who shines with the side-glance of Goddess Sītā, who is united with Lakshmī, and who grants the four kinds of human endeavors (Dharma, Artha, Kāma, Mokṣa)."
+          }
+        },
+        {
+          "id": "raghuveera-1-20",
+          "verse_number": 20,
+          "original": "जयति अनन्त-ब्रह्माण्ड-रक्षणम्, अयोध्या-पुर्या-जन-पालकम्... अखिल-वैभव-साम्राज्य-पूजितम् रघुवीरम् ॥",
+          "transliteration": "jayati ananta-brahmāṇḍa-rakṣaṇam, ayodhyā-puryā-jana-pālakam... akhila-vaibhava-sāmrājya-pūjitam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, the protector of infinite universes, the guardian of the people of Ayodhyā, and who is worshipped by the entire empire of prosperity."
+          }
+        },
+        {
+          "id": "raghuveera-1-21",
+          "verse_number": 21,
+          "original": "जयति दाशरथिं रामम्... पर-ब्रह्म-रूपम्, धर्म-स्थापकम्, अखिल-लोक-रक्षकम् रघुवीरम् ॥",
+          "transliteration": "jayati dāśarathiṁ rāmam... para-brahma-rūpam, dharma-sthāpakam, akhila-loka-rakṣakam raghuvīram ||",
+          "translations": {
+            "english": "Victory to Rāma, the son of Daśaratha, who is the form of the Supreme Brahman, the establisher of Dharma, and the protector of all worlds."
+          }
+        },
+        {
+          "id": "raghuveera-1-22",
+          "verse_number": 22,
+          "original": "जयति राज-राजेश्वरम् रामभद्रम्, सीता-हृदय-कमल-विहारिणम्... नित्य-कल्याण-गुण-शालीम् रघुवीरम् ॥",
+          "transliteration": "jayati rāja-rājeśvaram rāmabhadram, sītā-hṛdaya-kamala-vihāriṇam... nitya-kalyāṇa-guṇa-śālīm raghuvīram ||",
+          "translations": {
+            "english": "Victory to Rāmabhadra, the King of Kings, who sports in the lotus heart of Sītā, and who is endowed with eternally auspicious qualities."
+          }
+        },
+        {
+          "id": "raghuveera-1-23",
+          "verse_number": 23,
+          "original": "जयति वीर-वरम्, श्री-वैकुण्ठ-नाथम्, अपरिच्छिन्न-आनन्द-स्वरूपम्... सत्य-ज्ञानानन्द-घनाम् रघुवीरम् ॥",
+          "transliteration": "jayati vīra-varam, śrī-vaikuṇṭha-nātham, aparicchinna-ānanda-svarūpam... satya-jñānānanda-ghanām raghuvīram ||",
+          "translations": {
+            "english": "Victory to the foremost hero, the Lord of Śrī Vaikuṇṭha, whose nature is boundless bliss, and who is the embodiment of truth, knowledge, and bliss (Sat-Cit-Ānanda)."
+          }
+        },
+        {
+          "id": "raghuveera-1-24",
+          "verse_number": 24,
+          "original": "जयति त्रयी-सङ्गतम्, सर्व-वेदान्त-सारम्, लक्ष्मीनारायणम्... रामचन्द्र-मूर्तिम् रघुवीरम् ॥",
+          "transliteration": "jayati trayī-saṅgatam, sarva-vedānta-sāram, lakṣmīnārāyaṇam... rāmacandra-mūrtim raghuvīram ||",
+          "translations": {
+            "english": "Victory to Raghuveera, the embodiment of the three Vedas, the essence of all Vedānta, the form of Lakṣmīnārāyaṇa, the divine image of Rāmacandra."
+          }
+        },
+        {
+          "id": "raghuveera-1-25",
+          "verse_number": 25,
+          "original": "जयति सीता-पति-कल्याणम्, नित्यम् नित्यम् मङ्गळम्... श्रीमान् वेङ्कटनाथार्य-रचितम् रघुवीर-गद्यम् ॥",
+          "transliteration": "jayati sītā-pati-kalyāṇam, nityam nityam maṅgaḷam... śrīmān veṅkaṭanāthārya-racitam raghuvīra-gadyam ||",
+          "translations": {
+            "english": "Victory to the welfare of the Lord of Sītā, eternal and ever auspicious; thus ends the Raghuveera Gadyam composed by the venerable Veṅkaṭanāthārya (Vedānta Deśika)."
+          }
+        },
+        {
+          "id": "raghuveera-1-26",
+          "verse_number": 26,
+          "original": "इति श्रीमद्-वेदान्त-देशिक-विरचितं\nश्रीमद्-रघुवीर-गद्यं सम्पूर्णम् ।\nफलश्रुति: य: इदम् नित्यम् पठति स: सर्वान् कामान् अवाप्नोति ।",
+          "transliteration": "iti śrīmad-vedānta-deśika-viracitaṁ\nśrīmad-raghuvīra-gadyaṁ sampūrṇam |\nphalaśruti: ya: idam nityam paṭhati sa: sarvān kāmān avāpnōti |",
+          "translations": {
+            "english": "Thus ends the glorious Raghuveera Gadyam composed by the illustrious Vedānta Deśika. (Phalaśruti - Benefit of Recitation): He who recites this daily attains all his desires."
+          }
+        }
+      ]
+    }
+  ]
+}

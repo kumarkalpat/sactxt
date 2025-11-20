@@ -185,5 +185,16 @@
     "audioSource": "Bala Murali - Archive.org",
     "path": "kanakadhara-stotram.json",
     "coverImage": "images/kanakadhara-stotram.png"
+  },
+  {
+    "id": "ganesha-pancharatnam",
+    "title": "Ganesha Pancharatnam Stotram",
+    "author": "Ādi Śaṅkarācārya",
+    "introduction": "The Ganesha Pancharatnam is a highly revered devotional hymn composed by the great philosopher and saint, Ādi Śaṅkarācārya, in praise of Lord Gaṇeśa (Vināyaka). This short, powerful stotram consists of five main verses (Pañcaratna, or five jewels) and a concluding verse (Phalaśruti). It beautifully encapsulates the form, attributes, and protective power of Gaṇeśa, the remover of obstacles, and is chanted daily by devotees to invoke success, prosperity, and spiritual realization.",
+    "total_verses": 6,
+    "audioUrl": "https://music.youtube.com/watch?v=KZJUo7D6yNs&si=dLzrUSrNuAa6moG7",
+    "audioSource": "MS Subbulakshmi and Radha Viswanathan - Youtube Music",
+    "path": "ganesha-pancharatnam.json",
+    "coverImage": "images/ganesha-pancharatnam.png"
   }
 ]

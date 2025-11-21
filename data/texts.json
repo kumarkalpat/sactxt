@@ -218,5 +218,12 @@
     "audioSource": "ISKCON Bangalore - Youtube Music",
     "path": "narasimha-kavacham.json",
     "coverImage": "images/narasimha.jpg"
+  },
+  {
+    "id": "bhajans",
+    "title": "Bhajans",
+    "author": "Various Artists)",
+    "introduction": "Bhajans by Various Artists",
+    "coverImage": "images/x.png"
   }
 ]

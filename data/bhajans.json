@@ -3,17 +3,21 @@
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "Bhajan Radio",
-      "audioUrl": "https://music.youtube.com/playlist?list=RDATfgYmhhamFucw&playnext=1&si=bMPrqqXP8jZnQuu_",
-      "audioSource":"Youtube Music",
-      "verses": []
-    },
-    {
-      "chapter_number": 1,
-      "name": "Jagjit Singh - Jukebox",
-      "audioUrl": "https://music.youtube.com/watch?v=GIJY5luxres&si=TagtiyLBqhzeuY95",
-      "audioSource":"Youtube Music",
-      "verses": []
+      "name": "Bhajans"
+      "verses": [
+          {
+          "id": "bhajans-1",
+          "verse_number": 1,
+          "audioUrl": "https://music.youtube.com/playlist?list=RDATfgYmhhamFucw&playnext=1&si=bMPrqqXP8jZnQuu_",
+          "audioSource":"Bhajan Radio - Youtube Music"
+          },
+          {
+          "id": "bhajans-2",
+          "verse_number": 2,
+          "audioUrl": "https://music.youtube.com/watch?v=GIJY5luxres&si=TagtiyLBqhzeuY95",
+          "audioSource":"Jagjit Singh - Jukebox - Youtube Music"
+          }
+      ]
     }
   ]
 }

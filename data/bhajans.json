@@ -5,13 +5,15 @@
       "chapter_number": 1,
       "name": "Bhajan Radio",
       "audioUrl": "https://music.youtube.com/playlist?list=RDATfgYmhhamFucw&playnext=1&si=bMPrqqXP8jZnQuu_",
-      "audioSource":"Youtube Music"
+      "audioSource":"Youtube Music",
+      "verses": []
     },
     {
       "chapter_number": 1,
       "name": "Jagjit Singh - Jukebox",
       "audioUrl": "https://music.youtube.com/watch?v=GIJY5luxres&si=TagtiyLBqhzeuY95",
-      "audioSource":"Youtube Music"
+      "audioSource":"Youtube Music",
+      "verses": []
     }
   ]
 }

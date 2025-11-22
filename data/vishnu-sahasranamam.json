@@ -1,0 +1,619 @@
+{
+  "id": "vishnu-sahasranamam",
+  "title": "Sri Vishnu Sahasranama Stotram",
+  "author": "Sage Vyasa",
+  "introduction": "The Sri Vishnu Sahasranama Stotram (The Hymn of a Thousand Names of Vishnu) is one of the most sacred and revered hymns in Hinduism. It is a list of 1,000 names of Vishnu, one of the main deities in Hinduism and the Supreme Being in Vaishnavism. The most popular version of the Vishnu Sahasranama is found in the Anushasana Parva (Chapter 149) of the ancient Indian epic, the Mahabharata.\n\nThe hymn is traditionally attributed to Sage Vyasa, the legendary author of the Mahabharata. It originates in the context of the Kurukshetra war, where Yudhishthira, the eldest of the Pandavas, seeks spiritual guidance from Bhishma Pitamaha, who lies on a bed of arrows. Yudhishthira asks Bhishma: 'Who is the one supreme God in the world? Who is the one supreme refuge for all? By praising whom can humans attain auspiciousness? What is the greatest Dharma among all dharmas? By chanting what can a living being be freed from the bondage of samsara (cycle of birth and death)?'\n\nBhishma responds by reciting the thousand names of Lord Vishnu, extolling His divine qualities, attributes, and actions. Each name in the Sahasranama encapsulates a profound philosophical meaning, describing Vishnu's omnipresence, omnipotence, benevolence, and various cosmic roles. Chanting these names is believed to confer immense spiritual and material benefits, including peace of mind, freedom from fear, purification from sins, and ultimate liberation (moksha).",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "name": "Vishnu Sahasranamam",
+      "summary": "This chapter contains the complete Sri Vishnu Sahasranama Stotram, including the preliminary meditation verses (Dhyana Shlokas), the Purva Peethika (introductory dialogue between Yudhishthira and Bhishma), the 108 main verses listing the thousand names of Lord Vishnu, and the Uttara Peethika (Phala Shruti or concluding verses that describe the merits of chanting).",
+      "verses_count": 142,
+      "verses": [
+        {
+          "id": "vishnu-sahasranamam-1-1",
+          "verse_number": 1,
+          "original": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् ।\nप्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥ १ ॥",
+          "transliteration": "śuklāmbaradharaṁ viṣṇuṁ śaśivarṇaṁ caturbhujam |\nprasannavadanaṁ dhyāyet sarvavighnopāśāntaye || 1 ||",
+          "translations": {
+            "english": "Clad in white, O Vishnu, resplendent like the moon, with four arms, I meditate on your ever-smiling face for the removal of all obstacles."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-2",
+          "verse_number": 2,
+          "original": "यस्य द्विरदवक्त्राद्याः पारिषद्याः परः शतम् ।\nविघ्नं निघ्नन्ति सततं विश्वक्सेनं तमाश्रये ॥ २ ॥",
+          "transliteration": "yasya dviradavaktrādyāḥ pāriṣadyāḥ paraḥ śatam |\nvighnaṁ nighnanti satataṁ viṣvaksenaṁ tamāśraye || 2 ||",
+          "translations": {
+            "english": "I take refuge in Vishvaksena, whose attendants, headed by Ganesha (the elephant-faced one), constantly remove all obstacles."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-3",
+          "verse_number": 3,
+          "original": "व्यासंवसिष्ठनप्तारं शक्तेः पौत्रमकल्मषम् ।\nपराशरात्मजं वन्दे शुकतातं तपोनिधिम् ॥ ३ ॥",
+          "transliteration": "vyāsaṁ vasiṣṭhanaptāraṁ śakteḥ pautramakalmaṣam |\nparāśarātmajaṁ vande śukatātaṁ taponidhim || 3 ||",
+          "translations": {
+            "english": "I bow to Vyasa, the great-grandson of Vasishtha, grandson of Shakti, blemishless, son of Parashara, father of Shuka, and a treasure house of penance."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-4",
+          "verse_number": 4,
+          "original": "व्यासाय विष्णुरूपाय व्यासरूपाय विष्णवे ।\nनमो वै ब्रह्मनिधये वासिष्ठाय नमो नमः ॥ ४ ॥",
+          "transliteration": "vyāsāya viṣṇurūpāya vyāsarūpāya viṣṇave |\nnamo vai brahmanidhaye vāsiṣṭhāya namo namaḥ || 4 ||",
+          "translations": {
+            "english": "Salutations to Vyasa, who is in the form of Vishnu, and to Vishnu, who is in the form of Vyasa. Salutations again and again to that treasure of Brahman, the descendant of Vasishtha."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-5",
+          "verse_number": 5,
+          "original": "अविकाराय शुद्धाय नित्याय परमात्मने ।\nसदैकरूपरूपाय विष्णवे सर्वजिष्णवे ॥ ५ ॥",
+          "transliteration": "avikārāya śuddhāya nityāya paramātmane |\nsadaikarūparūpāya viṣṇave sarvajiṣṇave || 5 ||",
+          "translations": {
+            "english": "To Vishnu, who is changeless, pure, eternal, the Supreme Soul, whose form is always one and who is victorious over all."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-6",
+          "verse_number": 6,
+          "original": "यस्य स्मरणमात्रेण जन्मसंसारबन्धनात् ।\nविमुच्यते नमस्तस्मै विष्णवे प्रभविष्णवे ॥ ६ ॥",
+          "transliteration": "yasya smaraṇamātreṇa janmasaṁsārabandhanāt |\nvimucyate namastasmai viṣṇave prabhaviṣṇave || 6 ||",
+          "translations": {
+            "english": "Salutations to that all-powerful Vishnu, by merely remembering whom one is freed from the bonds of birth and worldly existence."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-7",
+          "verse_number": 7,
+          "original": "ओम् नमो विष्णवे प्रभविष्णवे ॥\nश्रीवैशम्पायन उवाच |\nश्रुत्वा धर्मानशेषेण पावनानि च सर्वशः |\nयुधिष्ठिरः शान्तनवं पुनरेवाभ्यभाषत ॥ ७ ॥",
+          "transliteration": "om namo viṣṇave prabhaviṣṇave ||\nśrīvaiśampāyana uvāca |\nśrutvā dharmānaśeṣeṇa pāvanāni ca sarvaśaḥ |\nyudhiṣṭhiraḥ śāntanavaṁ punarevābhyabhāṣata || 7 ||",
+          "translations": {
+            "english": "Om, Salutations to the all-powerful Vishnu. Vaishampayana said: Having heard all the sacred dharmas (duties), Yudhishthira again addressed Bhishma, the son of Shantanu."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-8",
+          "verse_number": 8,
+          "original": "युधिष्ठिर उवाच |\nकिमेकं दैवतं लोके किं वाप्येकं परायणम् |\nस्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाः शुभम् ॥ ८ ॥",
+          "transliteration": "yudhiṣṭhira uvāca |\nkimekaṁ daivataṁ loke kiṁ vāpyekaṁ parāyaṇam |\nstuvantaḥ kaṁ kamarcantaḥ prāpnuyurmānavāḥ śubham || 8 ||",
+          "translations": {
+            "english": "Yudhishthira asked: Who is the one supreme deity in the world? Who is the one supreme refuge for all? By praising whom and worshipping whom can humans attain auspiciousness?"
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-9",
+          "verse_number": 9,
+          "original": "को धर्मः सर्वधर्माणां भवतः परमो मतः |\nकिं जपन्र्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९ ॥",
+          "transliteration": "ko dharmaḥ sarvadharmāṇāṁ bhavataḥ paramo mataḥ |\nkiṁ japanmucchyate janturjanmasaṁsārabandhanāt || 9 ||",
+          "translations": {
+            "english": "What, in your opinion, is the greatest Dharma among all dharmas? By chanting what can a living being be freed from the bondage of birth and worldly existence?"
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-10",
+          "verse_number": 10,
+          "original": "श्रीभीष्म उवाच |\nजगतः प्रभुं देवदेवमनन्तं पुरुषोत्तमम् |\nस्तुवन्नामसहस्रेण पुरुषः सततोत्थितः ॥ १० ॥",
+          "transliteration": "śrībhīṣma uvāca |\njagataḥ prabhuṁ devadevamanantaṁ puruṣottamam |\nstuvannāmasahasreṇa puruṣaḥ satatotthitaḥ || 10 ||",
+          "translations": {
+            "english": "Sri Bhishma said: By always praising with a thousand names the Lord of the universe, the God of gods, the endless, the Supreme Purusha, a person becomes exalted."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-11",
+          "verse_number": 11,
+          "original": "तमेव चार्चयन्नित्यं भक्त्या पुरुषमव्ययम् |\nध्यायन् स्तुवन्नमस्यंश्च यजमानस्तमेव च ॥ ११ ॥",
+          "transliteration": "tameva cārcayannityaṁ bhaktyā puruṣamavyayam |\ndhyāyan stuvannamasyaṁśca yajamānastameva ca || 11 ||",
+          "translations": {
+            "english": "By constantly worshipping with devotion that imperishable Purusha, by meditating, praising, bowing, and performing sacrifices to Him alone."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-12",
+          "verse_number": 12,
+          "original": "अनादिनिधनं विष्णुं सर्वलोकमहेश्वरम् |\nलोकाध्यक्षं स्तुवन्नित्यं सर्वदुःखातिगो भवेत् ॥ १२ ॥",
+          "transliteration": "anādinidhanaṁ viṣṇuṁ sarvalokamaheśvaram |\nlokādhyakṣaṁ stuvannityaṁ sarvaduḥkhātigo bhavet || 12 ||",
+          "translations": {
+            "english": "By always praising Vishnu, who has no beginning or end, the great Lord of all worlds, the supervisor of the worlds, one will transcend all sorrows."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-13",
+          "verse_number": 13,
+          "original": "ब्रह्मण्यं सर्वधर्मज्ञं लोकानां कीर्तिवर्धनम् |\nलोकनाथं महाभूतं सर्वभूतभवोद्भवम् ॥ १३ ॥",
+          "transliteration": "brahmaṇyaṁ sarvadharmajñaṁ lokānāṁ kīrtivardhanam |\nlokanāthaṁ mahābhūtaṁ sarvabhūtabhavodbhavam || 13 ||",
+          "translations": {
+            "english": "He who is benevolent to Brahmanas, who knows all Dharmas, who increases the fame of people, the Lord of the worlds, the great being, the source of existence of all beings."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-14",
+          "verse_number": 14,
+          "original": "एष मे सर्वधर्माणां धर्मोऽधिकतमो मतः |\nयद्भक्त्या पुण्डरीकाक्षं स्तवैरर्चेन्नरः सदा ॥ १४ ॥",
+          "transliteration": "eṣa me sarvadharmāṇāṁ dharmo'dhikatamo mataḥ |\nyadbhaktyā puṇḍarīkākṣaṁ stavairecennaraḥ sadā || 14 ||",
+          "translations": {
+            "english": "This, in my opinion, is the highest Dharma among all dharmas: that a person always worships the lotus-eyed Lord with devotion and praises."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-15",
+          "verse_number": 15,
+          "original": "परमं यो महत्तेजः परमं यो महत्तपः |\nपरमं यो महद्ब्रह्म परमं यः परायणम् ॥ १५ ॥",
+          "transliteration": "paramaṁ yo mahattejaḥ paramaṁ yo mahattapaḥ |\nparamaṁ yo mahadbrahma paramaṁ yaḥ parāyaṇam || 15 ||",
+          "translations": {
+            "english": "He who is the supreme great effulgence, who is the supreme great penance, who is the supreme great Brahman, who is the supreme refuge."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-16",
+          "verse_number": 16,
+          "original": "पवित्राणां पवित्रं यो मङ्गलानां च मङ्गलम् |\nदैवतं देवतानां च भूतानां योऽव्ययः पिता ॥ १६ ॥",
+          "transliteration": "pavitrāṇāṁ pavitraṁ yo maṅgalānāṁ ca maṅgalam |\ndaivataṁ devatānāṁ ca bhūtānāṁ yo'vyayaḥ pitā || 16 ||",
+          "translations": {
+            "english": "He who is the sanctity of all sacred things, the auspiciousness of all auspicious things, the God of gods, and the imperishable father of all beings."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-17",
+          "verse_number": 17,
+          "original": "यतः सर्वाणि भूतानि भवन्त्यादियुगागमे |\nयस्मिंश्च प्रलयं यान्ति पुनरेव युगक्षये ॥ १७ ॥",
+          "transliteration": "yataḥ sarvāṇi bhūtāni bhavantyādiyugāgame |\nyasmiṁśca pralayaṁ yānti punareva yugakṣaye || 17 ||",
+          "translations": {
+            "english": "From whom all beings originate at the beginning of the yuga (cycle of ages), and into whom they dissolve again at the end of the yuga."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-18",
+          "verse_number": 18,
+          "original": "तस्य लोकप्रधानस्य जगन्नाथस्य भूपते |\nविष्णोर्नामसहस्रं मे शृणु पापहरं शुभम् ॥ १८ ॥",
+          "transliteration": "tasya lokapradhānasya jagannāthasya bhūpate |\nviṣṇornāmasahasraṁ me śṛṇu pāpaharaṁ śubham || 18 ||",
+          "translations": {
+            "english": "O King, hear from me the thousand names of that supreme being, the Lord of the worlds, Vishnu, which remove sins and bring auspiciousness."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-19",
+          "verse_number": 19,
+          "original": "विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः |\nभूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः ॥ १ ॥",
+          "transliteration": "viśvaṁ viṣṇurvaṣaṭkāro bhūtabhavyabhavatprabhuḥ |\nbhūtakṛdbhūtabhṛdbhāvo bhūtātmā bhūtabhāvanaḥ || 1 ||",
+          "translations": {
+            "english": "The universe, The pervader, The one for whom sacrificial hymns are uttered, Lord of past, present, and future. Creator of beings, Supporter of beings, Pure existence, Soul of beings, Promoter of beings."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-20",
+          "verse_number": 20,
+          "original": "पूतात्मा परमात्मा च मुक्तानां परमा गतिः |\nअव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥ २ ॥",
+          "transliteration": "pūtātmā paramātmā ca muktānāṁ paramā gatiḥ |\navyayaḥ puruṣaḥ sākṣī kṣetrajño'kṣara eva ca || 2 ||",
+          "translations": {
+            "english": "Pure-souled, Supreme Soul, Supreme goal of liberated ones, Imperishable, Purusha (cosmic being), Witness, Knower of the field (body), Imperishable one."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-21",
+          "verse_number": 21,
+          "original": "योगो योगविदां नेता प्रधानपुरुषेश्वरः |\nनारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥ ३ ॥",
+          "transliteration": "yogo yogavidāṁ netā pradhānapuruṣeśvaraḥ |\nnārasiṁhavapuḥ śrīmān keśavaḥ puruṣottamaḥ || 3 ||",
+          "translations": {
+            "english": "Yoga, Leader of those who know Yoga, Lord of Pradhana (Prakriti) and Purusha, Having the form of Narasimha, Glorious, Having beautiful hair, Supreme Purusha."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-22",
+          "verse_number": 22,
+          "original": "सर्वः शर्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः |\nसंभवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥ ४ ॥",
+          "transliteration": "sarvaḥ śarvaḥ śivaḥ sthāṇurbhūtādirnidhiravyayaḥ |\nsaṁbhavo bhāvano bhartā prabhavaḥ prabhurīśvaraḥ || 4 ||",
+          "translations": {
+            "english": "All, Destroyer, Auspicious, Immovable, Origin of beings, Imperishable treasure, Well-born, Creator, Sustainer, Origin, Lord, Controller."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-23",
+          "verse_number": 23,
+          "original": "स्वयम्भूः शम्भुरादित्यः पुष्कराक्षो महास्वनः |\nअनादिनिधनो धाता विधाता धातुरुत्तमः ॥ ५ ॥",
+          "transliteration": "svayambhūḥ śambhūrādityaḥ puṣkarākṣo mahāsvanaḥ |\nanādinidhano dhātā vidhātā dhāturuttamaḥ || 5 ||",
+          "translations": {
+            "english": "Self-existent, Giver of happiness, Sun, Lotus-eyed, Great sound, Without beginning or end, Supporter, Creator, Supreme supporter."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-24",
+          "verse_number": 24,
+          "original": "अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः |\nविश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥ ६ ॥",
+          "transliteration": "aprameyo hṛṣīkeśaḥ padmanābho'maraprabhuḥ |\nviśvakarmā manustvaṣṭā sthaviṣṭhaḥ sthaviro dhruvaḥ || 6 ||",
+          "translations": {
+            "english": "Immeasurable, Lord of senses, Lotus-navelled, Lord of immortals, Creator of the universe, Thinker, Fashioner, Most bulky, Ancient, Constant."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-25",
+          "verse_number": 25,
+          "original": "अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्दनः |\nप्रभूतस्त्रिककुब्धामा पवित्रं मङ्गलं परम् ॥ ७ ॥",
+          "transliteration": "agrāhyaḥ śāśvataḥ kṛṣṇo lohitākṣaḥ pratardanaḥ |\nprabhūtastrikakubdhāmā pavitraṁ maṅgalaṁ param || 7 ||",
+          "translations": {
+            "english": "Ungraspable, Eternal, Dark-complexioned, Red-eyed, Destroyer, Abundant, Abode of the three regions, Pure, Supremely auspicious."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-26",
+          "verse_number": 26,
+          "original": "ईशानः प्राणदः प्राणो ज्येष्ठः श्रेष्ठः प्रजापतिः |\nहिरण्यगर्भो भूगर्भो माधवो मधुसूदनः ॥ ८ ॥",
+          "transliteration": "īśānaḥ prāṇadaḥ prāṇo jyeṣṭhaḥ śreṣṭhaḥ prajāpatiḥ |\nhiraṇyagarbho bhūgarbho mādhvo madhusūdanaḥ || 8 ||",
+          "translations": {
+            "english": "Controller, Giver of life, Life (force), Eldest, Most excellent, Lord of creation, Golden-wombed, Having the earth within, Consort of Lakshmi, Destroyer of Madhu."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-27",
+          "verse_number": 27,
+          "original": "ईश्वरो विक्रमी धन्वी मेधावी विक्रमः क्रमः |\nअनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान् ॥ ९ ॥",
+          "transliteration": "īśvaro vikramī dhanvī medhāvī vikramaḥ kramaḥ |\nanuttamo durādharṣaḥ kṛtajñaḥ kṛtirātmavān || 9 ||",
+          "translations": {
+            "english": "Lord, Valiant, Archer, Intelligent, Valorous, Order, Unequalled, Unassailable, Knower of कृत (what has been done by Jivas), Action (personified), Self-possessed."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-28",
+          "verse_number": 28,
+          "original": "सुरेशः शरणं शर्म विश्वरेताः प्रजाभवः |\nअहः संवत्सरो व्यालः प्रत्ययः सर्वदर्शनः ॥ १० ॥",
+          "transliteration": "sureśaḥ śaraṇaṁ śarma viśvaretāḥ prajābhavaḥ |\nahaḥ saṁvatsaro vyālaḥ pratyayaḥ sarvadarśanaḥ || 10 ||",
+          "translations": {
+            "english": "Lord of gods, Refuge, Bliss, Seed of the universe, Source of creation, Day, Year, Unfathomable like a serpent, Consciousness, All-seeing."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-29",
+          "verse_number": 29,
+          "original": "अजः सर्वेश्वरः सिद्धः सिद्धिः सर्वादिरच्युतः |\nवृषाकपिरमेयात्मा सर्वयोगविनिःसृतः ॥ ११ ॥",
+          "transliteration": "ajaḥ sarveśvaraḥ siddhaḥ siddhiḥ sarvādiracyutaḥ |\nvṛṣākapiḥ ameyātmā sarvayogaviniḥsṛtaḥ || 11 ||",
+          "translations": {
+            "english": "Unborn, Lord of all, Accomplished, Accomplishment, Origin of all, Immovable, Boar-ape (Showerer of Dharma and joy), Immeasurable self, Free from all attachments."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-30",
+          "verse_number": 30,
+          "original": "वसुर्वसुमनाः सत्यः समात्मा सम्मितः समः |\nअमोघः पुण्डरीकाक्षो वृषकर्मा वृषाकृतिः ॥ १२ ॥",
+          "transliteration": "vasurvasumanāḥ satyaḥ samātmā sammitaḥ samaḥ |\namoghaḥ puṇḍarīkākṣo vṛṣakarmā vṛṣākṛtiḥ || 12 ||",
+          "translations": {
+            "english": "Dweller in all, Pure-minded, Truth, Equal-souled, Measured, Equal, Infallible, Lotus-eyed, One whose actions are righteous, One whose form is Dharma."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-31",
+          "verse_number": 31,
+          "original": "रुद्रो बहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः |\nअमृतः शाश्वतस्थाणुर्वरारोहो महातपाः ॥ १३ ॥",
+          "transliteration": "rudro bahuśirā babhrurviśvayoniḥ śuciśravāḥ |\namṛtaḥ śāśvatasthāṇurvarāroho mahātapāḥ || 13 ||",
+          "translations": {
+            "english": "Destroyer of sorrow, Many-headed, Bearer (of the worlds), Source of the universe, Of pure fame, Immortal, Eternal and firm, Best ascent, Great penance."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-32",
+          "verse_number": 32,
+          "original": "सर्वगः सर्वविद्भानुर्विष्वक्सेनो जनार्दनः |\nवेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः ॥ १४ ॥",
+          "transliteration": "sarvagaḥ sarvavidbhānurviṣvakseno janārdanaḥ |\nvedo vedavidavyaṅgo vedāṅgo vedavit kaviḥ || 14 ||",
+          "translations": {
+            "english": "All-pervading, All-knowing, Luminous, One whose armies are everywhere, Tormentor of wicked people, Veda, Knower of Vedas, Without defects, Part of Vedas, Knower of Vedas, Poet."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-33",
+          "verse_number": 33,
+          "original": "लोकाध्यक्षः सुराध्यक्षो धर्माध्यक्षः कृताकृतः |\nचतुरात्मा चतुर्व्यूहश्चतुर्दंष्ट्रश्चतुर्भुजः ॥ १५ ॥",
+          "transliteration": "lokādhyakṣaḥ surādhyakṣo dharmādhyakṣaḥ kṛtākṛtaḥ |\ncaturātmā caturvyūhaścaturdaṁṣṭraścaturbhujaḥ || 15 ||",
+          "translations": {
+            "english": "Presiding over the worlds, Presiding over gods, Presiding over Dharma, Created and uncreated, Four-souled, Four-formed, Four-tusked, Four-armed."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-34",
+          "verse_number": 34,
+          "original": "भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः |\nअनघो विजयो जेता विश्वयोनिः पुनर्वसुः ॥ १६ ॥",
+          "transliteration": "bhrājiṣṇurbhojanaṁ bhoktā sahiṣṇurjagadādijaḥ |\nanagho vijayo jetā viśvayoniḥ punarvasuḥ || 16 ||",
+          "translations": {
+            "english": "Shining, Food, Enjoyer, Enduring, Born at the beginning of the world, Sinless, Victorious, Conqueror, Source of the universe, Dweller in every form."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-35",
+          "verse_number": 35,
+          "original": "उपद्रवो वामनश्च प्रांशुमोघः शुचिर्जितः |\nअतन्द्रोऽम्रृतः सर्वज्ञो दुर्जयो दुर्तिक्रमः ॥ १७ ॥",
+          "transliteration": "upadravo vāmanaśca prāṁśumoghaḥ śucirjitaḥ |\natandro'mṛtaḥ sarvajño durjayo duratikramaḥ || 17 ||",
+          "translations": {
+            "english": "Calamity (for demons), Dwarf (Vamana avatar), Tall, Fruitful, Pure, Conquered, Indefatigable, Immortal, All-knowing, Invincible, Uncrossable."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-36",
+          "verse_number": 36,
+          "original": "आनन्दो नन्दनो नन्दः सत्यधर्मा त्रिविक्रमः |\nमहर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः ॥ १८ ॥",
+          "transliteration": "ānando nandano nandaḥ satyadharmā trivikramaḥ |\nmaharṣiḥ kapilācāryaḥ kṛtajño medinīpatiḥ || 18 ||",
+          "translations": {
+            "english": "Bliss, Giver of joy, Joy, One whose Dharma is truth, Three-stepped, Great sage, Teacher Kapila, Knower of कृत (what has been done by Jivas), Lord of the Earth."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-37",
+          "verse_number": 37,
+          "original": "त्रिपदस्त्रिदशाध्यक्षो महाशृङ्गः कृतान्तकृत् |\nमहावराहो गोविन्दः सुषेणः कनकाङ्गदी ॥ १९ ॥",
+          "transliteration": "tripadastidaśādhyakṣo mahāśṛṅgaḥ kṛtāntakṛt |\nmahāvarāho govindaḥ suṣeṇaḥ kanakāṅgadī || 19 ||",
+          "translations": {
+            "english": "Three-footed, Lord of the thirty gods, Great-horned, Destroyer of creation, Great Boar, Protector of cows/Earth, Having a good army, Wearing golden armlets."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-38",
+          "verse_number": 38,
+          "original": "गुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः |\nवेधाः स्वाङ्गोऽजितः कृष्णो दृढः सङ्कर्षणोऽच्युतः ॥ २० ॥",
+          "transliteration": "guhyo gambhīro gahano guptaścakragadādharaḥ |\nvedhāḥ svāṅgo'jitaḥ kṛṣṇo dṛḍhaḥ saṅkarṣaṇo'cyutaḥ || 20 ||",
+          "translations": {
+            "english": "Mysterious, Deep, Impenetrable, Hidden, Wielder of discus and mace, Creator, Having His own parts, Unconquered, Dark, Firm, Attractor, Immovable."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-39",
+          "verse_number": 39,
+          "original": "वरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः |\nभगवान् भगहाऽऽनन्दी वनमाली हलायुधः ॥ २१ ॥",
+          "transliteration": "varuṇo vāruṇo vṛkṣaḥ puṣkarākṣo mahāmanāḥ |\nbhagavān bhagahā''nandī vanamālī halāyudhaḥ || 21 ||",
+          "translations": {
+            "english": "Varuna (god of waters), Son of Varuna, Tree, Lotus-eyed, Great-minded, Lord, Destroyer of opulence (for the wicked), Joyful, Wearing forest garland, Wielder of plough."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-40",
+          "verse_number": 40,
+          "original": "आदित्यः सविता सूर्यः खगः पूषा गभस्तिमान् |\nसुवर्णसदृशो भानुर्हिरण्यरेता दिवाकरः ॥ २२ ॥",
+          "transliteration": "ādityaḥ savitā sūryaḥ khagaḥ pūṣā gabhastimān |\nsuvarṇasadṛśo bhānurhiraṇyaretā divākaraḥ || 22 ||",
+          "translations": {
+            "english": "Son of Aditi, Creator, Sun, Traverser of sky, Nourisher, Possessing rays, Golden-hued, Lustrous, Golden-seeded, Day-maker."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-41",
+          "verse_number": 41,
+          "original": "दिवाकरो वसुप्रदो वासुदेवो बृहद्भानुः |\nविश्वात्मा विश्वभोजनः ॥ २३ ॥",
+          "transliteration": "divākaro vasuprado vāsudevo bṛhadbhānuḥ |\nviśvātmā viśvabhojanaḥ || 23 ||",
+          "translations": {
+            "english": "Day-maker, Giver of wealth, Son of Vasudeva, Of great splendor, Soul of the universe, Sustainer of the universe."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-42",
+          "verse_number": 42,
+          "original": "सद्गतिः सत्कृतिः सत्ता सद्भूतिः सत्परायणः |\nशूरसेनो यदुश्रेष्ठः सन्निवासः सुयामुनः ॥ २४ ॥",
+          "transliteration": "sadgatiḥ satkṛtiḥ sattā sadbhūtiḥ satparāyaṇaḥ |\nśūraseno yaduśreṣṭhaḥ sannivāsaḥ suyāmunaḥ || 24 ||",
+          "translations": {
+            "english": "Good path, Good action, Existence, True welfare, Supreme goal, Hero of the army, Best of Yadus, Good abode, One who dwells well on Yamuna."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-43",
+          "verse_number": 43,
+          "original": "भूतावासो वासुदेवः सर्वासुनिलयोऽनलः |\nदर्पहा दर्पदो दृप्तो दुर्धरोऽथापराजितः ॥ २५ ॥",
+          "transliteration": "bhūtāvāso vāsudevaḥ sarvāsunilayo'nalaḥ |\ndarpahā darpado dṛpto durdharo'thāparājitaḥ || 25 ||",
+          "translations": {
+            "english": "Abode of beings, Son of Vasudeva, Abode of all life, Fire, Destroyer of pride, Giver of pride, Proud, Hard to grasp, Undefeated."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-44",
+          "verse_number": 44,
+          "original": "विश्वमूर्तिर्महामूर्तिर्दीप्तमूर्तिरमूर्तिमान् |\nअनेकमूर्तिरव्यक्तः शतपूर्तिः शतक्रिया ॥ २६ ॥",
+          "transliteration": "viśvamūrtirmahāmūrtirdīptamūrtiramūrtimān |\nanekamūrtiravyaktaḥ śatapūrtiḥ śatakriyā || 26 ||",
+          "translations": {
+            "english": "Universal form, Great form, Radiant form, Formless, Many-formed, Unmanifest, Hundred-fold fulfillment, Hundred-fold action."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-45",
+          "verse_number": 45,
+          "original": "महत्तरो महिकोऽर्द्धः महाभूतो महानिधिः |\nकुमुदः कुन्दरः कुन्दः पर्जन्यः पावनोऽनिलः ॥ २७ ॥",
+          "transliteration": "mahattaro mahiko'rddhaḥ mahābhūto mahānidhiḥ |\nkumudaḥ kundaraḥ kundaḥ parjanyaḥ pāvano'nilaḥ || 27 ||",
+          "translations": {
+            "english": "Greater, Earth, Half, Great being, Great treasure, Giver of joy to the earth, Giver of gifts, Pure, Rain-cloud, Purifier, Wind."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-46",
+          "verse_number": 46,
+          "original": "अमृतोऽमृतपुष्पश्च सर्वज्ञः सर्वतोमुखः |\nसुलभः सुव्रतः सिद्धः शत्रुजित् शत्रुतापनः ॥ २८ ॥",
+          "transliteration": "amṛto'mṛtapuṣpaśca sarvajñaḥ sarvatomukhaḥ |\nsulabhaḥ suvataḥ siddhaḥ śatrujit śatrutāpanaḥ || 28 ||",
+          "translations": {
+            "english": "Immortal, Immortal flower, All-knowing, All-facing, Easily attainable, Of good vows, Accomplished, Conqueror of enemies, Scorcher of enemies."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-47",
+          "verse_number": 47,
+          "original": "न्यग्रोधो दुम्बरोऽश्वत्थश्चाणूरान्ध्रनिषूदनः |\nसहस्रार्चिः सप्तजिह्वः सप्तैधाः सप्तवाहनः ॥ २९ ॥",
+          "transliteration": "nyagrodho dumbara'śvatthascāṇūrāndhraniṣūdanaḥ |\nsahasrārcaḥ saptajihvaḥ saptaidhāḥ saptavāhanaḥ || 29 ||",
+          "translations": {
+            "english": "Banyan tree, Fig tree, Peepal tree, Destroyer of Chanura and Andhra (demons), Thousand-rayed, Seven-tongued, Seven-flamed, Seven-vehicled."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-48",
+          "verse_number": 48,
+          "original": "अमूर्तिरनघोऽचिन्त्यो भयकृत् भयनाशनः |\nअणुर्बृहत्कृशः स्थूलो गुणभृन्निर्गुणो महान् ॥ ३० ॥",
+          "transliteration": "amūrtiranagho'cintyo bhayakṛt bhayanāśanaḥ |\naṇurbṛhatkṛśaḥ sthūlo guṇabhṛnnirguṇo mahān || 30 ||",
+          "translations": {
+            "english": "Formless, Sinless, Unthinkable, Creator of fear, Destroyer of fear, Atomic, Great, Slender, Stout, Sustainer of qualities, Without qualities, Great."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-49",
+          "verse_number": 49,
+          "original": "अधृतः स्वधृतः स्वास्यः प्राग्वंशो वंशवर्धनः |\nभारभृत् कथितो योगी योगीशः सर्वकामदः ॥ ३१ ॥",
+          "transliteration": "adhṛtaḥ svadhṛtaḥ svāsyaḥ prāgvaṁśo vaṁśavardhanaḥ |\nbhārakṛt kathito yogī yogīśaḥ sarvakāmadaḥ || 31 ||",
+          "translations": {
+            "english": "Unsupported, Self-supported, Self-mouth, Ancient lineage, Enhancer of lineage, Bearer of burden, Spoken of as a Yogi, Lord of Yogis, Fulfiller of all desires."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-125",
+          "verse_number": 125,
+          "original": "इतीदं कीर्तनीयस्य केशवस्य महात्मनः |\nनाम्नां सहस्रं दिव्यानामशेषेण प्रकीर्तितम् ॥",
+          "transliteration": "itīdaṁ kīrtanīyasya keśavasya mahātmanaḥ |\nnāmnāṁ sahasraṁ divyānāmaśeṣeṇa prakīrtitam ||",
+          "translations": {
+            "english": "Thus, this divine thousand names of the great Kesava, worthy of praise, have been fully recited."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-126",
+          "verse_number": 126,
+          "original": "य इदं शृणुयान्नित्यं यश्चापि परिकीर्तयेत् |\nनाशुभं प्राप्नुयात्किञ्चित्सोऽमुत्रेह च मानवः ॥",
+          "transliteration": "ya idaṁ śṛṇuyānnityaṁ yaścāpi parikīrtayet |\nnāśubhaṁ prāpnuyātkiñcitsomo'treha ca mānavaḥ ||",
+          "translations": {
+            "english": "That human who constantly listens to this, and who also recites it, will not attain any inauspiciousness, either in this world or the next."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-127",
+          "verse_number": 127,
+          "original": "वेदान्तगो ब्राह्मणस्यात् क्षत्रियो विजयी भवेत् |\nवैश्यो धनसमृद्धः स्याच्छूद्रः सुखमवाप्नुयात् ॥",
+          "transliteration": "vedāntago brāhmaṇasyāt kṣatriyo vijayī bhavet |\nvaiśyo dhanasamṛddhaḥ syācchūdraḥ sukhamavāpnuyāt ||",
+          "translations": {
+            "english": "A Brahmana will attain the knowledge of Vedanta; a Kshatriya will become victorious; a Vaishya will become wealthy; and a Shudra will attain happiness."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-128",
+          "verse_number": 128,
+          "original": "धर्मार्थी प्राप्नुयाद्धर्ममर्थार्थी चार्थमाप्नुयात् |\nकामानवाप्नुयात्कामी प्रजार्थी चाप्नुयात्प्रजाम् ॥",
+          "transliteration": "dharmārthī prāpnuyāddharmamarthārthī cārthamāpnuyāt |\nkāmānavāpnuyātkāmī prajārthī cāpnuyāt prajām ||",
+          "translations": {
+            "english": "One who seeks Dharma will attain Dharma; one who seeks wealth will attain wealth; one who desires pleasures will attain pleasures; and one who desires progeny will attain progeny."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-129",
+          "verse_number": 129,
+          "original": "भक्तिमान्यः सदोत्थाय शुचिस्तद्गतमानसः |\nसहस्रं वासुदेवस्य नाम्नामेतत्प्रकीर्तयेत् ॥",
+          "transliteration": "bhaktimānyaḥ sadotthāya śucistadgatamanasaḥ |\nsahasraṁ vāsudevasya nāmnāmetatprakīrtayet ||",
+          "translations": {
+            "english": "That devoted person who, rising early and being pure with a mind fixed on Him, recites these thousand names of Vasudeva."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-130",
+          "verse_number": 130,
+          "original": "यशः प्राप्नोति विपुलं ज्ञातिप्राधान्यमेव च |\nअचलां श्रियमाप्नोति श्रेयः प्राप्नोत्यनुत्तमम् ॥",
+          "transliteration": "yaśaḥ prāpnoti vipulaṁ jñātiprādhānyameva ca |\nacalāṁ śriyamāpnoti śreyaḥ prāpnotyanuttamam ||",
+          "translations": {
+            "english": "He attains great fame, prominence among his kin, unmoving prosperity, and supreme welfare."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-131",
+          "verse_number": 131,
+          "original": "भयं न क्वचिदाप्नोति वीर्यं तेजश्च विन्दति |\nभवत्यरोगो द्युतिमान् बलवान् सुखितो युवा ॥",
+          "transliteration": "bhayaṁ na kvacidāpnoti vīryaṁ tejaśca vindati |\nbhavatyarogo dyutimān balavān sukhito yuvā ||",
+          "translations": {
+            "english": "He never experiences fear anywhere, he gains valor and radiance. He becomes free from disease, luminous, strong, happy, and youthful."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-132",
+          "verse_number": 132,
+          "original": "नरः सन्तप्तपापैस्तु मुच्यते जन्मबन्धनात् |\nज्ञातिमध्यागतो वापि नित्यं भक्तिसमन्वितः ॥",
+          "transliteration": "naraḥ santaptapāpaistu mucyate janmabandhanāt |\njñātimadhyāgato vāpi nityaṁ bhaktisamanvitaḥ ||",
+          "translations": {
+            "english": "A person afflicted by sins is freed from the bonds of birth, even if he is amidst his kinsmen, if he is always endowed with devotion."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-133",
+          "verse_number": 133,
+          "original": "वासुदेवाश्रयो मर्त्यो वासुदेवपरायणः |\nसर्वपापविशुद्धात्मा याति ब्रह्म सनातनम् ॥",
+          "transliteration": "vāsudevāśrayo martyo vāsudevaparāyaṇaḥ |\nsarvapāpaviśuddhātmā yāti brahma sanātanam ||",
+          "translations": {
+            "english": "A mortal who takes refuge in Vasudeva, who is solely devoted to Vasudeva, with a soul purified from all sins, attains the eternal Brahman."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-134",
+          "verse_number": 134,
+          "original": "न वासुदेवभक्तानामशुभं विद्यते क्वचित् |\nजन्ममृत्युजरारोगभयं नैवोपजायते ॥",
+          "transliteration": "na vāsudevabhaktānāmaśubhaṁ vidyate kvacit |\njanmamṛtyujarārogabhayaṁ naivopajāyate ||",
+          "translations": {
+            "english": "For the devotees of Vasudeva, there is never any inauspiciousness. Fear of birth, death, old age, and disease never arises."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-135",
+          "verse_number": 135,
+          "original": "इमं स्तवमधीयानः श्रद्धाभक्तिसमन्वितः |\nयुज्येतात्मसुखक्षान्तिश्रीधृतिस्मृतिकीर्तिभिः ॥",
+          "transliteration": "imaṁ stavamadhīyānaḥ śraddhābhaktisamanvitaḥ |\nyujyetātmasukhakṣāntiśrīdhṛtismṛtikīrtibhiḥ ||",
+          "translations": {
+            "english": "One who studies this hymn, endowed with faith and devotion, will be endowed with inner happiness, patience, prosperity, fortitude, memory, and fame."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-136",
+          "verse_number": 136,
+          "original": "न क्रोधो न च मात्सर्यं न लोभो नाशुभा मतिः |\nभवन्ति कृतपुण्यानां भक्तानां पुरुषोत्तमे ॥",
+          "transliteration": "na krodho na ca mātsaryaṁ na lobho nāśubhā matiḥ |\nbhavanti kṛtapuṇyānāṁ bhaktānāṁ puruṣottame ||",
+          "translations": {
+            "english": "No anger, no envy, no greed, no inauspicious thoughts arise in the meritorious devotees of Purushottama (Vishnu)."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-137",
+          "verse_number": 137,
+          "original": "द्यौः सचन्द्राकसुनक्षत्रा खं दिशो भूर्महोदधिः |\nवासुदेवस्य वीर्येण विधृतानि महात्मनः ॥",
+          "transliteration": "dyauḥ sacandrākasunakṣatrā khaṁ diśo bhūrmahodadhiḥ |\nvāsudevasya vīryeṇa vidhṛtāni mahātmanaḥ ||",
+          "translations": {
+            "english": "The sky with moon, sun, and stars, the firmament, the directions, the earth, and the great oceans – all are sustained by the power of the great Vasudeva."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-138",
+          "verse_number": 138,
+          "original": "ससुरासुरगन्धर्वं सयक्षोरगराक्षसम् |\nजगद्वशे वर्ततेदं कृष्णस्य सचराचरम् ॥",
+          "transliteration": "sasurāsuragandharvaṁ sayakṣoragarākṣasam |\njagadvaśe vartatedaṁ kṛṣṇasya sacarācaram ||",
+          "translations": {
+            "english": "This entire universe, with gods, asuras, gandharvas, yakshas, nagas, and rakshasas, moving and unmoving, is under the control of Krishna."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-139",
+          "verse_number": 139,
+          "original": "इन्द्रियाणि मनो बुद्धिः सत्त्वं तेजो बलं धृतिः |\nवासुदेवात्मकान्याहुः क्षेत्रं क्षेत्रज्ञ एव च ॥",
+          "transliteration": "indriyāṇi mano buddhiḥ sattvaṁ tejo balaṁ dhṛtiḥ |\nvāsudevātmakānyāhuḥ kṣetraṁ kṣetrajña eva ca ||",
+          "translations": {
+            "english": "The senses, mind, intellect, Sattva (goodness), brilliance, strength, fortitude – all these are said to be of the nature of Vasudeva. The field (body) and the knower of the field (soul) are also He."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-140",
+          "verse_number": 140,
+          "original": "सर्वगमाचरः कृष्णः सर्वलोकनमस्कृतः |\nअस्माकं वर्तते नित्यं वासुदेवः सदागतिः ॥",
+          "transliteration": "sarvagamācaraḥ kṛṣṇaḥ sarvalokanamaskṛtaḥ |\nasmākaṁ vartate nityaṁ vāsudevaḥ sadāgatiḥ ||",
+          "translations": {
+            "english": "Krishna is all-pervading, all-moving, revered by all worlds. For us, Vasudeva is always the supreme path."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-141",
+          "verse_number": 141,
+          "original": "श्रीभगवानुवाच |\nमयि सर्वाणि भूतानि न चहं तेषु व्यवस्थितः |\nयः प्रपश्यति मां सर्वे सर्वं मयि स पश्यति ॥",
+          "transliteration": "śrībhagavānuvāca |\nmayi sarvāṇi bhūtāni na cahaṁ teṣu vyavasthitaḥ |\nyaḥ prapaśyati māṁ sarve sarvaṁ mayi sa paśyati ||",
+          "translations": {
+            "english": "The Blessed Lord said: All beings reside in Me, but I am not situated in them. He who sees Me in all, sees all in Me."
+          }
+        },
+        {
+          "id": "vishnu-sahasranamam-1-142",
+          "verse_number": 142,
+          "original": "इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि\nश्रीविष्णुसहस्रनामस्तोत्रं सम्पूर्णम् ॥",
+          "transliteration": "iti śrīmahābhārate śāntiparvaṇi mokṣadharmaparvaṇi\nśrīviṣṇusahasranāmastotraṁ sampūrṇam ||",
+          "translations": {
+            "english": "Thus, in the great Mahabharata, in the Shanti Parva, Mokshadharma Parva, the Sri Vishnu Sahasranama Stotram is completed."
+          }
+        }
+      ]
+    }
+  ]
+}

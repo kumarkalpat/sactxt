@@ -21,8 +21,8 @@
         {
           "id": "aditya-hridayam-2",
           "verse_number": 2,
-          "startTime": 44,
-          "endTime": null,
+          "startTime": 29,
+          "endTime": 44,
           "original": "दैवतैश्च समागम्य द्रष्टुमभ्यागतो रणम्। उपगम्याऽब्रवीद् राममगस्त्यो भगवान् ऋषिः॥",
           "transliteration": "daivataiśca samāgamya draṣṭumabhyāgato raṇam। upagamyā'bravīd rāmamagastyo bhagavān ṛṣiḥ॥",
           "translations": {
@@ -32,7 +32,7 @@
         {
           "id": "aditya-hridayam-3",
           "verse_number": 3,
-          "startTime": 0,
+          "startTime": 44,
           "endTime": 58,
           "original": "राम राम महाबाहो शृणु गुह्यं सनातनम्। येन सर्वानरीन् वत्स समरे विजयिष्यसि॥",
           "transliteration": "rāma rāma mahābāho śṛṇu guhyaṁ sanātanam। yena sarvānarīn vatsa samare vijayiṣyasi॥",
@@ -43,7 +43,7 @@
         {
           "id": "aditya-hridayam-4",
           "verse_number": 4,
-          "startTime": 0,
+          "startTime": 58,
           "endTime": 73,
           "original": "आदित्यहृदयं पुण्यं सर्वशत्रुविनाशनम्। जयानहं जपेन्नित्यमक्षयं परमं शिवम्॥",
           "transliteration": "ādityahṛdayaṁ puṇyaṁ sarvaśatruvināśanam। jayānahaṁ japennityamakṣayaṁ paramaṁ śivam॥",
@@ -54,7 +54,7 @@
         {
           "id": "aditya-hridayam-5",
           "verse_number": 5,
-          "startTime": 0,
+          "startTime": 73,
           "endTime": 87,
           "original": "सर्वमङ्गलमाङ्गल्यं सर्वपापप्रणाशनम्। चिन्ताशोकप्रशमनमायुर्वर्धनमुत्तमम्॥",
           "transliteration": "sarvamaṅgalamāṅgalyaṁ sarvapāpapraṇāśanam। cintāśokapraśamanamāyurvardhanamuttamam॥",

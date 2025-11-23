@@ -8,73 +8,97 @@
       "verses_count": 8,
       "verses": [
         {
-          "id": "durga-suktam-1-1",
           "verse_number": 1,
+          "startTime": 0,
+          "endTime": 21,
+          "id": "durga-suktam-1-1",
           "original": "जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो नि द॑हाति॒ वेदः॑ । स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒ताऽत्य॒ग्निः ॥",
           "transliteration": "jātávedase sunavāma sómam arātīyató ní dahāti védah । sá nah parṣádáti durgā́ṇi víśvā nāvéva síndhuṃ duritā́ty agníh ॥",
+          "translation": "We offer the Soma juice to Jātavedas (Agni). May the all-knowing one burn away those who bear enmity towards us. May that Agni carry us over all difficulties, like a boatman safely guiding a boat across the sea, thereby leading us beyond all perils.",
           "translations": {
             "english": "We offer the Soma juice to Jātavedas (Agni). May the all-knowing one burn away those who bear enmity towards us. May that Agni carry us over all difficulties, like a boatman safely guiding a boat across the sea, thereby leading us beyond all perils."
           }
         },
         {
-          "id": "durga-suktam-1-2",
           "verse_number": 2,
+          "startTime": 22,
+          "endTime": 40,
+          "id": "durga-suktam-1-2",
           "original": "ताम॒ग्निव॑र्णां॒ तप॑सा ज्वल॒न्तीं वै॑रोच॒नीं कर्म॑फ॒लेषु॒ जुष्टाम् । दु॒र्गां दे॒वीँ शर॑णम॒हं प्रप॑द्ये सु॒तर॑सि॒ तर॑से॒ नमः॑ ॥",
           "transliteration": "tā́m agnivárṇāṃ tápasā jvalántīṃ vairocanī́ṃ kármaphaléṣu juṣṭā́m । durgā́ṃ devī́ṃ śáraṇam aháṃ prapádye sútarasi tárase námah ॥",
+          "translation": "I take refuge in that Goddess Durgā, who is the color of fire, blazing with spiritual fire (Tapas), shining forth in manifold ways, and delighted by the fruits of action. O Durgā Devī, I bow to you who are skilled in ferrying us across (difficulties). Be pleased to carry us over.",
           "translations": {
             "english": "I take refuge in that Goddess Durgā, who is the color of fire, blazing with spiritual fire (Tapas), shining forth in manifold ways, and delighted by the fruits of action. O Durgā Devī, I bow to you who are skilled in ferrying us across (difficulties). Be pleased to carry us over."
           }
         },
         {
-          "id": "durga-suktam-1-3",
           "verse_number": 3,
+          "startTime": 41,
+          "endTime": 58,
+          "id": "durga-suktam-1-3",
           "original": "अग्ने॒ त्वं पा॑र॒या नव्यो॑ अ॒स्मान् स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ । पूश्च॑ पृ॒थ्वी ब॒हुला॑ न उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शंयोः॑ ॥",
           "transliteration": "ágne tváṃ pārayā návyō asmā́n svastíbhir áti durgā́ṇi víśvā । pū́śca pr̥thvī́ bahulā́ na urvī́ bháva tókāya tánayāya śáṃyoh ॥",
+          "translation": "O Agni, you are worthy of praise. Lead us beyond all difficulties by auspicious means. May our dwelling, our lands, and the vast Earth be fertile for us. Be pleased to bestow joy and happiness upon our children and their descendants.",
           "translations": {
             "english": "O Agni, you are worthy of praise. Lead us beyond all difficulties by auspicious means. May our dwelling, our lands, and the vast Earth be fertile for us. Be pleased to bestow joy and happiness upon our children and their descendants."
           }
         },
         {
-          "id": "durga-suktam-1-4",
           "verse_number": 4,
+          "startTime": 59,
+          "endTime": 77,
+          "id": "durga-suktam-1-4",
           "original": "विश्वा॑नि नो दु॒र्गहा॑ जा॒तवे॑दः॒ सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑पर्षि । अग्ने॑ अत्रि॒वन् मन॑सा गृणा॒नो॒ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ॥",
           "transliteration": "víśvāni nō durgahā́ jātávedah síndhuṃ ná nāvā duritā́ti parṣi । ágne atriván mánasā gr̥ṇānó ‘smā́kaṃ bódhy avitā tánūnām ॥",
+          "translation": "O Jātavedas, the destroyer of all difficulties, carry us across all perils, just as a boat carries people across the ocean. O Agni, when praised mentally like the sage Atri, be the protector of our bodies.",
           "translations": {
             "english": "O Jātavedas, the destroyer of all difficulties, carry us across all perils, just as a boat carries people across the ocean. O Agni, when praised mentally like the sage Atri, be the protector of our bodies."
           }
         },
         {
-          "id": "durga-suktam-1-5",
           "verse_number": 5,
+          "startTime": 78,
+          "endTime": 96,
+          "id": "durga-suktam-1-5",
           "original": "पृ॒त॒ना॒जितं॒ सह॑मानमु॒ग्रम॒ग्निं हु॑वेम प॑र॒मात् स॒धस्था॑त् । स नः॒ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षा॒मद्दे॒वो अति॑ दुरि॒ताऽत्य॒ग्निः ॥",
           "transliteration": "pr̥tanā́jitaṃ sáhamānam ugrám agníṃ húvema paramā́t sadhásthāt । sá nah parṣádáti durgā́ṇi víśvā kṣāmád devó áti duritā́ty agníh ॥",
+          "translation": "We invoke the fierce Agni from the highest station—Agni who is the vanquisher of enemy hosts and who is highly powerful and irresistible. May that God Agni carry us over all difficulties and all evils, like a boatman across the waters.",
           "translations": {
             "english": "We invoke the fierce Agni from the highest station—Agni who is the vanquisher of enemy hosts and who is highly powerful and irresistible. May that God Agni carry us over all difficulties and all evils, like a boatman across the waters."
           }
         },
         {
-          "id": "durga-suktam-1-6",
           "verse_number": 6,
+          "startTime": 97,
+          "endTime": 115,
+          "id": "durga-suktam-1-6",
           "original": "प्रत्नोषि॑ क॒मीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सथ्सि॑ । स्वां चा॑ग्ने त॒नुवं॑ पि॒प्रय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥",
           "transliteration": "prátnōṣi kam ī́ḍyō adhvaréṣu sanā́c ca hótā návyáś ca sátsi । svā́ṃ cāgney tánúvaṃ piprayasvāsmábhyaṃ ca saúbhagam ā́ yajasva ॥",
+          "translation": "O Agni, you are ancient, worthy of praise in sacrifices, and exist as both the old and new Hōtā (invoker) in the ceremonies. May you make your own being happy, and be pleased to bestow good fortune and happiness upon us.",
           "translations": {
             "english": "O Agni, you are ancient, worthy of praise in sacrifices, and exist as both the old and new Hōtā (invoker) in the ceremonies. May you make your own being happy, and be pleased to bestow good fortune and happiness upon us."
           }
         },
         {
-          "id": "durga-suktam-1-7",
           "verse_number": 7,
+          "startTime": 116,
+          "endTime": 132,
+          "id": "durga-suktam-1-7",
           "original": "गोभि॒र्जुष्ट॑मयुजो॒ निषि॑क्तं॒ तवे॑न्द्र विष्णो॒रनु॒सञ्च॑रेम । ना॒कस्य॑ पृ॒ष्ठम॒भि सं॒वसा॑नो॒ वैष्॑ण॒वीं लो॒क इ॒ह मा॑द॒यन्ताम् ॥",
           "transliteration": "gó bhir júṣṭam ayújō níṣiktaṃ távēndra víṣṇōr ánu saṃcárema । nā́kasya pr̥ṣṭhám abhí saṃvasā́nō vaíṣṇavī́m loká ihá mādayantām ॥",
+          "translation": "May we follow you, O Indra and Viṣṇu, who are full of prosperity (adored by cows), unyoked (unfettered), and omnipresent. May those who dwell on the highest peak of heaven delight us in this world with the realm of Viṣṇu.",
           "translations": {
             "english": "May we follow you, O Indra and Viṣṇu, who are full of prosperity (adored by cows), unyoked (unfettered), and omnipresent. May those who dwell on the highest peak of heaven delight us in this world with the realm of Viṣṇu."
           }
         },
         {
-          "id": "durga-suktam-1-8",
           "verse_number": 8,
+          "startTime": 133,
+          "endTime": 149,
+          "id": "durga-suktam-1-8",
           "original": "ॐ का॒त्या॒य॒नाय॑ वि॒द्महे॑ कन्यकु॒मारि॑ धीमहि । तन्नो॑ दुर्गिः प्रचो॒दया॑त् ॥",
           "transliteration": "oṁ kātyāyanā́ya vidmáhe kanyakumā́ri dhīmahi । tánno durgíh pracódayāt ॥",
+          "translation": "Oṃ. May we know the daughter of Kātyāyana; let us meditate on the young Virgin (Kanyākumāri). May that Durgā inspire and enlighten our intellect. (This is a Durgā Gāyatrī Mantra often appended to the Suktam).",
           "translations": {
             "english": "Oṃ. May we know the daughter of Kātyāyana; let us meditate on the young Virgin (Kanyākumāri). May that Durgā inspire and enlighten our intellect. (This is a Durgā Gāyatrī Mantra often appended to the Suktam)."
           }

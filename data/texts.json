@@ -222,9 +222,9 @@
   },
   {
     "id": "bhajans",
-    "title": "Bhajans-Devotional",
+    "title": "Devotional",
     "author": "Various Artists",
-    "path": "bhajans.json",
+    "path": "devotional.json",
     "coverImage": "images/bhajans.png",
     "showLast": "Yes"
   }

@@ -64,10 +64,28 @@
         }
     ],
     "discourses": [
-
+       {
+          "Track": 1,
+          "audioUrl": "https://www.youtube.com/watch?v=P_dyZL43sNM&list=PL6GYBEWqktexETkFsQDLNuiVZUU3tW3Xd&index=5",
+          "audioSource": "English Lecture on 'Hanuman' by Sri Dushyanth Sridhar"
+        },
+        {
+          "Track": 2,
+          "audioUrl": "https://www.youtube.com/watch?v=qIZQWI4BXRo&t=1278s",
+          "audioSource": "Adi Shankaracharya"
+        }
     ],
     "nadaswaram": [
-
+       {
+          "Track": 1,
+          "audioUrl": "https://www.youtube.com/watch?v=LiEr-jexwjU&list=RDLiEr-jexwjU&start_radio=1",
+          "audioSource": "Mylai Karthikeyan | Raga Sahana"
+        },
+        {
+          "Track": 2,
+          "audioUrl": "https://www.youtube.com/watch?v=509NqwF7I30&list=RD509NqwF7I30&start_radio=1&t=132s",
+          "audioSource": "Mangala Vadyam - Jayashankar and Valayappatti AR Subramaniam"
+        }
     ],
     "shehnai": [
 

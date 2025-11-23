@@ -64,40 +64,13 @@
         }
     ],
     "discourses": [
-       {
-          "Track": 1,
-          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
-          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
-        },
-        {
-          "Track": 2,
-          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
-          "audioSource": "Jagjit Singh"
-        }
+
     ],
     "nadaswaram": [
-       {
-          "Track": 1,
-          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
-          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
-        },
-        {
-          "Track": 2,
-          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
-          "audioSource": "Jagjit Singh"
-        }
+
     ],
     "shehnai": [
-       {
-          "Track": 1,
-          "audioUrl": "https://music.youtube.com/watch?v=MyNSOu-Fl-k&si=oWV6vb8FZ5YrCzjN",
-          "audioSource": "Sri Ramachandra Krupalu - Soorya Gayatri - Kuldeep M Pai"
-        },
-        {
-          "Track": 2,
-          "audioUrl": "https://music.youtube.com/watch?v=ZD72mEhB6TE&si=ONkblN7lquWjEl6i",
-          "audioSource": "Jagjit Singh"
-        }
+
     ]
   }
 }

@@ -1,20 +1,19 @@
 {
-  "id": "kanakadhara-stotram",
-  "title": "Kanakadhārā Stotram (Hymn of the Stream of Gold)",
-  "author": "Ādi Śaṅkarācārya",
-  "introduction": "This hymn is traditionally believed to have been composed by Ādi Śaṅkarācārya when he was a young ascetic (brahmacārī) to invoke the grace of Goddess Lakṣmī on a poor woman. Pleased by his sincere devotion, the Goddess showered golden gooseberries (Āmalakas), creating the famous 'stream of gold' (Kanakadhārā). The stotram invokes the Goddess by praising her beautiful glances (Kaṭākṣas) and her association with Lord Viṣṇu.",
+  "id": "kanakadhara-stotram-alternate",
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "The Stream of Gold (Complete Hymn)",
-      "summary": "This chapter contains all 21 verses of the hymn, which offer praise and prayer to Goddess Lakṣmī, particularly focusing on the compassionate and wealth-bestowing power of her divine sight.",
-      "verses_count": 22,
+      "name": "The Stream of Gold (Complete Alternate Hymn)",
+      "summary": "The full 21-verse hymn as commonly recited, emphasizing the Goddess’s wealth, beauty, and presence on the body of Lord Viṣṇu.",
+      "verses_count": 21,
       "verses": [
         {
           "id": "kanakadhara-1-1",
           "verse_number": 1,
+          "startTime": 0,
+          "endTime": 65,
           "original": "अङ्गं हरेः पुलकभूषणमाश्रयन्ती\nभृङ्गाङ्गनेव मुकुलाभरणं तमालम्।\nअङ्गीकृताखिल-विभूतिरपाङ्गलीला\nमाङ्गल्यदाऽस्तु मम मङ्गळदेवतायाः॥",
-          "transliteration": "aṅgaṁ hareḥ pulaka-bhūṣaṇam-āśrayantī\nbhṛṅgāṅganeva mukulābharaṇaṁ tamālam।\naṅgīkṛtākhila-vibhūtira-pāṅga-līlā\nmāṅgalyadā’stu mama maṅgaḷadevatāyāḥ॥",
+          "transliteration": "aṅgaṁ hareḥ pulaka-bhūṣaṇam-āśrayantī,\nbhṛṅgāṅganeva mukulābharaṇaṁ tamālam।\naṅgīkṛtākhila-vibhūtir-apāṅga-līlā,\nmāṅgalyadā’stu mama maṅgaḷa-devatāyāḥ॥",
           "translations": {
             "english": "May the sportive side-glance of the Goddess of auspiciousness, which is the source of all prosperity, be the giver of welfare to me. She rests upon Lord Hari's (Viṣṇu's) body, which is adorned with goosebumps (of joy), just as a female bee rests upon a Tamāla tree adorned with flower buds."
           }
@@ -22,35 +21,43 @@
         {
           "id": "kanakadhara-1-2",
           "verse_number": 2,
+          "startTime": 66,
+          "endTime": 89,
           "original": "मुग्धा मुहुर्विदधती वदने मुरारेः\nप्रेम-त्रपा-प्रणिहितानि गतागतानि।\nमाला दृशोर्मधुकरीव महोत्पलै या\nसा मे श्रियं दिशतु सागर-सम्भवायाः॥",
-          "transliteration": "mugdhā muhur-vidadhatī vadane murāreḥ\nprema-trapā-praṇihitāni gatāgatāni।\nmālā dṛśor-madhukarīva mahotpalair yā\nsā me śriyaṁ diśatu sāgara-sambhavāyāḥ॥",
+          "transliteration": "mugdhā muhur-vidadhadhatī vadane murāreḥ,\nprema-trapā-praṇihitāni gatāgathāni।\nmālā dṛśor-madhukarīva maheth-pale yā,\nsā me śriyaṁ diśatu sāgara-sambhavāyāḥ॥",
           "translations": {
-            "english": "May the garland of glances of Lakṣmī, the daughter of the Ocean (Sāgara-Sambhavā), which repeatedly falls upon the face of Murāri (Viṣṇu) with shyness, love, and devotion, like a swarm of bees moving between large blue lotuses, bestow wealth upon me."
+            "english": "May the garland of glances of the daughter of the Ocean (Lakṣmī), which repeatedly fall upon the face of Murāri (Viṣṇu) with shyness, love, and devotion, like a swarm of bees moving between large blue lotuses, bestow wealth upon me."
           }
         },
         {
           "id": "kanakadhara-1-3",
           "verse_number": 3,
-          "original": "विश्वामरेन्द्र-पद-विभ्रम-दान-दक्षम्\nआनन्द-हेतुरधिकं मुरविद्विषोऽपि।\nईषन्निषीदतु मयि क्षणमीक्षणार्धम्\nइन्दीवरोदर-सहोदरमिन्दिरायाः॥",
-          "transliteration": "viśvāmarendra-pada-vibhrama-dāna-dakṣam\nānanda-hetur-adhikaṁ muravidviṣo'pi।\nīṣann-niṣīdatu mayi kṣaṇam-īkṣaṇārdham\nindīvarodara-sahodaram-indirāyāḥ॥",
+          "startTime": 90,
+          "endTime": 114,
+          "original": "आमीलिताक्षमधिगम्य मुदा मुकुन्दम्\nआनन्दकन्दमनिमेषमनङ्ग-तन्त्रम्।\nआकेकरस्थितकनीनिका-पक्ष्मनॆत्रम्\nभूत्यै भवेन्मम भुजङ्ग-शयानाङ्गनायाः॥",
+          "transliteration": "āmīlitākṣam-adhigamya mudā mukundam,\nānanda-kandam-animeṣam-anaṅga-tantram।\nākekara-sthita-kanīnikā-pakṣma-netram,\nbhūtyai bhaven-mama bhujaṅga-śayanāṅganāyāḥ॥",
           "translations": {
-            "english": "May the half-glance of Indirā (Lakṣmī), which resembles the inner beauty of a blue lotus, which is capable of bestowing the glorious position of the ruler of all worlds and is the supreme source of bliss even for the enemy of Mura (Viṣṇu), rest upon me for a moment."
+            "english": "May the joyful, half-closed gaze of the consort of the Serpent-sleeper (Viṣṇu), whose eyes are motionless, the seat of bliss, and the controller of Manmatha (Cupid), and whose pupils are fixed with a slight squint, bring me prosperity."
           }
         },
         {
           "id": "kanakadhara-1-4",
           "verse_number": 4,
-          "original": "आमेखला-विभ्रम-किङ्किणी-अभिरामम्\nश्यामं तमाल-तरुणेक्षित-माधुरीणाम्।\nआदाय मज्जयनं मयि मन्दमन्दम्\nअपाङ्ग-कल्प-तरुणामनुरक्षणैषी॥",
-          "transliteration": "āmekhalā-vibhrama-kiṅkiṇī-abhirāmam\nśyāmaṁ tamāla-taruṇekṣita-mādhurīṇām।\nādāya majjayanaṁ mayi mandamandam\napāṅga-kalpa-taruṇām-anurakṣaṇaiṣī॥",
+          "startTime": 115,
+          "endTime": 139,
+          "original": "बाह्वन्तरे मधुजितः श्रितकौस्तुभे या\nहारावलीव नभसीन्द्रनीलमयी विभाति।\nकामप्रदा भगवतोऽपि कटाक्षमाला\nकल्याणमावहतु मे कमलाऽऽलयायाः॥",
+          "transliteration": "bāhv-antare madhu-jitaḥ śrita-kaustubhe yā,\nhārāvalīva nabhas-īndra-nīla-mayī vibhāti।\nkāma-pradā bhagavato’pi kaṭākṣa-mālā,\nkalyāṇam-āvahatu me kamalā''layāyāḥ॥",
           "translations": {
-            "english": "May the slightly dark-complexioned (Śyāma) side-glances of Lakṣmī, which are as beautiful as the sweet sight of a young Tamāla tree and which create a subtle vibration like the jingling of the bells on a girdle, gently immerse me in their auspiciousness, for they are like wish-fulfilling trees (Kalpatarus) that seek to protect the supplicant."
+            "english": "May the garland of glances of the Lotus Dweller (Lakṣmī), which grants desires even to the Lord (Viṣṇu), which shines in the space between the arms of the vanquisher of Madhu (Viṣṇu), upon the Kaustubha gem, like a necklace of sapphires, bestow welfare upon me."
           }
         },
         {
           "id": "kanakadhara-1-5",
           "verse_number": 5,
+          "startTime": 140,
+          "endTime": 164,
           "original": "कालाम्बुदाळि-ललितोरसि कैटभारेः\nधाराधरे स्फुरति या तटिदङ्गनेव।\nमातुः समस्त-जगतां महनीय-मूर्तिः\nभद्राणि मे दिशतु भार्गवनन्दनायाः॥",
-          "transliteration": "kālāmbudāḷi-lalitorasi kaiṭabhāreḥ\ndhārādhare sphurati yā taṭidaṅganeva।\nmātuḥ samasta-jagatāṁ mahanīya-mūrtiḥ\nbhadrāṇi me diśatu bhārgava-nandanāyāḥ॥",
+          "transliteration": "kālāmbudāḷi-lalitorasi kaiṭabhāreḥ,\ndhārādhare sphurati yā taṭidaṅganeva।\nmātuḥ samasta-jagatāṁ mahanīya-mūrtiḥ,\nbhadrāṇi me diśatu bhārgava-nandanāyāḥ॥",
           "translations": {
             "english": "May the esteemed form of the Mother of all worlds (Lakṣmī, the daughter of Bhārgava), who shines on the charming, cloud-like chest of Kaiṭabhāri (Viṣṇu) like a flash of lightning on a cloud, bestow welfare upon me."
           }
@@ -58,8 +65,10 @@
         {
           "id": "kanakadhara-1-6",
           "verse_number": 6,
+          "startTime": 165,
+          "endTime": 187,
           "original": "प्राप्तं पदं प्रथमतः खलु यत्-प्रभावान्\nमाङ्गल्य-भाजि मधु-माथिनि मन्मथेन।\nमय्यापतेत् तदिह मन्थर-मीक्षणार्धम्\nमन्दालसं च मकरालय-कन्यकायाः॥",
-          "transliteration": "prāptaṁ padaṁ prathamataḥ khalu yat-prabhāvān\nmāṅgalya-bhāji madhu-māthini manmathena।\nmayy-āpatet tad-iha manthara-mīkṣaṇārdham\nmandālasaṁ ca makarālaya-kanyakāyāḥ॥",
+          "transliteration": "prāptaṁ padaṁ prathamataḥ khalu yat-prabhāvān,\nmāṅgalya-bhāji madhu-māthini manmathena।\nmayy-āpatet tad-iha mantharam-īkṣaṇārdham,\nmandālasaṁ ca makarālaya-kanyakāyāḥ॥",
           "translations": {
             "english": "May the slow, languid half-glance of the daughter of the Ocean (Makarālaya-Kanyakā), by whose power Manmatha (Cupid) first attained his place on the body of the auspicious Madhu-slayer (Viṣṇu), fall upon me here."
           }
@@ -67,145 +76,166 @@
         {
           "id": "kanakadhara-1-7",
           "verse_number": 7,
-          "original": "दद्याद् दयानुपवनो द्रविणाम्बुधाराम्\nअस्मिन्नकिञ्चन-विहङ्ग-शिशौ विषण्णे।\nदुष्कर्म-घर्ममपनीय चिराय दूरम्\nनारायण-प्रणयिनी-नयनाम्बुवाहः॥",
-          "transliteration": "dadyād dayānupavano draviṇāmbu-dhārām\nasminn-akiñcana-vihaṅga-śiśau viṣaṇṇe।\nduṣkarma-gharmam-apanīya cirāya dūram\nnārāyaṇa-praṇayinī-nayanāmbu-vāhaḥ॥",
+          "startTime": 188,
+          "endTime": 210,
+          "original": "विश्वामरेन्द्र-पद-विभ्रम-दान-दक्षम्\nआनन्द-हेतुरधिकं मुरविद्विषोऽपि।\nईषन्निषीदतु मयि क्षणमीक्षणार्धम्\nइन्दीवरोदर-सहोदरमिन्दिरायाः॥",
+          "transliteration": "viśvāmarendra-pada-vibhrama-dāna-dakṣam,\nānanda-hetur-adhikaṁ muravidviṣo’pi।\nīṣann-niṣīdatu mayi kṣaṇam-īkṣaṇārdham,\nindīvarodara-sahodaram-indirāyāḥ॥",
           "translations": {
-            "english": "May the cloud (Nayanāmbuvāha) that is the eye of Nārāyaṇa's Beloved, moved by the wind of compassion (Dayānupavana), remove the heat of bad karma far away, and shower the rain of wealth (Draviṇāmbu-dhārā) upon this distressed bird-chick (me) who has nothing."
+            "english": "May the half-glance of Indirā (Lakṣmī), which resembles the inner beauty of a blue lotus, which is capable of bestowing the glorious position of the ruler of all worlds and is the supreme source of bliss even for the enemy of Mura (Viṣṇu), rest upon me for a moment."
           }
         },
         {
           "id": "kanakadhara-1-8",
           "verse_number": 8,
-          "original": "इष्टा-विशिष्ट-मतयोऽपि यया दयार्द्रा\nदृष्ट्या त्रिविष्टप-पदं सुलभं लभन्ते।\nदृष्टिः प्रहृष्ट-कमलोदर-दीप्तिरिष्टां\nपुष्टिं कृषीष्ट मम पुष्कर-विष्टरायाः॥",
-          "transliteration": "iṣṭā-viśiṣṭa-matayo’pi yayā dayārdrā\ndṛṣṭyā triviṣṭapa-padaṁ sulabhaṁ labhante।\ndṛṣṭiḥ prahṛṣṭa-kamalodara-dīptir-iṣṭāṁ\npuṣṭiṁ kṛṣīṣṭa mama puṣkara-viṣṭarāyāḥ॥",
+          "startTime": 211,
+          "endTime": 232,
+          "original": "इष्टा-विशिष्ट-मतयोऽपि यया दयार्द्रा\nदृष्ट्या त्रिविष्टप-पदं सुलभं लभन्ते।\nह्रिष्टिं प्रहृष्ट-कमलोदर-दीप्तिरिष्टाम्\nपुष्टिं कृषीष्ट मम पुष्कर-विष्टरायाः॥",
+          "transliteration": "iṣṭā-viśiṣṭa-matayo’pi yayā dayārdrā,\ndṛṣṭyā triviṣṭapa-padaṁ sulabhaṁ labhante।\nhriṣṭiṁ prahṛṣṭa-kamalodara-dīptir-iṣṭām,\npuṣṭiṁ kṛṣīṣṭa mama puṣkara-viṣṭarāyāḥ॥",
           "translations": {
-            "english": "May the desired glance of the Lotus-seated Goddess (Puṣkara-Viṣṭarāyāḥ), which is moist with kindness, whose radiance is like the bright interior of a lotus, and by which even those with the desire for something great easily attain the heavenly abode, bring about my fulfillment."
+            "english": "May the desired glance of the Lotus-seated Goddess (Puṣkara-Viṣṭarāyāḥ), which is moist with kindness, whose radiance is like the bright interior of a lotus, and by which even those with elevated desires easily attain the heavenly abode, bring about my fulfillment and joy."
           }
         },
         {
           "id": "kanakadhara-1-9",
           "verse_number": 9,
-          "original": "गीर्देवतेति गरुडध्वज-सुन्दरीति\nशाकम्भरीति शशिशेखर-वल्लभेति।\nसृष्टि-स्थिति-प्रलय-केलिषु संस्थितायै\nतस्यै नमस्त्रिभुवनैक-गुरोस्तरुण्यै॥",
-          "transliteration": "gīr-devateti garuḍa-dhvaja-sundarīti\nśākambharīti śaśi-śekhara-vallabheti।\nsṛṣṭi-sthiti-pralaya-keliṣu saṁsthitāyai\ntasyai namas-tri-bhuvanai-ka-guros-taruṇyai॥",
+          "startTime": 233,
+          "endTime": 255,
+          "original": "दद्याद् दयानुपवनो द्रविणाम्बुधाराम्\nअस्मिन्नकिञ्चन-विहङ्ग-शिशौ विषण्णे।\nदुष्कर्म-घर्ममपनीय चिराय दूरम्\nनारायण-प्रणयिनी-नयनाम्बुवाहः॥",
+          "transliteration": "dadyād dayānupavano draviṇāmbu-dhārām,\nasminn-akiñcana-vihaṅga-śiśau viṣaṇṇe।\nduṣkarma-gharmam-apanīya cirāya dūram,\nnārāyaṇa-praṇayinī-nayanāmbu-vāhaḥ॥",
           "translations": {
-            "english": "Salutations to the consort of the sole preceptor of the three worlds, who exists as the Goddess of Speech (Sarasvatī), as the beauty on Garuḍa's banner (Lakṣmī), as Śākambharī, and as the beloved of Śaśiśekhara (Pārvatī), established in the play of creation, preservation, and dissolution."
+            "english": "May the cloud (Nayanāmbuvāha) that is the eye of Nārāyaṇa's Beloved, moved by the wind of compassion, remove the heat of bad karma far away, and shower the rain of wealth upon this distressed bird-chick (me) who has nothing."
           }
         },
         {
           "id": "kanakadhara-1-10",
           "verse_number": 10,
-          "original": "श्रुत्यै नमोऽस्तु शुभ-कर्म-फल-प्रसूत्यै\nरत्यै नमोऽस्तु रमणीय-गुणार्णवायै।\nशक्त्यै नमोऽस्तु शत-पत्र-निकेतनायै\nपुष्ट्यै नमोऽस्तु पुरुषोत्तम-वल्लभायै॥",
-          "transliteration": "śrutyai namo’stu śubha-karma-phala-prasūtyai\nratyai namo’stu ramaṇīya-guṇārṇavāyai।\nśaktyai namo’stu śata-patra-niketanāyai\npuṣṭyai namo’stu puruṣottama-vallabhāyai॥",
+          "startTime": 256,
+          "endTime": 277,
+          "original": "गीर्देवतेति गरुडध्वज-सुन्दरीति\nशाकम्भरीति शशिशेखर-वल्लभेति।\nसृष्टि-स्थिति-प्रलय-केलिषु संस्थिता या\nतस्यै नमस्त्रिभुवनैक-गुरोस्तरुण्यै॥",
+          "transliteration": "gīr-devateti garuḍa-dhvaja-sundarīti,\nśākambharīti śaśi-śekhara-vallabheti।\nsṛṣṭi-sthiti-pralaya-keliṣu saṁsthitā yā,\ntasyai namas-tri-bhuvanai-ka-guros-taruṇyai॥",
           "translations": {
-            "english": "Salutations to Śruti (Vedas), the source of results of auspicious actions. Salutations to Rati (Love/Joy), the ocean of beautiful qualities. Salutations to Śakti (Power), who resides in the hundred-petalled lotus. Salutations to Puṣṭi (Nourishment), the beloved of Puruṣottama (Viṣṇu)."
+            "english": "Salutations to the consort of the sole preceptor of the three worlds, who exists as the Goddess of Speech (Sarasvatī), as the beauty on Garuḍa's banner (Lakṣmī), as Śākambharī, and as the beloved of Śaśiśekhara (Pārvatī), established in the play of creation, preservation, and dissolution."
           }
         },
         {
           "id": "kanakadhara-1-11",
           "verse_number": 11,
-          "original": "नमोऽस्तु नालीक-निभाननायै\nनमोऽस्तु दुग्धौदधि-जन्म-भूत्यै।\nनमोऽस्तु सोमामृत-सोदरायै\nनमोऽस्तु नारायण-वल्लभायै॥",
-          "transliteration": "namo’stu nālīka-nibhānanāyai\nnamo’stu dugdhau-dadhi-janma-bhūtyai।\nnamo’stu somāmṛta-sodarāyai\nnamo’stu nārāyaṇa-vallabhāyai॥",
+          "startTime": 278,
+          "endTime": 301,
+          "original": "श्रुत्यै नमोऽस्तु शुभ-कर्म-फल-प्रसूत्यै\nरत्यै नमोऽस्तु रमणीय-गुणार्णवायै।\nशक्त्यै नमोऽस्तु शत-पत्र-निकेतनायै\nपुष्ट्यै नमोऽस्तु पुरुषोत्तम-वल्लभायै॥",
+          "transliteration": "śrutyai namo’stu śubha-karma-phala-prasūtyai,\nratyai namo’stu ramaṇīya-guṇārṇavāyai।\nśaktyai namo’stu śata-patra-niketanāyai,\npuṣṭyai namo’stu puruṣottama-vallabhāyai॥",
           "translations": {
-            "english": "Salutations to Her whose face resembles a lotus. Salutations to the splendour born from the milk ocean. Salutations to the sister of Soma (Moon) and Amṛta (Nectar). Salutations to the beloved of Nārāyaṇa."
+            "english": "Salutations to Śruti (Vedas), the source of results of auspicious actions. Salutations to Rati (Love/Joy), the ocean of beautiful qualities. Salutations to Śakti (Power), who resides in the hundred-petalled lotus. Salutations to Puṣṭi (Nourishment), the beloved of Puruṣottama (Viṣṇu)."
           }
         },
         {
           "id": "kanakadhara-1-12",
           "verse_number": 12,
-          "original": "नमोऽस्तु हेमाम्बुज-पीठिकायै\nनमोऽस्तु भूमण्डल-नायिकायै।\nनमोऽस्तु देवादि-दया-परायै\nनमोऽस्तु शार्ङ्गायुध-वल्लभायै॥",
-          "transliteration": "namo’stu hemāmbuja-pīṭhikāyai\nnamo’stu bhūmaṇḍala-nāyikāyai।\nnamo’stu devādi-dayā-parāyai\nnamo’stu śārṅgāyudha-vallabhāyai॥",
+          "startTime": 302,
+          "endTime": 322,
+          "original": "नमोऽस्तु नालीक-निभाननायै\nनमोऽस्तु दुग्धौदधि-जन्म-भूत्यै।\nनमोऽस्तु सोमामृत-सोदरायै\nनमोऽस्तु नारायण-वल्लभायै॥",
+          "transliteration": "namo’stu nālīka-nibhānanāyai,\nnamo’stu dugdhau-dadhi-janma-bhūtyai।\nnamo’stu somāmṛta-sodarāyai,\nnamo’stu nārāyaṇa-vallabhāyai॥",
           "translations": {
-            "english": "Salutations to Her whose seat is the golden lotus. Salutations to the mistress of the Earth. Salutations to Her who is intent on bestowing mercy to the Devas and others. Salutations to the beloved of the wielder of the Śārṅga bow (Viṣṇu)."
+            "english": "Salutations to Her whose face resembles a lotus. Salutations to the splendour born from the milk ocean. Salutations to the sister of Soma (Moon) and Amṛta (Nectar). Salutations to the beloved of Nārāyaṇa."
           }
         },
         {
           "id": "kanakadhara-1-13",
           "verse_number": 13,
-          "original": "नमोऽस्तु देव्यै भृगु-नन्दनायै\nनमोऽस्तु विष्णोरुरसि स्थितायै।\nनमोऽस्तु लक्ष्म्यै कमल-आलयायै\nनमोऽस्तु दामोदर-वल्लभायै॥",
-          "transliteration": "namo’stu devyai bhṛgu-nandanāyai\nnamo’stu viṣṇor-urasi sthitāyai।\nnamo’stu lakṣmyai kamala-ālayāyai\nnamo’stu dāmodara-vallabhāyai॥",
+          "startTime": 323,
+          "endTime": 343,
+          "original": "नमोऽस्तु हेमाम्बुज-पीठिकायै\nनमोऽस्तु भूमण्डल-नायिकायै।\nनमोऽस्तु देवादि-दया-परायै\nनमोऽस्तु शार्ङ्गायुध-वल्लभायै॥",
+          "transliteration": "namo’stu hemāmbuja-pīṭhikāyai,\nnamo’stu bhūmaṇḍala-nāyikāyai।\nnamo’stu devādi-dayā-parāyai,\nnamo’stu śārṅgāyudha-vallabhāyai॥",
           "translations": {
-            "english": "Salutations to the Goddess, the daughter of Bhṛgu. Salutations to Her who resides on the chest of Viṣṇu. Salutations to Lakṣmī, who resides in the lotus. Salutations to the beloved of Dāmodara (Viṣṇu)."
+            "english": "Salutations to Her whose seat is the golden lotus. Salutations to the mistress of the Earth. Salutations to Her who is intent on bestowing mercy to the Devas and others. Salutations to the beloved of the wielder of the Śārṅga bow (Viṣṇu)."
           }
         },
         {
           "id": "kanakadhara-1-14",
           "verse_number": 14,
-          "original": "नमोऽस्तु कान्त्यै कमल-ईक्षणायै\nनमोऽस्तु भूत्यै भुवन-प्रसूत्यै।\nनमोऽस्तु देवादिभिर्-अर्चितायै\nनमोऽस्तु नन्दात्मज-वल्लभायै॥",
-          "transliteration": "namo’stu kāntyai kamala-īkṣaṇāyai\nnamo’stu bhūtyai bhuvana-prasūtyai।\nnamo’stu devādibhir-arcitāyai\nnamo’stu nandātmaja-vallabhāyai॥",
+          "startTime": 344,
+          "endTime": 363,
+          "original": "नमोऽस्तु देव्यै भृगु-नन्दनायै\nनमोऽस्तु विष्णोरुरसि स्थितायै।\nनमोऽस्तु लक्ष्म्यै कमल-आलयायै\nनमोऽस्तु दामोदर-वल्लभायै॥",
+          "transliteration": "namo’stu devyai bhṛgu-nandanāyai,\nnamo’stu viṣṇor-urasi sthitāyai।\nnamo’stu lakṣmyai kamala-ālayāyai,\nnamo’stu dāmodara-vallabhāyai॥",
           "translations": {
-            "english": "Salutations to Kānti (Luster), whose eyes are like lotuses. Salutations to Bhūti (Prosperity), the mother of the universe. Salutations to Her who is worshipped by Devas and others. Salutations to the beloved of the son of Nanda (Kṛṣṇa/Viṣṇu)."
+            "english": "Salutations to the Goddess, the daughter of Bhṛgu. Salutations to Her who resides on the chest of Viṣṇu. Salutations to Lakṣmī, who resides in the lotus. Salutations to the beloved of Dāmodara (Viṣṇu)."
           }
         },
         {
           "id": "kanakadhara-1-15",
           "verse_number": 15,
-          "original": "सम्पत्-कराणि सकलेन्द्रिय-नन्दनानि\nसाम्राज्य-दान-विभवानि सरोरुहाक्षि।\nत्वद्वन्दनानि दुरिताहरणोद्यतानि\nमामेव मातर-निशं कलयन्तु मान्यम्॥",
-          "transliteration": "sampat-karāṇi sakalendriya-nandanāni\nsāmrājya-dāna-vibhavāni saroruhākṣi।\ntvad-vandanāni duritāharaṇodyatāni\nmām-eva mātara-niśaṁ kalayantu mānyam॥",
+          "startTime": 364,
+          "endTime": 383,
+          "original": "नमोऽस्तु कान्त्यै कमल-ईक्षणायै\nनमोऽस्तु भूत्यै भुवन-प्रसूत्यै।\nनमोऽस्तु देवादिभिर्-अर्चितायै\nनमोऽस्तु नन्दात्मज-वल्लभायै॥",
+          "transliteration": "namo’stu kāntyai kamala-īkṣaṇāyai,\nnamo’stu bhūtyai bhuvana-prasūtyai।\nnamo’stu devādibhir-arcitāyai,\nnamo’stu nandātmaja-vallabhāyai॥",
           "translations": {
-            "english": "O Lotus-eyed Mother (Saroruhākṣi)! May my salutations to you—which bestow prosperity, delight all senses, confer the might of an empire, and strive to remove all sins—make me worthy (of respect) day and night."
+            "english": "Salutations to Kānti (Luster), whose eyes are like lotuses. Salutations to Bhūti (Prosperity), the mother of the universe. Salutations to Her who is worshipped by Devas and others. Salutations to the beloved of the son of Nanda (Kṛṣṇa/Viṣṇu)."
           }
         },
         {
           "id": "kanakadhara-1-16",
           "verse_number": 16,
-          "original": "यत्-कटाक्ष-समुपासना-विधिः\nसेवकस्य सकलार्थ-सम्पदाम्।\nसन्तनॊति वचनाङ्ग-मानसैः\nत्वां मुरारि-हृदयेश्वरीं भजे॥",
-          "transliteration": "yat-kaṭākṣa-samupāsanā-vidhiḥ\nsevakasya sakalārtha-sampadām।\nsantano’ti vacanāṅga-mānasaiḥ\ntvāṁ murāri-hṛdayeśvarīṁ bhaje॥",
+          "startTime": 384,
+          "endTime": 415,
+          "original": "सम्पत्-कराणि सकलेन्द्रिय-नन्दनानि\nसाम्राज्य-दान-विभवानि सरोरुहाक्षि।\nत्वद्वन्दनानि दुरिताहरणोद्यतानि\nमामेव मातर-निशं कलयन्तु मान्यम्॥",
+          "transliteration": "sampat-karāṇi sakalendriya-nandanāni,\nsāmrājya-dāna-vibhavāni saroruhākṣi।\ntvad-vandanāni duritāharaṇodyatāni,\nmām-eva mātara-niśaṁ kalayantu mānyam॥",
           "translations": {
-            "english": "I worship you, the Empress of Murāri's (Viṣṇu's) heart, whose worship by mere side-glances causes all wealth and objects of desire to flow to the devotee through speech, body, and mind."
+            "english": "O Lotus-eyed Mother (Saroruhākṣi)! May my salutations to you—which bestow prosperity, delight all senses, confer the might of an empire, and strive to remove all sins—make me worthy (of respect) day and night."
           }
         },
         {
           "id": "kanakadhara-1-17",
           "verse_number": 17,
-          "original": "सरोज-निलये सरोज-पाणि\nक्षीर-सागरे-राजे-पुत्रि।\nयान्ति ते चरण-सन्निधिम्\nअर्चयन्ति सततं त्वां भवानीम्॥",
-          "transliteration": "sarojā-nilaye sarojā-pāṇi\nkṣīra-sāgare-rāje-putri।\nyānti te caraṇa-sannidhim\narcayanti satataṁ tvāṁ bhavānīm॥",
+          "startTime": 416,
+          "endTime": 435,
+          "original": "यत्-कटाक्ष-समुपासना-विधिः\nसेवकस्य सकलार्थ-सम्पदा।\nसन्तनॊति वचनाङ्ग-मानसैः\nत्वां मुरारि-हृदयेश्वरीं भजे॥",
+          "transliteration": "yat-kaṭākṣa-samupāsanā-vidhiḥ,\nsevakasya sakalārtha-sampadā।\nsantano’ti vacanāṅga-mānasaiḥ,\ntvāṁ murāri-hṛdayeśvarīṁ bhaje॥",
           "translations": {
-            "english": "O Dweller of the lotus (Sarojā-nilaye), O one who holds a lotus in hand (Sarojā-pāṇi), O Princess born from the ocean of milk (Kṣīra-Sāgara-rāje-putri)! They who constantly worship you, the divine Mother, come to the proximity of your feet."
+            "english": "I worship you, the Empress of Murāri's (Viṣṇu's) heart, whose worship by mere side-glances causes all wealth and objects of desire to flow to the devotee through speech, body, and mind."
           }
         },
         {
           "id": "kanakadhara-1-18",
           "verse_number": 18,
-          "original": "सद्-विद्यया द्रविण-घोषिभिरात्म-योगैः\nमन्दार-दान-समुदाय-मनोहरिण्या।\nलक्ष्मीः श्रियं दिशतु नित्य-सुखं च नित्यम्\nसत्-सङ्ग-तिर्जन-हितोद्यत-कर्म-दीक्षैः॥",
-          "transliteration": "sad-vidyayā draviṇa-ghoṣibhir-ātma-yogaiḥ\nmandāra-dāna-samudāya-manohariṇyā।\nlakṣmīḥ śriyaṁ diśatu nitya-sukhaṁ ca nityam\nsat-saṅga-tir-jana-hitodyata-karma-dīkṣaiḥ॥",
+          "startTime": 436,
+          "endTime": 457,
+          "original": "सरसिज-निलये सरोज-हस्ते\nधवलतमांशुक गन्ध-माल्या-शोभे।\nभगवति हरि-वल्लभे मनोज्ञे\nत्रिभुवन-भूति-करि प्रसीद मह्यम्॥",
+          "transliteration": "sarasija-nilaye saroja-haste,\ndhavalatām-śuka gandha-mālyā-śobhe।\nbhagavati hari-vallabhe manojñe,\ntribhuvana-bhūti-kari prasīda mahyam॥",
           "translations": {
-            "english": "May Lakṣmī bestow prosperity and eternal happiness upon those who, through true knowledge (Sad-vidyā), attain wealth, self-control (Ātma-yogaiḥ), and are determined to perform deeds for the welfare of humanity, making them as charming as the gift of the Mandāra tree."
+            "english": "O Dweller in the lotus, O Lotus-handed one, O one shining with pure white garments, perfumes, and garlands! O Divine Mother, Beloved of Hari, the charming one, the bestower of the wealth of the three worlds—be pleased with me."
           }
         },
         {
           "id": "kanakadhara-1-19",
           "verse_number": 19,
-          "original": "चन्द्राम्बुजेन्दु-कमलाब्ज-पुष्कर-हस्ता\nमङ्गल-स्निग्ध-माधुर्य-समर्पिताक्षी।\nदिशन्तु मे धन-सम्पदमात्म-लीलाम्\nसङ्कल्प-सिद्धिमपि पद्म-निबद्ध-नेत्रा॥",
-          "transliteration": "candrāmbu-jendu-kamalābja-puṣkara-hastā\nmaṅgala-snigdha-mādhurya-samarpitākṣī।\ndiśantu me dhana-sampadam-ātma-līlām\nsaṅkalpa-siddhim-api padma-nibaddha-netrā॥",
+          "startTime": 458,
+          "endTime": 492,
+          "original": "दिग्घस्तिभिः कनक-कुम्भ-मुखावसृष्ट-\nसर्वाहिनी-विमल-चारु-जलाप्लत-अङ्गीम्।\nप्रातर्नमामि जगतां जननीमशेष-\nलोकाधिनाथ-गृहिणीममृताभिपुत्रीम्॥",
+          "transliteration": "digghastibhiḥ kanaka-kumbha-mukhāvasṛṣṭa-\nsarvāhinī-vimala-cāru-jalāplata-aṅgīm।\nprātar-namāmi jagatāṁ jananīm-aśeṣa-\nlokādhinātha-gṛhiṇīm-amṛtābhi-putrīm॥",
           "translations": {
-            "english": "She whose hands hold the Moon, the Lotus, the Moon, the Lotus, the Water-lily, and the Blue Lotus, whose eyes are filled with auspicious, gentle sweetness—may that Goddess, whose sight is fixed on the lotus, grant me wealth, prosperity, spiritual sport (Ātma-līlā), and the fulfillment of my desires."
+            "english": "I bow down every morning to the Mother of the worlds, whose body is bathed by the beautiful, pure waters from the mouths of the golden pots held by the Diggajas (elephants of the directions), the consort of the Lord of all worlds, and the daughter bathed in nectar."
           }
         },
         {
           "id": "kanakadhara-1-20",
           "verse_number": 20,
-          "original": "कमले कमलालये कमलिनी-नायिके\nत्वं कमला-विभवे विभव-रत्नानि वितर।\nमम हृदय-कमले वस नित्यं\nनमो नमः कमले कमले कमले॥",
-          "transliteration": "kamale kamalā-laye kamalinī-nāyike\ntvaṁ kamalā-vibbhave vibhava-ratnāni vitara।\nmama hṛdaya-kamale vasa nityaṁ\nnamo namaḥ kamale kamale kamale॥",
+          "startTime": 493,
+          "endTime": 514,
+          "original": "कमले कमलाक्ष-वल्लभे त्वम्\nकरुणा-पूर-तरङ्गि-तैः-अपङ्गैः।\nअवलोकय मामकिञ्चनानाम्\nप्रथमं पात्रमकृत्रिमं दयायाः॥",
+          "transliteration": "kamale kamalākṣa-vallabhe tvam,\nkaruṇā-pūra-taraṅgi-taiḥ-apāṅgaiḥ।\navalokaya mām-akiñcanānām,\nprathamaṁ pātram-akṛtrimaṁ dayāyāḥ॥",
           "translations": {
-            "english": "O Lakṣmī (Kamale), O Dweller in the lotus (Kamalā-laye), O Leader of the lotus plants! Please distribute the gems of wealth (Vibhava-ratnāni) from your divine glory (Kamalā-vibbhave). Dwell eternally in the lotus of my heart. Salutations, salutations to Kamale, Kamale, Kamale!"
+            "english": "O Lotus Goddess, Beloved of the Lotus-Eyed one (Viṣṇu)! Please look upon me with a compassionate glance, filled with waves of mercy. I am without possessions, the foremost and natural object of your pity."
           }
         },
         {
           "id": "kanakadhara-1-21",
           "verse_number": 21,
-          "original": "प्रणम्य वन्दे भव-भानु-नन्दिनीम्\nसिद्धिं च लक्ष्मीम् अहितैष्य-वर्दिनीम्।\nकल्याण-मूर्तिं कमनीय-वल्गुनीम्\nलक्ष्मीं च नित्यं कमला-लयाम्॥",
-          "transliteration": "praṇamya vande bhava-bhānu-nandinīm\nsiddhiṁ ca lakṣmīm ahitaiṣya-vardinīm।\nkalyāṇa-mūrtiṁ kamanīya-valgunīm\nlakṣmīṁ ca nityaṁ kamalā-layām॥",
+          "startTime": 515,
+          "endTime": 555,
+          "original": "स्तुवन्ति ये स्तुतिभिर्-अमीभिर्-अन्वहं\nत्रयीमयीं त्रिभुवन-मातरं रमाम्।\nगुण-अधिका गुरुतरा-भाग्य-भागिनो\nभवन्ति ते भूवि बुधा-भावित-आशयाः॥",
+          "transliteration": "stuvanti ye stutibhir-amībhir-anvahaṁ,\ntrayī-mayīṁ tribhuvana-mātaraṁ ramām।\nguṇa-adhikā gurutarā-bhāgya-bhāgino,\nbhavanti te bhuvi budhā-bhāvitā-āśayāḥ॥",
           "translations": {
-            "english": "Bowing down, I praise the daughter of the Sun (Yamunā, often identified with Śakti), Siddhi (Achievement), Lakṣmī who increases the prosperity of the well-wisher, the embodiment of welfare, the beautiful and charming one, and the eternal Lakṣmī who resides in the lotus."
-          }
-        },
-        {
-          "id": "kanakadhara-1-22",
-          "verse_number": 22,
-          "original": "फलश्रुतिः –\nइति कनकधारा-स्तोत्रं ये शृण्वन्ति पठन्ति वा।\nधनप्राप्तिर्भवेत् तेषां दारिद्र्यं नश्यते सदा॥",
-          "transliteration": "phalaśrutiḥ –\niti kanakadhārā-stotraṁ ye śṛṇvanti paṭhanti vā।\ndhanaprāptir-bhavet teṣāṁ dāridryaṁ naśyate sadā॥",
-          "translations": {
-            "english": "(Phalaśruti) –\nThus, those who listen to or recite this Kanakadhārā Stotram attain wealth and prosperity, and their poverty is eternally destroyed."
+            "english": "Those who daily praise Ramā (Lakṣmī), who is the embodiment of the three Vedas and the Mother of the three worlds, with these hymns, become virtuous, possessors of great fortune, and are considered intelligent and purified in heart on this Earth."
           }
         }
       ]

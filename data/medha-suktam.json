@@ -13,6 +13,8 @@
         {
           "id": "medha-1",
           "verse_number": 1,
+          "startTime": 0,
+          "endTime": 51,
           "original": "ॐ-यँश्छन्द॑सामृष॒भो वि॒श्वरू॑पः ।\nछन्दो॒भ्यो-ऽध्य॒मृता᳚थ्सम्ब॒भूव॑ ।\nस मेन्द्रो॑ मे॒धया᳚ स्पृणोतु ।\nअ॒मृत॑स्य देव॒धार॑णो भूयासम् ।\nशरी॑र-म्मे॒ विच॑र्​षणम् ।\nजि॒ह्वा मे॒ मधु॑मत्तमा ।\nकर्णा᳚भ्यां॒ भूरि॒विश्रु॑वम् ।\nब्रह्म॑णः को॒शो॑-ऽसि मे॒धया पि॑हितः ।\nश्रु॒त-म्मे॑ गोपाय ॥ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
           "transliteration": "ōṃ yaśChanda̍sāmṛṣa̠bhō vi̠śvarū̍paḥ ।\nChandō̠bhyō-‘dhya̠mṛtā̎thsamba̠bhūva̍ ।\nsa mēndrō̍ mē̠dhayā̎ spṛṇōtu ।\na̠mṛta̍sya dēva̠dhāra̍ṇō bhūyāsam ।\nśarī̍ra-mmē̠ vicha̍r​ṣaṇam ।\nji̠hvā mē̠ madhu̍mattamā ।\nkarṇā̎bhyāṃ̠ bhūri̠viśru̍vam ।\nbrahma̍ṇaḥ kō̠śō̍-‘si mē̠dhayā pi̍hitaḥ ।\nśru̠ta-mmē̍ gōpāya ॥ōṃ śānti̱-śśānti̱-śśāntiḥ̍ ॥",
           "translations": {
@@ -22,6 +24,8 @@
         {
           "id": "medha-2",
           "verse_number": 2,
+          "startTime": 52,
+          "endTime": 82,
           "original": "ॐ मे॒धादे॒वी जु॒षमा॑णा न॒ आगा᳚द्वि॒श्वाची॑ भ॒द्रा सु॑मन॒स्यमा॑ना ।\nत्वया॒ जुष्टा॑ नु॒दमा॑ना दु॒रुक्ता᳚न् बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः᳚ ।\nत्वया॒ जुष्ट॑ ऋ॒षिर्भ॑वति देवि॒ त्वया॒ ब्रह्मा॑ऽऽग॒तश्री॑रु॒त त्वया᳚ ।\nत्वया॒ जुष्ट॑श्चि॒त्रं वि॑न्दते वसु॒ सानो॑ जुषस्व॒ द्रवि॑णो न मेधे ॥",
           "transliteration": "oṃ me̱dhāde̱vī ju̱ṣamā̍ṇā na̱ āgā̎dvi̱śvācī̍ bha̱drā su̍mana̱syamā̍nā .\ntvayā̱ juṣṭā̍ nu̱damā̍nā du̱ruktā̎n bṛ̱hadva̍dema vi̱dathe̍ su̱vīrā̎ḥ .\ntvayā̱ juṣṭa̍ ṛ̱ṣirbha̍vati devi̱ tvayā̱ brahmā̍​”ga̱taśrī̍ru̱ta tvayā̎ .\ntvayā̱ juṣṭa̍ści̱traṃ vi̍ndate vasu̱ sāno̍ juṣasva̱ dravi̍ṇo na medhe ॥",
           "translations": {
@@ -31,6 +35,8 @@
         {
           "id": "medha-3",
           "verse_number": 3,
+          "startTime": 83,
+          "endTime": 113,
           "original": "मे॒धां म॒ इन्द्रो॑ ददातु मे॒धां दे॒वी सर॑स्वती ।\nमे॒धां मे॑ अ॒श्विना॑वु॒भावाध॑त्तां॒ पुष्क॑रस्रजा ।\nअ॒प्स॒रासु॑ च॒ या मे॒धा ग॑न्ध॒र्वेषु॑ च॒ यन्मनः॑ ।\nदैवीं᳚ मे॒धा सर॑स्वती॒ सा मां᳚ मे॒धा सु॒रभि॑र्जुषता॒ꣳ॒ स्वाहा᳚ ॥",
           "transliteration": "me̱dhāṃ ma̱ indro̍ dadātu me̱dhāṃ de̱vī sara̍svatī .\nme̱dhāṃ me̍ a̱śvinā̍vu̱bhāvādha̍ttā̱ṃ puṣka̍rasrajā .\na̱psa̱rāsu̍ ca̱ yā me̱dhā ga̍ndha̱rveṣu̍ ca̱ yanmana̍ḥ .\ndaivī̎ṃ me̱dhā sara̍svatī̱ sā mā̎ṃ me̱dhā su̱rabhi̍rjuṣatā̱g̱ͫ svāhā̎ ॥",
           "translations": {
@@ -40,6 +46,8 @@
         {
           "id": "medha-4",
           "verse_number": 4,
+          "startTime": 114,
+          "endTime": 132,
           "original": "आमां᳚ मे॒धा सु॒रभि॑र्वि॒श्वरू॑पा॒ हिर॑ण्यवर्णा॒ जग॑ती जग॒म्या ।\nऊर्ज॑स्वती॒ पय॑सा॒ पिन्व॑माना॒ सा मां᳚ मे॒धा सु॒प्रती॑का जुषन्ताम् ।",
           "transliteration": "āmā̎ṃ me̱dhā su̱rabhi̍rvi̱śvarū̍pā̱ hira̍ṇyavarṇā̱ jaga̍tī jaga̱myā .\nūrja̍svatī̱ paya̍sā̱ pinva̍mānā̱ sā mā̎ṃ me̱dhā su̱pratī̍kā juṣantām .",
           "translations": {
@@ -49,6 +57,8 @@
         {
           "id": "medha-5",
           "verse_number": 5,
+          "startTime": 133,
+          "endTime": 150,
           "original": "मयि॑ मे॒धां मयि॑ प्र॒जां मय्य॒ग्निस्तेजो॑ दधातु॒\nमयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रि॒यं द॑धातु॒\nमयि॑ मे॒धां मयि॑ प्र॒जां मयि॒ सूर्यो॒ भ्राजो॑ दधातु ।",
           "transliteration": "mayi̍ me̱dhāṃ mayi̍ pra̱jāṃ mayya̱gnistejo̍ dadhātu̱\nmayi̍ me̱dhāṃ mayi̍ pra̱jāṃ mayīndra̍ indri̱yaṃ da̍dhātu̱\nmayi̍ me̱dhāṃ mayi̍ pra̱jāṃ mayi̱ sūryo̱ bhrājo̍ dadhātu .",
           "translations": {
@@ -58,6 +68,8 @@
         {
           "id": "medha-6",
           "verse_number": 6,
+          "startTime": 151,
+          "endTime": 170,
           "original": "ॐ हं॒स॒ हं॒साय॑ वि॒द्महे॑ परमहं॒साय॑ धीमहि ।\nतन्नो॑ हंसः प्रचो॒दया᳚त् ।\nॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
           "transliteration": "oṃ ha̱ṃsa̱ ha̱ṃsāya̍ vi̱dmahe̍ paramaha̱ṃsāya̍ dhīmahi .\ntanno̍ haṃsaḥ praco̱dayā̎t .\noṃ śānti̱ḥ śānti̱ḥ śānti̍ḥ ॥",
           "translations": {

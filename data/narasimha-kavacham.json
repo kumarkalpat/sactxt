@@ -1,103 +1,233 @@
 {
-  "id": "narasimha-kavacha-stotram-brahmanda-purana",
-  "title": "Śrī Nṛsiṁha Kavaca Stotram (Prahlāda Kṛta)",
+  "id": "narasimha-kavacham-corrected",
+  "title": "Śrī Nṛsiṁha Kavaca Stotram",
   "author": "Prahlāda Mahārāja (as recorded in the Brahmāṇḍa Purāṇa)",
-  "introduction": "This is the complete text of the Nṛsiṁha-kavaca Stotram, considered one of the most powerful protective hymns in the Vedic tradition. It was spoken by Prahlāda Mahārāja and is found in the Brahmāṇḍa Purāṇa. The Kavaca provides a spiritual shield, invoking Lord Nṛsiṁha's fierce protection for every part of the devotee's body, mind, and spirit.",
+  "introduction": "This is the potent protective hymn, the Śrī Nṛsiṁha Kavaca, as recited by Prahlāda Mahārāja. It begins with the Dhyāna (meditation) on the formidable yet compassionate form of Lord Nṛsiṁha, followed by the Kavaca proper (protective verses for the body and directions), and concludes with a verse of profound adoration and meditation on His divine acts.",
   "chapters": [
     {
       "chapter_number": 1,
-      "name": "Dhyānam and Kavacha Mantras",
-      "summary": "The first section begins with the Phalaśruti (benefits) and Dhyānam (meditation on the Lord's form), followed by the specific verses that invoke Nṛsiṁha's protection for individual body parts and directions.",
-      "verses_count": 32,
+      "name": "Dhyāna, Rakṣā, and Phala (Meditation, Protection, and Results)",
+      "summary": "The chapter includes the invocation, the Dhyāna ślokas describing the Lord's form, the aṅga-rakṣaṇa (protection of body parts), diśā-rakṣaṇa (directional protection) mantras, and the final Dhyāna/Praise verse.",
+      "verses_count": 20,
       "verses": [
         {
-          "id": "nk-1-1",
+          "id": "narasimha-kavacham-1-1",
           "verse_number": 1,
-          "original": "नृसिंहकवचं वक्ष्ये प्रह्लादेनॊदितं पुरा । सर्वरक्षाकरं पुण्यं सर्वॊपद्रवनाशनम् ॥",
-          "transliteration": "nṛsiṁhakavacaṁ vakṣyē prahlādēnōditaṁ purā | sarvarakṣākaraṁ puṇyaṁ sarvōpadravanāśanam ||",
+          "startTime": 0,
+          "endTime": 18,
+          "original": "नृसिंह-कवचं वक्ष्ये प्रह्लादेनोदितं पुरा ।\nसर्व-रक्षा-करं पुण्यं सर्वोपद्रव-नाशनम् ॥",
+          "transliteration": "nṛsiṁha-kavacaṁ vakṣye prahlādenoditaṁ purā\nsarva-rakṣā-karaṁ puṇyaṁ sarvopadrava-nāśanam",
           "translations": {
-            "english": "I shall now recite the Nṛsiṁha-kavaca, formerly spoken by Prahlāda Mahārāja. It is most pious, provides all protection, and vanquishes all kinds of impediments."
+            "english": "I shall now recite the Nṛsiṁha-kavaca, formerly spoken by Prahlāda Mahārāja. It is most pious, vanquishes all kinds of impediments, and provides one all protection."
           }
         },
         {
-          "id": "nk-1-2",
+          "id": "narasimha-kavacham-1-2",
           "verse_number": 2,
-          "original": "सर्वसम्पत्करं चैव स्वर्गमॊक्षप्रदायकम् । ध्यात्वा नृसिंहं देवेशं हेमसिंहासने स्थितम् ॥",
-          "transliteration": "sarvasampatkaraṁ caiva svargamōkṣapradāyakam | dhyātvā nṛsiṁhaṁ dēvēśaṁ hēmasiṁhāsanasthitam ||",
+          "startTime": 19,
+          "endTime": 35,
+          "original": "सर्व-सम्पत्-करं चैव स्वर्ग-मोक्ष-प्रदायकम ।\nध्यात्वा नृसिंहं देवेशं हेम-सिंहासन-स्थितम् ॥",
+          "transliteration": "sarva-saṁpat-karaṁ caiva svarga-mokṣa-pradāyakam\ndhyātvā nṛsiṁhaṁ deveśaṁ hema-siṁhāsana-sthitam",
           "translations": {
-            "english": "It bestows all opulences and grants elevation to the heavenly planets or liberation. One should meditate on Lord Nṛsiṁha, the Lord of the universe, seated upon a golden throne."
+            "english": "It bestows upon one all opulences and can give one elevation to the heavenly planets or liberation. One should meditate on Lord Nṛsiṁhadeva, Lord of the universe, seated upon a golden throne."
           }
         },
         {
-          "id": "nk-1-7",
+          "id": "narasimha-kavacham-1-3",
+          "verse_number": 3,
+          "startTime": 36,
+          "endTime": 52,
+          "original": "विवृतास्यं त्रि-नयनं शरद्-इन्दु-सम-प्रभम् ।\nलक्ष्मि-आलिङ्गित-वामाङ्गं विभूतिभिर् उपाश्रितम् ॥",
+          "transliteration": "vivṛtāsyaṁ tri-nayanaṁ śarad-indu-sama-prabham\nlakṣmyāliṅgita-vāmāṅgaṁ vibhūtibhir upāśritam",
+          "translations": {
+            "english": "His mouth is wide open, and He has three eyes. He is as radiant as the autumn moon. His left side is embraced by mother Lakṣmīdevī, and His form is the shelter of all opulences, both material and spiritual."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-4",
+          "verse_number": 4,
+          "startTime": 53,
+          "endTime": 69,
+          "original": "चतुर्-भुजं कोमलाङ्गं स्वर्ण-कुण्डल-शोभितम् ।\nश्रियासु शोभितोरस्कं रत्न-केयूर-मुद्रितम् ॥",
+          "transliteration": "catur-bhujaṁ komalāṅgaṁ svarṇa-kuṇḍala-śobhitam\nśriyāsu śobhitoraskaṁ ratna-keyūra-mudritam",
+          "translations": {
+            "english": "The Lord has four arms, and His limbs are very soft. He is decorated with beautiful golden earrings. His powerful chest is resplendent like the lotus flower, and His arms are decorated with jewel-studded ornaments."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-5",
+          "verse_number": 5,
+          "startTime": 70,
+          "endTime": 85,
+          "original": "तप्त-काञ्चन-सङ्काशं पीत-निर्मल-वाससम् ।\nइन्द्रादि-सुर-मौलिस्थ स्फुरन् माणिक्य-दीप्तिभिः ॥",
+          "transliteration": "tapta-kāñcana-sankāśaṁ pīta-nirmala-vāsasam\nindrādi-sura-maulistha sphuran māṇikya-dīptibhiḥ",
+          "translations": {
+            "english": "He is dressed in a spotless yellow garment, which exactly resembles molten gold. He is the original cause of existence, beyond the mundane sphere. He is the crowning glory of the demigods such as Indra, the king of heaven. He is bedecked with rubies which are blazingly effulgent."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-6",
+          "verse_number": 6,
+          "startTime": 86,
+          "endTime": 103,
+          "original": "विराजित-पद-द्वन्द्वं शङ्ख-चक्रादि-हेतिभिः ।\nगरुत्मता च विनयात् स्तूयमानं मुदान्वितम् ॥",
+          "transliteration": "virājita-pada-dvandvaṁ śaṅkha-cakrādi-hetibhiḥ\ngarutmatā ca vinayāt stūyamānaṁ mudānvitam",
+          "translations": {
+            "english": "His feet are very attractive, and He is armed with various weapons such as the conch, chakra, and other divine weapons. He is always filled with great joy. Garuḍa constantly offers Him humble prayers with great reverence."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-7",
           "verse_number": 7,
-          "original": "स्वहृत्कमलसंवासं कृत्वा तु कवचं पठेत् । नृसिंहो मे शिरः पातु लॊकरक्षार्थसम्भवः ॥",
-          "transliteration": "svahr̥tkamalasaṁvāsaṁ kr̥tvā tu kavacaṁ paṭhēt | nr̥siṁhō mē śiraḥ pātu lōkarakṣātmasambhavaḥ ||",
+          "startTime": 104,
+          "endTime": 119,
+          "original": "स्व-हृत्-कमल-संवासं कृत्वा तु कवचं पठेत् ।\nनृसिंहो मे शिरः पातु लोक-रक्षार्थ-सम्भवः ॥",
+          "transliteration": "sva-hṛt-kamala-saṁvāsaṁ kṛtvā tu kavacaṁ paṭhet\nnṛsiṁho me śiraḥ pātu loka-rakṣātma-sambhavaḥ",
           "translations": {
-            "english": "Having seated Lord Nṛsiṁha upon the lotus of one's heart, one should recite the Kavaca. May Lord Nṛsiṁha, who appears for the protection of the worlds, protect my head."
+            "english": "Having seated Lord Nṛsiṁhadeva upon the lotus of one’s heart, one should recite the following mantra: May Lord Nṛsiṁhadeva, who protects all the planetary systems, please protect my head."
           }
         },
         {
-          "id": "nk-1-8",
+          "id": "narasimha-kavacham-1-8",
           "verse_number": 8,
-          "original": "सर्वगॊऽपि स्तम्भवसः फालं मे रक्षतु ध्वनिम् । नृसिंहो मे दृशौ पातु सॊमसूर्याग्निलॊचनः ॥",
-          "transliteration": "sarvagō'pi stambhavāsaḥ phālaṁ mē rakṣatu dhvanim | nr̥siṁhō mē dr̥śau pātu sōmasūryāgnilōcanaḥ ||",
+          "startTime": 120,
+          "endTime": 136,
+          "original": "सर्वगोऽपि स्तम्भ-वासः फालं मे रक्षतु ध्वनिम् ।\nनृसिंहो मे दृशौ पातु सोम-सूर्याग्नि-लोचनः ॥",
+          "transliteration": "sarvago ’pi staṁbha-vāsaḥ phālaṁ me rakṣatu dhvanim\nnṛsiṁho me dṛśau pātu soma-sūryāgni-locanaḥ",
           "translations": {
-            "english": "Although all-pervading, He resided within a pillar; may He protect my speech and the results of my activities. May Nṛsiṁha, whose eyes are the moon, sun, and fire, protect my eyes."
+            "english": "Although the Lord is all-pervading, He hid Himself within a pillar. May He please protect my speech and the results of all my activities. May Lord Nṛsiṁhadeva, whose eyes are the sun, and fire, please protect my eyes."
           }
         },
         {
-          "id": "nk-1-10",
+          "id": "narasimha-kavacham-1-9",
+          "verse_number": 9,
+          "startTime": 137,
+          "endTime": 153,
+          "original": "स्मृतिं मे पातु नृहरिः मुनि-वर्य-स्तुति-प्रियः ।\nनासां मे सिंह-नासस् तु मुखं लक्ष्मि-मुख-प्रियः ॥",
+          "transliteration": "smṛtiṁ me pātu nṛhariḥ muni-varya-stuti-priyaḥ\nnāsāṁ me siṁha-nāsas tu mukhaṁ lakṣmī-mukha-priyaḥ",
+          "translations": {
+            "english": "May Lord Nṛhari, who is pleased by the prayers offered by the best of sages, please protect my memory. May He who has the nose of a lion please protect my nose, and may He whose face is very dear to the goddess of fortune please protect my mouth."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-10",
           "verse_number": 10,
-          "original": "सर्वविद्याधिपः पातु नृसिंहो रसनां मम । वक्त्रं पात्विन्दुवदनः सदा प्रह्लादवन्दितः ॥",
-          "transliteration": "sarvavidyādhipaḥ pātu nr̥siṁhō rasanāṁ mama | vaktraṁ pātvinduvadanaḥ sadā prahlādavanditaḥ ||",
+          "startTime": 154,
+          "endTime": 169,
+          "original": "सर्व-विद्याधिपः पातु नृसिंहो रसनां मम ।\nवक्त्रं पात्व् इन्दु-वदनः सदा प्रह्लाद-वन्दितः ॥",
+          "transliteration": "sarva-vidyādhipaḥ pātu nṛsiṁho rasanāṁ mama\nvaktraṁ pātv indu-vadanaḥ sadā prahlāda-vanditaḥ",
           "translations": {
-            "english": "May the Lord of all sciences, Nṛsiṁha, protect my sense of taste. May He whose face is beautiful as the moon and is always worshiped by Prahlāda protect my face."
+            "english": "May Lord Nṛsiṁhadeva, who is the knower of all sciences, please protect my sense of taste. May He whose face is as beautiful as the full moon and who is offered prayers by Prahlāda Mahārāja please protect my face."
           }
         },
         {
-          "id": "nk-1-11",
+          "id": "narasimha-kavacham-1-11",
           "verse_number": 11,
-          "original": "नृसिंहः पातु मे कण्ठं स्कन्धौ भूभरणान्तकृत् । दिव्यास्त्रशॊभितभुजॊ नृसिंहः पातु मे भुजौ ॥",
-          "transliteration": "nr̥siṁhaḥ pātu mē kaṇṭhaṁ skandhau bhūbharaṇāntakr̥t | divyāstraśōbhitabhujō nr̥siṁhaḥ pātu mē bhujau ||",
+          "startTime": 170,
+          "endTime": 186,
+          "original": "नृसिंहः पातु मे कण्ठं स्कन्धौ भू-भरणा-अन्त-कृत् ।\nदिव्यास्त्र-शोभित-भुजः नृसिंहः पातु मे भुजौ ॥",
+          "transliteration": "nṛsiṁhaḥ pātu me kaṇṭhaṁ skandhau bhū-bharaṇānta-kṛt\ndivyāstra-śobhita-bhujaḥ nṛsiṁhaḥ pātu me bhujau",
           "translations": {
-            "english": "May Nṛsiṁha protect my throat; the annihilator of the earth's burden protect my shoulders. May He whose arms are resplendent with divine weapons protect my arms."
+            "english": "May Lord Nṛsiṁhadeva please protect my throat. He is the sustainer of the earth and the performer of unlimitedly wonderful activities. His arms are resplendent with transcendental weapons. May He please protect my shoulders."
           }
         },
         {
-          "id": "nk-1-12",
+          "id": "narasimha-kavacham-1-12",
           "verse_number": 12,
-          "original": "करौ मे दॆववरदॊ नृसिंहः पातु सर्वतः । हृदयं यॊगिसाध्यश्च निवासं पातु मे हरिः ॥",
-          "transliteration": "karau mē dēvavaradō nr̥siṁhaḥ pātu sarvataḥ | hr̥dayaṁ yōgisādhyaś ca nivāsaṁ pātu mē hariḥ ||",
+          "startTime": 187,
+          "endTime": 203,
+          "original": "करौ मे देव-वरदो नृसिंहः पातु सर्वतः ।\nहृदयं योगि-साध्यश् च निवासं पातु मे हरिः ॥",
+          "transliteration": "karau me deva-varado nṛsiṁhaḥ pātu sarvataḥ\nhṛdayaṁ yogi-sādhyaś ca nivāsaṁ pātu me hariḥ",
           "translations": {
-            "english": "May the bestower of boons to the demigods, Nṛsiṁha, protect my hands and everything around me. May He who is attained by Yogis protect my heart, and may Hari protect my dwelling place."
+            "english": "May the Lord, who bestows benedictions upon the demigods, please protect my hands, and may He please protect me from all sides. May He who is achieved by the perfect yogīs please protect my heart, and may Lord Hari please protect my dwelling place."
           }
         },
         {
-          "id": "nk-1-17",
+          "id": "narasimha-kavacham-1-13",
+          "verse_number": 13,
+          "startTime": 204,
+          "endTime": 220,
+          "original": "मध्यं पातु हिरण्याक्ष-वक्षः-कुक्षि-विदोरणः ।\nनाभिं मे पातु नृहरिः स्व-नाभि-ब्रह्म-संस्तुतः ॥",
+          "transliteration": "madhyaṁ pātu hiraṇyākṣa-vakṣaḥ-kukṣi-vidāraṇaḥ\nnābhiṁ me pātu nṛhariḥ sva-nābhi-brahma-saṁstutaḥ",
+          "translations": {
+            "english": "May He who ripped apart the chest and abdomen of the great demon Hiraṇyakaśipu please protect my waist, and may Lord Nṛhari please protect my navel. He is offered prayers by Lord Brahmā, who has sprung from His own navel."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-14",
+          "verse_number": 14,
+          "startTime": 221,
+          "endTime": 237,
+          "original": "ब्रह्माण्ड-कोटयः कट्यां यस्य असौ पातु मे कटिम् ।\nगुह्यं मे पातु गुह्यानां मन्त्राणां गुह्य-रूप-धृक् ॥",
+          "transliteration": "brahmāṇḍa-koṭayaḥ kaṭyāṁ yasyāsau pātu me kaṭim\nguhyaṁ me pātu guhyānāṁ mantrāṇāṁ guhya-rūpa-dhṛk",
+          "translations": {
+            "english": "May He, on whose hips rest all the universes please protect my hips. May the Lord please protect my private parts. He is the knower of all mantras and all mysteries, but He Himself is not visible."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-15",
+          "verse_number": 15,
+          "startTime": 238,
+          "endTime": 253,
+          "original": "ऊरू मनोभवः पातु जानुनी नर-रूप-धृक् ।\nजङ्घे पातु धरा-भार-हर्ता योऽसौ नृ-केसरी ॥",
+          "transliteration": "ūrū manobhavaḥ pātu jānunī nara-rūpa-dhṛk\njaṅghe pātu dharā-bhāra-hartā yo ’sau nṛ-kesarī",
+          "translations": {
+            "english": "May He who is the original Cupid please protect my thighs. May He who exhibits a human-like form please protect my knees. May the remover of the burden of the earth, who appears in a form of a half-man half-lion, please protect my calves."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-16",
+          "verse_number": 16,
+          "startTime": 254,
+          "endTime": 270,
+          "original": "सुर-राज्य-प्रदः पातु पादौ मे नृहरीश्वरः ।\nसहस्र-शीर्षा-पुरुषः पातु मे सर्वशस् तनुम् ॥",
+          "transliteration": "sura-rājya-pradaḥ pātu pādau me nṛharīśvaraḥ\nsahasra-śīrṣā-puruṣaḥ pātu me sarvaśas tanum",
+          "translations": {
+            "english": "May the bestower of heavenly opulence please protect my feet. He is the Supreme Controller in the form of a man and lion combined. May the thousand-headed Supreme enjoyer please protect my body from all sides and in all respects."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-17",
           "verse_number": 17,
-          "original": "महॊग्रः पूर्वतः पातु महावीराग्रजॊऽग्नितः । महाविष्णुर्दक्षिणे तु महाज्वालस्तु नैर्रृतॆ ॥",
-          "transliteration": "mahōgraḥ pūrvataḥ pātu mahāvīrāgrajō:'gnitaḥ | mahāviṣṇurdakṣiṇē tu mahājvālastu nairr̥tē ||",
+          "startTime": 271,
+          "endTime": 287,
+          "original": "महोग्रः पूर्वतः पातु महा-वीराग्रजोऽग्नितः ।\nमहा-विष्णुर् दक्षिणे तु महा-ज्वालस् तु नैर्ऋतौ ॥",
+          "transliteration": "mahograḥ pūrvataḥ pātu mahā-vīrāgrajo ’gnitaḥ\nmahā-viṣṇur dakṣiṇe tu mahā-jvālas tu nairṛtau",
           "translations": {
-            "english": "May the most ferocious one protect me from the East. May the superior of the greatest heroes protect me from the Southeast (Agni). May Mahāviṣṇu protect me from the South, and may the great flame protect me from the Southwest (Nairṛti)."
+            "english": "May that most ferocious personality please protect me from the east. May He who is superior to the greatest heroes please protect me from the southeast, which is presided over by Agni. May the Supreme Viṣṇu please protect me from the south, and may that Supreme Person of blazing luster please protect me from the southwest."
           }
         },
         {
-          "id": "nk-1-19",
+          "id": "narasimha-kavacham-1-18",
+          "verse_number": 18,
+          "startTime": 288,
+          "endTime": 303,
+          "original": "पश्चिमे पातु सर्वेशो दिशि मे सर्वतो-मुखः ।\nनृसिंहः पातु वायव्यां सौम्यां भीषणा-विग्रहः ॥",
+          "transliteration": "paścime pātu sarveśo diśi me sarvatomukhaḥ\nnṛsiṁhaḥ pātu vāyavyāṁ saumyāṁ bhīṣaṇa-vigrahaḥ",
+          "translations": {
+            "english": "May the Lord who is all-pervading please protect me from the west. His faces are everywhere, so may He please protect me from this direction. May Lord Nṛsiṁhadeva please protect me from the northwest, which is predominated by Vāyu, and may He whose form is in itself the supreme ornament please protect me from the north, where Soma resides."
+          }
+        },
+        {
+          "id": "narasimha-kavacham-1-19",
           "verse_number": 19,
-          "original": "ईशान्यां पातु भद्रो मे सर्वमङ्गलदायकः । संसारभयतः पातु मृत्यॊर्मृत्युर्नृकॆसरी ॥",
-          "transliteration": "īśānyāṁ pātu bhadrō mē sarvamaṅgaladāyakaḥ | saṁsārabhayataḥ pātu mr̥tyōrmr̥tyurnr̥kēsarī ||",
+          "startTime": 304,
+          "endTime": 320,
+          "original": "ईशान्यां पातु भद्रो मे सर्व-मङ्गल-दायकः ।\nसंसार-भयतः पातु मृत्योर् मृत्युर् नृ-केसरी ॥",
+          "transliteration": "īśānyāṁ pātu bhadro me sarva-maṅgala-dāyakaḥ\nsaṁsāra-bhayataḥ pātu mṛtyor mṛtyur nṛ-kesarī",
           "translations": {
-            "english": "May the All-Auspicious Lord, the bestower of all blessings, protect me from the Northeast (Īśāna). May the Death of Death, Nṛkēsarī (Man-Lion), protect me from the fear of the cycle of birth and death."
+            "english": "May the all-auspicious Lord, who Himself bestows all-auspiciousness, please protect me from the northeast, the direction of the sun-god. May He who is death personified please protect me from the fear of death and rotation in this material world."
           }
         },
         {
-          "id": "nk-1-20",
+          "id": "narasimha-kavacham-1-20",
           "verse_number": 20,
-          "original": "इदं नृसिंहकवचं प्रह्लादमुखमण्डितम् । भक्तिमान् यः पठेनित्यं सर्वपापैः प्रमुच्यते ॥",
-          "transliteration": "idaṁ nr̥siṁhakavacaṁ prahlādamukhamaṇḍitam | bhaktimān yaḥ paṭhēnityaṁ sarvapāpaiḥ pramucyatē ||",
+          "startTime": 321,
+          "endTime": null,
+          "original": "गर्जनं गर्जयन्तं निज-भुज-पटलं स्फोटयन्तं हरन्तं ।\nदीप्यन्तं तापयन्तं दिवि भुवि दिति-जं क्षेपयन्तं क्षिपन्तम् ।\nक्रन्दन्तं रोषयन्तं दिशि दिशि सततं संहरन्तं भरन्तं ।\nवीक्षन्तं घूर्णयन्तं कर-निकर-शतैर् दिव्य-सिंहं नमामि ॥",
+          "transliteration": "garjantaṁ garjayantaṁ nija-bhuja-paṭalaṁ sphoṭayantaṁ harantaṁ\ndīpyantaṁ tāpayantaṁ divi bhuvi ditijaṁ kṣepayantaṁ kṣipantam\nkrandantaṁ roṣayantaṁ diśi diśi satataṁ saṁharantaṁ bharantaṁ\nvīkṣantaṁ ghūrṇayantaṁ kara-nikara-śatair divya-siṁhaṁ namāmi",
           "translations": {
-            "english": "This Nṛsiṁha-kavaca, which is ornamented by issuing from the mouth of Prahlāda Mahārāja, a devotee who reads it daily becomes freed from all sins."
+            "english": "Lord Nṛsiṁhadeva roars loudly and causes others to roar. With His multitudes of arms, He tears the demons asunder and kills them in this way. He is always seeking out and tormenting the demoniac descendants of Diti, both on this earth planet and in the higher planets, and He throws them down and scatters them. He cries with great anger as He destroys the demons in all directions, yet with His unlimited hands He sustains, protects, and nourishes the entire cosmic manifestation. I offer my respectful obeisances to the Lord, who has assumed the form of a transcendental lion."
           }
         }
       ]
